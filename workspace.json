@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "13e6a3d7ee002d03",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab1a1780471f55d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1300ebe74aefa82",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8808ebc6dba64580",
+    "type": "split",
+    "children": [
+      {
+        "id": "b26fffb9f1892e6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "524de691a50000f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "655cf959f6798095",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c628f1454f33c40",
+    "type": "split",
+    "children": [
+      {
+        "id": "176c1f43f7b4caf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21f5d70ac4ad50ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11f4305a6a202eb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#matricer",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97beb8ab16acbcef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf1ce4279832d89f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "92417d735f4c2838",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b17a2a4e3705734",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c1300ebe74aefa82",
+  "lastOpenFiles": [
+    "notes/Linære førsteordensdifferentialligninger.md",
+    "notes/Differentialligninger.md",
+    "notes/Differentialregning.md",
+    "notes/Middelværdisætningen.md",
+    "notes/Logistisk vækst.md",
+    "notes/Trigonometri.md",
+    "HJEM.md",
+    "notes/Specielle Matricer.md",
+    "notes/Matricer.md",
+    "notes/Integraler.md"
+  ]
+}

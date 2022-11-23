@@ -1,0 +1,16 @@
+{
+  "addRibbonIcon": true,
+  "showAtStartUp": false,
+  "preferBlock": true,
+  "evaluate": false,
+  "declarationStr": ":=",
+  "evaluateStr": "=?",
+  "evaluateNumericStr": "=~?",
+  "evaluateSymbolicStr": "==?",
+  "inlinePostfix": "-",
+  "latexPostfix": "$",
+  "hidePrefix": "%",
+  "plotGrid": true,
+  "plotWidth": 0,
+  "plotDerivatives": false
+}

@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Spectrum",
+  "enabledCssSnippets": [
+    "callout",
+    "center",
+    "latex"
+  ],
+  "showViewHeader": true
+}

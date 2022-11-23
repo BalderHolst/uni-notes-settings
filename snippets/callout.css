@@ -1,0 +1,11 @@
+.callout[data-callout="video"] {
+    --callout-color: 200, 0, 255;
+    --callout-icon: lucide-youtube;
+}
+
+.callout[data-callout="box"] {
+    --callout-color: 0;
+    --callout-icon: none;
+    border: solid;
+    border-radius: 5px;
+}
