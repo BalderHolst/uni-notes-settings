@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -135,9 +136,17 @@
               "type": "Strange New Worlds",
               "state": {}
             }
+          },
+          {
+            "id": "4a0c4e0ffd11cf56",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",

@@ -72,7 +72,7 @@
     {
       "id": "1ophjzhwz9",
       "platform_specific_commands": {
-        "default": "git -C .obsidian commit -a -m \"backup settings\""
+        "default": "git -C .obsidian commit -a -m \"backup settings\" && git -C .obsidian push"
       },
       "shells": {},
       "alias": "Push Settings",
