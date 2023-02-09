@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd4328c41f9d240a",
+        "id": "1527d844a2445546",
         "type": "tabs",
         "children": [
           {
-            "id": "91968da4706e168c",
+            "id": "f6b97101ce41e75d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Boolean Algebra.md",
+                "file": "HJEM.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Boolean Algebra.md",
+                "file": "HJEM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Boolean Algebra.md"
+                "file": "HJEM.md"
               }
             }
           },
@@ -166,17 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91968da4706e168c",
+  "active": "f6b97101ce41e75d",
   "lastOpenFiles": [
+    "notes/Boolean Algebra.md",
+    "notes/Morgans Law.md",
     "HJEM.md",
+    "README.md",
+    "Morgans Law.png",
+    "Morgans Law.md",
     "Boolean Algebra.png",
     "Boolean Algebra.md",
     "Beviser.md",
-    "Bevis for Linjens Ligning.md",
-    "twos compliment.png",
-    "3D-punkt.png",
-    "Approximation.md",
-    "Stokes Gnidningslov.md",
-    "Tyngdeaccelerationen.md"
+    "Bevis for Linjens Ligning.md"
   ]
 }
