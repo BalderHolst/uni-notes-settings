@@ -75,8 +75,32 @@
         "default": "git -C .obsidian add . && git -C .obsidian commit -a -m \"backup settings\" && git -C .obsidian push"
       },
       "shells": {},
-      "alias": "Push Settings",
+      "alias": "backup settings",
       "icon": "settings",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "notification",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "id": "ythxx8ywlx",
+      "platform_specific_commands": {
+        "default": "ls | grep -e \\.md$ | grep -v \"HJEM.md\" | grep -v \"README.md\" | xargs -I{} mv -v {} notes & \nls | grep -e \"\\.\\(png\\|jpg\\)$\" | grep -v \"HJEM.md\" | grep -v \"README.md\" | xargs -I{} mv -v {} Billeder"
+      },
+      "shells": {},
+      "alias": "clean",
+      "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],
       "output_channels": {

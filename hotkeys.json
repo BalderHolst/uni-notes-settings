@@ -144,5 +144,21 @@
       ],
       "key": "M"
     }
+  ],
+  "obsidian-shellcommands:shell-command-ythxx8ywlx": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-1ophjzhwz9": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
   ]
 }
