@@ -116,6 +116,54 @@
       "command_palette_availability": "enabled",
       "preactions": [],
       "variable_default_values": {}
+    },
+    {
+      "id": "wmxq1npnib",
+      "platform_specific_commands": {
+        "default": "kitty {{vault_path}}"
+      },
+      "shells": {},
+      "alias": "Open Vault in Terminal",
+      "icon": "terminal",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "id": "ugrk2pn78m",
+      "platform_specific_commands": {
+        "default": "kitty nvim {{file_path:absolute}}"
+      },
+      "shells": {},
+      "alias": "Open Note in Neovim",
+      "icon": "edit",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
     }
   ],
   "prompts": [],
