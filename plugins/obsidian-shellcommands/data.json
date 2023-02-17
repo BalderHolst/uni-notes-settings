@@ -80,7 +80,7 @@
     {
       "id": "1ophjzhwz9",
       "platform_specific_commands": {
-        "default": "git -C .obsidian add . && git -C .obsidian commit -a -m \"backup settings\" && git -C .obsidian push"
+        "default": "echo \"backing up settings\" & git -C .obsidian add . && git -C .obsidian commit -a -m \"backup settings\" && git -C .obsidian push"
       },
       "shells": {},
       "alias": "backup settings",
