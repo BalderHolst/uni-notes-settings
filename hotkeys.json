@@ -160,5 +160,27 @@
       ],
       "key": "B"
     }
-  ]
+  ],
+  "obsidian-shellcommands:shell-command-ugrk2pn78m": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-wmxq1npnib": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:save": [],
+  "workspace:next-tab": [],
+  "workspace:undo-close-pane": []
 }

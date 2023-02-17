@@ -22654,14 +22654,23 @@ __export(main_exports, {
   default: () => InsertUnsplashImage
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian4 = require("obsidian");
+var import_obsidian5 = require("obsidian");
 
 // SettingTab.ts
 var import_obsidian = require("obsidian");
 var DEFAULT_SETTINGS = {
   insertMode: "remote" /* remote */,
   orientation: "landscape" /* landscape */,
-  insertSize: ""
+  insertSize: "",
+  frontmatter: {
+    key: "image",
+    valueFormat: "{image-url}",
+    appendReferral: false
+  },
+  imageProvider: "unsplash" /* unsplash */,
+  proxyServer: "",
+  pixabayApiKey: "",
+  insertBackLink: false
 };
 var SettingTab = class extends import_obsidian.PluginSettingTab {
   constructor(app, plugin) {
@@ -22689,26 +22698,216 @@ var SettingTab = class extends import_obsidian.PluginSettingTab {
         await this.plugin.saveSettings();
       });
     });
+    new import_obsidian.Setting(containerEl).setName("Insert backlink").setDesc("Insert a backlink(image HTML location on Provider website) in front of the reference text, eg. Backlink | Photo by ...").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.insertBackLink).onChange(async (value) => {
+        this.plugin.settings.insertBackLink = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    containerEl.createEl("h1", { text: "Frontmatter" });
+    new import_obsidian.Setting(containerEl).setName("Insert to Frontmatter Key").setDesc("The key used when insert to frontmatter.").addText((text) => {
+      text.setPlaceholder("image").setValue(this.plugin.settings.frontmatter.key).onChange(async (value) => {
+        this.plugin.settings.frontmatter.key = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian.Setting(containerEl).setName("Insert to Frontmatter Value Format").setDesc("The value format used when insert to frontmatter. {image-url} will be replaced by the image url. Please visit https://github.com/cloudy9101/obsidian-image-inserter#frontmatter-value-format for more details.").addText((text) => {
+      text.setPlaceholder("{image-url}").setValue(this.plugin.settings.frontmatter.valueFormat).onChange(async (value) => {
+        this.plugin.settings.frontmatter.valueFormat = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian.Setting(containerEl).setName("Append image referral at end of the file").setDesc("Will append image referral at end of the file if set to true").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.frontmatter.appendReferral).onChange(async (value) => {
+        this.plugin.settings.frontmatter.appendReferral = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    containerEl.createEl("h1", { text: "Image Provider" });
+    new import_obsidian.Setting(containerEl).setName("Provider").addDropdown((dropdown) => {
+      dropdown.addOptions({
+        ["unsplash" /* unsplash */]: "Unsplash",
+        ["pixabay" /* pixabay */]: "Pixabay"
+      }).setValue(this.plugin.settings.imageProvider).onChange(async (value) => {
+        this.plugin.settings.imageProvider = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian.Setting(containerEl).setName("Unsplash Proxy Server").setDesc("Use a self host proxy server. Leave it empty if you don't want host proxy server by yourself.").addText((text) => {
+      text.setPlaceholder("https://self-host-proxy.com/").setValue(this.plugin.settings.proxyServer).onChange(async (value) => {
+        this.plugin.settings.proxyServer = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian.Setting(containerEl).setName("Pixabay API key").setDesc("API key can be found on https://pixabay.com/api/docs/ after logging in.").addText((text) => {
+      text.setPlaceholder("Your API key").setValue(this.plugin.settings.pixabayApiKey).onChange(async (value) => {
+        this.plugin.settings.pixabayApiKey = value;
+        await this.plugin.saveSettings();
+      });
+    });
   }
 };
 
+// meta-updater.ts
+var upsert = async (app, file, key, value) => {
+  const content = await app.vault.read(file);
+  if (!content.startsWith("---")) {
+    return ["---", `${key}: ${value}`, "---", content].join("\n");
+  }
+  const secondTripleDashPos = content.indexOf("---", 3);
+  const frontmatter = content.substring(0, secondTripleDashPos + 3);
+  const rest = content.substring(secondTripleDashPos + 3);
+  let keyExists = false;
+  const updatedFrontmatterLines = frontmatter.split("\n").map((line) => {
+    if (line.startsWith(`${key}:`)) {
+      keyExists = true;
+      return `${key}: ${value}`;
+    }
+    return line;
+  });
+  const lastLine = updatedFrontmatterLines.pop();
+  if (!keyExists) {
+    updatedFrontmatterLines.push(`${key}: ${value}`);
+  }
+  if (lastLine) {
+    updatedFrontmatterLines.push(lastLine);
+  }
+  const updatedFrontmatter = updatedFrontmatterLines.join("\n");
+  return [updatedFrontmatter, rest].join("\n");
+};
+
 // ModalWrapper.tsx
-var import_obsidian3 = require("obsidian");
+var import_obsidian4 = require("obsidian");
 var React4 = __toESM(require_react());
 var ReactDOM = __toESM(require_react_dom());
 var import_client = __toESM(require_client());
 
 // fetcher.ts
 var import_obsidian2 = require("obsidian");
+
+// utils.ts
+function debounce(fn, delay) {
+  let timer;
+  return function(...params) {
+    const args = params;
+    clearTimeout(timer);
+    timer = setTimeout(() => {
+      fn.apply(this, args);
+    }, delay);
+  };
+}
+function validUrl(url) {
+  try {
+    return Boolean(new URL(url));
+  } catch (e) {
+    return false;
+  }
+}
+
+// fetcher.ts
+var DEFAULT_PROXY_SERVER = "https://insert-unsplash-image.cloudy9101.com/";
+var pixabayOrientationMapping = {
+  ["landscape" /* landscape */]: "horizontal",
+  ["portrait" /* portrait */]: "vertical",
+  ["squarish" /* squarish */]: "all"
+};
 var APP_NAME = encodeURIComponent("Obsidian Image Inserter Plugin");
 var UTM = `utm_source=${APP_NAME}&utm_medium=referral`;
 var PER_PAGE = "30";
+var randomImgName = () => {
+  return `img-${(0, import_obsidian2.moment)().format("YYYYMMDDHHmmss")}`;
+};
 function getFetcher(settings) {
   const startPage = 1;
   let curPage = startPage;
   let totalPage = 0;
-  const { orientation, insertMode, insertSize } = settings;
+  const { orientation, insertMode, insertSize, imageProvider, pixabayApiKey } = settings;
+  if (imageProvider === "pixabay" /* pixabay */) {
+    return {
+      imageProvider,
+      noResult() {
+        return totalPage <= 0;
+      },
+      hasPrevPage() {
+        return !this.noResult() && curPage > startPage;
+      },
+      hasNextPage() {
+        return !this.noResult() && curPage < totalPage;
+      },
+      prevPage() {
+        this.hasPrevPage() && (curPage -= 1);
+      },
+      nextPage() {
+        this.hasNextPage() && (curPage += 1);
+      },
+      async searchImages(query) {
+        const url = new URL("https://pixabay.com/api/");
+        url.searchParams.set("key", pixabayApiKey);
+        url.searchParams.set("q", query);
+        if (orientation != "not_specified") {
+          url.searchParams.set("orientation", pixabayOrientationMapping[orientation]);
+        }
+        url.searchParams.set("page", `${curPage}`);
+        url.searchParams.set("per_page", PER_PAGE);
+        const res = await (0, import_obsidian2.requestUrl)({ url: url.toString() });
+        const data = res.json;
+        totalPage = data.total / parseInt(PER_PAGE);
+        return data.hits.map(function(item) {
+          return {
+            thumb: item.previewURL,
+            url: item.webformatURL,
+            pageUrl: item.pageURL,
+            userUrl: `https://pixabay.com/users/${item.user}-${item.user_id}`,
+            username: item.user
+          };
+        });
+      },
+      async downloadImage(url) {
+        const res = await (0, import_obsidian2.requestUrl)({ url });
+        return res.arrayBuffer;
+      },
+      async downloadAndInsertImage(image, createFile) {
+        const url = image.url;
+        const imageSize = insertSize === "" ? "" : `|${insertSize}`;
+        let nameText = `![${randomImgName()}${imageSize}]`;
+        let urlText = `(${url})`;
+        const backlink = settings.insertBackLink && image.pageUrl ? `[Backlink](${image.pageUrl}) | ` : "";
+        const referral = `
+*${backlink}Photo by [${image.username}](${image.userUrl}) on [Pixabay](https://pixabay.com/)*
+`;
+        if (insertMode === "local" /* local */) {
+          const imageName = `Inserted image ${(0, import_obsidian2.moment)().format("YYYYMMDDHHmmss")}`;
+          const ext = "png";
+          const arrayBuf = await this.downloadImage(url);
+          createFile(imageName, ext, arrayBuf);
+          nameText = `![[${imageName}.${ext}${imageSize}]]`;
+          urlText = "";
+        }
+        return `${nameText}${urlText}${referral}`;
+      },
+      async downloadAndGetUri(image, createFile) {
+        const url = image.url;
+        const backlink = settings.insertBackLink && image.pageUrl ? `[Backlink](${image.pageUrl}) | ` : "";
+        const referral = `
+*${backlink}Photo by [${image.username}](${image.userUrl}) on [Pixabay](https://pixabay.com/)*
+`;
+        if (insertMode === "local" /* local */) {
+          const imageName = `Inserted image ${(0, import_obsidian2.moment)().format("YYYYMMDDHHmmss")}`;
+          const ext = "png";
+          const arrayBuf = await this.downloadImage(url);
+          createFile(imageName, ext, arrayBuf);
+          return { url: `${imageName}.${ext}`, referral };
+        }
+        return { url, referral };
+      }
+    };
+  }
+  let proxyServer = DEFAULT_PROXY_SERVER;
+  if (validUrl(settings.proxyServer)) {
+    proxyServer = settings.proxyServer;
+  }
   return {
+    imageProvider,
     noResult() {
       return totalPage <= 0;
     },
@@ -22725,7 +22924,7 @@ function getFetcher(settings) {
       this.hasNextPage() && (curPage += 1);
     },
     async searchImages(query) {
-      const url = new URL("/search/photos", "https://insert-unsplash-image.cloudy9101.com/");
+      const url = new URL("/search/photos", proxyServer);
       url.searchParams.set("query", query);
       if (orientation != "not_specified") {
         url.searchParams.set("orientation", orientation);
@@ -22741,29 +22940,28 @@ function getFetcher(settings) {
           thumb: item.urls.thumb,
           url: item.urls.regular,
           downloadLocationUrl: item.links.download_location,
-          author: {
-            name: item.user.name,
-            username: item.user.username
-          }
+          pageUrl: item.links.html,
+          username: item.user.name,
+          userUrl: `https://unsplash.com/@${item.user.username}?${UTM}`
         };
       });
     },
     async touchDownloadLocation(url) {
-      await (0, import_obsidian2.requestUrl)({ url: url.replace("api.unsplash.com", "insert-unsplash-image.cloudy9101.com") });
+      await (0, import_obsidian2.requestUrl)({ url: url.replace("https://api.unsplash.com", proxyServer) });
     },
     async downloadImage(url) {
       const res = await (0, import_obsidian2.requestUrl)({ url });
       return res.arrayBuffer;
     },
     async downloadAndInsertImage(image, createFile) {
-      var _a;
       this.touchDownloadLocation(image.downloadLocationUrl);
       const url = image.url;
       const imageSize = insertSize === "" ? "" : `|${insertSize}`;
-      let nameText = `![${(_a = image.desc) == null ? void 0 : _a.slice(0, 10)}${imageSize}]`;
+      let nameText = `![${image.desc || randomImgName()}${imageSize}]`;
       let urlText = `(${url})`;
+      const backlink = settings.insertBackLink && image.pageUrl ? `[Backlink](${image.pageUrl}) | ` : "";
       const referral = `
-*Photo by [${image.author.name}](https://unsplash.com/@${image.author.username}?${UTM}) on [Unsplash](https://unsplash.com/?${UTM})*
+*${backlink}Photo by [${image.username}](${image.userUrl}) on [Unsplash](https://unsplash.com/?${UTM})*
 `;
       if (insertMode === "local" /* local */) {
         const imageName = `Inserted image ${(0, import_obsidian2.moment)().format("YYYYMMDDHHmmss")}`;
@@ -22774,6 +22972,22 @@ function getFetcher(settings) {
         urlText = "";
       }
       return `${nameText}${urlText}${referral}`;
+    },
+    async downloadAndGetUri(image, createFile) {
+      this.touchDownloadLocation(image.downloadLocationUrl);
+      const url = image.url;
+      const backlink = settings.insertBackLink && image.pageUrl ? `[Backlink](${image.pageUrl}) | ` : "";
+      const referral = `
+*${backlink}Photo by [${image.username}](${image.userUrl}) on [Unsplash](https://unsplash.com/?${UTM})*
+`;
+      if (insertMode === "local" /* local */) {
+        const imageName = `Inserted image ${(0, import_obsidian2.moment)().format("YYYYMMDDHHmmss")}`;
+        const ext = "png";
+        const arrayBuf = await this.downloadImage(url);
+        createFile(imageName, ext, arrayBuf);
+        return { url: `${imageName}.${ext}`, referral };
+      }
+      return { url, referral };
     }
   };
 }
@@ -22781,18 +22995,7 @@ function getFetcher(settings) {
 // ImagesModal.tsx
 var React3 = __toESM(require_react());
 var import_react = __toESM(require_react());
-
-// utils.ts
-function debounce(fn, delay) {
-  let timer;
-  return function(...params) {
-    const args = params;
-    clearTimeout(timer);
-    timer = setTimeout(() => {
-      fn.apply(this, args);
-    }, delay);
-  };
-}
+var import_obsidian3 = require("obsidian");
 
 // Loading.tsx
 var React = __toESM(require_react());
@@ -22809,7 +23012,7 @@ var React2 = __toESM(require_react());
 function NoResult() {
   return /* @__PURE__ */ React2.createElement("div", {
     className: "no-result-container"
-  }, /* @__PURE__ */ React2.createElement("span", null, "OPPS! Nothing Found"));
+  }, /* @__PURE__ */ React2.createElement("span", null, "OPS! Nothing Found"));
 }
 
 // ImagesModal.tsx
@@ -22821,9 +23024,14 @@ var ImagesModal = ({ fetcher, onSelect }) => {
   const [selectedImage, setSelectedImage] = (0, import_react.useState)(0);
   const [loading, setLoading] = (0, import_react.useState)(false);
   const fetchImages = async (query2) => {
-    const images2 = await fetcher.searchImages(query2);
-    setImages(images2);
-    setSelectedImage(0);
+    try {
+      const images2 = await fetcher.searchImages(query2);
+      setImages(images2);
+      setSelectedImage(0);
+    } catch (e) {
+      console.error(e);
+      new import_obsidian3.Notice("Something went wrong, please contact the plugin author.");
+    }
     setLoading(false);
   };
   const debouncedFetchImages = (0, import_react.useCallback)(debounce(fetchImages, 1e3), []);
@@ -22851,6 +23059,7 @@ var ImagesModal = ({ fetcher, onSelect }) => {
     } else if (e.ctrlKey && e.key === "p") {
       setSelectedImage((prev) => prev - 1 < 0 ? images.length - 1 : prev - 1);
     } else if (e.key === "Enter") {
+      e.preventDefault();
       onSelect(images[selectedImage]);
     }
   }, [images, selectedImage]);
@@ -22905,15 +23114,63 @@ var ImagesModal = ({ fetcher, onSelect }) => {
     disabled: loading,
     tabIndex: -1,
     onClick: onNextBtnClick
-  }, "NEXT \u2192")))));
+  }, "NEXT \u2192"))), fetcher.imageProvider === "pixabay" /* pixabay */ && /* @__PURE__ */ React3.createElement("div", {
+    className: "pixabay-logo"
+  }, /* @__PURE__ */ React3.createElement("a", {
+    href: "https://pixabay.com/",
+    target: "_blank"
+  }, /* @__PURE__ */ React3.createElement("svg", {
+    xmlns: "http://www.w3.org/2000/svg",
+    height: "100",
+    width: "100",
+    version: "1.1",
+    viewBox: "0 0 500 500"
+  }, /* @__PURE__ */ React3.createElement("g", {
+    transform: "translate(-507.42999,175.07001)"
+  }, /* @__PURE__ */ React3.createElement("rect", {
+    height: "500",
+    width: "500",
+    y: "-175.07",
+    x: "507.43",
+    fill: "#222"
+  }), /* @__PURE__ */ React3.createElement("g", {
+    fill: "#FFF",
+    transform: "matrix(2.7777778,0,0,2.7777778,-2096.4989,0.29221019)"
+  }, /* @__PURE__ */ React3.createElement("path", {
+    d: "m993.33-7.7954c-2.671,0-4.8365-2.1665-4.8365-4.8392h-16.569c0,2.6727-2.1651,4.8392-4.8363,4.8392h-4.4254v51.484h84.798v-51.483h-54.065zm-4.83,15.24h-16.571v-7.2076h16.569v7.2076zm29.124,28.522c-9.8169,0-17.804-7.9906-17.804-17.813,0-9.8226,7.987-17.402,17.804-17.402,9.8171,0,17.804,7.5795,17.804,17.402,0,9.8226-7.9865,17.813-17.804,17.813zm9.571-17.813c0,5.28-4.2937,9.576-9.5707,9.576-5.2772,0-9.5708-4.2963-9.5708-9.576,0-5.2806,4.2936-9.576,9.5708-9.576,5.277,0,9.5707,4.2957,9.5707,9.576zm66.262-29.941-21.421,55.346-17.241-6.6808v-9.4327l12.218,4.7345,15.073-38.942-56.483-21.887-5.2351,13.525h-9.426l9.6383-24.901,72.876,28.239z"
+  }), /* @__PURE__ */ React3.createElement("g", {
+    "font-family": "VomZom",
+    "font-size": "27.43096924px",
+    "line-height": "125%",
+    "font-stretch": "normal",
+    "font-variant": "normal",
+    "font-weight": "normal",
+    "font-style": "normal"
+  }, /* @__PURE__ */ React3.createElement("path", {
+    d: "m972.14,64.921c-2.7039,0.06735-4.9506,0.99582-6.7402,2.7854s-2.7181,4.0364-2.7854,6.7402v17.223h3.7847v-7.6545h5.7409c2.7056-0.0691,4.9595-1.0047,6.7615-2.8067s2.7375-4.0558,2.8067-6.7615c-0.0691-2.7039-1.0047-4.9506-2.8067-6.7402s-4.0558-2.718-6.7615-2.7854zm-5.7409,15.309,0-5.7834c0.0399-1.6346,0.59801-2.99,1.6744-4.0665,1.0764-1.0764,2.4319-1.6345,4.0665-1.6744,1.6549,0.03988,3.0228,0.59802,4.1037,1.6744,1.0808,1.0764,1.6407,2.4319,1.6797,4.0665-0.039,1.6549-0.59891,3.0228-1.6797,4.1037-1.0809,1.0809-2.4488,1.6408-4.1037,1.6797z"
+  }), /* @__PURE__ */ React3.createElement("path", {
+    d: "m984.13,83.93,3.7422,0,0-19.094-3.7422,0z"
+  }), /* @__PURE__ */ React3.createElement("path", {
+    d: "m1004.9,83.973-4.9073-6.2277-4.4076,6.2277-5.282,0,7.3341-9.7788-6.7452-9.3327,5.1214,0,4.0329,5.8352,4.4968-5.8352,5.0857,0-7.3341,9.3327,8.0122,9.7788z"
+  }), /* @__PURE__ */ React3.createElement("path", {
+    d: "m1020,64.836c-2.78,0.01392-5.5411,1.2356-7.3217,3.389-2.5173,2.889-2.9277,7.3319-1.1016,10.68,1.503,2.8167,4.4818,4.7722,7.6742,4.9822,2.0115,0.08973,4.028,0.02048,6.0416,0.04228h4.2331c-0.01-3.315,0.02-6.6309-0.015-9.9454-0.098-2.8431-1.5228-5.5984-3.8252-7.2788-1.6236-1.2335-3.6602-1.8331-5.6853-1.8696zm0,15.309c-2.4155,0.03477-4.7585-1.5866-5.4781-3.9086-0.8301-2.3925,0.086-5.2767,2.2388-6.6514,2.3653-1.6093,5.9042-1.1463,7.6851,1.1269,1.09,1.2527,1.3722,2.9584,1.2951,4.5678v4.865h-5.7z"
+  }), /* @__PURE__ */ React3.createElement("path", {
+    d: "m1035.6,64.921v-7.6545h-3.7848c0.01,5.8108-0.012,11.622,0.01,17.432,0.054,3.9898,2.8702,7.7511,6.7059,8.8726,3.6906,1.1933,8.0347-0.12452,10.369-3.2412,2.8592-3.5647,2.6169-9.1977-0.6105-12.455-1.9534-2.1419-4.9109-3.0977-7.76-2.9545h-4.9289zm5.7834,15.309c-2.6131,0.04941-5.1132-1.8749-5.6269-4.4552-0.2827-1.5643-0.1078-3.1645-0.1565-4.7461v-2.323c2.1274,0.02223,4.2582-0.04689,6.3833,0.03925,2.6883,0.20268,4.9782,2.5587,5.1161,5.2493,0.2744,2.6972-1.6024,5.4384-4.2654,6.0466-0.4742,0.1185-0.9623,0.1776-1.4506,0.18916z"
+  }), /* @__PURE__ */ React3.createElement("path", {
+    d: "m1062.7,64.836c-2.7799,0.01394-5.5411,1.2356-7.3217,3.389-2.5172,2.889-2.9276,7.3319-1.1015,10.68,1.5029,2.8167,4.4818,4.7722,7.6742,4.9822,2.0115,0.08973,4.0279,0.02048,6.0415,0.04228h4.2332c-0.01-3.315,0.02-6.6309-0.015-9.9454-0.098-2.8431-1.5228-5.5984-3.8252-7.2788-1.6236-1.2335-3.6602-1.8331-5.6854-1.8696zm0,15.309c-2.4155,0.03475-4.7585-1.5866-5.478-3.9086-0.8301-2.3925,0.086-5.2767,2.2388-6.6514,2.3653-1.6093,5.9042-1.1463,7.6851,1.1269,1.09,1.2527,1.3721,2.9584,1.295,4.5678v4.865h-5.7z"
+  }), /* @__PURE__ */ React3.createElement("path", {
+    d: "m1089.9,64.879c-0.016,3.3276,0.032,6.6571-0.025,9.9835-0.1308,2.7-2.413,5.0836-5.1161,5.2865-2.7002,0.34612-5.4922-1.4815-6.1585-4.1395-0.3846-1.5788-0.1677-3.2172-0.2248-4.8256v-6.305h-3.7848c0.014,3.3424-0.029,6.6862,0.023,10.028,0.1465,4.1428,3.3074,7.9466,7.3694,8.8022,2.7164,0.66144,5.7202,0.05068,7.9166-1.6922,0.066,2.6174-1.8415,5.1442-4.428,5.6694-1.0594,0.24194-2.1504,0.13118-3.2266,0.15651v3.7847c2.1224,0.04087,4.3304-0.0016,6.2465-1.0395,3.2212-1.6055,5.2812-5.14,5.1928-8.7259v-16.983c-1.2616,0.000002-2.5231,0.000003-3.7847,0.000005z"
+  })))))))));
 };
 
 // ModalWrapper.tsx
-var ModalWrapper = class extends import_obsidian3.Modal {
-  constructor(app, editor, settings) {
+var ModalWrapper = class extends import_obsidian4.Modal {
+  constructor(app, editor, settings, insertPlace = "default" /* default */) {
     super(app);
     this.editor = editor;
     this.fetcher = getFetcher(settings);
+    this.settings = settings;
+    this.insertPlace = insertPlace;
     this.containerEl.addClass("image-inserter-container");
   }
   async onOpen() {
@@ -22939,26 +23196,43 @@ var ModalWrapper = class extends import_obsidian3.Modal {
   }
   async onChooseSuggestion(item) {
     try {
-      const imageTag = await this.fetcher.downloadAndInsertImage(item, this.createFile.bind(this));
-      this.editor.replaceSelection(imageTag);
+      if (this.insertPlace === "default" /* default */) {
+        const imageTag = await this.fetcher.downloadAndInsertImage(item, this.createFile.bind(this));
+        this.editor.replaceSelection(imageTag);
+      }
+      if (this.insertPlace === "frontmatter" /* frontmatter */) {
+        const { url: imageTag, referral } = await this.fetcher.downloadAndGetUri(item, this.createFile.bind(this));
+        const file = this.app.workspace.getActiveFile();
+        if (file) {
+          const updatedContent = await upsert(this.app, file, this.settings.frontmatter.key, `"${this.settings.frontmatter.valueFormat.replace("{image-url}", imageTag)}"`);
+          await this.app.vault.modify(file, this.settings.frontmatter.appendReferral ? [updatedContent, referral].join("\n") : updatedContent);
+        }
+      }
       this.close();
     } catch (e) {
       console.error(e);
-      new import_obsidian3.Notice("Something went wrong, please contact the plugin author.");
+      new import_obsidian4.Notice("Something went wrong, please contact the plugin author.");
     }
   }
 };
 
 // main.ts
-var InsertUnsplashImage = class extends import_obsidian4.Plugin {
+var InsertUnsplashImage = class extends import_obsidian5.Plugin {
   async onload() {
     this.loadSettings();
     this.addSettingTab(new SettingTab(this.app, this));
     this.addCommand({
       id: "insert",
-      name: "Insert Unsplash Image",
+      name: "Insert Image",
       editorCallback: (editor) => {
         new ModalWrapper(this.app, editor, this.settings).open();
+      }
+    });
+    this.addCommand({
+      id: "insert-in-frontmatter",
+      name: "Insert Image in Frontmatter",
+      editorCallback: (editor) => {
+        new ModalWrapper(this.app, editor, this.settings, "frontmatter" /* frontmatter */).open();
       }
     });
   }

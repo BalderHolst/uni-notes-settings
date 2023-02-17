@@ -5,7 +5,7 @@
   "autoSaveInterval": 20,
   "autoPushInterval": 0,
   "autoPullInterval": 30,
-  "autoPullOnBoot": false,
+  "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": false,
   "disablePopups": false,
@@ -17,11 +17,11 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "git -C .obsidian add . && git -C .obsidian commit -a -m \"backup settings\" && git -C .obsidian push; git",
+  "basePath": "",
   "differentIntervalCommitAndPush": false,
-  "changedFilesInStatusBar": false,
-  "username": "",
+  "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
-  "showBranchStatusBar": true
+  "showBranchStatusBar": true,
+  "setLastSaveToLastCommit": false
 }
