@@ -4,7 +4,8 @@
   "enabledCssSnippets": [
     "callout",
     "center",
-    "latex"
+    "latex",
+    "cpp"
   ],
   "showViewHeader": true
 }

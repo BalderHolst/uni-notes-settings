@@ -4,23 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2756b9ca77fc9a22",
+        "id": "b9ed16e228da9920",
         "type": "tabs",
         "children": [
           {
-            "id": "9ec2473fd79438b7",
+            "id": "6ee20c339f2490e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Linarisering.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Linarisering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vektor",
+                "query": "euler ang",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/Linarisering.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,43 +156,52 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9ec2473fd79438b7",
+  "active": "6ee20c339f2490e8",
   "lastOpenFiles": [
-    "notes/Approximation.md",
+    "uart.png",
+    "notes/UART Protocol.md",
+    "notes/Links.md",
+    "notes/Libraries in C++.md",
+    "notes/Inverse Kinematics.md",
+    "Billeder/uart.png",
+    "notes/Interfaces in C++.md",
+    "Billeder/types-of-kinematic-axis.png",
+    "notes/Forwark Kinematics.md",
+    "Billeder/frames-and-forward-kinematics.png",
+    "notes/DH-Parameters.md",
+    "Billeder/forward-kinematics.png",
+    "notes/Abstract Classes in C++.md",
+    "Billeder/dh-parameter-table.png",
+    "UART Protocol.md",
+    "types-of-kinematic-axis.png",
+    "dh-parameter-table.png",
+    "frames-and-forward-kinematics.png",
+    "forward-kinematics.png",
+    "Links.md",
+    "Libraries in C++.md",
+    "Inverse Kinematics.md",
+    "Interfaces in C++.md",
     "HJEM.md",
-    "notes/Penduler.md",
-    "test.md",
-    "notes/Matricer.md",
-    "notes/Rotational Matrixes.md",
-    "notes/Craig's Notation.md",
-    "notes/Frames.md",
-    "notes/Registers.md",
-    "notes/Degrees of Freedom.md",
-    "Translation.md",
-    "Degrees of Freedom.md",
-    "notes/D Latch.md",
-    "Registers.md",
-    "D Latch.md",
-    "notes/The C++ Preprocessor.md",
-    "Billeder/gated-d-latch.png",
-    "notes/Maps.md",
-    "Billeder/gated-d-latch-io.png",
-    "Billeder/d-latch.png",
-    "Billeder/d-latch-io.png",
-    "notes/Assumptions of Kinematics.md",
-    "gated-d-latch-io.png",
-    "Pasted image 20230223124818.png",
-    "d-latch-io.png",
-    "d-latch.png",
-    "Billeder/Pasted image 20230209151909.png",
-    "Billeder/Pasted image 20230209151903.png",
-    "notes/Newtons Love.md",
-    "notes/Microcontrolers.md",
-    "notes/Boolean Algebra.md",
-    "notes/Morgans Law.md",
-    "README.md",
-    "Morgans Law.md",
-    "Boolean Algebra.md",
-    "Beviser.md"
+    "Forwark Kinematics.md",
+    "DH-Parameters.md",
+    "Abstract Classes in C++.md",
+    "Lektionsmateriale/Semester 2/microcontrolers/Lesson 9.pdf",
+    "notes/Angle-Set Conventions.md",
+    "Lektionsmateriale/Semester 2/Kinematik/Lecture 8 - Inverse Kinematics.pdf",
+    "notes/Assembly.md",
+    "Attachments/atmel-0856-avr-instruction-set-manual.pdf",
+    "Lektionsmateriale/Semester 2/Kinematik/Lecture 7 - DH Parameters and Forward Kinematics.pdf",
+    "Lektionsmateriale/Semester 2/microcontrolers/Lesson 3.pdf",
+    "Lektionsmateriale/Kinematik",
+    "Lektionsmateriale/Semester 2/Kinematik",
+    "Lektionsmateriale/Semester 2/microcontrolers",
+    "notes/Transformation Matrices.md",
+    "notes/AVR Ports.md",
+    "notes/Taylorpolynomium.md",
+    "notes/Approximation.md",
+    "Afleveringer/Semester 1/Matematik/Aflevering 2 - rettet.pdf",
+    "Attachments",
+    "notes/Smart Pointers in C++.md",
+    "notes/References in C++.md"
   ]
 }
