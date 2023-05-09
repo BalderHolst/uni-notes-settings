@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dd48f948697bfb0a",
+        "id": "04444cc333488847",
         "type": "tabs",
         "children": [
           {
-            "id": "c07a21a7f4e03dfc",
+            "id": "6b4abff0a06fc28b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/Jacobian Matrix.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Jacobian Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/Jacobian Matrix.md"
+              }
             }
           },
           {
@@ -157,11 +164,12 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "c07a21a7f4e03dfc",
+  "active": "6b4abff0a06fc28b",
   "lastOpenFiles": [
+    "HJEM.md",
+    "notes/Angle-Set Conventions.md",
     "Kinematrics.md",
     "notes/Kinematrics.md",
-    "HJEM.md",
     "Excalidraw/Drawing 2022-11-17 12.34.37.excalidraw.md",
     "Excalidraw/Drawing 2023-05-02 10.05.21.excalidraw.md",
     "Excalidraw/fysik PA.md",
@@ -190,7 +198,6 @@
     "ADC.md",
     "uart.png",
     "notes/UART Protocol.md",
-    "notes/Links.md",
     "Billeder/types-of-kinematic-axis.png",
     "Billeder/frames-and-forward-kinematics.png",
     "Billeder/forward-kinematics.png",
