@@ -7,5 +7,6 @@
     "latex",
     "cpp"
   ],
-  "showViewHeader": true
+  "showViewHeader": true,
+  "theme": "obsidian"
 }

@@ -2,6 +2,8 @@
   "addRibbonIcon": true,
   "showAtStartUp": false,
   "preferBlock": true,
+  "preferBlockForInline": false,
+  "preferBlockForCodeblock": true,
   "evaluate": false,
   "declarationStr": ":=",
   "evaluateStr": "=?",
@@ -12,5 +14,7 @@
   "hidePrefix": "%",
   "plotGrid": true,
   "plotWidth": 0,
-  "plotDerivatives": false
+  "plotDerivatives": false,
+  "precision": 21,
+  "scientific": false
 }

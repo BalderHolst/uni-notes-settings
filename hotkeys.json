@@ -182,5 +182,14 @@
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
   "obsidian-excalidraw-plugin:save": [],
   "workspace:next-tab": [],
-  "workspace:undo-close-pane": []
+  "workspace:undo-close-pane": [],
+  "obsidian-shellcommands:shell-command-9bel068ajr": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ]
 }
