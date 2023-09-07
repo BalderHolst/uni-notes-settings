@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a06686c61fe7f408",
+        "id": "d02809f5851bb532",
         "type": "tabs",
         "children": [
           {
-            "id": "4db1509f489b47bd",
+            "id": "5c6257b92f79501c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HJEM.md",
+                "file": "notes/Laplace Transformation.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HJEM.md",
+                "file": "notes/Laplace Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HJEM.md"
+                "file": "notes/Laplace Transformation.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,45 +175,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4db1509f489b47bd",
+  "active": "11f4305a6a202eb4",
   "lastOpenFiles": [
+    "notes/Linear Systems.md",
+    "notes/Frequency Response.md",
+    "Frequency Response.md",
+    "notes/Dirac Delta Function.md",
+    "Laplace Transformation.md",
+    "notes/Laplace Transformation.md",
+    "Linear Systems.md",
+    "notes/Linære Ligninssystemer.md",
+    "notes/Linære Funktioner.md",
+    "HJEM.md",
+    "notes/Integraler.md",
+    "notes/Integration med Substidution.md",
+    "notes/Partiel Integration.md",
+    "notes/Fourie-transformation.md",
+    "notes/The OSI model.md",
+    "notes/Periodic Signal Analysis.md",
+    "notes/Fourieseries.md",
+    "notes/Data Communication.md",
+    "Fourieseries.md",
+    "README.md",
+    "Data Communication.md",
+    "The OSI model.md",
+    "Fourie-transformation.md",
+    "Durac Delta Function.md",
+    "notes/Taylorpolynomium.md",
+    "Periodic Signal Analysis.md",
     "Billeder/Pasted image 20230622155121.png",
-    "notes/Vektorfunktioner.md",
     "Pasted image 20230622155121.png",
     "Billeder/Spacecurve.png",
     "Billeder/QQ-plot.png",
     "Billeder/Pasted image 20230622100202.png",
     "Billeder/Boolean Algebra.png",
-    "Untitled.md",
-    "HJEM.md",
-    "notes/Rotational Matrices.md",
     "Billeder/Octal and Hexadecimal Systems.png",
-    "notes/Mekanisk energi i centralbevægelser.md",
-    "notes/Centripetalkraft.md",
-    "notes/gravitationskraft.md",
-    "notes/Coulumbs Lov.md",
-    "notes/Coulumbs konstant.md",
-    "notes/Homogene elektriske felter.md",
-    "notes/Specielle Matricer.md",
-    "notes/Matricer.md",
-    "notes/Rang af Matrix.md",
-    "notes/Jacobian Matrix.md",
-    "notes/Egenværdier og Egenvektorer.md",
-    "notes/Angle-Set Conventions.md",
-    "notes/Craig's Notation.md",
-    "notes/Rotation.md",
-    "notes/Transformation Matrices.md",
-    "notes/Axis Angle.md",
     "Pasted image 20230622101336.png",
     "Billeder/Pasted image 20230622101336.png",
     "Billeder/Pasted image 20230621111948.png",
-    "Billeder/Pasted image 20230621110417.png",
-    "notes/Velocity Curves.md",
-    "notes/Law of Cosines.md",
-    "Velocity Curves.md",
     "Lektionsmateriale/Semester 2/Kinematik/Lecture 11 - Jacobian Singularities Numerical IK and Trajectory Generation.pdf",
-    "notes/Kinematrics.md",
-    "notes/Maps.md",
     "Attachments/Formelsamling.pdf",
     "Lektionsmateriale/Semester 2/Kinematik/Lecture 5 - Other Orientation Representations.pdf",
     "Attachments/atmel-0856-avr-instruction-set-manual.pdf",
