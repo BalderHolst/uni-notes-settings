@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d02809f5851bb532",
+        "id": "fbf190db12acf21a",
         "type": "tabs",
         "children": [
           {
-            "id": "5c6257b92f79501c",
+            "id": "9aeb86737b520875",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Laplace Transformation.md",
+                "file": "notes/Gradient.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Laplace Transformation.md",
+                "file": "notes/Gradient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fysik",
+                "query": "distance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Laplace Transformation.md"
+                "file": "notes/Gradient.md"
               }
             }
           },
@@ -175,34 +175,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "11f4305a6a202eb4",
+  "active": "9aeb86737b520875",
   "lastOpenFiles": [
+    "Tangent Plane.md",
+    "HJEM.md",
+    "Multivariable Math.md",
+    "Homogeneous Functions.md",
+    "notes/Planer.md",
+    "notes/Den retningsafledte.md",
+    "notes/Differentialligninger.md",
+    "notes/Differentiation af funktioner med to variable.md",
+    "Pasted image 20230911130655.png",
+    "notes/Niveaukurver.md",
+    "Circles.md",
+    "notes/Cirklens Ligning.md",
+    "notes/Periodic Signal Analysis.md",
     "notes/Linear Systems.md",
+    "notes/Laplace Transformation.md",
     "notes/Frequency Response.md",
     "Frequency Response.md",
     "notes/Dirac Delta Function.md",
     "Laplace Transformation.md",
-    "notes/Laplace Transformation.md",
     "Linear Systems.md",
     "notes/Linære Ligninssystemer.md",
     "notes/Linære Funktioner.md",
-    "HJEM.md",
     "notes/Integraler.md",
     "notes/Integration med Substidution.md",
     "notes/Partiel Integration.md",
     "notes/Fourie-transformation.md",
     "notes/The OSI model.md",
-    "notes/Periodic Signal Analysis.md",
-    "notes/Fourieseries.md",
-    "notes/Data Communication.md",
-    "Fourieseries.md",
-    "README.md",
-    "Data Communication.md",
-    "The OSI model.md",
-    "Fourie-transformation.md",
-    "Durac Delta Function.md",
-    "notes/Taylorpolynomium.md",
-    "Periodic Signal Analysis.md",
     "Billeder/Pasted image 20230622155121.png",
     "Pasted image 20230622155121.png",
     "Billeder/Spacecurve.png",
@@ -212,7 +213,6 @@
     "Billeder/Octal and Hexadecimal Systems.png",
     "Pasted image 20230622101336.png",
     "Billeder/Pasted image 20230622101336.png",
-    "Billeder/Pasted image 20230621111948.png",
     "Lektionsmateriale/Semester 2/Kinematik/Lecture 11 - Jacobian Singularities Numerical IK and Trajectory Generation.pdf",
     "Attachments/Formelsamling.pdf",
     "Lektionsmateriale/Semester 2/Kinematik/Lecture 5 - Other Orientation Representations.pdf",
