@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5c632fee2b589b71",
+        "id": "b37af9fb30c31056",
         "type": "tabs",
         "children": [
           {
-            "id": "cd4275b7cd6375bb",
+            "id": "61ba0bf95f104d93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Line Coding.md",
+                "file": "notes/Sequences.md",
                 "mode": "preview",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Line Coding.md",
+                "file": "notes/Sequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SNR",
+                "query": "tag:#datacommunication",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Line Coding.md"
+                "file": "notes/Sequences.md"
               }
             }
           },
@@ -151,6 +151,16 @@
             "state": {
               "type": "mathpad-view",
               "state": {}
+            }
+          },
+          {
+            "id": "72d5b738631d9762",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -174,52 +184,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd4275b7cd6375bb",
+  "active": "61ba0bf95f104d93",
   "lastOpenFiles": [
+    "Sequences.md",
+    "Billeder/Pasted image 20230921092731.png",
+    "Billeder/Pasted image 20230921092635.png",
+    "notes/Signal Reconstruction.md",
+    "Billeder/Pasted image 20230921092304.png",
+    "notes/Sequences.md",
+    "Billeder/Pasted image 20230921091721.png",
+    "notes/Pulse Sampling.md",
+    "Billeder/Pasted image 20230921090958.png",
+    "notes/Nyquist-Shannon.md",
+    "Billeder/Pasted image 20230921090307.png",
+    "notes/impulstog.md",
+    "Billeder/Pasted image 20230921084342.png",
+    "Billeder/impule-sampling-signal-repeat.png",
+    "notes/Impulse Sampling.md",
+    "Billeder/impule-sampling.png",
+    "notes/Anti Aliasering Filter.md",
+    "Signal Reconstruction.md",
+    "Pasted image 20230921092731.png",
+    "Pulse Sampling.md",
+    "Anti Aliasering Filter.md",
+    "Impulse Sampling.md",
+    "Nyquist-Shannon.md",
+    "impulstog.md",
+    "Lektionsmateriale/Semester 3/signalbehandling/Lektion 2 - Sampling og Rekonstruktion.pdf",
+    "notes/Chebyshev Filter.md",
+    "notes/Signal Processing.md",
+    "notes/Butterworth Filter.md",
+    "notes/Signals.md",
     "HJEM.md",
-    "Transmission.md",
-    "Billeder/Pasted image 20230912132701.png",
-    "Billeder/Pasted image 20230912132439.png",
-    "Billeder/Pasted image 20230912132128.png",
-    "Billeder/Pasted image 20230912131746.png",
-    "Billeder/Pasted image 20230912131428.png",
-    "Billeder/Pasted image 20230912131022.png",
-    "Billeder/Pasted image 20230912130525.png",
-    "Billeder/Pasted image 20230912130248.png",
-    "notes/Transmission.md",
-    "Billeder/Pasted image 20230912130024.png",
-    "notes/Signal element.md",
-    "Billeder/Pasted image 20230912125654.png",
-    "notes/Shannon Formula.md",
-    "notes/Nyquist Formula.md",
-    "notes/Line Coding.md",
-    "notes/Bandwidth.md",
-    "Signal element.md",
-    "Shannon Formula.md",
-    "notes/Fourieseries.md",
-    "notes/Fourie-transformation.md",
-    "Line Coding.md",
-    "Nyquist Formula.md",
-    "Bandwidth.md",
-    "notes/Gradient.md",
-    "notes/Vektorer.md",
-    "notes/Tangent Plane.md",
-    "notes/Multivariable Math.md",
-    "notes/Homogeneous Functions.md",
-    "notes/Circles.md",
-    "Tangent Plane.md",
-    "Multivariable Math.md",
-    "Homogeneous Functions.md",
-    "notes/Planer.md",
-    "Lektionsmateriale/Semester 2/Kinematik/Lecture 11 - Jacobian Singularities Numerical IK and Trajectory Generation.pdf",
-    "Attachments/Formelsamling.pdf",
-    "Lektionsmateriale/Semester 2/Kinematik/Lecture 5 - Other Orientation Representations.pdf",
-    "Attachments/atmel-0856-avr-instruction-set-manual.pdf",
-    "Lektionsmateriale/Semester 2/Kinematik/Lecture 8 - Inverse Kinematics.pdf",
-    "Lektionsmateriale/Semester 2/Kinematik/Lecture 7 - DH Parameters and Forward Kinematics.pdf",
-    "Lektionsmateriale/Semester 2/microcontrolers/Lesson 9.pdf",
-    "Lektionsmateriale/Semester 2/microcontrolers/Lesson 3.pdf",
-    "Lektionsmateriale/Kinematik",
-    "Lektionsmateriale/Semester 2/Kinematik"
+    "notes/ARP Packet.md",
+    "Lektionsmateriale/Semester 3/signalbehandling/KOM - Lecture 3_a - Itslearning.pdf",
+    "notes/TCP-IP.md",
+    "TCP-IP.md",
+    "notes/Predict CPU Burst.md",
+    "notes/Parity-Check Code.md",
+    "notes/Hamming Distance.md",
+    "Lektionsmateriale/Semester 3/signalbehandling/KOM - Lecture 3_b - Itslearning.pdf",
+    "TCP",
+    "Lektionsmateriale/Semester 3/signalbehandling/Lektion 1 - Filterfunktioner.pdf",
+    "Lektionsmateriale/Semester 3/signalbehandling/Lektion 1 - Opgaver_.pdf",
+    "Lektionsmateriale/Semester 3/signalbehandling",
+    "Lektionsmateriale/Semester 3",
+    "notes/4913",
+    "Lektionsmateriale/Semester 2/Kinematik/Lecture 11 - Jacobian Singularities Numerical IK and Trajectory Generation.pdf"
   ]
 }

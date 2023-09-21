@@ -108,7 +108,7 @@
     {
       "id": "ythxx8ywlx",
       "platform_specific_commands": {
-        "default": "ls | grep -e \\.md$ | grep -v \"HJEM.md\" | grep -v \"README.md\" | xargs -I{} mv -v {} notes & \nls | grep -e \"\\.\\(png\\|jpg\\)$\" | grep -v \"HJEM.md\" | grep -v \"README.md\" | xargs -I{} mv -v {} Billeder"
+        "default": "ls | grep -e \\.md$ | grep -v \"HJEM.md\" | grep -v \"README.md\" | xargs -I{} mv -v \"{}\" notes & \nls | grep -e \"\\.\\(png\\|jpg\\)$\" | grep -v \"HJEM.md\" | grep -v \"README.md\" | xargs -I{} mv -v \"{}\" Billeder"
       },
       "shells": {},
       "alias": "clean",
