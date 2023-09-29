@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b37af9fb30c31056",
+        "id": "b505bd97e0547144",
         "type": "tabs",
         "children": [
           {
-            "id": "61ba0bf95f104d93",
+            "id": "53a4c6d61212d50a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Sequences.md",
+                "file": "notes/Thread Deadlocks.md",
                 "mode": "preview",
                 "source": false
               }
@@ -63,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Sequences.md",
+                "file": "notes/Thread Deadlocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Sequences.md"
+                "file": "notes/Thread Deadlocks.md"
               }
             }
           },
@@ -184,27 +185,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "61ba0bf95f104d93",
+  "active": "53a4c6d61212d50a",
   "lastOpenFiles": [
+    "HJEM.md",
+    "Billeder/Pasted image 20230928091317.png",
+    "Billeder/Pasted image 20230928082902.png",
+    "notes/Thread Deadlocks.md",
+    "Billeder/Pasted image 20230926133743.png",
+    "Billeder/Pasted image 20230926124500.png",
+    "notes/stack datastructure.md",
+    "Billeder/Pasted image 20230926124212.png",
+    "notes/Fast Fourier transformation.md",
+    "Billeder/Pasted image 20230926123459.png",
+    "notes/Diskret Fourier Transformation.md",
+    "Billeder/Pasted image 20230926123006.png",
+    "notes/Data Link Layer.md",
     "Sequences.md",
     "Billeder/Pasted image 20230921092731.png",
     "Billeder/Pasted image 20230921092635.png",
     "notes/Signal Reconstruction.md",
     "Billeder/Pasted image 20230921092304.png",
     "notes/Sequences.md",
-    "Billeder/Pasted image 20230921091721.png",
     "notes/Pulse Sampling.md",
-    "Billeder/Pasted image 20230921090958.png",
     "notes/Nyquist-Shannon.md",
-    "Billeder/Pasted image 20230921090307.png",
     "notes/impulstog.md",
-    "Billeder/Pasted image 20230921084342.png",
-    "Billeder/impule-sampling-signal-repeat.png",
     "notes/Impulse Sampling.md",
-    "Billeder/impule-sampling.png",
     "notes/Anti Aliasering Filter.md",
     "Signal Reconstruction.md",
-    "Pasted image 20230921092731.png",
     "Pulse Sampling.md",
     "Anti Aliasering Filter.md",
     "Impulse Sampling.md",
@@ -215,14 +222,8 @@
     "notes/Signal Processing.md",
     "notes/Butterworth Filter.md",
     "notes/Signals.md",
-    "HJEM.md",
     "notes/ARP Packet.md",
     "Lektionsmateriale/Semester 3/signalbehandling/KOM - Lecture 3_a - Itslearning.pdf",
-    "notes/TCP-IP.md",
-    "TCP-IP.md",
-    "notes/Predict CPU Burst.md",
-    "notes/Parity-Check Code.md",
-    "notes/Hamming Distance.md",
     "Lektionsmateriale/Semester 3/signalbehandling/KOM - Lecture 3_b - Itslearning.pdf",
     "TCP",
     "Lektionsmateriale/Semester 3/signalbehandling/Lektion 1 - Filterfunktioner.pdf",
