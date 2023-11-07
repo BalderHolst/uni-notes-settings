@@ -22,10 +22,52 @@
       }
     },
     {
-      "query": "tag:#elektronik",
+      "query": "tag:#kinematics  ",
       "color": {
         "a": 1,
-        "rgb": 16756224
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#datacommunication  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#elektronik  ",
+      "color": {
+        "a": 1,
+        "rgb": 16075008
+      }
+    },
+    {
+      "query": "tag:#microcontrolers  ",
+      "color": {
+        "a": 1,
+        "rgb": 8192250
+      }
+    },
+    {
+      "query": "tag:#cpp  ",
+      "color": {
+        "a": 1,
+        "rgb": 14680240
+      }
+    },
+    {
+      "query": "tag:#computerarkitecture  ",
+      "color": {
+        "a": 1,
+        "rgb": 14942039
+      }
+    },
+    {
+      "query": "tag:#signalprocessing  ",
+      "color": {
+        "a": 1,
+        "rgb": 1861918
       }
     }
   ],
@@ -39,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 337,
-  "scale": 1.1357848851546863,
+  "scale": 0.30320649544405903,
   "close": true
 }

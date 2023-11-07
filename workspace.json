@@ -4,23 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b505bd97e0547144",
+        "id": "1eaf4195fd23d73a",
         "type": "tabs",
         "children": [
           {
-            "id": "53a4c6d61212d50a",
+            "id": "495081e0f3c71bf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Thread Deadlocks.md",
-                "mode": "preview",
+                "file": "notes/Bilineær z-transformation.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Thread Deadlocks.md",
+                "file": "notes/Bilineær z-transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#datacommunication",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Thread Deadlocks.md"
+                "file": "notes/Bilineær z-transformation.md"
               }
             }
           },
@@ -163,6 +162,14 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "9ca4190a5413d239",
+            "type": "leaf",
+            "state": {
+              "type": "note-chat-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -185,52 +192,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53a4c6d61212d50a",
+  "active": "495081e0f3c71bf9",
   "lastOpenFiles": [
+    "notes/IIR Filters.md",
+    "Pasted image 20231107093152.png",
+    "notes/Impule Inveriant z-transformation.md",
+    "notes/Matched z-transformation.md",
+    "Pasted image 20231107093021.png",
+    "notes/Bilineær z-transformation.md",
+    "Billeder/Pasted image 20231107092613.png",
+    "Billeder/Pasted image 20231107085053.png",
+    "Billeder/Pasted image 20231107084334.png",
+    "Bilineær z-transformation.md",
+    "Impule Inveriant z-transformation.md",
+    "Matched z-transformation.md",
+    "Pasted image 20231107092613.png",
+    "Pasted image 20231107085053.png",
     "HJEM.md",
-    "Billeder/Pasted image 20230928091317.png",
-    "Billeder/Pasted image 20230928082902.png",
-    "notes/Thread Deadlocks.md",
-    "Billeder/Pasted image 20230926133743.png",
-    "Billeder/Pasted image 20230926124500.png",
-    "notes/stack datastructure.md",
-    "Billeder/Pasted image 20230926124212.png",
-    "notes/Fast Fourier transformation.md",
-    "Billeder/Pasted image 20230926123459.png",
-    "notes/Diskret Fourier Transformation.md",
-    "Billeder/Pasted image 20230926123006.png",
-    "notes/Data Link Layer.md",
-    "Sequences.md",
-    "Billeder/Pasted image 20230921092731.png",
-    "Billeder/Pasted image 20230921092635.png",
-    "notes/Signal Reconstruction.md",
-    "Billeder/Pasted image 20230921092304.png",
-    "notes/Sequences.md",
-    "notes/Pulse Sampling.md",
-    "notes/Nyquist-Shannon.md",
-    "notes/impulstog.md",
-    "notes/Impulse Sampling.md",
-    "notes/Anti Aliasering Filter.md",
-    "Signal Reconstruction.md",
-    "Pulse Sampling.md",
-    "Anti Aliasering Filter.md",
-    "Impulse Sampling.md",
-    "Nyquist-Shannon.md",
-    "impulstog.md",
-    "Lektionsmateriale/Semester 3/signalbehandling/Lektion 2 - Sampling og Rekonstruktion.pdf",
-    "notes/Chebyshev Filter.md",
-    "notes/Signal Processing.md",
-    "notes/Butterworth Filter.md",
-    "notes/Signals.md",
-    "notes/ARP Packet.md",
-    "Lektionsmateriale/Semester 3/signalbehandling/KOM - Lecture 3_a - Itslearning.pdf",
-    "Lektionsmateriale/Semester 3/signalbehandling/KOM - Lecture 3_b - Itslearning.pdf",
-    "TCP",
-    "Lektionsmateriale/Semester 3/signalbehandling/Lektion 1 - Filterfunktioner.pdf",
-    "Lektionsmateriale/Semester 3/signalbehandling/Lektion 1 - Opgaver_.pdf",
-    "Lektionsmateriale/Semester 3/signalbehandling",
-    "Lektionsmateriale/Semester 3",
-    "notes/4913",
-    "Lektionsmateriale/Semester 2/Kinematik/Lecture 11 - Jacobian Singularities Numerical IK and Trajectory Generation.pdf"
+    "Pasted image 20231107084334.png",
+    "Lektionsmateriale/Semester 3/signalbehandling/lektion 9 - Design af IIR filtre.pdf",
+    "notes/The Wave Equation.md",
+    "notes/The Heat Equation.md",
+    "notes/Polar Coordinates.md",
+    "notes/Laplace's Equation.md",
+    "Billeder/Pasted image 20231105163245.png",
+    "Billeder/Pasted image 20231102085545.png",
+    "notes/DC Amplification.md",
+    "The Heat Equation.md",
+    "The Wave Equation.md",
+    "notes/Dæmpede Svingninger - Differentialligning.md",
+    "notes/Andenordens inhomogene differentialligninger.md",
+    "notes/Differentialligninger.md",
+    "notes/Differensligninger.md",
+    "notes/Poissin's Equation.md",
+    "notes/Laplaces lov.md",
+    "notes/Partial Differential Equations.md",
+    "notes/Gauss's Divergence Theorem.md",
+    "notes/Divergence.md",
+    "notes/Sfæriske Koordinater.md",
+    "Lektionsmateriale/Semester 3/signalbehandling/Lektion 5 - Introduktion til z-transformation.pdf",
+    "Lektionsmateriale/Semester 3/signalbehandling/lektion 8 - Introduktion til IIR filtre.pdf",
+    "external/Formelsamling/Mat Formelsamling/Screenshots",
+    "external/Formelsamling/Mat Formelsamling/Formelsamling mat.pdf",
+    "external/Formelsamling/Mat Formelsamling",
+    "external/Formelsamling",
+    "external",
+    "Lektionsmateriale/Semester 3/datacommunication/KOM - lecture 8b - Itslearning.pdf",
+    "Lektionsmateriale/Semester 3/datacommunication/KOM - lecture 8a - Itslearning.pdf"
   ]
 }
