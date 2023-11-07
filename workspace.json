@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Bilineær z-transformation.md",
+                "file": "notes/TCP-IP.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "fb22cb25fb213806",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lektionsmateriale/Semester 3/datacommunication/KOM - lecture 9b - Itslearning.pdf"
               }
             }
           }
@@ -79,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Bilineær z-transformation.md",
+                "file": "notes/TCP-IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "piggy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Bilineær z-transformation.md"
+                "file": "notes/TCP-IP.md"
               }
             }
           },
@@ -194,12 +204,18 @@
   },
   "active": "495081e0f3c71bf9",
   "lastOpenFiles": [
+    "Lektionsmateriale/Semester 3/datacommunication/KOM - lecture 9b - Itslearning.pdf",
+    "notes/TCP-IP.md",
+    "Transport Layer.md",
+    "HJEM.md",
+    "notes/Bilineær z-transformation.md",
+    "Lektionsmateriale/Semester 3/datacommunication/KOM - lecture 9a - Itslearning.pdf",
+    "notes/Data Link Layer.md",
     "notes/IIR Filters.md",
     "Pasted image 20231107093152.png",
     "notes/Impule Inveriant z-transformation.md",
     "notes/Matched z-transformation.md",
     "Pasted image 20231107093021.png",
-    "notes/Bilineær z-transformation.md",
     "Billeder/Pasted image 20231107092613.png",
     "Billeder/Pasted image 20231107085053.png",
     "Billeder/Pasted image 20231107084334.png",
@@ -208,7 +224,6 @@
     "Matched z-transformation.md",
     "Pasted image 20231107092613.png",
     "Pasted image 20231107085053.png",
-    "HJEM.md",
     "Pasted image 20231107084334.png",
     "Lektionsmateriale/Semester 3/signalbehandling/lektion 9 - Design af IIR filtre.pdf",
     "notes/The Wave Equation.md",
@@ -227,17 +242,12 @@
     "notes/Poissin's Equation.md",
     "notes/Laplaces lov.md",
     "notes/Partial Differential Equations.md",
-    "notes/Gauss's Divergence Theorem.md",
-    "notes/Divergence.md",
-    "notes/Sfæriske Koordinater.md",
     "Lektionsmateriale/Semester 3/signalbehandling/Lektion 5 - Introduktion til z-transformation.pdf",
     "Lektionsmateriale/Semester 3/signalbehandling/lektion 8 - Introduktion til IIR filtre.pdf",
     "external/Formelsamling/Mat Formelsamling/Screenshots",
     "external/Formelsamling/Mat Formelsamling/Formelsamling mat.pdf",
     "external/Formelsamling/Mat Formelsamling",
     "external/Formelsamling",
-    "external",
-    "Lektionsmateriale/Semester 3/datacommunication/KOM - lecture 8b - Itslearning.pdf",
-    "Lektionsmateriale/Semester 3/datacommunication/KOM - lecture 8a - Itslearning.pdf"
+    "external"
   ]
 }
