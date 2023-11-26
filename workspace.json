@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1eaf4195fd23d73a",
+        "id": "7ef08a90b8757998",
         "type": "tabs",
         "children": [
           {
-            "id": "495081e0f3c71bf9",
+            "id": "b7356c4bc5a0e408",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/TCP-IP.md",
+                "file": "notes/Filters.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "fb22cb25fb213806",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lektionsmateriale/Semester 3/datacommunication/KOM - lecture 9b - Itslearning.pdf"
               }
             }
           }
@@ -89,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TCP-IP.md",
+                "file": "notes/Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "piggy",
+                "query": "foldning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/TCP-IP.md"
+                "file": "notes/Filters.md"
               }
             }
           },
@@ -202,52 +192,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "495081e0f3c71bf9",
+  "active": "b7356c4bc5a0e408",
   "lastOpenFiles": [
-    "Lektionsmateriale/Semester 3/datacommunication/KOM - lecture 9b - Itslearning.pdf",
-    "notes/TCP-IP.md",
-    "Transport Layer.md",
+    "Delay through filter (gruppeløstid).md",
+    "notes/Filters.md",
+    "notes/Laplace Transformation.md",
+    "notes/Bessel.md",
+    "notes/Signal Processing.md",
     "HJEM.md",
-    "notes/Bilineær z-transformation.md",
-    "Lektionsmateriale/Semester 3/datacommunication/KOM - lecture 9a - Itslearning.pdf",
-    "notes/Data Link Layer.md",
+    "Foldningssum.md",
+    "Window Functions.md",
+    "notes/z-transformation.md",
+    "notes/Fast Fourier transformation (FFT).md",
+    "notes/FIR Filtre.md",
+    "notes/Butterworth Filter.md",
     "notes/IIR Filters.md",
-    "Pasted image 20231107093152.png",
-    "notes/Impule Inveriant z-transformation.md",
-    "notes/Matched z-transformation.md",
-    "Pasted image 20231107093021.png",
-    "Billeder/Pasted image 20231107092613.png",
-    "Billeder/Pasted image 20231107085053.png",
-    "Billeder/Pasted image 20231107084334.png",
-    "Bilineær z-transformation.md",
-    "Impule Inveriant z-transformation.md",
-    "Matched z-transformation.md",
-    "Pasted image 20231107092613.png",
-    "Pasted image 20231107085053.png",
-    "Pasted image 20231107084334.png",
-    "Lektionsmateriale/Semester 3/signalbehandling/lektion 9 - Design af IIR filtre.pdf",
-    "notes/The Wave Equation.md",
-    "notes/The Heat Equation.md",
-    "notes/Polar Coordinates.md",
-    "notes/Laplace's Equation.md",
-    "Billeder/Pasted image 20231105163245.png",
-    "Billeder/Pasted image 20231102085545.png",
-    "notes/DC Amplification.md",
-    "The Heat Equation.md",
-    "The Wave Equation.md",
-    "notes/Dæmpede Svingninger - Differentialligning.md",
-    "notes/Andenordens inhomogene differentialligninger.md",
-    "notes/Differentialligninger.md",
     "notes/Differensligninger.md",
-    "notes/Poissin's Equation.md",
-    "notes/Laplaces lov.md",
-    "notes/Partial Differential Equations.md",
-    "Lektionsmateriale/Semester 3/signalbehandling/Lektion 5 - Introduktion til z-transformation.pdf",
+    "Pasted image 20231124105848.png",
+    "notes/Classification of Second order PDEs.md",
+    "Lektionsmateriale/Semester 3/signalbehandling/Lektion 11 - Implementering (del 2).pdf",
+    "Lektionsmateriale/Semester 3/signalbehandling/lektion 11 - Design af FIR filtre.pdf",
+    "notes/Fourier-transformation.md",
+    "notes/Fourieseries.md",
+    "notes/Taylorpolynomium.md",
+    "notes/Dæmpede Svingninger - Differentialligning.md",
+    "notes/Unit Sample.md",
+    "Billeder/Pasted image 20231120151321.png",
+    "notes/Transport Layer.md",
+    "Billeder/Pasted image 20231109094441.png",
+    "notes/Step Response.md",
+    "Billeder/Pasted image 20231109085155.png",
+    "notes/Seperation of Variable.md",
+    "Billeder/Pasted image 20231109083656.png",
+    "Billeder/Pasted image 20231109083436.png",
+    "notes/Lineært Tidsinvariant System.md",
+    "Billeder/Pasted image 20231107093152.png",
+    "Billeder/Pasted image 20231107093021.png",
+    "notes/Dæmpede Svingninger - Differentialligning 1.md",
+    "notes/Varmekapacitet.md",
+    "Pasted image 20231120151321.png",
+    "Lektionsmateriale/Semester 3/signalbehandling/Lektion 6 - Systemanalyse i z-domæne.pdf",
     "Lektionsmateriale/Semester 3/signalbehandling/lektion 8 - Introduktion til IIR filtre.pdf",
-    "external/Formelsamling/Mat Formelsamling/Screenshots",
-    "external/Formelsamling/Mat Formelsamling/Formelsamling mat.pdf",
-    "external/Formelsamling/Mat Formelsamling",
-    "external/Formelsamling",
-    "external"
+    "Pasted image 20231109094441.png",
+    "Lektionsmateriale/Semester 3/signalbehandling/lektion 10 - Introduktion til FIR filtre.pdf",
+    "Lektionsmateriale/Semester 3/signalbehandling/Lektion 1 - Filterfunktioner.pdf",
+    "Lektionsmateriale/Semester 3/datacommunication/KOM - lecture 9b - Itslearning.pdf",
+    "Lektionsmateriale/Semester 3/datacommunication/KOM - lecture 9a - Itslearning.pdf",
+    "Lektionsmateriale/Semester 3/signalbehandling/lektion 9 - Design af IIR filtre.pdf",
+    "Lektionsmateriale/Semester 3/signalbehandling/Lektion 5 - Introduktion til z-transformation.pdf"
   ]
 }
