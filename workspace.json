@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classmates/Kasper/C/BIT-wise logical operations.md",
+                "file": "HOME.md",
                 "mode": "preview",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "classmates/Kasper/C/BIT-wise logical operations.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "classmates/Kasper/C/BIT-wise logical operations.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -193,12 +193,16 @@
   },
   "active": "259df2163aafeb8a",
   "lastOpenFiles": [
+    "README.md",
+    "HOME.md",
+    "classmates/Kasper/C/BIT-wise logical operations.md",
+    "Billeder/Pasted image 20231225212534.png",
+    "notes",
     "classmates/Kasper/C/Arithmetic operations.md",
     "classmates/Kasper/Kinematik/Eksamen/Euler and fixed angles.md",
     "classmates/Kasper/SVG fra Remarkable/interactions page 2.svg",
     "classmates/Kasper/lektion 9 - Design af IIR filtre.pdf.md",
     "classmates/Kasper/Jacobian Matrix.md",
-    "HOME.md",
     "Notes/Rotation.md",
     "Templates/subject.md",
     "Templates/Timeline Period.md",
@@ -209,7 +213,6 @@
     "Templates/Personer.md",
     "Templates/Person.md",
     "Templates/Kildekritik.md",
-    "README.md",
     "Templates/default daily note.md",
     "Templates/Gym Path.md",
     "Notes/Normal form of a PDE.md",
@@ -228,7 +231,6 @@
     "Notes/Bilineær z-transformation.md",
     "Lessons/Semester 3/signalbehandling/PDFs",
     "Notes/Filter Transformations.md",
-    "Notes/Bandwidth.md",
     "Lessons/Semester 3/signalbehandling/PDFs/Lektion 6 - Systemanalyse i z-domæne.pdf",
     "Billeder/Newtons Afkølingslov Hældningsfelt.png",
     "Billeder/Logistisk Vækst.png",
@@ -236,8 +238,6 @@
     "Billeder/Jævn Cirkelbevægelse med lod.png",
     "Billeder/Jævn Cirkelbevægelse 2.png",
     "Billeder/Jævn Cirkelbevægelse 1.png",
-    "Billeder/Hældningsfelt i maple.png",
-    "Billeder/Hældningsfelt i maple 2.png",
-    "Lektionsmateriale/Semester 3/signalbehandling/Lektion 6 - Systemanalyse i z-domaene.pdf"
+    "Billeder/Hældningsfelt i maple.png"
   ]
 }
