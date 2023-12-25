@@ -8,5 +8,6 @@
     "cpp"
   ],
   "showViewHeader": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 22
 }
