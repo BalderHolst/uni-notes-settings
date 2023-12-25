@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "477cef2b3f318ca4",
+        "id": "01acd5fd58ca0ca7",
         "type": "tabs",
         "children": [
           {
-            "id": "aba5649cf70a35ab",
+            "id": "16eb81d592c06f7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -191,7 +192,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aba5649cf70a35ab",
+  "active": "16eb81d592c06f7b",
   "lastOpenFiles": [
     "Notes/Rotation.md",
     "HOME.md",
