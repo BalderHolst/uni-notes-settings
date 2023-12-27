@@ -12,5 +12,9 @@
   "obsidian-shellcommands",
   "tag-wrangler",
   "note-refactor-obsidian",
-  "vault-chat"
+  "vault-chat",
+  "settings-search",
+  "omnisearch",
+  "text-extractor",
+  "obsidian-file-cleaner"
 ]

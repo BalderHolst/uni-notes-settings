@@ -1,0 +1,253 @@
+{
+  "settings_version": "0.18.0",
+  "debug": false,
+  "obsidian_command_palette_prefix": "Execute: ",
+  "preview_variables_in_command_palette": true,
+  "show_autocomplete_menu": true,
+  "working_directory": "",
+  "default_shells": {},
+  "environment_variable_path_augmentations": {},
+  "error_message_duration": 20,
+  "notification_message_duration": 10,
+  "execution_notification_mode": "disabled",
+  "output_channel_clipboard_also_outputs_to_notification": true,
+  "enable_events": true,
+  "approve_modals_by_pressing_enter_key": true,
+  "max_visible_lines_in_shell_command_fields": false,
+  "shell_commands": [
+    {
+      "id": "20izjj49wj",
+      "platform_specific_commands": {
+        "default": "echo \"running test shell command\""
+      },
+      "shells": {},
+      "alias": "Test Shell Cmd",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "notification",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [
+        {
+          "type": "prompt",
+          "enabled": false,
+          "prompt_id": ""
+        }
+      ],
+      "variable_default_values": {},
+      "input_contents": {
+        "stdin": null
+      },
+      "output_handling_mode": "buffered"
+    },
+    {
+      "id": "m2axut9dph",
+      "platform_specific_commands": {
+        "default": "echo \"Comitting .obsidian\" && git --git-dir .obsidian/.git --work-tree .obsidian commit -a -m \"$(date +\"%F %H:%M\")\""
+      },
+      "shells": {},
+      "alias": "save settings",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {},
+      "input_contents": {
+        "stdin": null
+      },
+      "output_handling_mode": "buffered"
+    },
+    {
+      "id": "1ophjzhwz9",
+      "platform_specific_commands": {
+        "default": "echo \"backing up settings\" && git -C .obsidian add . && git -C .obsidian commit -a -m \"backup settings\" && git -C .obsidian push"
+      },
+      "shells": {},
+      "alias": "backup settings",
+      "icon": "settings",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "notification",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {},
+      "input_contents": {
+        "stdin": null
+      },
+      "output_handling_mode": "buffered"
+    },
+    {
+      "id": "ythxx8ywlx",
+      "platform_specific_commands": {
+        "default": "ls | grep -e \\.md$ | grep -v \"HOME.md\" | grep -v \"README.md\" | xargs -I{} mv -v \"{}\" notes & \nls | grep -e \"\\.\\(png\\|jpg\\)$\" | grep -v \"HJEM.md\" | grep -v \"README.md\" | xargs -I{} mv -v \"{}\" Billeder"
+      },
+      "shells": {},
+      "alias": "clean",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "notification",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {},
+      "input_contents": {
+        "stdin": null
+      },
+      "output_handling_mode": "buffered"
+    },
+    {
+      "id": "wmxq1npnib",
+      "platform_specific_commands": {
+        "default": "kitty {{vault_path}}"
+      },
+      "shells": {},
+      "alias": "Open Vault in Terminal",
+      "icon": "terminal",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "ignore"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {},
+      "input_contents": {
+        "stdin": null
+      },
+      "output_handling_mode": "buffered"
+    },
+    {
+      "id": "ugrk2pn78m",
+      "platform_specific_commands": {
+        "default": "kitty nvim {{file_path:absolute}}"
+      },
+      "shells": {},
+      "alias": "Open Note in Neovim",
+      "icon": "edit",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "ignore"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {},
+      "input_contents": {
+        "stdin": null
+      },
+      "output_handling_mode": "buffered"
+    },
+    {
+      "id": "9bel068ajr",
+      "platform_specific_commands": {
+        "default": "firefox 'https://www.google.com/search?q={{selection}}'"
+      },
+      "shells": {},
+      "alias": "search on google with firefox",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "input_contents": {
+        "stdin": null
+      },
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "id": "ncnl3g37zf",
+      "platform_specific_commands": {
+        "default": "{{vault_path}}/install.sh --external | sed -r \"s/\\x1B\\[([0-9]{1,3}(;[0-9]{1,2};?)?)?[mGK]//g\""
+      },
+      "shells": {},
+      "alias": "pull external vaults",
+      "icon": "download-cloud",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "input_contents": {
+        "stdin": null
+      },
+      "output_channels": {
+        "stdout": "notification",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    }
+  ],
+  "prompts": [],
+  "builtin_variables": {},
+  "custom_variables": [],
+  "output_wrappers": []
+}
