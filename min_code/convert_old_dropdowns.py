@@ -2,6 +2,7 @@ import re
 from pathlib import Path
 from sys import dont_write_bytecode
 
+
 notes_dir = Path("notes").absolute()
 # out_dir = Path("test_notes")
 out_dir = notes_dir
