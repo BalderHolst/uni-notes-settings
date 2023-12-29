@@ -12,6 +12,9 @@ IGNORED = [
     ".trash"
 ]
 
+global update_count
+update_count = 0
+
 def get_file_modified(path: str):
     if not os.path.exists(path): return datetime.datetime(2000, 1, 1)
 
@@ -34,7 +37,8 @@ def handle_file(path: str):
 
     if not is_outdated: return
 
-    print(f"Updating: {path}...")
+    global update_count
+    update_count += 1
 
     cmd = f"xournalpp -p \"{pdf_file}\" \"{source_file}\" 2> /dev/null"
     subprocess.run(cmd, shell=True)
@@ -54,5 +58,9 @@ def search_dir(dir):
 
 
 if __name__ == "__main__":
-    search_dir("../..")
-    print("Updated Xournal++ Documents!")
+    search_dir(".")
+
+    if update_count == 0:
+        print("All Xoutnal++ documents are already up to date.")
+    else:
+        print(f"Updated {update_count} Xournal++ Documents!")
