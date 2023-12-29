@@ -13,10 +13,12 @@
   "addMatrixBlock_parameter": "pmatrix",
   "autoFraction_toggle": true,
   "autoLargeBracket_toggle": true,
-  "autoSumLimit_toggle": true,
+  "autoSumLimit_toggle": false,
   "autoEncloseSup_toggle": true,
   "autoEncloseSub_toggle": true,
   "encloseSelection_toggle": true,
+  "autoGreekCommandMathMode_toggle": true,
   "customShorthand_toggle": true,
+  "useTabtoComplete_toggle": false,
   "customShorthand_parameter": "bi:\\binom{#cursor}{#tab} #tab;\nsq:\\sqrt{#cursor} #tab;\nbb:\\mathbb{#cursor} #tab;\nbf:\\mathbf{#cursor} #tab;\nte:\\text{#cursor} #tab;\ninf:\\infty #cursor;\ncd:\\cdot #cursor;\nqu:\\quad #cursor;\nti:\\times #cursor;\nal:\\alpha #cursor;\nbe:\\beta #cursor;\nga:\\gamma #cursor;\nGa:\\Gamma #cursor;\nde:\\delta #cursor;\nDe:\\Delta #cursor;\nep:\\epsilon #cursor;\nze:\\zeta #cursor;\net:\\eta #cursor;\nth:\\theta #cursor;\nTh:\\Theta #cursor;\nio:\\iota #cursor;\nka:\\kappa #cursor;\nla:\\lambda #cursor;\nLa:\\Lambda #cursor;\nmu:\\mu #cursor;\nnu:\\nu #cursor;\nxi:\\xi #cursor;\nXi:\\Xi #cursor;\npi:\\pi #cursor;\nPi:\\Pi #cursor;\nrh:\\rho #cursor;\nsi:\\sigma #cursor;\nSi:\\Sigma #cursor;\nta:\\tau #cursor;\nup:\\upsilon #cursor;\nUp:\\Upsilon #cursor;\nph:\\phi #cursor;\nPh:\\Phi #cursor;\nch:\\chi #cursor;\nps:\\psi #cursor;\nPs:\\Psi #cursor;\nom:\\omega #cursor;\nOm:\\Omega #cursor;\nd:\\cdot #cursor"
 }

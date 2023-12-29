@@ -60,7 +60,5 @@ def search_dir(dir):
 if __name__ == "__main__":
     search_dir(".")
 
-    if update_count == 0:
-        print("All Xoutnal++ documents are already up to date.")
-    else:
+    if update_count != 0:
         print(f"Updated {update_count} Xournal++ Documents!")

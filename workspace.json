@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12912a895e40e268",
+        "id": "bac61f2144998c7a",
         "type": "tabs",
         "children": [
           {
-            "id": "e97a62f78c18d4e5",
+            "id": "d4c7eabb3dbda1f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,20 +195,20 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "e97a62f78c18d4e5",
+  "active": "d4c7eabb3dbda1f9",
   "lastOpenFiles": [
+    "README.md",
+    "HOME.md",
     "Lessons/Semester 3/multivariate-math/gamle_eksamensaet/reeksamen-2021-loesning.pdf",
     "Lessons/Semester 3/multivariate-math/gamle_eksamensaet/2022-loesning.pdf",
     "Lessons/Semester 3/multivariate-math/gamle_eksamensaet/2020-loesning.pdf",
     "Lessons/Semester 3/multivariate-math/gamle_eksamensaet/2021-loesning.pdf",
-    "HOME.md",
     "Lessons/Semester 3/multivariate-math/lektion9.pdf",
     "Lessons/Semester 3/multivariate-math/lektion8.pdf",
     "Lessons/Semester 3/multivariate-math/lektion7.pdf",
     "Lessons/Semester 3/multivariate-math/lektion6.pdf",
     "Lessons/Semester 3/multivariate-math/assignment1.pdf",
     "Lessons/Semester 3/multivariate-math/lektion10.pdf",
-    "Lessons/Semester 3/signalbehandling/Exercises/lektion10.xopp~",
     "Notes/Digital Realisation Structures.md",
     "Notes/z-transformation.md",
     "Images/Pasted image 20231229143502.png",
