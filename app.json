@@ -12,6 +12,8 @@
     "downscalePercent": 100
   },
   "userIgnoreFilters": [
-    "External/"
+    "External/",
+    "README",
+    "README.md"
   ]
 }
