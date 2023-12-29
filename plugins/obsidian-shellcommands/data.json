@@ -305,7 +305,7 @@
     {
       "id": "lk7r81vshv",
       "platform_specific_commands": {
-        "default": "find \"$(pwd)\" -type f \\\n\t| grep \".xopp$\" \\\n\t| cut -d \".\" -f1 \\\n\t| xargs -I% sh -c 'xournalpp -p \"%.pdf\" \"%.xopp\" 2> /dev/null && echo -e \"Created: \\\"%.pdf\\\"\"'\n"
+        "default": "./.obsidian/myscripts/update_xournal.py\n"
       },
       "shells": {},
       "alias": "Update xournal PDFs",

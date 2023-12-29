@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f83122d073a611a7",
+        "id": "12912a895e40e268",
         "type": "tabs",
         "children": [
           {
-            "id": "3a8c57fd46c9d919",
+            "id": "e97a62f78c18d4e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,14 +195,21 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "3a8c57fd46c9d919",
+  "active": "e97a62f78c18d4e5",
   "lastOpenFiles": [
-    "Lessons/Semester 3/signalbehandling/Exercises/lektion7.xopp~",
-    "Lessons/Semester 3/multivariate-math/lektion10.pdf",
+    "Lessons/Semester 3/signalbehandling/Exercises/lektion10.xopp~",
+    "Lessons/Semester 3/multivariate-math/lektion9.pdf",
+    "Lessons/Semester 3/multivariate-math/lektion7.pdf",
+    "Lessons/Semester 3/multivariate-math/lektion4.pdf",
     "Lessons/Semester 3/multivariate-math/lektion11.pdf",
+    "Lessons/Semester 3/multivariate-math/lektion10.pdf",
+    "Lessons/Semester 3/multivariate-math/lektion8.pdf",
+    "Lessons/Semester 3/multivariate-math/lektion6.pdf",
+    "HOME.md",
+    "Lessons/Semester 3/signalbehandling/Exercises/lektion7.pdf",
+    "Lessons/Semester 3/signalbehandling/Exercises/lektion7.xopp~",
     "Notes/Digital Realisation Structures.md",
     "Lessons/Semester 3/signalbehandling/Slides/lektion 7 - Digitale realisationsstrukturer.pdf",
-    "HOME.md",
     "Notes/z-transformation.md",
     "Images/Pasted image 20231229143502.png",
     "Images/Pasted image 20231229142917.png",
@@ -210,7 +217,6 @@
     "Images/Pasted image 20231229141244.png",
     "Untitled.canvas",
     "Digital Realisationstructures.md",
-    "4913",
     "Pasted image 20231229143502.png",
     "Pasted image 20231229142917.png",
     "Pasted image 20231229141938.png",
@@ -225,7 +231,6 @@
     "Notes/Approximation.md",
     "Notes/Window Functions.md",
     "Templates/Insert Title.md",
-    "External/Jacob's Notes/PDF'er fra notesbog/exercises 7 - Mat.pdf",
     "External/Kasper's Notes/Airmon wifi bruteforce.md",
     "External/Kasper's Notes/Formelsamling/z-transformation.md",
     "External/Kasper's Notes/Formelsamling/Wave Equation.md",
@@ -237,11 +242,6 @@
     "External/Kasper's Notes/Formelsamling/Surface Integrals.md",
     "External/Kasper's Notes/Formelsamling/Superpositionsintegralet.md",
     "External/Kasper's Notes/Formelsamling/Stabilitet i et System.md",
-    "External/Kasper's Notes/Formelsamling",
-    "Lessons/Semester 3/signalbehandling/Exercises/lektion8.pdf",
-    "Lessons/Semester 3/signalbehandling/Exercises/lektion9.pdf",
-    "Lessons/Semester 3/signalbehandling/Exercises/lektion8-kasper.pdf",
-    "Lessons/Semester 3/signalbehandling/Exercises/test-exam.pdf",
     "External/Kasper's Notes/Misc og Links/Pasted image 20231110214757 1.png",
     "Pasted image 20231009003729.png"
   ]
