@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
-                "mode": "preview",
+                "file": "Integral Table.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "Integral Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "Integral Table.md"
               }
             }
           },
@@ -198,10 +198,19 @@
   },
   "active": "7f525aeb2dad4006",
   "lastOpenFiles": [
+    "Notes/Laplace Transformation.md",
+    "Notes/Differential Equations.md",
+    "Lessons/Semester 1/math/ODE-Summary.pdf",
+    "ODE-Summary.pdf",
+    "Notes/Laplace's Equation.md",
+    "Integral Table.md",
+    "4913",
+    "Notes/Integraler Regneregler.md",
+    "HOME.md",
+    "integral-table.tex",
     "Lessons/Semester 3/multivariable-math/lektion5.xopp~",
     "External/Kasper's Notes/Multivariable Calculus/Opgaver/Line integrals 1.pdf",
     "External/Kasper's Notes/Multivariable Calculus/Opgaver/Flux.pdf",
-    "HOME.md",
     "Notes/Jacobian Matrix.md",
     "Pasted image 20231230195705.png",
     "Notes/Jacobian Matrix for Robotics.md",
@@ -217,14 +226,9 @@
     "Lessons/Semester 3/multivariable-math/lektion5.xopp",
     "Lessons/Semester 3/multivariate-math/lektion6.xopp~",
     "Notes/Line Integrals.md",
-    "Lessons/Semester 3/multivariable-math/lektion6.pdf",
     "Notes/Vector Fields.md",
     "Notes/Vektorer.md",
     "README.md",
-    "Lessons/Semester 3/multivariable-math/gamle_eksamensaet/reeksamen-2021-loesning.pdf",
-    "Lessons/Semester 3/multivariable-math/gamle_eksamensaet/2022-loesning.pdf",
-    "Lessons/Semester 3/multivariable-math/gamle_eksamensaet/2020-loesning.pdf",
-    "Lessons/Semester 3/multivariable-math/gamle_eksamensaet/2021-loesning.pdf",
     "Notes/Digital Realisation Structures.md",
     "Notes/z-transformation.md",
     "Images/Pasted image 20231229143502.png",
@@ -237,13 +241,9 @@
     "Pasted image 20231229142917.png",
     "Notes/Bilineær z-transformation.md",
     "Notes/Matched z-transformation.md",
-    "Notes/Laplace Transformation.md",
     "Notes/Multivariable Math.md",
     "Notes/Signal Processing.md",
     "Notes/Matricer.md",
-    "Notes/Approximation.md",
-    "Notes/Window Functions.md",
-    "Templates/Insert Title.md",
-    "External/Kasper's Notes/Airmon wifi bruteforce.md"
+    "Notes/Approximation.md"
   ]
 }
