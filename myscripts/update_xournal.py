@@ -9,8 +9,7 @@ IGNORED = [
     ".obsidian",
     "External",
     "Excalidraw",
-    ".trash"
-]
+    ".trash" ]
 
 global update_count
 update_count = 0
@@ -61,4 +60,6 @@ if __name__ == "__main__":
     search_dir(".")
 
     if update_count != 0:
-        print(f"Updated {update_count} Xournal++ Documents!")
+        s = f"Updated {update_count} Xournal++ Documents!"
+        if update_count == 1: s = s[:-2] + "!"
+        print(s)

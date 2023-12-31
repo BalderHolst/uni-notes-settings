@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bac61f2144998c7a",
+        "id": "df286f6703ca1f5d",
         "type": "tabs",
         "children": [
           {
-            "id": "d4c7eabb3dbda1f9",
+            "id": "7f525aeb2dad4006",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537
+    "width": 327.5055751800537,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -96,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "matrix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,20 +196,35 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "d4c7eabb3dbda1f9",
+  "active": "7f525aeb2dad4006",
   "lastOpenFiles": [
-    "README.md",
+    "Lessons/Semester 3/multivariable-math/lektion5.xopp~",
+    "External/Kasper's Notes/Multivariable Calculus/Opgaver/Line integrals 1.pdf",
+    "External/Kasper's Notes/Multivariable Calculus/Opgaver/Flux.pdf",
     "HOME.md",
-    "Lessons/Semester 3/multivariate-math/gamle_eksamensaet/reeksamen-2021-loesning.pdf",
-    "Lessons/Semester 3/multivariate-math/gamle_eksamensaet/2022-loesning.pdf",
-    "Lessons/Semester 3/multivariate-math/gamle_eksamensaet/2020-loesning.pdf",
-    "Lessons/Semester 3/multivariate-math/gamle_eksamensaet/2021-loesning.pdf",
-    "Lessons/Semester 3/multivariate-math/lektion9.pdf",
-    "Lessons/Semester 3/multivariate-math/lektion8.pdf",
-    "Lessons/Semester 3/multivariate-math/lektion7.pdf",
-    "Lessons/Semester 3/multivariate-math/lektion6.pdf",
-    "Lessons/Semester 3/multivariate-math/assignment1.pdf",
-    "Lessons/Semester 3/multivariate-math/lektion10.pdf",
+    "Notes/Jacobian Matrix.md",
+    "Pasted image 20231230195705.png",
+    "Notes/Jacobian Matrix for Robotics.md",
+    "Notes/Change of Variables.md",
+    "Images/Pasted image 20231230193938.png",
+    "Jacobian Matrix.md",
+    "Notes/Polar Coordinates.md",
+    "Pasted image 20231230193938.png",
+    "Pasted image 20231230193724.png",
+    "Change of Variables.md",
+    "Notes/Spherical Coordinates.md",
+    "Lessons/Semester 3/multivariable-math/lektion5.pdf",
+    "Lessons/Semester 3/multivariable-math/lektion5.xopp",
+    "Lessons/Semester 3/multivariate-math/lektion6.xopp~",
+    "Notes/Line Integrals.md",
+    "Lessons/Semester 3/multivariable-math/lektion6.pdf",
+    "Notes/Vector Fields.md",
+    "Notes/Vektorer.md",
+    "README.md",
+    "Lessons/Semester 3/multivariable-math/gamle_eksamensaet/reeksamen-2021-loesning.pdf",
+    "Lessons/Semester 3/multivariable-math/gamle_eksamensaet/2022-loesning.pdf",
+    "Lessons/Semester 3/multivariable-math/gamle_eksamensaet/2020-loesning.pdf",
+    "Lessons/Semester 3/multivariable-math/gamle_eksamensaet/2021-loesning.pdf",
     "Notes/Digital Realisation Structures.md",
     "Notes/z-transformation.md",
     "Images/Pasted image 20231229143502.png",
@@ -219,30 +235,15 @@
     "Digital Realisationstructures.md",
     "Pasted image 20231229143502.png",
     "Pasted image 20231229142917.png",
-    "Pasted image 20231229141938.png",
-    "Pasted image 20231229141244.png",
     "Notes/Bilineær z-transformation.md",
     "Notes/Matched z-transformation.md",
     "Notes/Laplace Transformation.md",
     "Notes/Multivariable Math.md",
-    "Notes/Vektorer.md",
     "Notes/Signal Processing.md",
     "Notes/Matricer.md",
     "Notes/Approximation.md",
     "Notes/Window Functions.md",
     "Templates/Insert Title.md",
-    "External/Kasper's Notes/Airmon wifi bruteforce.md",
-    "External/Kasper's Notes/Formelsamling/z-transformation.md",
-    "External/Kasper's Notes/Formelsamling/Wave Equation.md",
-    "External/Kasper's Notes/Formelsamling/Vinduesfunktion.md",
-    "External/Kasper's Notes/Formelsamling/Vector Fields.md",
-    "External/Kasper's Notes/Formelsamling/Triple Integration.md",
-    "External/Kasper's Notes/Formelsamling/Taylor.md",
-    "External/Kasper's Notes/Formelsamling/Tangent Plane.md",
-    "External/Kasper's Notes/Formelsamling/Surface Integrals.md",
-    "External/Kasper's Notes/Formelsamling/Superpositionsintegralet.md",
-    "External/Kasper's Notes/Formelsamling/Stabilitet i et System.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20231110214757 1.png",
-    "Pasted image 20231009003729.png"
+    "External/Kasper's Notes/Airmon wifi bruteforce.md"
   ]
 }
