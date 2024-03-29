@@ -4,23 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "df286f6703ca1f5d",
+        "id": "419d298486c24924",
         "type": "tabs",
         "children": [
           {
-            "id": "7f525aeb2dad4006",
+            "id": "fa0894193214a23d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integral Table.md",
-                "mode": "source",
+                "file": "HOME.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,6 +57,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "d8f75e9e67352fd5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ]
       }
@@ -80,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integral Table.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,21 +102,6 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "11f4305a6a202eb4",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "matrix",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integral Table.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -173,9 +172,17 @@
               "type": "note-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "b0337735c4930af8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -188,62 +195,62 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "mathpad:Open Mathpad": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
+      "mathpad:Open Mathpad": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "7f525aeb2dad4006",
+  "active": "fa0894193214a23d",
   "lastOpenFiles": [
-    "Notes/Laplace Transformation.md",
-    "Notes/Differential Equations.md",
-    "Lessons/Semester 1/math/ODE-Summary.pdf",
-    "ODE-Summary.pdf",
-    "Notes/Laplace's Equation.md",
-    "Integral Table.md",
-    "4913",
-    "Notes/Integraler Regneregler.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240327094120.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240327093812.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240327093756.png",
+    "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/SPI(Serial Peripheral Interface-bus).md",
+    "Lessons/Semester 4/regulation/Lecture 7 - Dynamic Compensators and Stability Margins.pdf",
+    "Dynamic Compensation.md",
     "HOME.md",
-    "integral-table.tex",
-    "Lessons/Semester 3/multivariable-math/lektion5.xopp~",
-    "External/Kasper's Notes/Multivariable Calculus/Opgaver/Line integrals 1.pdf",
-    "External/Kasper's Notes/Multivariable Calculus/Opgaver/Flux.pdf",
-    "Notes/Jacobian Matrix.md",
-    "Pasted image 20231230195705.png",
-    "Notes/Jacobian Matrix for Robotics.md",
-    "Notes/Change of Variables.md",
-    "Images/Pasted image 20231230193938.png",
-    "Jacobian Matrix.md",
-    "Notes/Polar Coordinates.md",
-    "Pasted image 20231230193938.png",
-    "Pasted image 20231230193724.png",
-    "Change of Variables.md",
-    "Notes/Spherical Coordinates.md",
-    "Lessons/Semester 3/multivariable-math/lektion5.pdf",
-    "Lessons/Semester 3/multivariable-math/lektion5.xopp",
-    "Lessons/Semester 3/multivariate-math/lektion6.xopp~",
-    "Notes/Line Integrals.md",
-    "Notes/Vector Fields.md",
-    "Notes/Vektorer.md",
-    "README.md",
-    "Notes/Digital Realisation Structures.md",
-    "Notes/z-transformation.md",
-    "Images/Pasted image 20231229143502.png",
-    "Images/Pasted image 20231229142917.png",
-    "Images/Pasted image 20231229141938.png",
-    "Images/Pasted image 20231229141244.png",
-    "Untitled.canvas",
-    "Digital Realisationstructures.md",
-    "Pasted image 20231229143502.png",
-    "Pasted image 20231229142917.png",
-    "Notes/Bilineær z-transformation.md",
-    "Notes/Matched z-transformation.md",
-    "Notes/Multivariable Math.md",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/Lead & Lag kompensatorer.md",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/Stability Margin Gain and Phase.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240322095758.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240322095745.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240322095722.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240322095708.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240322095645.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240322095631.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240322095053.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240322095045.png",
+    "Notes/Bode Plot.md",
+    "Lessons/Semester 4/regulation/drawn_bode_plots.pdf",
+    "Lessons/Semester 4/regulation/drawn_bode_plots.xopp~",
+    "Lessons/Semester 4/regulation/drawn_bode_plots.xopp",
+    "Gain Margins.md",
+    "Neutral Stability.md",
+    "Differentiator.md",
+    "Integrator.md",
+    "Notes/Interupts.md",
     "Notes/Signal Processing.md",
-    "Notes/Matricer.md",
-    "Notes/Approximation.md"
+    "External/Kasper's Notes/Digital Programmerbar elektronik/Digital Assignment.md",
+    "Notes/Gradient.md",
+    "Notes/Signal Bandwidth.md",
+    "Notes/Nyquist Stability.md",
+    "Notes/Neutral Stability.md",
+    "Hlaejflsjef.md",
+    "Notes/Funktioner af flere Variable.md",
+    "Notes/Planer.md",
+    "Notes/State Space Models.md",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/Diff og Integrator.pdf",
+    "External/Kasper's Notes/Indlejret Programmering/Noter/RTCS - Scheduler API.md",
+    "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/Keypad Encoder.md",
+    "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/Complex Comaparator.md",
+    "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/Comparators.md",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/Root_locus.pdf",
+    "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf",
+    "Lessons/Semester 4/regulation/Lecture 6 - Nyquist Stability Criterion.pdf",
+    "External/Kasper's Notes/Forstærkerteknik/Opgaver/lektion2 operationsforstærkere.pdf",
+    "External/Kasper's Notes/Forstærkerteknik/Opgaver",
+    "Untitled.canvas"
   ]
 }

@@ -209,13 +209,13 @@
       "key": "F"
     }
   ],
-  "editor:open-search": [],
-  "omnisearch:show-modal-infile": [
+  "editor:open-search": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "F"
     }
-  ]
+  ],
+  "obsidian-excalidraw-plugin:toggle-lock": []
 }

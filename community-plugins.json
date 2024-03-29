@@ -5,16 +5,16 @@
   "obsidian-latex",
   "homepage",
   "mathpad",
-  "obsidian-git",
   "quick-latex",
   "text-snippets-obsidian",
   "templater-obsidian",
   "obsidian-shellcommands",
   "tag-wrangler",
   "note-refactor-obsidian",
-  "vault-chat",
   "settings-search",
   "omnisearch",
   "text-extractor",
-  "obsidian-file-cleaner"
+  "obsidian-file-cleaner",
+  "obsidian-local-images",
+  "obsidian-git"
 ]
