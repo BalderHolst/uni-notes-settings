@@ -115,8 +115,9 @@
       },
       "output_channel_order": "stdout-first",
       "events": {
-        "on-quit": {
-          "enabled": true
+        "every-n-seconds": {
+          "enabled": true,
+          "seconds": 1200
         }
       },
       "command_palette_availability": "enabled",
