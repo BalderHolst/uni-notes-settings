@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6633767ba0fe20fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schmitt Trigger.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "Schmitt Trigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "Schmitt Trigger.md"
               }
             }
           },
@@ -202,14 +215,19 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "ac47041d6f001a7a",
+  "active": "6633767ba0fe20fe",
   "lastOpenFiles": [
+    "Pasted image 20240402094821.png",
+    "Pasted image 20240402094752.png",
+    "Schmitt Trigger.md",
+    "Pasted image 20240402094651.png",
+    "Pasted image 20240402094546.png",
+    "HOME.md",
     "Pasted image 20240402091312.png",
     "FAN-OUT.md",
     "Komparator.md",
     "Notes/Operationsforstærker.md",
     "Pasted image 20240402084028.png",
-    "HOME.md",
     "External/Kasper's Notes/Datateknik/PWM (pulse width modulation).md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240327094120.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240327093812.png",
@@ -220,11 +238,6 @@
     "External/Kasper's Notes/Reguleringsteknik/Noter/Lead & Lag kompensatorer.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Stability Margin Gain and Phase.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240322095758.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240322095745.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240322095722.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240322095708.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240322095645.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240322095631.png",
     "Notes/Bode Plot.md",
     "Lessons/Semester 4/regulation/drawn_bode_plots.pdf",
     "Lessons/Semester 4/regulation/drawn_bode_plots.xopp~",
@@ -243,7 +256,6 @@
     "Hlaejflsjef.md",
     "Notes/Funktioner af flere Variable.md",
     "Notes/Planer.md",
-    "Notes/State Space Models.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Diff og Integrator.pdf",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Root_locus.pdf",
     "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf",
