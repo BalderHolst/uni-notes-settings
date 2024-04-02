@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f0c5f2dd229b1b83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Latch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schmitt Trigger.md",
+                "file": "Latch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schmitt Trigger.md"
+                "file": "Latch.md"
               }
             }
           },
@@ -215,11 +227,15 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "6633767ba0fe20fe",
+  "active": "524de691a50000f6",
   "lastOpenFiles": [
+    "Lessons/Semester 4/Elektronik/Lektion 5.pdf",
+    "Lessons/Semester 4/Elektronik",
+    "Pasted image 20240402113434.png",
+    "Schmitt Trigger.md",
+    "Latch.md",
     "Pasted image 20240402094821.png",
     "Pasted image 20240402094752.png",
-    "Schmitt Trigger.md",
     "Pasted image 20240402094651.png",
     "Pasted image 20240402094546.png",
     "HOME.md",
@@ -237,7 +253,6 @@
     "Dynamic Compensation.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Lead & Lag kompensatorer.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Stability Margin Gain and Phase.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240322095758.png",
     "Notes/Bode Plot.md",
     "Lessons/Semester 4/regulation/drawn_bode_plots.pdf",
     "Lessons/Semester 4/regulation/drawn_bode_plots.xopp~",
@@ -255,13 +270,11 @@
     "Notes/Neutral Stability.md",
     "Hlaejflsjef.md",
     "Notes/Funktioner af flere Variable.md",
-    "Notes/Planer.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Diff og Integrator.pdf",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Root_locus.pdf",
     "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf",
     "Lessons/Semester 4/regulation/Lecture 6 - Nyquist Stability Criterion.pdf",
     "External/Kasper's Notes/Forstærkerteknik/Opgaver/lektion2 operationsforstærkere.pdf",
-    "External/Kasper's Notes/Forstærkerteknik/Opgaver",
     "Untitled.canvas"
   ]
 }
