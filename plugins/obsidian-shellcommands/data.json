@@ -114,7 +114,11 @@
         "stderr": null
       },
       "output_channel_order": "stdout-first",
-      "events": {},
+      "events": {
+        "on-quit": {
+          "enabled": true
+        }
+      },
       "command_palette_availability": "enabled",
       "preactions": [],
       "variable_default_values": {},
