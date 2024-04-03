@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "Notes/Flytningsformlen.md",
                 "mode": "preview",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "Notes/Flytningsformlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "Notes/Flytningsformlen.md"
               }
             }
           },
@@ -214,10 +214,10 @@
   },
   "active": "f0c5f2dd229b1b83",
   "lastOpenFiles": [
+    "HOME.md",
     "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf",
     "Notes/Inertimoment.md",
     "Notes/Rotation.md",
-    "HOME.md",
     "External/Kasper's Notes/Forstærkningsteknik/Noter/Biaskompensator og biasstrøm.md",
     "Lessons/Semester 4/Elektronik/Lektion 5.pdf",
     "Lessons/Semester 4/Elektronik",
