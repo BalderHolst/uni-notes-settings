@@ -8,7 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac47041d6f001a7a",
+            "id": "6633767ba0fe20fe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0c5f2dd229b1b83",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,33 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6633767ba0fe20fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schmitt Trigger.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0c5f2dd229b1b83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Latch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537
+    "width": 327.5055751800537,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -118,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latch.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latch.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -227,8 +212,13 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "524de691a50000f6",
+  "active": "f0c5f2dd229b1b83",
   "lastOpenFiles": [
+    "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf",
+    "Notes/Inertimoment.md",
+    "Notes/Rotation.md",
+    "HOME.md",
+    "External/Kasper's Notes/Forstærkningsteknik/Noter/Biaskompensator og biasstrøm.md",
     "Lessons/Semester 4/Elektronik/Lektion 5.pdf",
     "Lessons/Semester 4/Elektronik",
     "Pasted image 20240402113434.png",
@@ -238,7 +228,6 @@
     "Pasted image 20240402094752.png",
     "Pasted image 20240402094651.png",
     "Pasted image 20240402094546.png",
-    "HOME.md",
     "Pasted image 20240402091312.png",
     "FAN-OUT.md",
     "Komparator.md",
@@ -267,14 +256,9 @@
     "Notes/Gradient.md",
     "Notes/Signal Bandwidth.md",
     "Notes/Nyquist Stability.md",
-    "Notes/Neutral Stability.md",
-    "Hlaejflsjef.md",
-    "Notes/Funktioner af flere Variable.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Diff og Integrator.pdf",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Root_locus.pdf",
-    "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf",
     "Lessons/Semester 4/regulation/Lecture 6 - Nyquist Stability Criterion.pdf",
-    "External/Kasper's Notes/Forstærkerteknik/Opgaver/lektion2 operationsforstærkere.pdf",
     "Untitled.canvas"
   ]
 }
