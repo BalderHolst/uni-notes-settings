@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537
+    "width": 327.5055751800537,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -217,6 +218,7 @@
   },
   "active": "e800b5264d4c2af5",
   "lastOpenFiles": [
+    "Pasted image 20240405084122.png",
     "Notes/Flytningsformlen.md",
     "Anti-Windup.md",
     "Pasted image 20240405083422.png",
@@ -260,7 +262,6 @@
     "Lessons/Semester 4/regulation/drawn_bode_plots.xopp",
     "Gain Margins.md",
     "Neutral Stability.md",
-    "Differentiator.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Diff og Integrator.pdf",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Root_locus.pdf",
     "Untitled.canvas"
