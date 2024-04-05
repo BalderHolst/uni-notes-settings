@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/PID-controller.md",
+                "file": "Notes/Signal Processing.md",
                 "mode": "preview",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#signalprocessing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/PID-controller.md",
+                "file": "Notes/Signal Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/PID-controller.md"
+                "file": "Notes/Signal Processing.md"
               }
             }
           },
@@ -222,6 +223,10 @@
   },
   "active": "98e1659de0d6b803",
   "lastOpenFiles": [
+    "Notes/z-transformation.md",
+    "Notes/Bilineær z-transformation.md",
+    "Notes/Feedback Control.md",
+    "Notes/PID-controller.md",
     "Notes/Digitization.md",
     "HOME.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Discrete Design.md",
@@ -258,10 +263,6 @@
     "Schmitt Trigger.md",
     "Latch.md",
     "FAN-OUT.md",
-    "Komparator.md",
-    "Notes/Operationsforstærker.md",
-    "External/Kasper's Notes/Datateknik/PWM (pulse width modulation).md",
-    "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/SPI(Serial Peripheral Interface-bus).md",
     "Lessons/Semester 4/regulation/Lecture 7 - Dynamic Compensators and Stability Margins.pdf",
     "Lessons/Semester 4/regulation/drawn_bode_plots.pdf",
     "Lessons/Semester 4/regulation/drawn_bode_plots.xopp~",
