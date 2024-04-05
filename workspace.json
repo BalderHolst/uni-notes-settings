@@ -11,18 +11,22 @@
             "id": "6633767ba0fe20fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           },
           {
-            "id": "f0c5f2dd229b1b83",
+            "id": "e800b5264d4c2af5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Flytningsformlen.md",
-                "mode": "preview",
+                "file": "Anti-Windup.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537,
-    "collapsed": true
+    "width": 327.5055751800537
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -103,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Flytningsformlen.md",
+                "file": "Anti-Windup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Flytningsformlen.md"
+                "file": "Anti-Windup.md"
               }
             }
           },
@@ -212,31 +215,40 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "f0c5f2dd229b1b83",
+  "active": "e800b5264d4c2af5",
   "lastOpenFiles": [
+    "Notes/Flytningsformlen.md",
+    "Anti-Windup.md",
+    "Pasted image 20240405083422.png",
+    "Pasted image 20240405082915.png",
+    "Pasted image 20240405082809.png",
+    "Pasted image 20240405082733.png",
+    "Pasted image 20240405082831.png",
     "HOME.md",
+    "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf",
+    "External/Kasper's Notes/PWM signal.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240403133545.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240403133542.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240403133520.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240403130744.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240403130614.png",
+    "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/Subtractors.md",
+    "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/Multiplication.md",
+    "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/Divider.md",
+    "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/D-type latch.md",
+    "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/Adders.md",
     "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf",
     "Notes/Inertimoment.md",
     "Notes/Rotation.md",
     "External/Kasper's Notes/Forstærkningsteknik/Noter/Biaskompensator og biasstrøm.md",
     "Lessons/Semester 4/Elektronik/Lektion 5.pdf",
     "Lessons/Semester 4/Elektronik",
-    "Pasted image 20240402113434.png",
     "Schmitt Trigger.md",
     "Latch.md",
-    "Pasted image 20240402094821.png",
-    "Pasted image 20240402094752.png",
-    "Pasted image 20240402094651.png",
-    "Pasted image 20240402094546.png",
-    "Pasted image 20240402091312.png",
     "FAN-OUT.md",
     "Komparator.md",
     "Notes/Operationsforstærker.md",
-    "Pasted image 20240402084028.png",
     "External/Kasper's Notes/Datateknik/PWM (pulse width modulation).md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240327094120.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240327093812.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240327093756.png",
     "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/SPI(Serial Peripheral Interface-bus).md",
     "Lessons/Semester 4/regulation/Lecture 7 - Dynamic Compensators and Stability Margins.pdf",
     "Dynamic Compensation.md",
@@ -249,16 +261,8 @@
     "Gain Margins.md",
     "Neutral Stability.md",
     "Differentiator.md",
-    "Integrator.md",
-    "Notes/Interupts.md",
-    "Notes/Signal Processing.md",
-    "External/Kasper's Notes/Digital Programmerbar elektronik/Digital Assignment.md",
-    "Notes/Gradient.md",
-    "Notes/Signal Bandwidth.md",
-    "Notes/Nyquist Stability.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Diff og Integrator.pdf",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Root_locus.pdf",
-    "Lessons/Semester 4/regulation/Lecture 6 - Nyquist Stability Criterion.pdf",
     "Untitled.canvas"
   ]
 }
