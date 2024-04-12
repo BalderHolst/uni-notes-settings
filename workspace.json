@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "940cb18ceeb76c6b",
+            "id": "933504bfefd90525",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,43 @@
             }
           },
           {
-            "id": "933504bfefd90525",
+            "id": "53c726c96e603e5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "State Machines.md",
+                "file": "State Feedback.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2293881ecda9b6fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Controllability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59779dc3cfa382af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/State Space Models.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State Machines.md",
+                "file": "Controllability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,16 +161,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "92417d735f4c2838",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "State Machines.md"
               }
             }
           },
@@ -195,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -216,20 +230,26 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "933504bfefd90525",
+  "active": "2293881ecda9b6fd",
   "lastOpenFiles": [
-    "README.md",
-    "Pasted image 20240410115246.png",
-    "Pasted image 20240410115116.png",
-    "State Machines.md",
-    "Pasted image 20240410115300.png",
+    "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
+    "Notes/State Space Models.md",
+    "State Feedback.md",
+    "Controllability.md",
     "HOME.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240408132958.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240408132848.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240408132829.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240408132815.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240408132743.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240408125722.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240410125113.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240410125053.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240410125033.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240410124911.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240410124834.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240410124806.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240410124804.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240410124752.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240410124738.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240410124126.png",
+    "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/LCD Driver FPGA.md",
+    "README.md",
+    "State Machines.md",
     "External/Kasper's Notes/Indlejret Programmering/Noter/printf().md",
     "External/Kasper's Notes/Indlejret Programmering/Noter/RTCS (Run to Complete Scheduling).md",
     "Notes/z-transformation.md",
@@ -240,7 +260,6 @@
     "External/Kasper's Notes/Reguleringsteknik/Noter/Discrete Design.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Digitization.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Anti-Windup.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240405094525.png",
     "PID-controller.md",
     "Digitization.md",
     "External/Jacob's Notes/UNI Notes/Reguleringsteknik/The PID-controller.md",
@@ -250,12 +269,7 @@
     "External/Kasper's Notes/PWM signal.md",
     "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/Subtractors.md",
     "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/Multiplication.md",
-    "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/Divider.md",
-    "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/D-type latch.md",
-    "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/Adders.md",
     "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf",
-    "Notes/Inertimoment.md",
-    "Notes/Rotation.md",
     "Lessons/Semester 4/Elektronik/Lektion 5.pdf",
     "Lessons/Semester 4/Elektronik",
     "Lessons/Semester 4/regulation/Lecture 7 - Dynamic Compensators and Stability Margins.pdf",
@@ -263,7 +277,6 @@
     "Lessons/Semester 4/regulation/drawn_bode_plots.xopp~",
     "Lessons/Semester 4/regulation/drawn_bode_plots.xopp",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Diff og Integrator.pdf",
-    "External/Kasper's Notes/Reguleringsteknik/Noter/Root_locus.pdf",
     "Untitled.canvas"
   ]
 }
