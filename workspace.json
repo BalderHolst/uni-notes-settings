@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/State Space Models.md",
+                "file": "State Feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,15 +242,15 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "7a0474ec56186e2c",
+  "active": "53c726c96e603e5d",
   "lastOpenFiles": [
+    "Notes/State Space Models.md",
     "Notes/Root Locus Tuning.md",
     "Controllable Canonical Form.md",
     "State Feedback.md",
     "Controllability.md",
     "4913",
     "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
-    "Notes/State Space Models.md",
     "HOME.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240410125113.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240410125053.png",
