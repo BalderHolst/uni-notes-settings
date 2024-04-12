@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "7a0474ec56186e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/State Space Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2293881ecda9b6fd",
             "type": "leaf",
             "state": {
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Controllability.md",
+                "file": "Notes/State Space Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,12 +242,15 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "2293881ecda9b6fd",
+  "active": "7a0474ec56186e2c",
   "lastOpenFiles": [
-    "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
-    "Notes/State Space Models.md",
+    "Notes/Root Locus Tuning.md",
+    "Controllable Canonical Form.md",
     "State Feedback.md",
     "Controllability.md",
+    "4913",
+    "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
+    "Notes/State Space Models.md",
     "HOME.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240410125113.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240410125053.png",
@@ -268,7 +283,6 @@
     "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf",
     "External/Kasper's Notes/PWM signal.md",
     "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/Subtractors.md",
-    "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/Multiplication.md",
     "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf",
     "Lessons/Semester 4/Elektronik/Lektion 5.pdf",
     "Lessons/Semester 4/Elektronik",
@@ -276,7 +290,6 @@
     "Lessons/Semester 4/regulation/drawn_bode_plots.pdf",
     "Lessons/Semester 4/regulation/drawn_bode_plots.xopp~",
     "Lessons/Semester 4/regulation/drawn_bode_plots.xopp",
-    "External/Kasper's Notes/Reguleringsteknik/Noter/Diff og Integrator.pdf",
     "Untitled.canvas"
   ]
 }
