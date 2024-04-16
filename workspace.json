@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Differensligninger.md",
+                "file": "Notes/PID-controller.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Differensligninger.md",
+                "file": "Notes/PID-controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Differensligninger.md"
+                "file": "Notes/PID-controller.md"
               }
             }
           }
@@ -223,8 +223,10 @@
   },
   "active": "53c726c96e603e5d",
   "lastOpenFiles": [
-    "Notes/Digitization.md",
     "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf",
+    "Notes/PID-controller.md",
+    "Notes/Digitization.md",
+    "Notes/Differensligninger.md",
     "Pasted image 20240416084917.png",
     "Pasted image 20240416084850.png",
     "Pasted image 20240416084756.png",
@@ -256,11 +258,9 @@
     "Notes/z-transformation.md",
     "Notes/Bilineær z-transformation.md",
     "Notes/Feedback Control.md",
-    "Notes/PID-controller.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Discrete Design.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Digitization.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Anti-Windup.md",
-    "PID-controller.md",
     "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf",
     "Lessons/Semester 4/Elektronik/Lektion 5.pdf",
     "Lessons/Semester 4/Elektronik",
