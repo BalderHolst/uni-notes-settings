@@ -8,38 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "933504bfefd90525",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOME.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "53c726c96e603e5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "State Feedback.md",
+                "file": "Notes/Differensligninger.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a0474ec56186e2c",
+            "id": "fa4bed7436bda6e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/State Space Models.md",
-                "mode": "source",
-                "source": false
+                "file": "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf"
               }
             }
           },
@@ -47,28 +33,11 @@
             "id": "2293881ecda9b6fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Controllability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59779dc3cfa382af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/State Space Models.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State Feedback.md",
+                "file": "Notes/Differensligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,6 +188,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "0b5dfe39c5c75396",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Differensligninger.md"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -244,6 +223,24 @@
   },
   "active": "53c726c96e603e5d",
   "lastOpenFiles": [
+    "Notes/Digitization.md",
+    "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf",
+    "Pasted image 20240416084917.png",
+    "Pasted image 20240416084850.png",
+    "Pasted image 20240416084756.png",
+    "Pasted image 20240416084719.png",
+    "HOME.md",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/State Feedback.md",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/Controllable Canonical Form.md",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/Condition for Controllability.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240415125744.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240415125122.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240415125058.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240412094011.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240412094000.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240412093837.png",
+    "External/Kasper's Notes/Indlejret Programmering/Noter/FreeRTOS (Real Time Operating System).md",
+    "External/Kasper's Notes/Indlejret Programmering/Noter/Drawing 2024-04-15 13.39.03.excalidraw.md",
     "Notes/State Space Models.md",
     "Notes/Root Locus Tuning.md",
     "Controllable Canonical Form.md",
@@ -251,17 +248,6 @@
     "Controllability.md",
     "4913",
     "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
-    "HOME.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240410125113.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240410125053.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240410125033.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240410124911.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240410124834.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240410124806.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240410124804.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240410124752.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240410124738.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240410124126.png",
     "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/LCD Driver FPGA.md",
     "README.md",
     "State Machines.md",
@@ -271,18 +257,10 @@
     "Notes/Bilineær z-transformation.md",
     "Notes/Feedback Control.md",
     "Notes/PID-controller.md",
-    "Notes/Digitization.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Discrete Design.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Digitization.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Anti-Windup.md",
     "PID-controller.md",
-    "Digitization.md",
-    "External/Jacob's Notes/UNI Notes/Reguleringsteknik/The PID-controller.md",
-    "Anti-Windup.md",
-    "Notes/Flytningsformlen.md",
-    "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf",
-    "External/Kasper's Notes/PWM signal.md",
-    "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/Subtractors.md",
     "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf",
     "Lessons/Semester 4/Elektronik/Lektion 5.pdf",
     "Lessons/Semester 4/Elektronik",
