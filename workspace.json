@@ -23,9 +23,11 @@
             "id": "2174e91ea43b7762",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf"
+                "file": "Observability.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
+                "file": "Observability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf"
+                "file": "Observability.md"
               }
             }
           }
@@ -216,10 +218,11 @@
   },
   "active": "2174e91ea43b7762",
   "lastOpenFiles": [
+    "Pasted image 20240419084942.png",
+    "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
     "Observability.md",
     "Notes/Rang af Matrix.md",
     "Notes/Determinanen for Matricer.md",
-    "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
     "HOME.md",
     "External/Kasper's Notes/Luft tæt filament kammer.md",
     "External/Kasper's Notes/FreeRTOS/toc.md",
@@ -261,7 +264,6 @@
     "External/Kasper's Notes/FreeRTOS/abbreviations.md",
     "External/Kasper's Notes/FreeRTOS/SECURITY.md",
     "External/Kasper's Notes/FreeRTOS/README.md",
-    "External/Kasper's Notes/FreeRTOS/CONTRIBUTING.md",
     "Untitled.canvas"
   ]
 }
