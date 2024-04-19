@@ -8,36 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53c726c96e603e5d",
+            "id": "2293881ecda9b6fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/PID-controller.md",
-                "mode": "source",
+                "file": "HOME.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "fa4bed7436bda6e4",
+            "id": "2174e91ea43b7762",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf"
+                "file": "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf"
               }
             }
-          },
-          {
-            "id": "2293881ecda9b6fd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/PID-controller.md",
+                "file": "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/PID-controller.md"
+                "file": "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf"
               }
             }
           }
@@ -221,53 +214,54 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "53c726c96e603e5d",
+  "active": "2174e91ea43b7762",
   "lastOpenFiles": [
-    "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf",
-    "Notes/PID-controller.md",
-    "Notes/Digitization.md",
-    "Notes/Differensligninger.md",
-    "Pasted image 20240416084917.png",
-    "Pasted image 20240416084850.png",
-    "Pasted image 20240416084756.png",
-    "Pasted image 20240416084719.png",
+    "Observability.md",
+    "Notes/Rang af Matrix.md",
+    "Notes/Determinanen for Matricer.md",
+    "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
     "HOME.md",
-    "External/Kasper's Notes/Reguleringsteknik/Noter/State Feedback.md",
-    "External/Kasper's Notes/Reguleringsteknik/Noter/Controllable Canonical Form.md",
-    "External/Kasper's Notes/Reguleringsteknik/Noter/Condition for Controllability.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240415125744.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240415125122.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240415125058.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240412094011.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240412094000.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240412093837.png",
-    "External/Kasper's Notes/Indlejret Programmering/Noter/FreeRTOS (Real Time Operating System).md",
-    "External/Kasper's Notes/Indlejret Programmering/Noter/Drawing 2024-04-15 13.39.03.excalidraw.md",
-    "Notes/State Space Models.md",
-    "Notes/Root Locus Tuning.md",
-    "Controllable Canonical Form.md",
-    "State Feedback.md",
-    "Controllability.md",
-    "4913",
-    "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
-    "External/Kasper's Notes/Digital Programmerbar elektronik/Noter/LCD Driver FPGA.md",
-    "README.md",
-    "State Machines.md",
-    "External/Kasper's Notes/Indlejret Programmering/Noter/printf().md",
-    "External/Kasper's Notes/Indlejret Programmering/Noter/RTCS (Run to Complete Scheduling).md",
-    "Notes/z-transformation.md",
-    "Notes/Bilineær z-transformation.md",
-    "Notes/Feedback Control.md",
-    "External/Kasper's Notes/Reguleringsteknik/Noter/Discrete Design.md",
-    "External/Kasper's Notes/Reguleringsteknik/Noter/Digitization.md",
-    "External/Kasper's Notes/Reguleringsteknik/Noter/Anti-Windup.md",
-    "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf",
-    "Lessons/Semester 4/Elektronik/Lektion 5.pdf",
-    "Lessons/Semester 4/Elektronik",
-    "Lessons/Semester 4/regulation/Lecture 7 - Dynamic Compensators and Stability Margins.pdf",
-    "Lessons/Semester 4/regulation/drawn_bode_plots.pdf",
-    "Lessons/Semester 4/regulation/drawn_bode_plots.xopp~",
-    "Lessons/Semester 4/regulation/drawn_bode_plots.xopp",
+    "External/Kasper's Notes/Luft tæt filament kammer.md",
+    "External/Kasper's Notes/FreeRTOS/toc.md",
+    "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example025/MSVC/Example025.vcxproj.user",
+    "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example025/MSVC/Example025.vcxproj.filters",
+    "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example025/MSVC/Example025.vcxproj",
+    "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example024/MSVC/Example024.vcxproj.user",
+    "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example024/MSVC/Example024.vcxproj.filters",
+    "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example024/MSVC/Example024.vcxproj",
+    "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example023/MSVC/Example023.vcxproj.user",
+    "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example023/MSVC/Example023.vcxproj.filters",
+    "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example023/MSVC/Example023.vcxproj",
+    "External/Kasper's Notes/FreeRTOS/media/image91.png",
+    "External/Kasper's Notes/FreeRTOS/media/image90.png",
+    "External/Kasper's Notes/FreeRTOS/media/image89.png",
+    "External/Kasper's Notes/FreeRTOS/media/image88.png",
+    "External/Kasper's Notes/FreeRTOS/media/image87.png",
+    "External/Kasper's Notes/FreeRTOS/media/image86.png",
+    "External/Kasper's Notes/FreeRTOS/media/image85.png",
+    "External/Kasper's Notes/FreeRTOS/media/image84.png",
+    "External/Kasper's Notes/FreeRTOS/media/image83.png",
+    "External/Kasper's Notes/FreeRTOS/media/image82.png",
+    "External/Kasper's Notes/FreeRTOS/dedication.md",
+    "External/Kasper's Notes/FreeRTOS/copyright.md",
+    "External/Kasper's Notes/FreeRTOS/ch13.md",
+    "External/Kasper's Notes/FreeRTOS/ch12.md",
+    "External/Kasper's Notes/FreeRTOS/ch11.md",
+    "External/Kasper's Notes/FreeRTOS/ch10.md",
+    "External/Kasper's Notes/FreeRTOS/ch09.md",
+    "External/Kasper's Notes/FreeRTOS/ch08.md",
+    "External/Kasper's Notes/FreeRTOS/ch07.md",
+    "External/Kasper's Notes/FreeRTOS/ch06.md",
+    "External/Kasper's Notes/FreeRTOS/ch05.md",
+    "External/Kasper's Notes/FreeRTOS/ch04.md",
+    "External/Kasper's Notes/FreeRTOS/ch03.md",
+    "External/Kasper's Notes/FreeRTOS/ch02.md",
+    "External/Kasper's Notes/FreeRTOS/ch01.md",
+    "External/Kasper's Notes/FreeRTOS/booktitle.md",
+    "External/Kasper's Notes/FreeRTOS/abbreviations.md",
+    "External/Kasper's Notes/FreeRTOS/SECURITY.md",
+    "External/Kasper's Notes/FreeRTOS/README.md",
+    "External/Kasper's Notes/FreeRTOS/CONTRIBUTING.md",
     "Untitled.canvas"
   ]
 }
