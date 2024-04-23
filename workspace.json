@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba40aa2863edd6ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Impedans.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b5db00e4e26fc35b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Mode Rejection Ratio.md",
-                "mode": "source",
+                "file": "Notes/Common Mode Rejection Ratio.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -35,16 +23,11 @@
             "id": "6d852c4d5851653e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subtractor.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,13 +81,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537,
-    "collapsed": true
+    "width": 327.5055751800537
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -120,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Mode Rejection Ratio.md",
+                "file": "Notes/Common Mode Rejection Ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Mode Rejection Ratio.md"
+                "file": "Notes/Common Mode Rejection Ratio.md"
               }
             }
           }
@@ -231,6 +212,7 @@
   },
   "active": "b5db00e4e26fc35b",
   "lastOpenFiles": [
+    "HOME.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240423083545.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240423083458.png",
     "External/Kasper's Notes/Forstærkerteknik/Noter/Differentiel Måling.md",
@@ -239,7 +221,6 @@
     "Pasted image 20240423101735.png",
     "Common Mode Rejection Ratio.md",
     "Notes/Impedans.md",
-    "HOME.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Observer Based Control.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Observability.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Integral Control.md",
@@ -251,7 +232,6 @@
     "External/Kasper's Notes/Misc og Links/Pasted image 20240419091935.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240419091922.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240419090227.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240419090220.png",
     "Notes/Digital Realisation Structures.md",
     "Notes/Controllability.md",
     "Observability.md",
