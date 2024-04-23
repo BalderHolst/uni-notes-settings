@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "Notes/Impedans.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "Notes/Impedans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "Notes/Impedans.md"
               }
             }
           }
@@ -206,6 +206,7 @@
   },
   "active": "ba40aa2863edd6ff",
   "lastOpenFiles": [
+    "HOME.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Observer Based Control.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Observability.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Integral Control.md",
@@ -227,7 +228,6 @@
     "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
     "Notes/Rang af Matrix.md",
     "Notes/Determinanen for Matricer.md",
-    "HOME.md",
     "External/Kasper's Notes/Luft tæt filament kammer.md",
     "External/Kasper's Notes/FreeRTOS/toc.md",
     "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example025/MSVC/Example025.vcxproj.user",
