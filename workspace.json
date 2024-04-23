@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Common Mode Rejection Ratio.md",
+                "file": "Notes/Newtons Love.md",
                 "mode": "preview",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Common Mode Rejection Ratio.md",
+                "file": "Notes/Newtons Love.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Common Mode Rejection Ratio.md"
+                "file": "Notes/Newtons Love.md"
               }
             }
           }
@@ -212,6 +212,7 @@
   },
   "active": "b5db00e4e26fc35b",
   "lastOpenFiles": [
+    "Notes/Common Mode Rejection Ratio.md",
     "HOME.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240423083545.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240423083458.png",
