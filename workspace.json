@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d852c4d5851653e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subtractor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Mode Rejection Ratio.md",
+                "file": "Subtractor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Mode Rejection Ratio.md"
+                "file": "Subtractor.md"
               }
             }
           }
@@ -217,10 +229,12 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "b5db00e4e26fc35b",
+  "active": "6d852c4d5851653e",
   "lastOpenFiles": [
-    "Notes/Impedans.md",
+    "Pasted image 20240423101735.png",
     "Common Mode Rejection Ratio.md",
+    "Subtractor.md",
+    "Notes/Impedans.md",
     "HOME.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Observer Based Control.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Observability.md",
@@ -263,8 +277,6 @@
     "External/Kasper's Notes/FreeRTOS/ch09.md",
     "External/Kasper's Notes/FreeRTOS/ch08.md",
     "External/Kasper's Notes/FreeRTOS/ch07.md",
-    "External/Kasper's Notes/FreeRTOS/ch06.md",
-    "External/Kasper's Notes/FreeRTOS/ch05.md",
     "Untitled.canvas"
   ]
 }
