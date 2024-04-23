@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subtractor.md",
+                "file": "Common Mode Rejection Ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subtractor.md"
+                "file": "Common Mode Rejection Ratio.md"
               }
             }
           }
@@ -229,11 +229,11 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "6d852c4d5851653e",
+  "active": "b5db00e4e26fc35b",
   "lastOpenFiles": [
+    "Subtractor.md",
     "Pasted image 20240423101735.png",
     "Common Mode Rejection Ratio.md",
-    "Subtractor.md",
     "Notes/Impedans.md",
     "HOME.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Observer Based Control.md",
@@ -249,7 +249,6 @@
     "External/Kasper's Notes/Misc og Links/Pasted image 20240419090227.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240419090220.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240419090211.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240419090146.png",
     "Notes/Digital Realisation Structures.md",
     "Notes/Controllability.md",
     "Observability.md",
