@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44a8cf05a9e0c62a",
+        "id": "4098cc1b4b0d5266",
         "type": "tabs",
         "children": [
           {
-            "id": "2293881ecda9b6fd",
+            "id": "ba40aa2863edd6ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2174e91ea43b7762",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Observability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#signalprocessing",
+                "query": "tag:#controlsystems",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -107,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Observability.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Observability.md"
+                "file": "HOME.md"
               }
             }
           }
@@ -216,13 +204,26 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "2174e91ea43b7762",
+  "active": "ba40aa2863edd6ff",
   "lastOpenFiles": [
-    "Pasted image 20240419093350.png",
-    "Notes/State Feedback.md",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/Observer Based Control.md",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/Observability.md",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/Integral Control.md",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/Full Order Observer.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240419093326.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240419092232.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240419092221.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240419091948.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240419091935.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240419091922.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240419090227.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240419090220.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240419090211.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240419090146.png",
+    "Notes/Digital Realisation Structures.md",
+    "Notes/Controllability.md",
     "Observability.md",
-    "Pasted image 20240419091927.png",
-    "Pasted image 20240419084942.png",
+    "Notes/State Feedback.md",
     "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
     "Notes/Rang af Matrix.md",
     "Notes/Determinanen for Matricer.md",
@@ -238,14 +239,6 @@
     "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example023/MSVC/Example023.vcxproj.user",
     "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example023/MSVC/Example023.vcxproj.filters",
     "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example023/MSVC/Example023.vcxproj",
-    "External/Kasper's Notes/FreeRTOS/media/image91.png",
-    "External/Kasper's Notes/FreeRTOS/media/image90.png",
-    "External/Kasper's Notes/FreeRTOS/media/image89.png",
-    "External/Kasper's Notes/FreeRTOS/media/image88.png",
-    "External/Kasper's Notes/FreeRTOS/media/image87.png",
-    "External/Kasper's Notes/FreeRTOS/media/image86.png",
-    "External/Kasper's Notes/FreeRTOS/media/image85.png",
-    "External/Kasper's Notes/FreeRTOS/media/image84.png",
     "External/Kasper's Notes/FreeRTOS/dedication.md",
     "External/Kasper's Notes/FreeRTOS/copyright.md",
     "External/Kasper's Notes/FreeRTOS/ch13.md",
@@ -259,11 +252,6 @@
     "External/Kasper's Notes/FreeRTOS/ch05.md",
     "External/Kasper's Notes/FreeRTOS/ch04.md",
     "External/Kasper's Notes/FreeRTOS/ch03.md",
-    "External/Kasper's Notes/FreeRTOS/ch02.md",
-    "External/Kasper's Notes/FreeRTOS/ch01.md",
-    "External/Kasper's Notes/FreeRTOS/booktitle.md",
-    "External/Kasper's Notes/FreeRTOS/abbreviations.md",
-    "External/Kasper's Notes/FreeRTOS/SECURITY.md",
     "Untitled.canvas"
   ]
 }
