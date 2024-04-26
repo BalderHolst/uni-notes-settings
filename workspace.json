@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4098cc1b4b0d5266",
+        "id": "0cab4ea4e0eab69b",
         "type": "tabs",
         "children": [
           {
-            "id": "6d852c4d5851653e",
+            "id": "29b9e9a157bb74ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/The Wave Equation.md",
+                "file": "HOME.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5c8663ff6d31405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimal Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/The Wave Equation.md",
+                "file": "Optimal Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/The Wave Equation.md"
+                "file": "Optimal Control.md"
               }
             }
           }
@@ -203,20 +216,22 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "6d852c4d5851653e",
+  "active": "a5c8663ff6d31405",
   "lastOpenFiles": [
+    "Positive semi-definite matrix.md",
+    "Optimal Control.md",
+    "Positive definite matrix.md",
+    "HOME.md",
     "Notes/Multivariable Math.md",
     "Notes/Poissin's Equation.md",
     "Notes/Laplace's Equation.md",
     "Notes/The Heat Equation.md",
-    "HOME.md",
     "External/Kasper's Notes/Misc og Links/ATMEGA32A-interrupts.png",
     "External/Kasper's Notes/Datateknik/ATmega32/Timers in ATMEGA32.md",
     "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
     "Notes/Controllability.md",
     "Notes/State Space Models.md",
     "Notes/Den Inverse af en Matrix.md",
-    "Untitled.md",
     "Notes/Digitization.md",
     "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf",
     "Lessons/Semester 4/regulation/Lecture 1 - Slides.pdf",
@@ -244,8 +259,6 @@
     "Observability.md",
     "Notes/State Feedback.md",
     "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
-    "Notes/Rang af Matrix.md",
-    "Notes/Determinanen for Matricer.md",
     "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example025/MSVC/Example025.vcxproj.user",
     "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example025/MSVC/Example025.vcxproj.filters",
     "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example025/MSVC/Example025.vcxproj",
