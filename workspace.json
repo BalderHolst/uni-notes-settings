@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf",
+                "file": "Notes/Flytningsformlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf"
+                "file": "Notes/Flytningsformlen.md"
               }
             }
           }
@@ -215,10 +214,10 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "0041f3334dae99cb",
+  "active": "5ab7cf3702e721c7",
   "lastOpenFiles": [
-    "Notes/Flytningsformlen.md",
     "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf",
+    "Notes/Flytningsformlen.md",
     "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
     "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
     "Notes/State Feedback.md",
