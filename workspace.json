@@ -11,9 +11,11 @@
             "id": "4482491e544e7460",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf"
+                "file": "Notes/Komparator.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -62,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compensation",
+                "query": "tag:#forstærker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,12 +73,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537,
-    "collapsed": true
+    "width": 327.5055751800537
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
+                "file": "Notes/Komparator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf"
+                "file": "Notes/Komparator.md"
               }
             }
           }
@@ -203,25 +205,26 @@
   },
   "active": "4482491e544e7460",
   "lastOpenFiles": [
-    "External/Kasper's Notes/Misc og Links/Pasted image 20231031133111.png",
+    "Notes/Fejlberegning på Operationsforstærker.md",
     "HOME.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240428230456.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240428220455.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240428220433.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240428220048.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240428220005.png",
+    "External/Kasper's Notes/Digital Programmerbar elektronik/Assignment 2.md",
+    "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20231031133111.png",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Reference Signals.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Optimal Control.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240426093912.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240426093905.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240426093654.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240426093649.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240426093606.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240426093027.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240426093005.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240426092942.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240426092932.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240426092837.png",
     "Notes/Positive semi-definite matrix.md",
     "Notes/Positive definite matrix.md",
     "Notes/Optimal Control.md",
     "Notes/Feed Forward.md",
-    "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
     "Notes/Controllability.md",
     "Notes/Observability.md",
     "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf",
@@ -244,7 +247,6 @@
     "Notes/Common Mode Rejection Ratio.md",
     "External/Kasper's Notes/Forstærkerteknik/Noter/Differentiel Måling.md",
     "External/Kasper's Notes/Forstærkerteknik/Noter",
-    "Subtractor.md",
     "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example025/MSVC/Example025.vcxproj.user",
     "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example025/MSVC/Example025.vcxproj.filters",
     "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example025/MSVC/Example025.vcxproj",
