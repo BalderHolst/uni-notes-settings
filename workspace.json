@@ -11,74 +11,15 @@
             "id": "0041f3334dae99cb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf"
-              }
-            }
-          },
-          {
-            "id": "d4a3207cc21f9e75",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "Notes/Operationsforstærker.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f4e24b132084e353",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Normalfordelingen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5ed2f4b4b78da1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Covariance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44a4f1ed76941253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kalman Filter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80d002754b57c7ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Matricer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kalman Filter.md",
+                "file": "Notes/Operationsforstærker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kalman Filter.md"
+                "file": "Notes/Operationsforstærker.md"
               }
             }
           }
@@ -263,8 +204,26 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "44a4f1ed76941253",
+  "active": "0041f3334dae99cb",
   "lastOpenFiles": [
+    "Notes/Fejlberegning på Operationsforstærker.md",
+    "Notes/Operationsforstærker.md",
+    "HOME.md",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/Kalman Filter & Random Variables.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240503132628.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240503132623.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240503132619.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240503132613.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240503132604.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240503132559.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240503131833.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240503131521.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240503131245.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240503125628.png",
+    "Notes/Random Variables.md",
+    "Notes/Kalman Filter.md",
+    "Notes/Covariance.md",
+    "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf",
     "Covariance.md",
     "Kalman Filter.md",
     "Notes/Matricer.md",
@@ -272,29 +231,16 @@
     "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf",
     "Notes/Normalkraft.md",
     "Random Variables.md",
-    "HOME.md",
     "Lessons/Semester 4/regulation/Lecture 12 - The KalmanFilter.pdf",
     "External/Kasper's Notes/Digital Programmerbar elektronik/Assignment 2.md",
-    "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf",
     "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
     "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
     "Notes/State Feedback.md",
     "Notes/Feed Forward.md",
     "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf",
     "Notes/Flytningsformlen.md",
-    "Notes/Fejlberegning på Operationsforstærker.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240428230456.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240428220455.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240428220433.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240428220048.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240428220005.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20231031133111.png",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Reference Signals.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Optimal Control.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240426093912.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240426093905.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240426093654.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240426093649.png",
     "Notes/Positive semi-definite matrix.md",
     "Notes/Positive definite matrix.md",
     "Notes/Optimal Control.md",
@@ -302,11 +248,6 @@
     "Notes/Observability.md",
     "Optimal Control.md",
     "Feed Forward.md",
-    "Positive semi-definite matrix.md",
-    "Positive definite matrix.md",
-    "Notes/Multivariable Math.md",
-    "Notes/Poissin's Equation.md",
-    "Notes/Laplace's Equation.md",
     "Lessons/Semester 4/regulation/Lecture 1 - Slides.pdf",
     "External/Kasper's Notes/Forstærkerteknik/Noter",
     "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example025/MSVC/Example025.vcxproj.user",
