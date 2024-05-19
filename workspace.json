@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "c5f47993b93d043a",
+        "id": "365558d6ecd608b4",
         "type": "tabs",
         "children": [
           {
-            "id": "19359c76c0153634",
+            "id": "343389665f4d1e8d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf"
+              }
+            }
+          },
+          {
+            "id": "ad431e15f7418555",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Fejlberegning på Operationsforstærker.md",
+                "file": "Integral Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Fejlberegning på Operationsforstærker.md",
+                "file": "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Fejlberegning på Operationsforstærker.md"
+                "file": "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf"
               }
             }
           }
@@ -204,8 +214,19 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "19359c76c0153634",
+  "active": "343389665f4d1e8d",
   "lastOpenFiles": [
+    "Integral Control.md",
+    "Pasted image 20240519161915.png",
+    "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf",
+    "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
+    "Pasted image 20240519161540.png",
+    "Pasted image 20240519161514.png",
+    "Pasted image 20240519161430.png",
+    "Notes/Anti-Windup.md",
+    "Lessons/Semester 4/regulation/integral_control.png",
+    "Lessons/Semester 4/Lektion 6.pdf",
+    "Lessons/Semester 4/Elektronik/Noter lektion 2.pdf",
     "HOME.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240515113013.png",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Full Order Observer.md",
@@ -216,15 +237,9 @@
     "External/Kasper's Notes/Misc og Links/Pasted image 20240503132623.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240503132619.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240503132613.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240503132604.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240503132559.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240503131833.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240503131521.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240503131245.png",
     "Notes/Random Variables.md",
     "Notes/Kalman Filter.md",
     "Notes/Covariance.md",
-    "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf",
     "Covariance.md",
     "Kalman Filter.md",
     "Notes/Matricer.md",
@@ -234,7 +249,6 @@
     "Random Variables.md",
     "Lessons/Semester 4/regulation/Lecture 12 - The KalmanFilter.pdf",
     "External/Kasper's Notes/Digital Programmerbar elektronik/Assignment 2.md",
-    "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
     "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
     "Notes/State Feedback.md",
     "Notes/Feed Forward.md",
@@ -244,13 +258,8 @@
     "External/Kasper's Notes/Reguleringsteknik/Noter/Optimal Control.md",
     "Notes/Positive semi-definite matrix.md",
     "Notes/Positive definite matrix.md",
-    "Notes/Optimal Control.md",
-    "Notes/Controllability.md",
-    "Notes/Observability.md",
     "Lessons/Semester 4/regulation/Lecture 1 - Slides.pdf",
     "External/Kasper's Notes/Forstærkerteknik/Noter",
-    "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example025/MSVC/Example025.vcxproj.user",
-    "External/Kasper's Notes/FreeRTOS/examples/Win32-simulator-MSVC/Examples/Example025/MSVC/Example025.vcxproj.filters",
     "Untitled.canvas"
   ]
 }
