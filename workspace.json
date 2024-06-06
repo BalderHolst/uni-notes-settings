@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Bode Plot.md",
+                "file": "Notes/Komplekse Tal.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Bode Plot.md",
+                "file": "Notes/Komplekse Tal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Bode Plot.md"
+                "file": "Notes/Komplekse Tal.md"
               }
             }
           }
@@ -206,8 +206,8 @@
   },
   "active": "1a63b81e7ac125f2",
   "lastOpenFiles": [
-    "Lessons/Semester 4/regulation/Lecture 6 - Nyquist Stability Criterion.pdf",
     "Notes/Bode Plot.md",
+    "Lessons/Semester 4/regulation/Lecture 6 - Nyquist Stability Criterion.pdf",
     "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf",
     "Notes/Control System Performance.md",
     "Lessons/Semester 4/regulation/Lecture 2 - Stability Analysis.pdf",
@@ -251,7 +251,6 @@
     "Random Variables.md",
     "Lessons/Semester 4/regulation/Lecture 12 - The KalmanFilter.pdf",
     "External/Kasper's Notes/Digital Programmerbar elektronik/Assignment 2.md",
-    "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
     "Untitled.canvas"
   ]
 }
