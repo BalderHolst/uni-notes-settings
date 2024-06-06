@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7df5d21248c77099",
+        "id": "276d35daed0f4635",
         "type": "tabs",
         "children": [
           {
-            "id": "09c709126f6d36ec",
+            "id": "1a63b81e7ac125f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/Fejlberegning på Operationsforstærker.md",
-                "mode": "preview",
-                "source": false
+                "file": "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf"
               }
             }
           }
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Fejlberegning på Operationsforstærker.md",
+                "file": "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Fejlberegning på Operationsforstærker.md"
+                "file": "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf"
               }
             }
           }
@@ -204,10 +202,16 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "09c709126f6d36ec",
+  "active": "1a63b81e7ac125f2",
   "lastOpenFiles": [
-    "External/Kasper's Notes/Forstærkningsteknik/Noter/Maksimal fejl i forstærkning.md",
+    "Notes/Control System Performance.md",
+    "Lessons/Semester 4/regulation/Lecture 2 - Stability Analysis.pdf",
+    "Notes/Control System Performance.md~",
+    "Notes/Laplace Transformation.md",
+    "Notes/Signal Processing.md",
     "HOME.md",
+    "External/Kasper's Notes/Excalidraw/Drawing 2024-06-01 11.11.40.excalidraw.md",
+    "External/Kasper's Notes/Forstærkningsteknik/Noter/Maksimal fejl i forstærkning.md",
     "External/Kasper's Notes/Forstærkningsteknik/Noter/Common Mode Rejection (CMR).md",
     "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
     "Notes/Integral Control.md",
@@ -244,14 +248,7 @@
     "External/Kasper's Notes/Digital Programmerbar elektronik/Assignment 2.md",
     "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
     "Notes/State Feedback.md",
-    "Notes/Feed Forward.md",
     "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf",
-    "Notes/Flytningsformlen.md",
-    "External/Kasper's Notes/Reguleringsteknik/Noter/Reference Signals.md",
-    "External/Kasper's Notes/Reguleringsteknik/Noter/Optimal Control.md",
-    "Notes/Positive semi-definite matrix.md",
-    "Lessons/Semester 4/regulation/Lecture 1 - Slides.pdf",
-    "External/Kasper's Notes/Forstærkerteknik/Noter",
     "Untitled.canvas"
   ]
 }
