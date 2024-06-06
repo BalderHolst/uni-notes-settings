@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Komplekse Tal.md",
+                "file": "Notes/Control System Performance.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Komplekse Tal.md",
+                "file": "Notes/Control System Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Komplekse Tal.md"
+                "file": "Notes/Control System Performance.md"
               }
             }
           }
@@ -206,10 +206,11 @@
   },
   "active": "1a63b81e7ac125f2",
   "lastOpenFiles": [
-    "Notes/Bode Plot.md",
-    "Lessons/Semester 4/regulation/Lecture 6 - Nyquist Stability Criterion.pdf",
     "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf",
     "Notes/Control System Performance.md",
+    "Notes/Komplekse Tal.md",
+    "Notes/Bode Plot.md",
+    "Lessons/Semester 4/regulation/Lecture 6 - Nyquist Stability Criterion.pdf",
     "Lessons/Semester 4/regulation/Lecture 2 - Stability Analysis.pdf",
     "Notes/Control System Performance.md~",
     "Notes/Laplace Transformation.md",
@@ -250,7 +251,6 @@
     "Notes/Normalkraft.md",
     "Random Variables.md",
     "Lessons/Semester 4/regulation/Lecture 12 - The KalmanFilter.pdf",
-    "External/Kasper's Notes/Digital Programmerbar elektronik/Assignment 2.md",
     "Untitled.canvas"
   ]
 }

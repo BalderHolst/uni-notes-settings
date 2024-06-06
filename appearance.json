@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Spectrum",
+  "cssTheme": "Red Graphite",
   "enabledCssSnippets": [
     "callout",
     "center",
@@ -8,6 +8,6 @@
     "cpp"
   ],
   "showViewHeader": true,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSize": 22
 }
