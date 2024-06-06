@@ -11,9 +11,11 @@
             "id": "1a63b81e7ac125f2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf"
+                "file": "Notes/Bode Plot.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf",
+                "file": "Notes/Bode Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf"
+                "file": "Notes/Bode Plot.md"
               }
             }
           }
@@ -204,6 +206,9 @@
   },
   "active": "1a63b81e7ac125f2",
   "lastOpenFiles": [
+    "Lessons/Semester 4/regulation/Lecture 6 - Nyquist Stability Criterion.pdf",
+    "Notes/Bode Plot.md",
+    "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf",
     "Notes/Control System Performance.md",
     "Lessons/Semester 4/regulation/Lecture 2 - Stability Analysis.pdf",
     "Notes/Control System Performance.md~",
@@ -247,8 +252,6 @@
     "Lessons/Semester 4/regulation/Lecture 12 - The KalmanFilter.pdf",
     "External/Kasper's Notes/Digital Programmerbar elektronik/Assignment 2.md",
     "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
-    "Notes/State Feedback.md",
-    "Lessons/Semester 1/fysik/Lektion 09-FYS__RT_E22.pdf",
     "Untitled.canvas"
   ]
 }
