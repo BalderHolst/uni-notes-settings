@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Control System Performance.md",
-                "mode": "preview",
+                "file": "Notes/PID-controller.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Control System Performance.md",
+                "file": "Notes/PID-controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Control System Performance.md"
+                "file": "Notes/PID-controller.md"
               }
             }
           }
@@ -206,8 +206,8 @@
   },
   "active": "1a63b81e7ac125f2",
   "lastOpenFiles": [
-    "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf",
     "Notes/Control System Performance.md",
+    "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf",
     "Notes/Komplekse Tal.md",
     "Notes/Bode Plot.md",
     "Lessons/Semester 4/regulation/Lecture 6 - Nyquist Stability Criterion.pdf",
