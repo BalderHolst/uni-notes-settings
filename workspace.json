@@ -11,9 +11,11 @@
             "id": "d22e76328816f59a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 1 - Slides.pdf"
+                "file": "Notes/Root Locus Tuning.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 1 - Slides.pdf",
+                "file": "Notes/Root Locus Tuning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 1 - Slides.pdf"
+                "file": "Notes/Root Locus Tuning.md"
               }
             }
           }
@@ -205,6 +207,7 @@
   },
   "active": "d22e76328816f59a",
   "lastOpenFiles": [
+    "Lessons/Semester 4/regulation/Lecture 1 - Slides.pdf",
     "HOME.md",
     "Notes/4913",
     "Notes/Zeigler Nichols Tuning Method.md~",
