@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Observers.md",
-                "mode": "source",
+                "file": "Notes/Integral Control.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Observers.md",
+                "file": "Notes/Integral Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Observers.md"
+                "file": "Notes/Integral Control.md"
               }
             }
           }
@@ -207,6 +207,11 @@
   },
   "active": "d22e76328816f59a",
   "lastOpenFiles": [
+    "Notes/Observers.md",
+    "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
+    "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
+    "Notes/State Space Models.md",
+    "Notes/State Feedback.md",
     "Notes/Root Locus Tuning.md",
     "Lessons/Semester 4/regulation/Lecture 6 - Nyquist Stability Criterion.pdf",
     "Notes/Nyquist Stability.md",
@@ -234,13 +239,11 @@
     "Lessons/Semester 4/regulation/Lecture 4 - Design of PID Controllers.pdf",
     "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf",
     "Lessons/Semester 4/regulation/Lecture 2 - Stability Analysis.pdf",
-    "Notes/Control System Performance.md~",
     "Notes/Laplace Transformation.md",
     "Notes/Signal Processing.md",
     "External/Kasper's Notes/Excalidraw/Drawing 2024-06-01 11.11.40.excalidraw.md",
     "External/Kasper's Notes/Forstærkningsteknik/Noter/Maksimal fejl i forstærkning.md",
     "External/Kasper's Notes/Forstærkningsteknik/Noter/Common Mode Rejection (CMR).md",
-    "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
     "Notes/Integral Control.md",
     "Integral Control.md",
     "Pasted image 20240519161915.png",
@@ -249,9 +252,6 @@
     "Pasted image 20240519161430.png",
     "Lessons/Semester 4/regulation/integral_control.png",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Full Order Observer.md",
-    "Notes/Fejlberegning på Operationsforstærker.md",
-    "Notes/Operationsforstærker.md",
-    "External/Kasper's Notes/Reguleringsteknik/Noter/Kalman Filter & Random Variables.md",
     "Untitled.canvas"
   ]
 }
