@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "879f4ff865c9e94e",
+            "id": "ae1d630cc7ab8846",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 3 - Introduction to Control.pdf"
+                "file": "Notes/Control System Performance.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -72,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 3 - Introduction to Control.pdf",
+                "file": "Notes/Control System Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 3 - Introduction to Control.pdf"
+                "file": "Notes/Control System Performance.md"
               }
             }
           }
@@ -203,11 +204,17 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "879f4ff865c9e94e",
+  "active": "ae1d630cc7ab8846",
   "lastOpenFiles": [
+    "HOME.md",
+    "External/Kasper's Notes/Eink Calendar.md",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/Overshoot Risetime og Settling time.md",
+    "Notes/Steady-State Value of Time Function.md",
+    "Notes/Control Systems.md",
+    "Lessons/Semester 4/regulation/Lecture 3 - Introduction to Control.pdf",
+    "README.md",
     "Notes/Steady State Tracking.md",
     "Control Systems.md",
-    "Lessons/Semester 4/regulation/Lecture 3 - Introduction to Control.pdf",
     "Notes/Root Locus Tuning.md",
     "Notes/Optimal Control.md",
     "Notes/Integral Control.md",
@@ -216,7 +223,6 @@
     "Notes/Bilineær z-transformation.md",
     "Notes/Observers.md",
     "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
-    "HOME.md",
     "Notes/Controllability.md",
     "Notes/Observers.md~",
     "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
@@ -239,11 +245,7 @@
     "Notes/Filters.md",
     "Pasted image 20240607144634.png",
     "External/Jacob's Notes/UNI Notes/Reguleringsteknik/The PID-controller.md",
-    "Notes/Bode Plot.md",
-    "Notes/Komplekse Tal.md",
-    "External/Kasper's Notes/Reguleringsteknik/Noter/PID Controller.md",
     "Pasted image 20240607144028.png",
-    "External/Kasper's Notes/test.md",
     "Lessons/Semester 4/regulation/Lecture 4 - Design of PID Controllers.pdf",
     "Pasted image 20240519161915.png",
     "Pasted image 20240519161540.png",
