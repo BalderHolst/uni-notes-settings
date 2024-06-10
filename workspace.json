@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b50f0b0c495f5de",
+            "id": "879f4ff865c9e94e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Digitization.md",
+                "file": "Notes/Feed Forward.md",
                 "mode": "preview",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Digitization.md",
+                "file": "Notes/Feed Forward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Digitization.md"
+                "file": "Notes/Feed Forward.md"
               }
             }
           }
@@ -205,10 +205,12 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "2b50f0b0c495f5de",
+  "active": "879f4ff865c9e94e",
   "lastOpenFiles": [
-    "Notes/Bilineær z-transformation.md",
+    "Control Systems.md",
+    "Lessons/Semester 4/regulation/Lecture 3 - Introduction to Control.pdf",
     "Notes/Digitization.md",
+    "Notes/Bilineær z-transformation.md",
     "Notes/Observers.md",
     "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
     "HOME.md",
@@ -242,12 +244,9 @@
     "Pasted image 20240607144028.png",
     "External/Kasper's Notes/test.md",
     "Lessons/Semester 4/regulation/Lecture 4 - Design of PID Controllers.pdf",
-    "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf",
     "Notes/Laplace Transformation.md",
     "Notes/Signal Processing.md",
     "External/Kasper's Notes/Excalidraw/Drawing 2024-06-01 11.11.40.excalidraw.md",
-    "External/Kasper's Notes/Forstærkningsteknik/Noter/Maksimal fejl i forstærkning.md",
-    "External/Kasper's Notes/Forstærkningsteknik/Noter/Common Mode Rejection (CMR).md",
     "Pasted image 20240519161915.png",
     "Pasted image 20240519161540.png",
     "Pasted image 20240519161514.png",
