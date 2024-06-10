@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Root Locus Tuning.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -206,6 +206,8 @@
   },
   "active": "ae1d630cc7ab8846",
   "lastOpenFiles": [
+    "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf",
+    "Notes/Root Locus Tuning.md",
     "Notes/Cascade Control.md",
     "Notes/Control System Performance.md",
     "Notes/PID-controller.md",
@@ -218,7 +220,6 @@
     "README.md",
     "Notes/Steady State Tracking.md",
     "Control Systems.md",
-    "Notes/Root Locus Tuning.md",
     "Notes/Optimal Control.md",
     "Notes/Integral Control.md",
     "Notes/Feed Forward.md",
@@ -243,7 +244,6 @@
     "Pasted image 20240607151903.png",
     "Notes/Anti-Windup.md",
     "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf",
-    "Notes/Filters.md",
     "Pasted image 20240607144634.png",
     "Pasted image 20240607144028.png",
     "Lessons/Semester 4/regulation/Lecture 4 - Design of PID Controllers.pdf",
