@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Control System Performance.md",
+                "file": "Notes/Root Locus Tuning.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Control System Performance.md",
+                "file": "Notes/Root Locus Tuning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Control System Performance.md"
+                "file": "Notes/Root Locus Tuning.md"
               }
             }
           }
@@ -206,8 +206,9 @@
   },
   "active": "ae1d630cc7ab8846",
   "lastOpenFiles": [
-    "Notes/PID-controller.md",
+    "Notes/Cascade Control.md",
     "Notes/Control System Performance.md",
+    "Notes/PID-controller.md",
     "HOME.md",
     "External/Kasper's Notes/Eink Calendar.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Overshoot Risetime og Settling time.md",
@@ -244,7 +245,6 @@
     "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf",
     "Notes/Filters.md",
     "Pasted image 20240607144634.png",
-    "External/Jacob's Notes/UNI Notes/Reguleringsteknik/The PID-controller.md",
     "Pasted image 20240607144028.png",
     "Lessons/Semester 4/regulation/Lecture 4 - Design of PID Controllers.pdf",
     "Pasted image 20240519161915.png",
