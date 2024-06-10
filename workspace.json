@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Observers.md",
+                "file": "Notes/Digitization.md",
                 "mode": "preview",
                 "source": false
               }
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tusti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Observers.md",
+                "file": "Notes/Digitization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Observers.md"
+                "file": "Notes/Digitization.md"
               }
             }
           }
@@ -207,8 +207,10 @@
   },
   "active": "2b50f0b0c495f5de",
   "lastOpenFiles": [
-    "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
+    "Notes/Bilineær z-transformation.md",
+    "Notes/Digitization.md",
     "Notes/Observers.md",
+    "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
     "HOME.md",
     "Notes/Controllability.md",
     "Notes/Observers.md~",
@@ -246,7 +248,6 @@
     "External/Kasper's Notes/Excalidraw/Drawing 2024-06-01 11.11.40.excalidraw.md",
     "External/Kasper's Notes/Forstærkningsteknik/Noter/Maksimal fejl i forstærkning.md",
     "External/Kasper's Notes/Forstærkningsteknik/Noter/Common Mode Rejection (CMR).md",
-    "Integral Control.md",
     "Pasted image 20240519161915.png",
     "Pasted image 20240519161540.png",
     "Pasted image 20240519161514.png",
