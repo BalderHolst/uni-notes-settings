@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Control System Performance.md",
+                "file": "Notes/Laplace Transformation.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Control System Performance.md",
+                "file": "Notes/Laplace Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Control System Performance.md"
+                "file": "Notes/Laplace Transformation.md"
               }
             }
           }
@@ -206,6 +206,7 @@
   },
   "active": "094434bad2e4def0",
   "lastOpenFiles": [
+    "Notes/Control System Performance.md",
     "Notes/Dæmpede Svingninger - Differentialligning.md",
     "Notes/Root Locus Tuning.md",
     "Notes/Egenværdier og Egenvektorer.md",
@@ -227,7 +228,6 @@
     "Lessons/Semester 4/regulation/Lecture 7 - Dynamic Compensators and Stability Margins.pdf",
     "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf",
     "Notes/Cascade Control.md",
-    "Notes/Control System Performance.md",
     "Notes/PID-controller.md",
     "External/Kasper's Notes/Eink Calendar.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Overshoot Risetime og Settling time.md",
