@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Controllability.md",
+                "file": "External/Kasper's Notes/Reguleringsteknik/Noter/Observability.md",
                 "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "4a27145ac19cb907",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf"
               }
             }
           }
@@ -106,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Controllability.md",
+                "file": "External/Kasper's Notes/Reguleringsteknik/Noter/Observability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Controllability.md"
+                "file": "External/Kasper's Notes/Reguleringsteknik/Noter/Observability.md"
               }
             }
           }
@@ -217,8 +207,9 @@
   },
   "active": "077ea18b4962e5c1",
   "lastOpenFiles": [
-    "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
+    "Notes/Controllable Canonical Form.md",
     "Notes/Controllability.md",
+    "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
     "Notes/Digitization.md",
     "Notes/Dynamic Compensation.md",
     "Lessons/Semester 4/regulation/Lecture 7 - Dynamic Compensators and Stability Margins.pdf",
