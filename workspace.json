@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "077ea18b4962e5c1",
+            "id": "094434bad2e4def0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Feed Forward.md",
+                "file": "Notes/Optimal Control.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "094434bad2e4def0",
+            "id": "8d3e395c26111d01",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -216,12 +216,14 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "094434bad2e4def0",
+  "active": "8d3e395c26111d01",
   "lastOpenFiles": [
+    "Notes/Optimal Control.md",
+    "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf",
+    "HOME.md",
     "Notes/Feed Forward.md",
     "Notes/Feed Forward.md~",
     "Notes/Controllability.md~",
-    "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Observability.md",
     "Notes/Controllable Canonical Form.md",
     "Notes/Controllability.md",
@@ -229,7 +231,6 @@
     "Notes/Digitization.md",
     "Notes/Dynamic Compensation.md",
     "Lessons/Semester 4/regulation/Lecture 7 - Dynamic Compensators and Stability Margins.pdf",
-    "HOME.md",
     "Notes/Root Locus Tuning.md",
     "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf",
     "Notes/Cascade Control.md",
@@ -243,7 +244,6 @@
     "README.md",
     "Notes/Steady State Tracking.md",
     "Control Systems.md",
-    "Notes/Optimal Control.md",
     "Notes/Integral Control.md",
     "Notes/Bilineær z-transformation.md",
     "Notes/Observers.md",
