@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "68d843eeb9bcd19b",
+        "id": "6074e5546876746e",
         "type": "tabs",
         "children": [
           {
-            "id": "ae1d630cc7ab8846",
+            "id": "077ea18b4962e5c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Root Locus Tuning.md",
-                "mode": "source",
+                "file": "Notes/Dynamic Compensation.md",
+                "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1b2a19a7aa08c49c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 4/regulation/Lecture 7 - Dynamic Compensators and Stability Margins.pdf"
               }
             }
           }
@@ -65,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tusti",
+                "query": "lead",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Root Locus Tuning.md",
+                "file": "Notes/Dynamic Compensation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Root Locus Tuning.md"
+                "file": "Notes/Dynamic Compensation.md"
               }
             }
           }
@@ -204,14 +215,16 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "ae1d630cc7ab8846",
+  "active": "077ea18b4962e5c1",
   "lastOpenFiles": [
-    "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf",
+    "Lessons/Semester 4/regulation/Lecture 7 - Dynamic Compensators and Stability Margins.pdf",
+    "Notes/Dynamic Compensation.md",
+    "HOME.md",
     "Notes/Root Locus Tuning.md",
+    "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf",
     "Notes/Cascade Control.md",
     "Notes/Control System Performance.md",
     "Notes/PID-controller.md",
-    "HOME.md",
     "External/Kasper's Notes/Eink Calendar.md",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Overshoot Risetime og Settling time.md",
     "Notes/Steady-State Value of Time Function.md",
@@ -242,11 +255,9 @@
     "Notes/Zeigler Nichols Tuning Method.md",
     "Pasted image 20240607152006.png",
     "Pasted image 20240607151903.png",
-    "Notes/Anti-Windup.md",
     "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf",
     "Pasted image 20240607144634.png",
     "Pasted image 20240607144028.png",
-    "Lessons/Semester 4/regulation/Lecture 4 - Design of PID Controllers.pdf",
     "Pasted image 20240519161915.png",
     "Pasted image 20240519161540.png",
     "Pasted image 20240519161514.png",
