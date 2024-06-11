@@ -11,9 +11,11 @@
             "id": "094434bad2e4def0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf"
+                "file": "Notes/Egenværdier og Egenvektorer.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf",
+                "file": "Notes/Egenværdier og Egenvektorer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf"
+                "file": "Notes/Egenværdier og Egenvektorer.md"
               }
             }
           }
@@ -205,6 +207,8 @@
   },
   "active": "094434bad2e4def0",
   "lastOpenFiles": [
+    "Notes/State Space Models.md",
+    "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf",
     "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
     "Notes/State Feedback.md",
     "Notes/Optimal Control.md",
@@ -237,8 +241,6 @@
     "Notes/Observers.md",
     "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
     "Notes/Observers.md~",
-    "Notes/State Space Models.md",
-    "Lessons/Semester 4/regulation/Lecture 6 - Nyquist Stability Criterion.pdf",
     "Notes/Nyquist Stability.md",
     "Pasted image 20240607152958.png",
     "Pasted image 20240607152006.png",
