@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Dæmpede Svingninger - Differentialligning.md",
+                "file": "Notes/Control System Performance.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Dæmpede Svingninger - Differentialligning.md",
+                "file": "Notes/Control System Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Dæmpede Svingninger - Differentialligning.md"
+                "file": "Notes/Control System Performance.md"
               }
             }
           }
@@ -206,6 +206,7 @@
   },
   "active": "094434bad2e4def0",
   "lastOpenFiles": [
+    "Notes/Dæmpede Svingninger - Differentialligning.md",
     "Notes/Root Locus Tuning.md",
     "Notes/Egenværdier og Egenvektorer.md",
     "Notes/State Space Models.md",
@@ -241,7 +242,6 @@
     "Notes/Observers.md",
     "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
     "Notes/Observers.md~",
-    "Notes/Nyquist Stability.md",
     "Pasted image 20240607152958.png",
     "Pasted image 20240607152006.png",
     "Pasted image 20240607151903.png",
