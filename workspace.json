@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf"
+                "file": "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
+                "file": "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf"
+                "file": "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf"
               }
             }
           }
@@ -205,6 +205,7 @@
   },
   "active": "094434bad2e4def0",
   "lastOpenFiles": [
+    "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
     "Notes/State Feedback.md",
     "Notes/Optimal Control.md",
     "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf",
@@ -215,7 +216,6 @@
     "External/Kasper's Notes/Reguleringsteknik/Noter/Observability.md",
     "Notes/Controllable Canonical Form.md",
     "Notes/Controllability.md",
-    "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
     "Notes/Digitization.md",
     "Notes/Dynamic Compensation.md",
     "Lessons/Semester 4/regulation/Lecture 7 - Dynamic Compensators and Stability Margins.pdf",
