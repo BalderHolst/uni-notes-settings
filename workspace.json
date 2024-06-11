@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "External/Kasper's Notes/Reguleringsteknik/Noter/Observability.md",
-                "mode": "preview",
+                "file": "Notes/Feed Forward.md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "094434bad2e4def0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf"
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -96,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "External/Kasper's Notes/Reguleringsteknik/Noter/Observability.md",
+                "file": "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "External/Kasper's Notes/Reguleringsteknik/Noter/Observability.md"
+                "file": "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf"
               }
             }
           }
@@ -205,8 +216,13 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "077ea18b4962e5c1",
+  "active": "094434bad2e4def0",
   "lastOpenFiles": [
+    "Notes/Feed Forward.md",
+    "Notes/Feed Forward.md~",
+    "Notes/Controllability.md~",
+    "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/Observability.md",
     "Notes/Controllable Canonical Form.md",
     "Notes/Controllability.md",
     "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
@@ -229,7 +245,6 @@
     "Control Systems.md",
     "Notes/Optimal Control.md",
     "Notes/Integral Control.md",
-    "Notes/Feed Forward.md",
     "Notes/Bilineær z-transformation.md",
     "Notes/Observers.md",
     "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
@@ -238,12 +253,7 @@
     "Notes/State Feedback.md",
     "Lessons/Semester 4/regulation/Lecture 6 - Nyquist Stability Criterion.pdf",
     "Notes/Nyquist Stability.md",
-    "Lessons/Semester 4/regulation/Lecture 1 - Slides.pdf",
-    "Notes/4913",
-    "Notes/Zeigler Nichols Tuning Method.md~",
     "Pasted image 20240607152958.png",
-    "External/Jacob's Notes/UNI Notes/Reguleringsteknik/Ziegler-Nichols Tuning.md",
-    "Notes/Zeigler Nichols Tuning Method.md",
     "Pasted image 20240607152006.png",
     "Pasted image 20240607151903.png",
     "Pasted image 20240607144634.png",
