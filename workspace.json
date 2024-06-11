@@ -11,26 +11,13 @@
             "id": "094434bad2e4def0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Optimal Control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d3e395c26111d01",
-            "type": "leaf",
-            "state": {
               "type": "pdf",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf"
+                "file": "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf"
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf",
+                "file": "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf"
+                "file": "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf"
               }
             }
           }
@@ -216,8 +203,9 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "8d3e395c26111d01",
+  "active": "094434bad2e4def0",
   "lastOpenFiles": [
+    "Notes/State Feedback.md",
     "Notes/Optimal Control.md",
     "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf",
     "HOME.md",
@@ -250,7 +238,6 @@
     "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
     "Notes/Observers.md~",
     "Notes/State Space Models.md",
-    "Notes/State Feedback.md",
     "Lessons/Semester 4/regulation/Lecture 6 - Nyquist Stability Criterion.pdf",
     "Notes/Nyquist Stability.md",
     "Pasted image 20240607152958.png",
