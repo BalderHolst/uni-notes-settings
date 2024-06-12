@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6074e5546876746e",
+        "id": "387a229065203bba",
         "type": "tabs",
         "children": [
           {
-            "id": "094434bad2e4def0",
+            "id": "272194cf7d17a675",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Laplace Transformation.md",
+                "file": "Notes/PID-controller.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Laplace Transformation.md",
+                "file": "Notes/PID-controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Laplace Transformation.md"
+                "file": "Notes/PID-controller.md"
               }
             }
           }
@@ -204,9 +204,15 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "094434bad2e4def0",
+  "active": "272194cf7d17a675",
   "lastOpenFiles": [
     "Notes/Control System Performance.md",
+    "Lessons/Semester 4/regulation/Lecture 6 - Nyquist Stability Criterion.pdf",
+    "Notes/Nyquist Stability.md",
+    "HOME.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240611235046.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240611234823.png",
+    "Notes/Laplace Transformation.md",
     "Notes/Dæmpede Svingninger - Differentialligning.md",
     "Notes/Root Locus Tuning.md",
     "Notes/Egenværdier og Egenvektorer.md",
@@ -216,7 +222,6 @@
     "Notes/State Feedback.md",
     "Notes/Optimal Control.md",
     "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf",
-    "HOME.md",
     "Notes/Feed Forward.md",
     "Notes/Feed Forward.md~",
     "Notes/Controllability.md~",
@@ -237,11 +242,7 @@
     "README.md",
     "Notes/Steady State Tracking.md",
     "Control Systems.md",
-    "Notes/Integral Control.md",
-    "Notes/Bilineær z-transformation.md",
-    "Notes/Observers.md",
     "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
-    "Notes/Observers.md~",
     "Pasted image 20240607152958.png",
     "Pasted image 20240607152006.png",
     "Pasted image 20240607151903.png",
@@ -250,8 +251,6 @@
     "Pasted image 20240519161915.png",
     "Pasted image 20240519161540.png",
     "Pasted image 20240519161514.png",
-    "Pasted image 20240519161430.png",
-    "Lessons/Semester 4/regulation/integral_control.png",
     "Untitled.canvas"
   ]
 }
