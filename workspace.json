@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "242479ec26b0174b",
+            "id": "7cfeecd15dc6eded",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/RISC vs. CISC Architecture.md",
+                "file": "ARM.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/RISC vs. CISC Architecture.md",
+                "file": "ARM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/RISC vs. CISC Architecture.md"
+                "file": "ARM.md"
               }
             }
           }
@@ -204,11 +204,12 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "242479ec26b0174b",
+  "active": "7cfeecd15dc6eded",
   "lastOpenFiles": [
+    "Notes/RISC vs. CISC Architecture.md",
+    "ARM.md",
     "HOME.md",
     "RISC Architecture.md",
-    "Notes/RISC vs. CISC Architecture.md",
     "Notes/Embedded.md",
     "Embedded.md",
     "Notes/Kondensator.md",
@@ -240,7 +241,6 @@
     "Notes/Controllability.md~",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Observability.md",
     "Notes/Controllable Canonical Form.md",
-    "Notes/Controllability.md",
     "Lessons/Semester 4/regulation/Lecture 7 - Dynamic Compensators and Stability Margins.pdf",
     "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf",
     "Lessons/Semester 4/regulation/Lecture 3 - Introduction to Control.pdf",
