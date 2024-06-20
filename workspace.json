@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARM.md",
+                "file": "Notes/State Machines.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARM.md",
+                "file": "Notes/State Machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARM.md"
+                "file": "Notes/State Machines.md"
               }
             }
           }
@@ -206,8 +206,9 @@
   },
   "active": "7cfeecd15dc6eded",
   "lastOpenFiles": [
-    "Notes/RISC vs. CISC Architecture.md",
     "ARM.md",
+    "Intel x86 Architecture.md",
+    "Notes/RISC vs. CISC Architecture.md",
     "HOME.md",
     "RISC Architecture.md",
     "Notes/Embedded.md",
@@ -240,7 +241,6 @@
     "Notes/Feed Forward.md~",
     "Notes/Controllability.md~",
     "External/Kasper's Notes/Reguleringsteknik/Noter/Observability.md",
-    "Notes/Controllable Canonical Form.md",
     "Lessons/Semester 4/regulation/Lecture 7 - Dynamic Compensators and Stability Margins.pdf",
     "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf",
     "Lessons/Semester 4/regulation/Lecture 3 - Introduction to Control.pdf",
