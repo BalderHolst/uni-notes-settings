@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd6db5181fe5351c",
+            "id": "e5007e9898304d9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
-                "mode": "preview",
+                "file": "Intelligent Systems.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -74,13 +74,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537,
-    "collapsed": true
+    "width": 327.5055751800537
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "Intelligent Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "Intelligent Systems.md"
               }
             }
           }
@@ -205,54 +203,54 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "cd6db5181fe5351c",
+  "active": "e5007e9898304d9b",
   "lastOpenFiles": [
-    "Notes/Software Development.md",
+    "Artificial Intelligence.md",
+    "Intelligent Systems.md",
+    "Notes/Intelligent Systems.md",
     "HOME.md",
-    "Notes/State Machines.md",
-    "Notes/Gnidning.md",
-    "Notes/Jævn Cirkelbevægelse.md",
-    "Notes/Vektorer.md",
-    "Notes/Hastighed og Fart.md",
-    "Notes/Bølgeformlen.md",
-    "Notes/Frekvens.md",
-    "Notes/Vinkelfrekvens.md",
-    "Notes/Standard Teorien.md",
-    "Notes/FAN-OUT.md",
-    "ARM.md",
-    "Intel x86 Architecture.md",
-    "Notes/RISC vs. CISC Architecture.md",
-    "RISC Architecture.md",
-    "Notes/Embedded.md",
-    "Embedded.md",
-    "Notes/Kondensator.md",
-    "Notes/Gauss's Divergence Theorem.md",
-    "Notes/Multivariable Math.md",
-    "Notes/Arc Length.md",
-    "Notes/PID-controller.md",
-    "Lessons/Semester 4/regulation/Lecture 10 - Observers.pdf",
-    "Notes/Matricer.md",
-    "Notes/Matricer - Regneregler.md",
-    "Notes/Observers.md",
-    "Lessons/Semester 4/regulation/Lecture 6 - Nyquist Stability Criterion.pdf",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240611235046.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240611234823.png",
     "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf",
-    "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
-    "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf",
-    "Notes/Feed Forward.md~",
-    "Notes/Controllability.md~",
-    "Lessons/Semester 4/regulation/Lecture 7 - Dynamic Compensators and Stability Margins.pdf",
-    "Lessons/Semester 4/regulation/Lecture 5 - Root Locus.pdf",
-    "Lessons/Semester 4/regulation/Lecture 3 - Introduction to Control.pdf",
-    "Pasted image 20240607152958.png",
-    "Pasted image 20240607152006.png",
-    "Pasted image 20240607151903.png",
-    "Pasted image 20240607144634.png",
-    "Pasted image 20240607144028.png",
-    "Pasted image 20240519161915.png",
-    "Pasted image 20240519161540.png",
-    "Pasted image 20240519161514.png",
+    "Lessons/Semester 4/regulation/Lecture 1 - Slides.pdf",
+    "External/Kasper's Notes/tikz test.md",
+    "External/Kasper's Notes/TODO.md",
+    "External/Kasper's Notes/Signalbehandling/Opgaver/OverfÃ¸ringsfunktion.pdf",
+    "External/Kasper's Notes/Signalbehandling/Opgaver/Lektion 1 HÃ¸j og Lavpas filtre.md",
+    "External/Kasper's Notes/Signalbehandling/Noter/Vinduer/RektangulÃ¦rt Vindue.md",
+    "External/Kasper's Notes/Signalbehandling/Noter/Sampling/Pulssampling/HoldekredslÃ¸b.md",
+    "External/Kasper's Notes/Signalbehandling/Noter/Sampling/Nyquist-Shannon sÃ¦tning.md",
+    "External/Kasper's Notes/Signalbehandling/Noter/Relation mellem s-domÃ¦ne og z-domÃ¦ne.md",
+    "External/Kasper's Notes/Signalbehandling/Noter/OverfÃ¸ringsfunktion Eksempel.md",
+    "External/Kasper's Notes/Signalbehandling/Noter/Fourier/LÃ¦kage.md",
+    "External/Kasper's Notes/Signalbehandling/Noter/Elektroniske Filtre/Lavpas til bÃ¥ndpasfilter.md",
+    "External/Kasper's Notes/Signalbehandling/Noter/Elektroniske Filtre/Lavpas til HÃ¸jpasfilter.md",
+    "External/Kasper's Notes/Signalbehandling/Noter/Elektroniske Filtre/HÃ¸jpasfilter.md",
+    "External/Kasper's Notes/Signalbehandling/Noter/Elektroniske Filtre/GruppelÃ¸stid.md",
+    "External/Kasper's Notes/Robotters Fysik/Harmoniske bevÃ¦gelser.md",
+    "External/Kasper's Notes/Robotters Fysik/DÃ¦mpede svingninger.md",
+    "External/Kasper's Notes/Robotters Fysik/BevÃ¦gelsesmÃ¦ngder/Elastisk stÃ¸d.md",
+    "External/Kasper's Notes/Robotters Fysik/BevÃ¦gelsesmÃ¦ngder/BevÃ¦gelsesmÃ¦ngde.md",
+    "External/Kasper's Notes/Robotters Fysik/BevÃ¦gelsesmÃ¦ngder/BevÃ¦gelsesmÃ¦ngde for et partikel.md",
+    "External/Kasper's Notes/Robotters Fysik/BevÃ¦gelsesmÃ¦ngder",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/relation mellem s og z-domÃ¦ne.md",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/Modellering af systemer/TidsdomÃ¦ne Modeller.md",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/Modellering af systemer/KontinÃ¦r tids tilstands modeller.md",
+    "External/Kasper's Notes/Reguleringsteknik/Noter/Modellering af systemer/Impulsmoment sÃ¦tningen.md",
+    "External/Kasper's Notes/Multivariable Calculus/Opgaver/Fourier RÃ¦kker",
+    "External/Kasper's Notes/Misc og Links/_exercisesheets-lsdp.pdf",
+    "External/Kasper's Notes/Misc og Links/StÃ¥ende CirkelbÃ¸lger.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240809092203.png",
+    "External/Kasper's Notes/Misc og Links/Newtons AfkÃ¸lingslov HÃ¦ldningsfelt.png",
+    "External/Kasper's Notes/Misc og Links/Logistisk VÃ¦kst.png",
+    "External/Kasper's Notes/Misc og Links/Logistisk HÃ¦ldnningsfelt.png",
+    "External/Kasper's Notes/Misc og Links/JÃ¦vn CirkelbevÃ¦gelse med lod.png",
+    "External/Kasper's Notes/Misc og Links/JÃ¦vn CirkelbevÃ¦gelse 2.png",
+    "External/Kasper's Notes/Misc og Links/JÃ¦vn CirkelbevÃ¦gelse 1.png",
+    "External/Kasper's Notes/Misc og Links/HÃ¦ldningsfelt i maple.png",
+    "External/Kasper's Notes/Misc og Links/HÃ¦ldningsfelt i maple 2.png",
+    "External/Kasper's Notes/Fysik/BevÃ¦gelsesmÃ¦ngder",
+    "External/Kasper's Notes/ForstÃ¦rkningsteknik/Noter/FosrstÃ¦rkning med negativ feedback.pdf",
+    "External/Kasper's Notes/ForstÃ¦rkningsteknik/Noter",
+    "External/Kasper's Notes/ForstÃ¦rkningsteknik",
     "Untitled.canvas"
   ]
 }
