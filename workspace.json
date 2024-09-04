@@ -4,36 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "30dfe8131e5693e4",
+        "id": "6239ef4e90ba08ed",
         "type": "tabs",
         "children": [
           {
-            "id": "f90de5f5c021bb93",
+            "id": "ac297406fbb94d5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Specielle Matricer.md",
-                "mode": "source",
+                "file": "HOME.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "edf3b1ea0d22182f",
+            "id": "f5ec8a24e558a565",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Identity Matrix.md",
+                "file": "Propability Space.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Identity Matrix.md",
+                "file": "Propability Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Identity Matrix.md"
+                "file": "Propability Space.md"
               }
             }
           }
@@ -217,44 +216,45 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "edf3b1ea0d22182f",
+  "active": "f5ec8a24e558a565",
   "lastOpenFiles": [
-    "Identity Matrix.md~",
-    "Notes/Specielle Matricer.md",
+    "Lessons/Semester 5/intelligent-systems/lecture2.pdf",
+    "Lessons/Semester 5/intelligent-systems",
+    "Lessons/Semester 5",
+    "Propability Space.md~",
+    "External/Kasper's Notes/ROS2/Topics.md",
+    "External/Kasper's Notes/ROS2/Service.md",
+    "External/Kasper's Notes/ROS2/Ros2 basics.md",
+    "External/Kasper's Notes/ROS2/Parameters.md",
+    "External/Kasper's Notes/ROS2/Odometry.md",
+    "External/Kasper's Notes/ROS2/Nodes.md",
+    "External/Kasper's Notes/ROS2/Actions.md",
+    "External/Kasper's Notes/ROS2",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240903225839.png",
+    "HOME.md",
+    "Propability Space.md",
+    "Symetric Matrices.md",
+    "Notes/Symetric Matrices.md",
+    "Notes/Statistics.md",
+    "Notes/Identity Matrix.md",
+    "Notes/Diagonalmatrix.md",
+    "Notes/Antisymetrisk.md",
+    "Statistics.md",
+    "README.md",
     "Identity Matrix.md",
     "Diagonalmatrix.md",
+    "Antisymetrisk.md",
     "Notes/Matricer.md",
+    "Notes/Specielle Matricer.md",
+    "Antisymetrisk.md~",
+    "4913",
+    "Symetrisk.md~",
+    "Identity Matrix.md~",
     "Notes/Row Echelon Form.md",
     "Notes/Row Echelon Form.md~",
     "Notes/Rank of Matrix.md",
     "Notes/4913",
-    "Notes/Rank of Matrix.md~",
     "Notes/Linear System of Equations.md",
-    "Notes/Linear System of Equations.md~",
-    "Notes/Den Inverse af en Matrix.md",
-    "Notes/Ligninssystemer Uden Løsninger.md",
-    "Notes/Vectors.md",
-    "Statistics.md",
-    "Vectors.md",
-    "HOME.md",
-    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Induktionsbeviser.md",
-    "External/Kasper's Notes/TODO.md",
-    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes",
-    "External/Kasper's Notes/Algoritmer og Datastruktur",
-    "Notes/Machine Learning.md",
-    "Notes/Intelligent Systems.md",
-    "Notes/First-Order Logic.md",
-    "Notes/Deep Learning.md",
-    "Notes/Artificial Intelligence.md",
-    "Machine Learning.md",
-    "Deep Learning.md",
-    "First-Order Logic.md",
-    "Intelligent Systems.md",
-    "Artificial Intelligence.md",
-    "Lessons/Semester 4/regulation/Lecture 8 - Implementation.pdf",
-    "Lessons/Semester 4/regulation/Lecture 1 - Slides.pdf",
-    "External/Kasper's Notes/Signalbehandling/Opgaver/OverfÃ¸ringsfunktion.pdf",
-    "External/Kasper's Notes/Robotters Fysik/BevÃ¦gelsesmÃ¦ngder",
     "External/Kasper's Notes/Misc og Links/StÃ¥ende CirkelbÃ¸lger.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240809092203.png",
     "External/Kasper's Notes/Misc og Links/Newtons AfkÃ¸lingslov HÃ¦ldningsfelt.png",
@@ -264,7 +264,6 @@
     "External/Kasper's Notes/Misc og Links/JÃ¦vn CirkelbevÃ¦gelse 2.png",
     "External/Kasper's Notes/Misc og Links/JÃ¦vn CirkelbevÃ¦gelse 1.png",
     "External/Kasper's Notes/Misc og Links/HÃ¦ldningsfelt i maple.png",
-    "External/Kasper's Notes/Misc og Links/HÃ¦ldningsfelt i maple 2.png",
     "Untitled.canvas"
   ]
 }
