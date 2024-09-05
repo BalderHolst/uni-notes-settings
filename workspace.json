@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "81af8a6ee6227e0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms and Data Structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee087d0da5843c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sorting Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Propability Space.md",
+                "file": "Sorting Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Propability Space.md"
+                "file": "Sorting Algorithms.md"
               }
             }
           }
@@ -216,8 +240,13 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "f5ec8a24e558a565",
+  "active": "ee087d0da5843c91",
   "lastOpenFiles": [
+    "Lessons/Semester 5/algorithms/lecture2.pdf",
+    "Lessons/Semester 5/algorithms",
+    "Algorithms and Data Structures.md",
+    "Sorting Algorithms.md",
+    "Propability Space.md",
     "Propability Space.md~",
     "Lessons/Semester 5/intelligent-systems/lecture2.pdf",
     "Lessons/Semester 5/intelligent-systems",
@@ -232,7 +261,6 @@
     "External/Kasper's Notes/ROS2",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240903225839.png",
     "HOME.md",
-    "Propability Space.md",
     "Symetric Matrices.md",
     "Notes/Symetric Matrices.md",
     "Notes/Statistics.md",
@@ -251,10 +279,6 @@
     "Symetrisk.md~",
     "Identity Matrix.md~",
     "Notes/Row Echelon Form.md",
-    "Notes/Row Echelon Form.md~",
-    "Notes/Rank of Matrix.md",
-    "Notes/4913",
-    "Notes/Linear System of Equations.md",
     "External/Kasper's Notes/Misc og Links/StÃ¥ende CirkelbÃ¸lger.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240809092203.png",
     "External/Kasper's Notes/Misc og Links/Newtons AfkÃ¸lingslov HÃ¦ldningsfelt.png",
