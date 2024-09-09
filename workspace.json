@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bayesian Networks.md",
+                "file": "Notes/Random Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537
+    "width": 327.5055751800537,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bayesian Networks.md",
+                "file": "Notes/Random Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bayesian Networks.md"
+                "file": "Notes/Random Variables.md"
               }
             }
           }
@@ -215,8 +216,8 @@
   },
   "active": "e3cdd1add3956669",
   "lastOpenFiles": [
-    "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
     "Bayesian Networks.md",
+    "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
     "HOME.md",
     "Lessons/Semester 5/intelligent-systems/lecture3b.pdf",
     "External/Kasper's Notes/index_bak.lock",
