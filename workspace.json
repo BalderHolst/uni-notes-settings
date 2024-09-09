@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "d98619227af7a7b1",
+        "id": "b41e50a902abc7f7",
         "type": "tabs",
         "children": [
           {
-            "id": "d7b475aa679639e1",
+            "id": "75e7f71f77ce83ab",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 5/intelligent-systems/lecture3a.pdf"
+              }
+            }
+          },
+          {
+            "id": "e3cdd1add3956669",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Propability Space.md",
-                "mode": "preview",
+                "file": "Bayesian Networks.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537,
-    "collapsed": true
+    "width": 327.5055751800537
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Propability Space.md",
+                "file": "Bayesian Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Propability Space.md"
+                "file": "Bayesian Networks.md"
               }
             }
           }
@@ -203,30 +213,38 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "d7b475aa679639e1",
+  "active": "e3cdd1add3956669",
   "lastOpenFiles": [
+    "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
+    "Bayesian Networks.md",
     "HOME.md",
+    "Lessons/Semester 5/intelligent-systems/lecture3b.pdf",
+    "External/Kasper's Notes/index_bak.lock",
+    "External/Kasper's Notes/Statistik/Terminologi.md",
+    "External/Kasper's Notes/Statistik/Formler.md",
+    "External/Kasper's Notes/Statistik",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240908204000.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240908203627.png",
+    "External/Kasper's Notes/Kunstig inteligens/Terminology.md",
+    "External/Kasper's Notes/Kunstig inteligens",
+    "External/Kasper's Notes/Forstærkerteknik/Opgaver/lektion2 operationsforstÃ¦rkere.pdf",
+    "External/Kasper's Notes/Forstærkerteknik/Noter/Differentiel MÃ¥ling.md",
+    "External/Kasper's Notes/Forstærkerteknik/Opgaver",
+    "External/Kasper's Notes/Forstærkerteknik/Noter",
+    "External/Kasper's Notes/Forstærkerteknik",
+    "External/Kasper's Notes/Excalidraw/Drawing 2024-09-08 22.21.12.excalidraw.md",
+    "External/Kasper's Notes/Computer_lib.pdf",
     "Notes/Propability Space.md",
     "External/Kasper's Notes/Formelsamling/LineÃ¦r Algebra.md",
     "Notes/Inverse Matrix.md",
-    "Notes/Inverse Matrix.md~",
     "Notes/System of Linear Equations.md",
     "Notes/Matrix.md",
-    "Notes/Matrix.md~",
     "Sorting Algorithms.md",
-    "Mergesort.md~",
     "Mergesort.md",
     "Insertion Sort.md",
     "Algorithms and Data Structures.md",
     "Big-O Notation.md",
-    "Big-O Notation.md~",
-    "Sorting Algorithms.md~",
-    "Lessons/Semester 5/algorithms/lecture2.pdf",
-    "Lessons/Semester 5/algorithms",
     "Propability Space.md",
-    "Propability Space.md~",
-    "Lessons/Semester 5/intelligent-systems/lecture2.pdf",
-    "Lessons/Semester 5/intelligent-systems",
     "External/Kasper's Notes/ROS2/Topics.md",
     "External/Kasper's Notes/ROS2/Service.md",
     "External/Kasper's Notes/ROS2/Ros2 basics.md",
@@ -235,13 +253,6 @@
     "External/Kasper's Notes/ROS2/Nodes.md",
     "External/Kasper's Notes/ROS2/Actions.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240903225839.png",
-    "Symetric Matrices.md",
-    "Notes/Symetric Matrices.md",
-    "Notes/Statistics.md",
-    "Notes/Identity Matrix.md",
-    "Notes/Diagonalmatrix.md",
-    "Notes/Antisymetrisk.md",
-    "Statistics.md",
     "External/Kasper's Notes/Misc og Links/StÃ¥ende CirkelbÃ¸lger.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240809092203.png",
     "External/Kasper's Notes/Misc og Links/Newtons AfkÃ¸lingslov HÃ¦ldningsfelt.png",
@@ -249,8 +260,6 @@
     "External/Kasper's Notes/Misc og Links/Logistisk HÃ¦ldnningsfelt.png",
     "External/Kasper's Notes/Misc og Links/JÃ¦vn CirkelbevÃ¦gelse med lod.png",
     "External/Kasper's Notes/Misc og Links/JÃ¦vn CirkelbevÃ¦gelse 2.png",
-    "External/Kasper's Notes/Misc og Links/JÃ¦vn CirkelbevÃ¦gelse 1.png",
-    "External/Kasper's Notes/Misc og Links/HÃ¦ldningsfelt i maple.png",
     "Untitled.canvas"
   ]
 }
