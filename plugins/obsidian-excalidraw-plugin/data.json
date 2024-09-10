@@ -77,7 +77,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.13",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.23",
     "libraryItems": [
       {
         "status": "unpublished",
@@ -157,7 +157,7 @@
             "containerId": null,
             "originalText": "Condition",
             "lineHeight": 1.25,
-            "baseline": 23
+            "baseline": 25
           },
           {
             "type": "arrow",
@@ -349,7 +349,7 @@
             "containerId": null,
             "originalText": "Yes",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -426,7 +426,7 @@
             "containerId": null,
             "originalText": "No",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -648,7 +648,7 @@
             "containerId": null,
             "originalText": "Condition",
             "lineHeight": 1.25,
-            "baseline": 23
+            "baseline": 25
           },
           {
             "type": "arrow",
@@ -835,7 +835,7 @@
             "containerId": null,
             "originalText": "Yes",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -1017,7 +1017,7 @@
             "containerId": null,
             "originalText": "No",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -1139,7 +1139,7 @@
             "containerId": null,
             "originalText": "Condition",
             "lineHeight": 1.25,
-            "baseline": 23
+            "baseline": 25
           },
           {
             "type": "arrow",
@@ -1274,7 +1274,7 @@
             "containerId": null,
             "originalText": "Yes",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -1351,7 +1351,7 @@
             "containerId": null,
             "originalText": "No",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -1625,7 +1625,7 @@
             "containerId": null,
             "originalText": "Condition",
             "lineHeight": 1.25,
-            "baseline": 23
+            "baseline": 25
           },
           {
             "type": "arrow",
@@ -1758,7 +1758,7 @@
             "containerId": null,
             "originalText": "Yes",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -1833,7 +1833,7 @@
             "containerId": null,
             "originalText": "No",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -2159,7 +2159,7 @@
             "containerId": null,
             "originalText": "Condition",
             "lineHeight": 1.25,
-            "baseline": 23
+            "baseline": 25
           },
           {
             "type": "text",
@@ -2198,7 +2198,7 @@
             "containerId": null,
             "originalText": "Yes",
             "lineHeight": 1.2739395337669208,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -2475,7 +2475,7 @@
             "containerId": null,
             "originalText": "No",
             "lineHeight": 1.2739395337669208,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -2645,7 +2645,7 @@
             "containerId": null,
             "originalText": "Condition",
             "lineHeight": 1.25,
-            "baseline": 23
+            "baseline": 25
           },
           {
             "type": "text",
@@ -2684,7 +2684,7 @@
             "containerId": null,
             "originalText": "No",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -2961,7 +2961,7 @@
             "containerId": null,
             "originalText": "Yes",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -3083,7 +3083,7 @@
             "containerId": null,
             "originalText": "Condition",
             "lineHeight": 1.25,
-            "baseline": 23
+            "baseline": 25
           },
           {
             "type": "arrow",
@@ -3270,7 +3270,7 @@
             "containerId": null,
             "originalText": "Yes",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -3404,7 +3404,7 @@
             "containerId": null,
             "originalText": "No",
             "lineHeight": 1.2739395337669208,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -3574,7 +3574,7 @@
             "containerId": null,
             "originalText": "Condition",
             "lineHeight": 1.25,
-            "baseline": 23
+            "baseline": 25
           },
           {
             "type": "arrow",
@@ -3665,7 +3665,7 @@
             "containerId": null,
             "originalText": "Yes",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -3742,7 +3742,7 @@
             "containerId": null,
             "originalText": "No",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
