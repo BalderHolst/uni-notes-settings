@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Propability Space.md",
+                "file": "Notes/Bayesian Networks.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Propability Space.md",
+                "file": "Notes/Bayesian Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Propability Space.md"
+                "file": "Notes/Bayesian Networks.md"
               }
             }
           }
@@ -206,6 +206,7 @@
   },
   "active": "16fa579cfde6f5de",
   "lastOpenFiles": [
+    "Notes/Propability Space.md",
     "HOME.md",
     "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture3b.pdf",
@@ -233,7 +234,6 @@
     "External/Kasper's Notes/Forstærkerteknik/Opgaver",
     "External/Kasper's Notes/Forstærkerteknik/Noter",
     "External/Kasper's Notes/Forstærkerteknik",
-    "Notes/Propability Space.md",
     "External/Kasper's Notes/Formelsamling/LineÃ¦r Algebra.md",
     "Notes/Inverse Matrix.md",
     "Notes/System of Linear Equations.md",
