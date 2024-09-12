@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Direct Samling.md",
+                "file": "Notes/Propability Space.md",
                 "mode": "preview",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fysik",
+                "query": "bayes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,11 +73,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537
+    "width": 327.5055751800537,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Direct Samling.md",
+                "file": "Notes/Propability Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Direct Samling.md"
+                "file": "Notes/Propability Space.md"
               }
             }
           }
@@ -204,12 +206,12 @@
   },
   "active": "16fa579cfde6f5de",
   "lastOpenFiles": [
+    "HOME.md",
     "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture3b.pdf",
     "Direct Samling.md",
     "Notes/Bayesian Networks.md",
     "Exact Inference.md",
-    "HOME.md",
     "External/Kasper's Notes/TODO.md",
     "External/Kasper's Notes/Statistik/Komplet Beskrivelse.md",
     "External/Kasper's Notes/Excalidraw/Drawing 2024-09-08 22.21.12.excalidraw.md",
