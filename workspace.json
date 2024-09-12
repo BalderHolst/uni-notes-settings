@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master Theorem.md",
+                "file": "Notes/Eksponentielle Funktioner.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master Theorem.md",
+                "file": "Notes/Eksponentielle Funktioner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master Theorem.md"
+                "file": "Notes/Eksponentielle Funktioner.md"
               }
             }
           }
@@ -219,8 +219,11 @@
   },
   "active": "3abbff7926fe1e02",
   "lastOpenFiles": [
-    "HOME.md",
+    "Images/Logistisk Hældnningsfelt.png",
+    "Notes/Eksponentielle Funktioner.md",
+    "Notes/Logaritmer.md",
     "Master Theorem.md",
+    "HOME.md",
     "Notes/Bayesian Networks.md",
     "Notes/Propability Space.md",
     "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
@@ -254,9 +257,6 @@
     "Notes/Matrix.md",
     "Sorting Algorithms.md",
     "Mergesort.md",
-    "Insertion Sort.md",
-    "Algorithms and Data Structures.md",
-    "Big-O Notation.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240903225839.png",
     "External/Kasper's Notes/Misc og Links/StÃ¥ende CirkelbÃ¸lger.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240809092203.png",
