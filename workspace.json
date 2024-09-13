@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af582c4741bdaf71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Rank of Matrix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "45fcc06843bcc3b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Image.md",
+                "file": "Notes/Random Variables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Image.md",
+                "file": "Notes/Random Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Image.md"
+                "file": "Notes/Random Variables.md"
               }
             }
           }
@@ -219,16 +206,32 @@
   },
   "active": "45fcc06843bcc3b5",
   "lastOpenFiles": [
+    "Notes/Bayesian Networks.md",
+    "Notes/Random Variables.md",
+    "HOME.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240912145536.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240912140309.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240912134857.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240912134237.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240912133647.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240912131740.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240912131331.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240912125310.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240912125256.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240912125215.png",
+    "External/Kasper's Notes/Kunstig inteligens/Fuzzy logic.md",
+    "External/Kasper's Notes/Kunstig inteligens/Exercises/exercise1.pdf",
+    "External/Kasper's Notes/Kunstig inteligens/Exercises/Exercise 1 Fuzzy control.md",
+    "External/Kasper's Notes/Kunstig inteligens/Exercises",
+    "External/Kasper's Notes/Kunstig inteligens/Basics.md",
+    "External/Kasper's Notes/Excalidraw/Drawing 2024-09-12 14.08.07.excalidraw.md",
+    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Big O notation.md",
     "Matrix Kernel.md",
     "Matrix Image.md",
-    "Pasted image 20240912084607.png",
     "Notes/Rank of Matrix.md",
-    "HOME.md",
     "Notes/Eksponentielle Funktioner.md",
-    "Images/Logistisk Hældnningsfelt.png",
     "Notes/Logaritmer.md",
     "Master Theorem.md",
-    "Notes/Bayesian Networks.md",
     "Notes/Propability Space.md",
     "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture3b.pdf",
@@ -240,30 +243,14 @@
     "External/Kasper's Notes/Algoritmer og Datastruktur/Opgaver/Stack Queue and balPar.md",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Løkker.md",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Opgaver",
-    "Notes/Random Variables.md",
     "Bayesian Networks.md",
     "External/Kasper's Notes/index_bak.lock",
     "External/Kasper's Notes/Statistik/Terminologi.md",
     "External/Kasper's Notes/Statistik/Formler.md",
     "External/Kasper's Notes/Statistik",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240908204000.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240908203627.png",
-    "External/Kasper's Notes/Kunstig inteligens/Terminology.md",
     "External/Kasper's Notes/Kunstig inteligens",
     "External/Kasper's Notes/Forstærkerteknik/Opgaver/lektion2 operationsforstÃ¦rkere.pdf",
-    "External/Kasper's Notes/Forstærkerteknik/Noter/Differentiel MÃ¥ling.md",
     "External/Kasper's Notes/Forstærkerteknik/Opgaver",
-    "External/Kasper's Notes/Forstærkerteknik/Noter",
-    "External/Kasper's Notes/Forstærkerteknik",
-    "External/Kasper's Notes/Formelsamling/LineÃ¦r Algebra.md",
-    "Notes/Inverse Matrix.md",
-    "Notes/System of Linear Equations.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240903225839.png",
-    "External/Kasper's Notes/Misc og Links/StÃ¥ende CirkelbÃ¸lger.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240809092203.png",
-    "External/Kasper's Notes/Misc og Links/Newtons AfkÃ¸lingslov HÃ¦ldningsfelt.png",
-    "External/Kasper's Notes/Misc og Links/Logistisk VÃ¦kst.png",
-    "External/Kasper's Notes/Misc og Links/Logistisk HÃ¦ldnningsfelt.png",
     "Untitled.canvas"
   ]
 }
