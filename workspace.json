@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Bayesian Networks.md",
-                "mode": "preview",
+                "file": "Notes/Random Variables.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Bayesian Networks.md",
+                "file": "Notes/Random Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Bayesian Networks.md"
+                "file": "Notes/Random Variables.md"
               }
             }
           }
@@ -206,9 +206,9 @@
   },
   "active": "840c2d1e8a887856",
   "lastOpenFiles": [
+    "Notes/Bayesian Networks.md",
     "Notes/Random Variables.md",
     "HOME.md",
-    "Notes/Bayesian Networks.md",
     "Notes/Velocity Curves.md",
     "Notes/Propability Space.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240912145536.png",
