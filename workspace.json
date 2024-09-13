@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Random Variables.md",
+                "file": "Notes/Bayesian Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bayes",
+                "query": "joint",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Random Variables.md",
+                "file": "Notes/Bayesian Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Random Variables.md"
+                "file": "Notes/Bayesian Networks.md"
               }
             }
           }
@@ -206,6 +206,8 @@
   },
   "active": "45fcc06843bcc3b5",
   "lastOpenFiles": [
+    "Notes/Velocity Curves.md",
+    "Notes/Propability Space.md",
     "Notes/Bayesian Networks.md",
     "Notes/Random Variables.md",
     "HOME.md",
@@ -232,7 +234,6 @@
     "Notes/Eksponentielle Funktioner.md",
     "Notes/Logaritmer.md",
     "Master Theorem.md",
-    "Notes/Propability Space.md",
     "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture3b.pdf",
     "Direct Samling.md",
