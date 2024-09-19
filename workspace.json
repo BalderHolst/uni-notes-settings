@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0102839091a4cae2",
+        "id": "9c41d429adca9aad",
         "type": "tabs",
         "children": [
           {
-            "id": "840c2d1e8a887856",
+            "id": "5f24b601bb5349ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Random Variables.md",
+                "file": "Notes/Determinanen for Matricer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53d502305c52dd68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Eigen values and vectors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Random Variables.md",
+                "file": "Notes/Eigen values and vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Random Variables.md"
+                "file": "Notes/Eigen values and vectors.md"
               }
             }
           }
@@ -204,11 +217,25 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "840c2d1e8a887856",
+  "active": "53d502305c52dd68",
   "lastOpenFiles": [
-    "Notes/Bayesian Networks.md",
-    "Notes/Random Variables.md",
+    "Notes/Eigen values and vectors.md~",
+    "Notes/4913",
+    "Trace.md",
+    "Notes/Determinanen for Matricer.md",
+    "External/Kasper's Notes/handwritten-notes/Test.pdf",
+    "External/Kasper's Notes/handwritten-notes",
+    "External/Kasper's Notes/Statistik/Kontinuerte Stokastiske Variable.md",
+    "External/Kasper's Notes/Statistik/Drawing 2024-09-17 20.50.05.excalidraw.md",
+    "External/Kasper's Notes/ROS2/Build and run ROS.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240916134801.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240916134741.png",
+    "External/Kasper's Notes/Excalidraw/Drawing 2024-09-16 16.37.56.excalidraw.md",
+    "External/Kasper's Notes/Algoritmer og Datastruktur/Opgaver/hashing_oevelser.pdf",
+    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Hashing.md",
     "HOME.md",
+    "Notes/Random Variables.md",
+    "Notes/Bayesian Networks.md",
     "Notes/Velocity Curves.md",
     "Notes/Propability Space.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240912145536.png",
@@ -219,8 +246,6 @@
     "External/Kasper's Notes/Misc og Links/Pasted image 20240912131740.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240912131331.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240912125310.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240912125256.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240912125215.png",
     "External/Kasper's Notes/Kunstig inteligens/Fuzzy logic.md",
     "External/Kasper's Notes/Kunstig inteligens/Exercises/exercise1.pdf",
     "External/Kasper's Notes/Kunstig inteligens/Exercises/Exercise 1 Fuzzy control.md",
@@ -238,20 +263,8 @@
     "Lessons/Semester 5/intelligent-systems/lecture3b.pdf",
     "Direct Samling.md",
     "Exact Inference.md",
-    "External/Kasper's Notes/TODO.md",
-    "External/Kasper's Notes/Statistik/Komplet Beskrivelse.md",
-    "External/Kasper's Notes/Excalidraw/Drawing 2024-09-08 22.21.12.excalidraw.md",
-    "External/Kasper's Notes/Algoritmer og Datastruktur/Opgaver/Stack Queue and balPar.md",
-    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Løkker.md",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Opgaver",
-    "Bayesian Networks.md",
     "External/Kasper's Notes/index_bak.lock",
-    "External/Kasper's Notes/Statistik/Terminologi.md",
-    "External/Kasper's Notes/Statistik/Formler.md",
-    "External/Kasper's Notes/Statistik",
-    "External/Kasper's Notes/Kunstig inteligens",
-    "External/Kasper's Notes/Forstærkerteknik/Opgaver/lektion2 operationsforstÃ¦rkere.pdf",
-    "External/Kasper's Notes/Forstærkerteknik/Opgaver",
     "Untitled.canvas"
   ]
 }
