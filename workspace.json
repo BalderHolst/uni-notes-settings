@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Eigen values and vectors.md",
+                "file": "Eigen Decomposition.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Eigen values and vectors.md",
+                "file": "Eigen Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Eigen values and vectors.md"
+                "file": "Eigen Decomposition.md"
               }
             }
           }
@@ -219,6 +219,8 @@
   },
   "active": "53d502305c52dd68",
   "lastOpenFiles": [
+    "Notes/Eigen values and vectors.md",
+    "Eigen Decomposition.md",
     "Notes/Eigen values and vectors.md~",
     "Notes/4913",
     "Trace.md",
@@ -262,9 +264,7 @@
     "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture3b.pdf",
     "Direct Samling.md",
-    "Exact Inference.md",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Opgaver",
-    "External/Kasper's Notes/index_bak.lock",
     "Untitled.canvas"
   ]
 }
