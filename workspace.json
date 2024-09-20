@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Eigen values and vectors.md",
+                "file": "Notes/Determinanen for Matricer.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gaus",
+                "query": "determinant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537
+    "width": 327.5055751800537,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Eigen values and vectors.md",
+                "file": "Notes/Determinanen for Matricer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Eigen values and vectors.md"
+                "file": "Notes/Determinanen for Matricer.md"
               }
             }
           }
@@ -205,8 +206,8 @@
   },
   "active": "53d502305c52dd68",
   "lastOpenFiles": [
-    "Notes/System of Linear Equations.md",
     "Notes/Eigen values and vectors.md",
+    "Notes/System of Linear Equations.md",
     "Notes/Inverse Matrix.md",
     "Notes/Matrix.md",
     "Notes/Determinanen for Matricer.md",
