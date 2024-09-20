@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Rotational Matrices.md",
+                "file": "Notes/Matrix Image.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Rotational Matrices.md",
+                "file": "Notes/Matrix Image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Rotational Matrices.md"
+                "file": "Notes/Matrix Image.md"
               }
             }
           }
@@ -206,6 +206,8 @@
   },
   "active": "53d502305c52dd68",
   "lastOpenFiles": [
+    "Notes/Trigonometri.md",
+    "Notes/Rotational Matrices.md",
     "Notes/Rank of Matrix.md",
     "Notes/Inverse Matrix.md",
     "Notes/Determinanen for Matricer.md",
@@ -247,8 +249,6 @@
     "External/Kasper's Notes/Kunstig inteligens/Exercises/exercise1.pdf",
     "External/Kasper's Notes/Kunstig inteligens/Exercises/Exercise 1 Fuzzy control.md",
     "External/Kasper's Notes/Kunstig inteligens/Exercises",
-    "External/Kasper's Notes/Kunstig inteligens/Basics.md",
-    "External/Kasper's Notes/Excalidraw/Drawing 2024-09-12 14.08.07.excalidraw.md",
     "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture3b.pdf",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Opgaver",
