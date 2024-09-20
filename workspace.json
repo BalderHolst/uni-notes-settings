@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Symetric Matrices.md",
+                "file": "Notes/Inverse Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "basiso",
+                "query": "transpo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Symetric Matrices.md",
+                "file": "Notes/Inverse Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Symetric Matrices.md"
+                "file": "Notes/Inverse Matrix.md"
               }
             }
           }
@@ -203,12 +203,16 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "d8f75e9e67352fd5",
+  "active": "53d502305c52dd68",
   "lastOpenFiles": [
+    "Notes/Matrix.md",
+    "Notes/Determinanen for Matricer.md",
+    "Notes/Rank of Matrix.md",
+    "Notes/Vectors.md",
+    "Notes/Symetric Matrices.md",
+    "Dotprodukt.md",
     "Notes/Inverse Matrix.md",
     "Pasted image 20240920073147.png",
-    "Notes/Determinanen for Matricer.md",
-    "Notes/Matrix.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240919132129.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240919132047.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240919132011.png",
@@ -244,9 +248,6 @@
     "External/Kasper's Notes/Kunstig inteligens/Basics.md",
     "External/Kasper's Notes/Excalidraw/Drawing 2024-09-12 14.08.07.excalidraw.md",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Big O notation.md",
-    "Matrix Kernel.md",
-    "Matrix Image.md",
-    "Notes/Rank of Matrix.md",
     "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture3b.pdf",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Opgaver",
