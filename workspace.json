@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inverse Matrix.md",
+                "file": "Notes/Rotational Matrices.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inverse Matrix.md",
+                "file": "Notes/Rotational Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inverse Matrix.md"
+                "file": "Notes/Rotational Matrices.md"
               }
             }
           }
@@ -206,12 +206,12 @@
   },
   "active": "53d502305c52dd68",
   "lastOpenFiles": [
+    "Notes/Rank of Matrix.md",
+    "Notes/Inverse Matrix.md",
     "Notes/Determinanen for Matricer.md",
     "Notes/Eigen values and vectors.md",
     "Notes/System of Linear Equations.md",
-    "Notes/Inverse Matrix.md",
     "Notes/Matrix.md",
-    "Notes/Rank of Matrix.md",
     "Notes/Vectors.md",
     "Notes/Symetric Matrices.md",
     "Dotprodukt.md",
