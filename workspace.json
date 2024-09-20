@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inverse Matrix.md",
+                "file": "Notes/Eigen values and vectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transpo",
+                "query": "gaus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inverse Matrix.md",
+                "file": "Notes/Eigen values and vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inverse Matrix.md"
+                "file": "Notes/Eigen values and vectors.md"
               }
             }
           }
@@ -205,13 +205,15 @@
   },
   "active": "53d502305c52dd68",
   "lastOpenFiles": [
+    "Notes/System of Linear Equations.md",
+    "Notes/Eigen values and vectors.md",
+    "Notes/Inverse Matrix.md",
     "Notes/Matrix.md",
     "Notes/Determinanen for Matricer.md",
     "Notes/Rank of Matrix.md",
     "Notes/Vectors.md",
     "Notes/Symetric Matrices.md",
     "Dotprodukt.md",
-    "Notes/Inverse Matrix.md",
     "Pasted image 20240920073147.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240919132129.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20240919132047.png",
@@ -224,7 +226,6 @@
     "External/Kasper's Notes/Misc og Links/Pasted image 20240919131054.png",
     "External/Kasper's Notes/Kunstig inteligens/Fuzzy Logic Control.md",
     "HOME.md",
-    "Notes/Eigen values and vectors.md",
     "Eigen Decomposition.md",
     "Notes/Eigen values and vectors.md~",
     "Notes/4913",
@@ -247,7 +248,6 @@
     "External/Kasper's Notes/Kunstig inteligens/Exercises",
     "External/Kasper's Notes/Kunstig inteligens/Basics.md",
     "External/Kasper's Notes/Excalidraw/Drawing 2024-09-12 14.08.07.excalidraw.md",
-    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Big O notation.md",
     "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture3b.pdf",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Opgaver",
