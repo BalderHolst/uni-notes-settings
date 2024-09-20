@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f24b601bb5349ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Determinanen for Matricer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "53d502305c52dd68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eigen Decomposition.md",
+                "file": "Notes/Symetric Matrices.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "joint",
+                "query": "basiso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537,
-    "collapsed": true
+    "width": 327.5055751800537
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eigen Decomposition.md",
+                "file": "Notes/Symetric Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eigen Decomposition.md"
+                "file": "Notes/Symetric Matrices.md"
               }
             }
           }
@@ -217,37 +203,40 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "53d502305c52dd68",
+  "active": "d8f75e9e67352fd5",
   "lastOpenFiles": [
+    "Notes/Inverse Matrix.md",
+    "Pasted image 20240920073147.png",
+    "Notes/Determinanen for Matricer.md",
+    "Notes/Matrix.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240919132129.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240919132047.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240919132011.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240919131933.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240919131924.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240919131913.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240919131715.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240919131555.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240919131054.png",
+    "External/Kasper's Notes/Kunstig inteligens/Fuzzy Logic Control.md",
+    "HOME.md",
     "Notes/Eigen values and vectors.md",
     "Eigen Decomposition.md",
     "Notes/Eigen values and vectors.md~",
     "Notes/4913",
     "Trace.md",
-    "Notes/Determinanen for Matricer.md",
     "External/Kasper's Notes/handwritten-notes/Test.pdf",
     "External/Kasper's Notes/handwritten-notes",
     "External/Kasper's Notes/Statistik/Kontinuerte Stokastiske Variable.md",
     "External/Kasper's Notes/Statistik/Drawing 2024-09-17 20.50.05.excalidraw.md",
     "External/Kasper's Notes/ROS2/Build and run ROS.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240916134801.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240916134741.png",
     "External/Kasper's Notes/Excalidraw/Drawing 2024-09-16 16.37.56.excalidraw.md",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Opgaver/hashing_oevelser.pdf",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Hashing.md",
-    "HOME.md",
     "Notes/Random Variables.md",
     "Notes/Bayesian Networks.md",
     "Notes/Velocity Curves.md",
     "Notes/Propability Space.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240912145536.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240912140309.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240912134857.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240912134237.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240912133647.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240912131740.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240912131331.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240912125310.png",
     "External/Kasper's Notes/Kunstig inteligens/Fuzzy logic.md",
     "External/Kasper's Notes/Kunstig inteligens/Exercises/exercise1.pdf",
     "External/Kasper's Notes/Kunstig inteligens/Exercises/Exercise 1 Fuzzy control.md",
@@ -258,12 +247,8 @@
     "Matrix Kernel.md",
     "Matrix Image.md",
     "Notes/Rank of Matrix.md",
-    "Notes/Eksponentielle Funktioner.md",
-    "Notes/Logaritmer.md",
-    "Master Theorem.md",
     "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture3b.pdf",
-    "Direct Samling.md",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Opgaver",
     "Untitled.canvas"
   ]
