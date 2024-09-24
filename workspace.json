@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Matrix Kernel.md",
+                "file": "Notes/System of Linear Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Matrix Kernel.md",
+                "file": "Notes/System of Linear Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Matrix Kernel.md"
+                "file": "Notes/System of Linear Equations.md"
               }
             }
           }
@@ -206,8 +206,9 @@
   },
   "active": "a4009bc27d5347b4",
   "lastOpenFiles": [
-    "HOME.md",
     "Notes/Matrix Kernel.md",
+    "Notes/Matrix Kernel.md~",
+    "HOME.md",
     "External/Kasper's Notes/handwritten-notes/Uafhængig x, y.pdf",
     "External/Kasper's Notes/handwritten-notes/ULineær funktion af stokastisk variable.pdf",
     "External/Kasper's Notes/handwritten-notes/Stokastiske variable .pdf",
@@ -217,7 +218,6 @@
     "External/Kasper's Notes/handwritten-notes/Momenter .pdf",
     "External/Kasper's Notes/handwritten-notes/Linear kombination af stokastiske variable .pdf",
     "External/Kasper's Notes/handwritten-notes/Komplet Binær Træ.pdf",
-    "External/Kasper's Notes/handwritten-notes/Fortolkning af Covarians.pdf",
     "External/Kasper's Notes/Statistik/Simultaneous random variables.md",
     "External/Kasper's Notes/Solceller.md",
     "External/Kasper's Notes/Power Plant.md",
@@ -251,7 +251,6 @@
     "External/Kasper's Notes/Statistik/Kontinuerte Stokastiske Variable.md",
     "External/Kasper's Notes/Statistik/Drawing 2024-09-17 20.50.05.excalidraw.md",
     "External/Kasper's Notes/ROS2/Build and run ROS.md",
-    "External/Kasper's Notes/Excalidraw/Drawing 2024-09-16 16.37.56.excalidraw.md",
     "Untitled.canvas"
   ]
 }
