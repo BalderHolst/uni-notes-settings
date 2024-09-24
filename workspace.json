@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/System of Linear Equations.md",
+                "file": "Notes/Matrix Kernel.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/System of Linear Equations.md",
+                "file": "Notes/Matrix Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/System of Linear Equations.md"
+                "file": "Notes/Matrix Kernel.md"
               }
             }
           }
@@ -206,6 +206,7 @@
   },
   "active": "a4009bc27d5347b4",
   "lastOpenFiles": [
+    "Notes/System of Linear Equations.md",
     "Notes/Matrix Kernel.md",
     "Notes/Matrix Kernel.md~",
     "HOME.md",
@@ -240,7 +241,6 @@
     "Notes/Inverse Matrix.md",
     "Notes/Determinanen for Matricer.md",
     "Notes/Eigen values and vectors.md",
-    "Notes/System of Linear Equations.md",
     "Notes/Matrix.md",
     "Notes/Vectors.md",
     "Notes/Symetric Matrices.md",
