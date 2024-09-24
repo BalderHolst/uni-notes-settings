@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9c41d429adca9aad",
+        "id": "5dda1445aa869aac",
         "type": "tabs",
         "children": [
           {
-            "id": "53d502305c52dd68",
+            "id": "a4009bc27d5347b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Matrix Image.md",
+                "file": "Notes/Matrix Kernel.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Matrix Image.md",
+                "file": "Notes/Matrix Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Matrix Image.md"
+                "file": "Notes/Matrix Kernel.md"
               }
             }
           }
@@ -204,8 +204,36 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "53d502305c52dd68",
+  "active": "a4009bc27d5347b4",
   "lastOpenFiles": [
+    "HOME.md",
+    "Notes/Matrix Kernel.md",
+    "External/Kasper's Notes/handwritten-notes/Uafhængig x, y.pdf",
+    "External/Kasper's Notes/handwritten-notes/ULineær funktion af stokastisk variable.pdf",
+    "External/Kasper's Notes/handwritten-notes/Stokastiske variable .pdf",
+    "External/Kasper's Notes/handwritten-notes/Special case.pdf",
+    "External/Kasper's Notes/handwritten-notes/Solceller.pdf",
+    "External/Kasper's Notes/handwritten-notes/Power Plant sketch.pdf",
+    "External/Kasper's Notes/handwritten-notes/Momenter .pdf",
+    "External/Kasper's Notes/handwritten-notes/Linear kombination af stokastiske variable .pdf",
+    "External/Kasper's Notes/handwritten-notes/Komplet Binær Træ.pdf",
+    "External/Kasper's Notes/handwritten-notes/Fortolkning af Covarians.pdf",
+    "External/Kasper's Notes/Statistik/Simultaneous random variables.md",
+    "External/Kasper's Notes/Solceller.md",
+    "External/Kasper's Notes/Power Plant.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240923132533.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240923132525.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240923132518.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240923132141.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240923132130.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240923132119.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240923130331.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240923130323.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240923125437.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20240923125342.png",
+    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Priorityqueing.md",
+    "Spectral Theorem.md",
+    "Notes/Matrix Image.md",
     "Notes/Trigonometri.md",
     "Notes/Rotational Matrices.md",
     "Notes/Rank of Matrix.md",
@@ -217,41 +245,13 @@
     "Notes/Vectors.md",
     "Notes/Symetric Matrices.md",
     "Dotprodukt.md",
-    "Pasted image 20240920073147.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240919132129.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240919132047.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240919132011.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240919131933.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240919131924.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240919131913.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240919131715.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240919131555.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240919131054.png",
     "External/Kasper's Notes/Kunstig inteligens/Fuzzy Logic Control.md",
-    "HOME.md",
     "Eigen Decomposition.md",
-    "Notes/Eigen values and vectors.md~",
-    "Notes/4913",
     "Trace.md",
-    "External/Kasper's Notes/handwritten-notes/Test.pdf",
-    "External/Kasper's Notes/handwritten-notes",
     "External/Kasper's Notes/Statistik/Kontinuerte Stokastiske Variable.md",
     "External/Kasper's Notes/Statistik/Drawing 2024-09-17 20.50.05.excalidraw.md",
     "External/Kasper's Notes/ROS2/Build and run ROS.md",
     "External/Kasper's Notes/Excalidraw/Drawing 2024-09-16 16.37.56.excalidraw.md",
-    "External/Kasper's Notes/Algoritmer og Datastruktur/Opgaver/hashing_oevelser.pdf",
-    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Hashing.md",
-    "Notes/Random Variables.md",
-    "Notes/Bayesian Networks.md",
-    "Notes/Velocity Curves.md",
-    "Notes/Propability Space.md",
-    "External/Kasper's Notes/Kunstig inteligens/Fuzzy logic.md",
-    "External/Kasper's Notes/Kunstig inteligens/Exercises/exercise1.pdf",
-    "External/Kasper's Notes/Kunstig inteligens/Exercises/Exercise 1 Fuzzy control.md",
-    "External/Kasper's Notes/Kunstig inteligens/Exercises",
-    "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
-    "Lessons/Semester 5/intelligent-systems/lecture3b.pdf",
-    "External/Kasper's Notes/Algoritmer og Datastruktur/Opgaver",
     "Untitled.canvas"
   ]
 }
