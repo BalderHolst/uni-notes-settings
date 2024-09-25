@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5dda1445aa869aac",
+        "id": "553e850746bdcd9a",
         "type": "tabs",
         "children": [
           {
-            "id": "a4009bc27d5347b4",
+            "id": "cf0c972d81647804",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Matrix Kernel.md",
-                "mode": "source",
+                "file": "Notes/Bayesian Networks.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Matrix Kernel.md",
+                "file": "Notes/Bayesian Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Matrix Kernel.md"
+                "file": "Notes/Bayesian Networks.md"
               }
             }
           }
@@ -204,12 +204,12 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "a4009bc27d5347b4",
+  "active": "cf0c972d81647804",
   "lastOpenFiles": [
-    "Notes/System of Linear Equations.md",
-    "Notes/Matrix Kernel.md",
-    "Notes/Matrix Kernel.md~",
     "HOME.md",
+    "Notes/Matrix Kernel.md",
+    "Notes/System of Linear Equations.md",
+    "Notes/Matrix Kernel.md~",
     "External/Kasper's Notes/handwritten-notes/Uafhængig x, y.pdf",
     "External/Kasper's Notes/handwritten-notes/ULineær funktion af stokastisk variable.pdf",
     "External/Kasper's Notes/handwritten-notes/Stokastiske variable .pdf",
