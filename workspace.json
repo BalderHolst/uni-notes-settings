@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "553e850746bdcd9a",
+        "id": "4a0b7a633ad966f5",
         "type": "tabs",
         "children": [
           {
-            "id": "cf0c972d81647804",
+            "id": "c3ddf4da3077a418",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Bayesian Networks.md",
+                "file": "Notes/Random Variables.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Bayesian Networks.md",
+                "file": "Notes/Random Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Bayesian Networks.md"
+                "file": "Notes/Random Variables.md"
               }
             }
           }
@@ -204,9 +204,11 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "cf0c972d81647804",
+  "active": "c3ddf4da3077a418",
   "lastOpenFiles": [
     "HOME.md",
+    "External/Kasper's Notes/Mangler i LAB.md",
+    "Notes/Bayesian Networks.md",
     "Notes/Matrix Kernel.md",
     "Notes/System of Linear Equations.md",
     "Notes/Matrix Kernel.md~",
@@ -250,7 +252,6 @@
     "Trace.md",
     "External/Kasper's Notes/Statistik/Kontinuerte Stokastiske Variable.md",
     "External/Kasper's Notes/Statistik/Drawing 2024-09-17 20.50.05.excalidraw.md",
-    "External/Kasper's Notes/ROS2/Build and run ROS.md",
     "Untitled.canvas"
   ]
 }
