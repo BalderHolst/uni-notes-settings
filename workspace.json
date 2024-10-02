@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "4a0b7a633ad966f5",
+        "id": "7c167d91e399c930",
         "type": "tabs",
         "children": [
           {
-            "id": "c3ddf4da3077a418",
+            "id": "532990d47b5128c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Random Variables.md",
+                "file": "HOME.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "041a7ea8bac417bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic Inference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f56a5374237a2e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hidden Markov Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,8 +98,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Random Variables.md",
+                "file": "Hidden Markov Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Random Variables.md"
+                "file": "Hidden Markov Models.md"
               }
             }
           }
@@ -204,54 +228,54 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "c3ddf4da3077a418",
+  "active": "f56a5374237a2e37",
   "lastOpenFiles": [
+    "Dynamic Inference.md",
+    "Hidden Markov Models.md",
+    "Lessons/Semester 5/intelligent-systems/lecture5.pdf",
+    "External/Kasper's Notes/ROS2/Roadmaps.pdf",
+    "External/Kasper's Notes/ROS2/PotentialFields.pdf",
+    "External/Kasper's Notes/ROS2/Coverage Planning.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241001101235.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241001100858.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241001100801.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241001100741.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241001100710.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241001100348.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241001100339.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241001100247.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241001100240.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241001100230.png",
+    "External/Kasper's Notes/Bachelor.md",
+    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/About sorting.pdf",
+    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/05_06 - Kapitel 7 - sortering.pdf",
     "HOME.md",
-    "External/Kasper's Notes/Mangler i LAB.md",
     "Notes/Bayesian Networks.md",
+    "Lessons/Semester 5/intelligent-systems/hw1.pdf",
+    "Lessons/Semester 5/intelligent-systems/hw1.xopp",
+    "External/Kasper's Notes/Kunstig inteligens/t-norms and s-norms.md",
+    "External/Kasper's Notes/Kunstig inteligens/Tuning fuzzy controllers.md",
+    "External/Kasper's Notes/Kunstig inteligens/Sugeno or Takagi-Sugeno or Functional Fuzzy Systems.md",
+    "External/Kasper's Notes/Kunstig inteligens/Mamdani or standard fuzzy system.md",
+    "External/Kasper's Notes/Kunstig inteligens/Control Surface.md",
+    "External/Kasper's Notes/Excalidraw/Drawing 2024-09-26 10.01.34.excalidraw.md",
+    "External/Kasper's Notes/Excalidraw/Drawing 2024-09-26 09.37.59.excalidraw.md",
+    "Notes/Random Variables.md",
+    "External/Kasper's Notes/Mangler i LAB.md",
     "Notes/Matrix Kernel.md",
     "Notes/System of Linear Equations.md",
     "Notes/Matrix Kernel.md~",
     "External/Kasper's Notes/handwritten-notes/Uafhængig x, y.pdf",
     "External/Kasper's Notes/handwritten-notes/ULineær funktion af stokastisk variable.pdf",
-    "External/Kasper's Notes/handwritten-notes/Stokastiske variable .pdf",
-    "External/Kasper's Notes/handwritten-notes/Special case.pdf",
-    "External/Kasper's Notes/handwritten-notes/Solceller.pdf",
-    "External/Kasper's Notes/handwritten-notes/Power Plant sketch.pdf",
-    "External/Kasper's Notes/handwritten-notes/Momenter .pdf",
-    "External/Kasper's Notes/handwritten-notes/Linear kombination af stokastiske variable .pdf",
-    "External/Kasper's Notes/handwritten-notes/Komplet Binær Træ.pdf",
     "External/Kasper's Notes/Statistik/Simultaneous random variables.md",
     "External/Kasper's Notes/Solceller.md",
     "External/Kasper's Notes/Power Plant.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240923132533.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240923132525.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240923132518.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240923132141.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240923132130.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240923132119.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240923130331.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240923130323.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240923125437.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20240923125342.png",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Priorityqueing.md",
     "Spectral Theorem.md",
     "Notes/Matrix Image.md",
     "Notes/Trigonometri.md",
     "Notes/Rotational Matrices.md",
     "Notes/Rank of Matrix.md",
-    "Notes/Inverse Matrix.md",
-    "Notes/Determinanen for Matricer.md",
-    "Notes/Eigen values and vectors.md",
-    "Notes/Matrix.md",
-    "Notes/Vectors.md",
-    "Notes/Symetric Matrices.md",
-    "Dotprodukt.md",
-    "External/Kasper's Notes/Kunstig inteligens/Fuzzy Logic Control.md",
-    "Eigen Decomposition.md",
-    "Trace.md",
-    "External/Kasper's Notes/Statistik/Kontinuerte Stokastiske Variable.md",
-    "External/Kasper's Notes/Statistik/Drawing 2024-09-17 20.50.05.excalidraw.md",
     "Untitled.canvas"
   ]
 }
