@@ -42,6 +42,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "161d5daca0ea54da",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 5/intelligent-systems/lecture6.pdf"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -230,8 +240,9 @@
   },
   "active": "f56a5374237a2e37",
   "lastOpenFiles": [
-    "Dynamic Inference.md",
+    "Lessons/Semester 5/intelligent-systems/lecture6.pdf",
     "Hidden Markov Models.md",
+    "Dynamic Inference.md",
     "Lessons/Semester 5/intelligent-systems/lecture5.pdf",
     "External/Kasper's Notes/ROS2/Roadmaps.pdf",
     "External/Kasper's Notes/ROS2/PotentialFields.pdf",
@@ -266,7 +277,6 @@
     "Notes/System of Linear Equations.md",
     "Notes/Matrix Kernel.md~",
     "External/Kasper's Notes/handwritten-notes/Uafhængig x, y.pdf",
-    "External/Kasper's Notes/handwritten-notes/ULineær funktion af stokastisk variable.pdf",
     "External/Kasper's Notes/Statistik/Simultaneous random variables.md",
     "External/Kasper's Notes/Solceller.md",
     "External/Kasper's Notes/Power Plant.md",
@@ -275,7 +285,6 @@
     "Notes/Matrix Image.md",
     "Notes/Trigonometri.md",
     "Notes/Rotational Matrices.md",
-    "Notes/Rank of Matrix.md",
     "Untitled.canvas"
   ]
 }
