@@ -8,27 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "532990d47b5128c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOME.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "041a7ea8bac417bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic Inference.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -37,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden Markov Models.md",
+                "file": "Notes/Master Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hidden Markov Models.md",
+                "file": "Notes/Master Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hidden Markov Models.md"
+                "file": "Notes/Master Theorem.md"
               }
             }
           }
@@ -240,6 +224,16 @@
   },
   "active": "f56a5374237a2e37",
   "lastOpenFiles": [
+    "HOME.md",
+    "External/Kasper's Notes/Forstaerkningsteknik/Noter/Maksimal fejl i forstÃ¦rkning.md",
+    "External/Kasper's Notes/Forstaerkningsteknik/Noter/FosrstÃ¦rkning med negativ feedback.pdf",
+    "External/Kasper's Notes/Forstaerkningsteknik/Noter/Feedback tabel.md",
+    "External/Kasper's Notes/Forstaerkningsteknik/Noter/Common Mode Rejection (CMR).md",
+    "External/Kasper's Notes/Forstaerkningsteknik/Noter/Biaskompensator og biasstrÃ¸m.md",
+    "External/Kasper's Notes/Forstaerkningsteknik/Noter",
+    "External/Kasper's Notes/Forstaerkningsteknik",
+    "External/Kasper's Notes/Calculus/Differensligninger og Dæmpede svingninger.md",
+    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Sorting.md",
     "Lessons/Semester 5/intelligent-systems/lecture6.pdf",
     "Hidden Markov Models.md",
     "Dynamic Inference.md",
@@ -260,10 +254,8 @@
     "External/Kasper's Notes/Bachelor.md",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/About sorting.pdf",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/05_06 - Kapitel 7 - sortering.pdf",
-    "HOME.md",
     "Notes/Bayesian Networks.md",
     "Lessons/Semester 5/intelligent-systems/hw1.pdf",
-    "Lessons/Semester 5/intelligent-systems/hw1.xopp",
     "External/Kasper's Notes/Kunstig inteligens/t-norms and s-norms.md",
     "External/Kasper's Notes/Kunstig inteligens/Tuning fuzzy controllers.md",
     "External/Kasper's Notes/Kunstig inteligens/Sugeno or Takagi-Sugeno or Functional Fuzzy Systems.md",
@@ -275,16 +267,9 @@
     "External/Kasper's Notes/Mangler i LAB.md",
     "Notes/Matrix Kernel.md",
     "Notes/System of Linear Equations.md",
-    "Notes/Matrix Kernel.md~",
-    "External/Kasper's Notes/handwritten-notes/Uafhængig x, y.pdf",
     "External/Kasper's Notes/Statistik/Simultaneous random variables.md",
     "External/Kasper's Notes/Solceller.md",
     "External/Kasper's Notes/Power Plant.md",
-    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Priorityqueing.md",
-    "Spectral Theorem.md",
-    "Notes/Matrix Image.md",
-    "Notes/Trigonometri.md",
-    "Notes/Rotational Matrices.md",
     "Untitled.canvas"
   ]
 }
