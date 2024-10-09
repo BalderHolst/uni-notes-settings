@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Eigen values and vectors.md",
+                "file": "Notes/Matrix.md",
                 "mode": "preview",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Eigen values and vectors.md",
+                "file": "Notes/Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Eigen values and vectors.md"
+                "file": "Notes/Matrix.md"
               }
             }
           }
@@ -215,8 +215,8 @@
   },
   "active": "041a7ea8bac417bd",
   "lastOpenFiles": [
-    "Notes/Determinanen for Matricer.md",
     "Notes/Eigen values and vectors.md",
+    "Notes/Determinanen for Matricer.md",
     "Notes/Trace.md",
     "HOME.md",
     "Notes/Master Theorem.md",
