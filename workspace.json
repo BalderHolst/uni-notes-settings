@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Matrix.md",
+                "file": "Notes/Differentiation af funktioner med to variable.md",
                 "mode": "preview",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "determinant",
+                "query": "kæde",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Matrix.md",
+                "file": "Notes/Differentiation af funktioner med to variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Matrix.md"
+                "file": "Notes/Differentiation af funktioner med to variable.md"
               }
             }
           }
@@ -215,6 +216,7 @@
   },
   "active": "041a7ea8bac417bd",
   "lastOpenFiles": [
+    "Notes/Matrix.md",
     "Notes/Eigen values and vectors.md",
     "Notes/Determinanen for Matricer.md",
     "Notes/Trace.md",
@@ -260,7 +262,6 @@
     "External/Kasper's Notes/Excalidraw/Drawing 2024-09-26 09.37.59.excalidraw.md",
     "Notes/Random Variables.md",
     "External/Kasper's Notes/Mangler i LAB.md",
-    "Notes/Matrix Kernel.md",
     "Untitled.canvas"
   ]
 }
