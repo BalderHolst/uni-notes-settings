@@ -8,24 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "041a7ea8bac417bd",
+            "id": "161d5daca0ea54da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Random Variables.md",
+                "file": "HOME.md",
                 "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "161d5daca0ea54da",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lessons/Semester 5/intelligent-systems/lecture6.pdf"
               }
             }
           }
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Random Variables.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Random Variables.md"
+                "file": "HOME.md"
               }
             }
           }
@@ -214,8 +204,10 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "041a7ea8bac417bd",
+  "active": "161d5daca0ea54da",
   "lastOpenFiles": [
+    "Lessons/Semester 5/intelligent-systems/lecture6.pdf",
+    "Notes/Random Variables.md",
     "Notes/Differentiation af funktioner med to variable.md",
     "Notes/Matrix.md",
     "Notes/Eigen values and vectors.md",
@@ -232,7 +224,6 @@
     "External/Kasper's Notes/Forstaerkningsteknik",
     "External/Kasper's Notes/Calculus/Differensligninger og Dæmpede svingninger.md",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Sorting.md",
-    "Lessons/Semester 5/intelligent-systems/lecture6.pdf",
     "Hidden Markov Models.md",
     "Dynamic Inference.md",
     "Lessons/Semester 5/intelligent-systems/lecture5.pdf",
@@ -260,8 +251,6 @@
     "External/Kasper's Notes/Kunstig inteligens/Mamdani or standard fuzzy system.md",
     "External/Kasper's Notes/Kunstig inteligens/Control Surface.md",
     "External/Kasper's Notes/Excalidraw/Drawing 2024-09-26 10.01.34.excalidraw.md",
-    "External/Kasper's Notes/Excalidraw/Drawing 2024-09-26 09.37.59.excalidraw.md",
-    "Notes/Random Variables.md",
     "Untitled.canvas"
   ]
 }
