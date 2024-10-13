@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "669def30af106751",
+        "id": "b9ca7962d90a7641",
         "type": "tabs",
         "children": [
           {
-            "id": "b61747be25268e67",
+            "id": "895efc1a27a85e99",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -204,11 +204,11 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "b61747be25268e67",
+  "active": "895efc1a27a85e99",
   "lastOpenFiles": [
     "HOME.md",
-    "Lessons/Semester 5/intelligent-systems/lecture6.pdf",
     "Notes/Random Variables.md",
+    "Lessons/Semester 5/intelligent-systems/lecture6.pdf",
     "Notes/Differentiation af funktioner med to variable.md",
     "Notes/Matrix.md",
     "Notes/Eigen values and vectors.md",
