@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Singular Value Decomposition.md",
-                "mode": "preview",
+                "file": "Notes/Random Variables.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Singular Value Decomposition.md",
+                "file": "Notes/Random Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Singular Value Decomposition.md"
+                "file": "Notes/Random Variables.md"
               }
             }
           }
@@ -205,16 +205,17 @@
   },
   "active": "97ede7a2ef17f99b",
   "lastOpenFiles": [
+    "Notes/Determinanen for Matricer.md",
+    "Singular Value Decomposition.md",
     "Singular Value Decomposition.md~",
+    "4913",
     "Notes/Eigendecomposition.md",
     "Orthogonal Matrix.md",
-    "Singular Value Decomposition.md",
     "HOME.md",
     "Basis.md",
     "Notes/Vector Fields.md",
     "Diagonalization.md",
     "Notes/Trace.md",
-    "Notes/Determinanen for Matricer.md",
     "Notes/Vectors.md",
     "Orthogonal Matrix.md~",
     "Basis.md~",
@@ -238,7 +239,6 @@
     "Dynamic Inference.md",
     "Lessons/Semester 5/intelligent-systems/lecture5.pdf",
     "External/Kasper's Notes/ROS2/Roadmaps.pdf",
-    "External/Kasper's Notes/ROS2/PotentialFields.pdf",
     "External/Kasper's Notes/ROS2/Coverage Planning.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001101235.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001100858.png",
