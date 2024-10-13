@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "662b759cf41e9374",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Eigendecomposition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac29b651197405e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Singular Value Decomposition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "97ede7a2ef17f99b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonal Matrix.md",
+                "file": "Singular Value Decomposition.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537
+    "width": 327.5055751800537,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -227,12 +203,13 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "ac29b651197405e1",
+  "active": "97ede7a2ef17f99b",
   "lastOpenFiles": [
-    "Orthogonal Matrix.md",
-    "HOME.md",
-    "Singular Value Decomposition.md",
+    "Singular Value Decomposition.md~",
     "Notes/Eigendecomposition.md",
+    "Orthogonal Matrix.md",
+    "Singular Value Decomposition.md",
+    "HOME.md",
     "Basis.md",
     "Notes/Vector Fields.md",
     "Diagonalization.md",
@@ -273,8 +250,6 @@
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001100247.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001100240.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001100230.png",
-    "External/Kasper's Notes/Bachelor.md",
-    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/About sorting.pdf",
     "Untitled.canvas"
   ]
 }
