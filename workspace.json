@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "662b759cf41e9374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Determinanen for Matricer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kæde",
+                "query": "ortho",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basis.md",
+                "file": "Notes/Determinanen for Matricer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basis.md"
+                "file": "Notes/Determinanen for Matricer.md"
               }
             }
           }
@@ -217,11 +229,14 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "a7f50f1bca022b40",
+  "active": "662b759cf41e9374",
   "lastOpenFiles": [
+    "Notes/Vectors.md",
+    "Orthogonal Matrix.md",
+    "Orthogonal Matrix.md~",
+    "Basis.md",
     "Basis.md~",
     "Notes/Vector Fields.md",
-    "Basis.md",
     "Vector Space.md",
     "Notes/Random Variables.md",
     "HOME.md",
@@ -259,12 +274,9 @@
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001100230.png",
     "External/Kasper's Notes/Bachelor.md",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/About sorting.pdf",
-    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/05_06 - Kapitel 7 - sortering.pdf",
     "Notes/Bayesian Networks.md",
-    "Lessons/Semester 5/intelligent-systems/hw1.pdf",
     "External/Kasper's Notes/Kunstig inteligens/t-norms and s-norms.md",
     "External/Kasper's Notes/Kunstig inteligens/Tuning fuzzy controllers.md",
-    "External/Kasper's Notes/Kunstig inteligens/Sugeno or Takagi-Sugeno or Functional Fuzzy Systems.md",
     "Untitled.canvas"
   ]
 }
