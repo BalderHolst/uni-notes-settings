@@ -8,43 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "895efc1a27a85e99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Vector Fields.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7f50f1bca022b40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "662b759cf41e9374",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Determinanen for Matricer.md",
+                "file": "Notes/Eigendecomposition.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac29b651197405e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Singular Value Decomposition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97ede7a2ef17f99b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orthogonal Matrix.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,13 +98,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537,
-    "collapsed": true
+    "width": 327.5055751800537
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -120,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Determinanen for Matricer.md",
+                "file": "Singular Value Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Determinanen for Matricer.md"
+                "file": "Singular Value Decomposition.md"
               }
             }
           }
@@ -229,23 +227,26 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "662b759cf41e9374",
+  "active": "ac29b651197405e1",
   "lastOpenFiles": [
-    "Notes/Vectors.md",
     "Orthogonal Matrix.md",
-    "Orthogonal Matrix.md~",
+    "HOME.md",
+    "Singular Value Decomposition.md",
+    "Notes/Eigendecomposition.md",
     "Basis.md",
-    "Basis.md~",
     "Notes/Vector Fields.md",
+    "Diagonalization.md",
+    "Notes/Trace.md",
+    "Notes/Determinanen for Matricer.md",
+    "Notes/Vectors.md",
+    "Orthogonal Matrix.md~",
+    "Basis.md~",
     "Vector Space.md",
     "Notes/Random Variables.md",
-    "HOME.md",
     "Lessons/Semester 5/intelligent-systems/lecture6.pdf",
     "Notes/Differentiation af funktioner med to variable.md",
     "Notes/Matrix.md",
     "Notes/Eigen values and vectors.md",
-    "Notes/Determinanen for Matricer.md",
-    "Notes/Trace.md",
     "Notes/Master Theorem.md",
     "External/Kasper's Notes/Forstaerkningsteknik/Noter/Maksimal fejl i forstÃ¦rkning.md",
     "External/Kasper's Notes/Forstaerkningsteknik/Noter/FosrstÃ¦rkning med negativ feedback.pdf",
@@ -274,9 +275,6 @@
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001100230.png",
     "External/Kasper's Notes/Bachelor.md",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/About sorting.pdf",
-    "Notes/Bayesian Networks.md",
-    "External/Kasper's Notes/Kunstig inteligens/t-norms and s-norms.md",
-    "External/Kasper's Notes/Kunstig inteligens/Tuning fuzzy controllers.md",
     "Untitled.canvas"
   ]
 }
