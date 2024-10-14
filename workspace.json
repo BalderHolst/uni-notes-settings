@@ -36,9 +36,11 @@
             "id": "524de691a50000f6",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "External/Kasper's Notes/Computer Vision/Ground sample distance (GSD).md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -73,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,6 +207,9 @@
   },
   "active": "eefd0cd587a23d08",
   "lastOpenFiles": [
+    "Notes/Eigendecomposition.md",
+    "External/Kasper's Notes/Computer Vision/Ground sample distance (GSD).md",
+    "Notes/Random Variables.md",
     "Notes/Eigen values and vectors.md",
     "Notes/Determinanen for Matricer.md",
     "Linear Algebra.md",
@@ -218,7 +222,6 @@
     "Notes/Inverse Matrix.md",
     "Notes/Orthogonal Matrix.md",
     "Notes/Matrix Image.md",
-    "Notes/Eigendecomposition.md",
     "Notes/Diagonalization.md",
     "Notes/Linear Systems.md",
     "HOME.md",
@@ -228,7 +231,6 @@
     "Notes/Vectors.md",
     "Lessons/Semester 5/HW1.xopp",
     "Lessons/Semester 5/math_and_statistics",
-    "Notes/Random Variables.md",
     "Singular Value Decomposition.md",
     "Singular Value Decomposition.md~",
     "4913",
@@ -236,7 +238,6 @@
     "Basis.md",
     "Notes/Vector Fields.md",
     "Diagonalization.md",
-    "Notes/Trace.md",
     "Orthogonal Matrix.md~",
     "Basis.md~",
     "Lessons/Semester 5/intelligent-systems/lecture6.pdf",
