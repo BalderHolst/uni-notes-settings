@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Diagonalization.md",
+                "file": "Notes/Projection.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Diagonalization.md",
+                "file": "Notes/Projection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Diagonalization.md"
+                "file": "Notes/Projection.md"
               }
             }
           }
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,7 +206,10 @@
   },
   "active": "eefd0cd587a23d08",
   "lastOpenFiles": [
+    "Notes/Matrix Image.md",
     "Linear Algebra.md",
+    "Notes/Eigendecomposition.md",
+    "Notes/Diagonalization.md",
     "Notes/Linear Systems.md",
     "HOME.md",
     "Notes/State Machines.md",
@@ -222,7 +226,6 @@
     "Singular Value Decomposition.md",
     "Singular Value Decomposition.md~",
     "4913",
-    "Notes/Eigendecomposition.md",
     "Orthogonal Matrix.md",
     "Basis.md",
     "Notes/Vector Fields.md",
@@ -238,8 +241,6 @@
     "External/Kasper's Notes/Forstaerkningsteknik/Noter/Maksimal fejl i forstÃ¦rkning.md",
     "External/Kasper's Notes/Forstaerkningsteknik/Noter/FosrstÃ¦rkning med negativ feedback.pdf",
     "External/Kasper's Notes/Forstaerkningsteknik/Noter/Feedback tabel.md",
-    "External/Kasper's Notes/Forstaerkningsteknik/Noter/Common Mode Rejection (CMR).md",
-    "External/Kasper's Notes/Forstaerkningsteknik/Noter/Biaskompensator og biasstrÃ¸m.md",
     "External/Kasper's Notes/Forstaerkningsteknik/Noter",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001101235.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001100858.png",
