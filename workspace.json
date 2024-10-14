@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Random Variables.md",
+                "file": "Notes/Vectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Random Variables.md",
+                "file": "Notes/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Random Variables.md"
+                "file": "Notes/Vectors.md"
               }
             }
           }
@@ -207,18 +207,18 @@
   },
   "active": "eefd0cd587a23d08",
   "lastOpenFiles": [
+    "Notes/Projection.md",
+    "Notes/Random Variables.md",
+    "Notes/Determinanen for Matricer.md",
     "Notes/Eigendecomposition.md",
     "External/Kasper's Notes/Computer Vision/Ground sample distance (GSD).md",
-    "Notes/Random Variables.md",
     "Notes/Eigen values and vectors.md",
-    "Notes/Determinanen for Matricer.md",
     "Linear Algebra.md",
     "Notes/Matrix Kernel.md",
     "Notes/Singular Value Decomposition.md",
     "Notes/Matrix.md",
     "Notes/Matricer - Regneregler.md",
     "Notes/Rotational Matrices.md",
-    "Notes/Projection.md",
     "Notes/Inverse Matrix.md",
     "Notes/Orthogonal Matrix.md",
     "Notes/Matrix Image.md",
