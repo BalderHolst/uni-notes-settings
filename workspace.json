@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Vectors.md",
+                "file": "Notes/Jacobian Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Vectors.md",
+                "file": "Notes/Jacobian Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Vectors.md"
+                "file": "Notes/Jacobian Matrix.md"
               }
             }
           }
@@ -207,12 +207,14 @@
   },
   "active": "eefd0cd587a23d08",
   "lastOpenFiles": [
+    "Notes/Eigen values and vectors.md",
+    "Notes/Trace.md",
+    "Notes/Vectors.md",
     "Notes/Projection.md",
     "Notes/Random Variables.md",
     "Notes/Determinanen for Matricer.md",
     "Notes/Eigendecomposition.md",
     "External/Kasper's Notes/Computer Vision/Ground sample distance (GSD).md",
-    "Notes/Eigen values and vectors.md",
     "Linear Algebra.md",
     "Notes/Matrix Kernel.md",
     "Notes/Singular Value Decomposition.md",
@@ -228,7 +230,6 @@
     "Notes/State Machines.md",
     "Projection.md",
     "Lessons/Semester 5/HW1.pdf",
-    "Notes/Vectors.md",
     "Lessons/Semester 5/HW1.xopp",
     "Lessons/Semester 5/math_and_statistics",
     "Singular Value Decomposition.md",
@@ -237,7 +238,6 @@
     "Orthogonal Matrix.md",
     "Basis.md",
     "Notes/Vector Fields.md",
-    "Diagonalization.md",
     "Orthogonal Matrix.md~",
     "Basis.md~",
     "Lessons/Semester 5/intelligent-systems/lecture6.pdf",
