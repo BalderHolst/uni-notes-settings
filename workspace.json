@@ -11,26 +11,15 @@
             "id": "eefd0cd587a23d08",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lessons/Semester 5/HW1.pdf"
-              }
-            }
-          },
-          {
-            "id": "3317d73ad8ee20bb",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Projection.md",
+                "file": "Notes/Diagonalization.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ortho",
+                "query": "tag:#notag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projection.md",
+                "file": "Notes/Diagonalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,17 +178,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projection.md"
+                "file": "Notes/Diagonalization.md"
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,15 +203,20 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "3317d73ad8ee20bb",
+  "active": "eefd0cd587a23d08",
   "lastOpenFiles": [
-    "Lessons/Semester 5/HW1.pdf",
+    "Linear Algebra.md",
+    "Notes/Linear Systems.md",
+    "HOME.md",
+    "Notes/State Machines.md",
+    "Notes/Matrix.md",
+    "Notes/Projection.md",
     "Projection.md",
+    "Lessons/Semester 5/HW1.pdf",
     "Notes/Vectors.md",
     "Lessons/Semester 5/HW1.xopp",
     "Lessons/Semester 5/math_and_statistics",
     "Notes/Matrix Kernel.md",
-    "HOME.md",
     "Notes/Random Variables.md",
     "Notes/Determinanen for Matricer.md",
     "Singular Value Decomposition.md",
@@ -239,7 +233,6 @@
     "Vector Space.md",
     "Lessons/Semester 5/intelligent-systems/lecture6.pdf",
     "Notes/Differentiation af funktioner med to variable.md",
-    "Notes/Matrix.md",
     "Notes/Eigen values and vectors.md",
     "Notes/Master Theorem.md",
     "External/Kasper's Notes/Forstaerkningsteknik/Noter/Maksimal fejl i forstÃ¦rkning.md",
@@ -248,9 +241,6 @@
     "External/Kasper's Notes/Forstaerkningsteknik/Noter/Common Mode Rejection (CMR).md",
     "External/Kasper's Notes/Forstaerkningsteknik/Noter/Biaskompensator og biasstrÃ¸m.md",
     "External/Kasper's Notes/Forstaerkningsteknik/Noter",
-    "External/Kasper's Notes/Calculus/Differensligninger og Dæmpede svingninger.md",
-    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Sorting.md",
-    "Hidden Markov Models.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001101235.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001100858.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001100801.png",
