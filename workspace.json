@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Singular Value Decomposition.md",
+                "file": "Notes/Random Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Singular Value Decomposition.md",
+                "file": "Notes/Random Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Singular Value Decomposition.md"
+                "file": "Notes/Random Variables.md"
               }
             }
           }
@@ -206,9 +206,11 @@
   },
   "active": "eefd0cd587a23d08",
   "lastOpenFiles": [
+    "Notes/Eigen values and vectors.md",
+    "Notes/Determinanen for Matricer.md",
+    "Linear Algebra.md",
     "Notes/Matrix Kernel.md",
     "Notes/Singular Value Decomposition.md",
-    "Linear Algebra.md",
     "Notes/Matrix.md",
     "Notes/Matricer - Regneregler.md",
     "Notes/Rotational Matrices.md",
@@ -227,7 +229,6 @@
     "Lessons/Semester 5/HW1.xopp",
     "Lessons/Semester 5/math_and_statistics",
     "Notes/Random Variables.md",
-    "Notes/Determinanen for Matricer.md",
     "Singular Value Decomposition.md",
     "Singular Value Decomposition.md~",
     "4913",
@@ -238,7 +239,6 @@
     "Notes/Trace.md",
     "Orthogonal Matrix.md~",
     "Basis.md~",
-    "Vector Space.md",
     "Lessons/Semester 5/intelligent-systems/lecture6.pdf",
     "External/Kasper's Notes/Forstaerkningsteknik/Noter/FosrstÃ¦rkning med negativ feedback.pdf",
     "External/Kasper's Notes/Forstaerkningsteknik/Noter",
