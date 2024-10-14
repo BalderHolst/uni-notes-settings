@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Projection.md",
+                "file": "Notes/Inverse Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Projection.md",
+                "file": "Notes/Inverse Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Projection.md"
+                "file": "Notes/Inverse Matrix.md"
               }
             }
           }
@@ -206,15 +206,16 @@
   },
   "active": "eefd0cd587a23d08",
   "lastOpenFiles": [
-    "Notes/Matrix Image.md",
+    "Notes/Projection.md",
     "Linear Algebra.md",
+    "Notes/Orthogonal Matrix.md",
+    "Notes/Matrix Image.md",
     "Notes/Eigendecomposition.md",
     "Notes/Diagonalization.md",
     "Notes/Linear Systems.md",
     "HOME.md",
     "Notes/State Machines.md",
     "Notes/Matrix.md",
-    "Notes/Projection.md",
     "Projection.md",
     "Lessons/Semester 5/HW1.pdf",
     "Notes/Vectors.md",
@@ -240,7 +241,6 @@
     "Notes/Master Theorem.md",
     "External/Kasper's Notes/Forstaerkningsteknik/Noter/Maksimal fejl i forstÃ¦rkning.md",
     "External/Kasper's Notes/Forstaerkningsteknik/Noter/FosrstÃ¦rkning med negativ feedback.pdf",
-    "External/Kasper's Notes/Forstaerkningsteknik/Noter/Feedback tabel.md",
     "External/Kasper's Notes/Forstaerkningsteknik/Noter",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001101235.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001100858.png",
