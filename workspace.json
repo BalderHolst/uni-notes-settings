@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inverse Matrix.md",
+                "file": "Notes/Matrix Kernel.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inverse Matrix.md",
+                "file": "Notes/Matrix Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inverse Matrix.md"
+                "file": "Notes/Matrix Kernel.md"
               }
             }
           }
@@ -206,8 +206,13 @@
   },
   "active": "eefd0cd587a23d08",
   "lastOpenFiles": [
-    "Notes/Projection.md",
+    "Notes/Singular Value Decomposition.md",
     "Linear Algebra.md",
+    "Notes/Matrix.md",
+    "Notes/Matricer - Regneregler.md",
+    "Notes/Rotational Matrices.md",
+    "Notes/Projection.md",
+    "Notes/Inverse Matrix.md",
     "Notes/Orthogonal Matrix.md",
     "Notes/Matrix Image.md",
     "Notes/Eigendecomposition.md",
@@ -215,7 +220,6 @@
     "Notes/Linear Systems.md",
     "HOME.md",
     "Notes/State Machines.md",
-    "Notes/Matrix.md",
     "Projection.md",
     "Lessons/Semester 5/HW1.pdf",
     "Notes/Vectors.md",
@@ -236,10 +240,6 @@
     "Basis.md~",
     "Vector Space.md",
     "Lessons/Semester 5/intelligent-systems/lecture6.pdf",
-    "Notes/Differentiation af funktioner med to variable.md",
-    "Notes/Eigen values and vectors.md",
-    "Notes/Master Theorem.md",
-    "External/Kasper's Notes/Forstaerkningsteknik/Noter/Maksimal fejl i forstÃ¦rkning.md",
     "External/Kasper's Notes/Forstaerkningsteknik/Noter/FosrstÃ¦rkning med negativ feedback.pdf",
     "External/Kasper's Notes/Forstaerkningsteknik/Noter",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001101235.png",
