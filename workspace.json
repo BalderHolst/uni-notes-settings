@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Jacobian Matrix.md",
+                "file": "Notes/Taylorpolynomium.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Jacobian Matrix.md",
+                "file": "Notes/Taylorpolynomium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Jacobian Matrix.md"
+                "file": "Notes/Taylorpolynomium.md"
               }
             }
           }
@@ -209,6 +209,8 @@
   "lastOpenFiles": [
     "Notes/Eigen values and vectors.md",
     "Notes/Trace.md",
+    "Notes/Jacobian Matrix.md",
+    "Notes/Jacobian Matrix for Robotics.md",
     "Notes/Vectors.md",
     "Notes/Projection.md",
     "Notes/Random Variables.md",
@@ -236,8 +238,6 @@
     "Singular Value Decomposition.md~",
     "4913",
     "Orthogonal Matrix.md",
-    "Basis.md",
-    "Notes/Vector Fields.md",
     "Orthogonal Matrix.md~",
     "Basis.md~",
     "Lessons/Semester 5/intelligent-systems/lecture6.pdf",
