@@ -11,15 +11,26 @@
             "id": "eefd0cd587a23d08",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 5/HW1.pdf"
+              }
+            }
+          },
+          {
+            "id": "3317d73ad8ee20bb",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Vectors.md",
-                "mode": "preview",
+                "file": "Projection.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Vectors.md",
+                "file": "Projection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Vectors.md"
+                "file": "Projection.md"
               }
             }
           }
@@ -203,8 +214,13 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "eefd0cd587a23d08",
+  "active": "3317d73ad8ee20bb",
   "lastOpenFiles": [
+    "Lessons/Semester 5/HW1.pdf",
+    "Projection.md",
+    "Notes/Vectors.md",
+    "Lessons/Semester 5/HW1.xopp",
+    "Lessons/Semester 5/math_and_statistics",
     "Notes/Matrix Kernel.md",
     "HOME.md",
     "Notes/Random Variables.md",
@@ -218,7 +234,6 @@
     "Notes/Vector Fields.md",
     "Diagonalization.md",
     "Notes/Trace.md",
-    "Notes/Vectors.md",
     "Orthogonal Matrix.md~",
     "Basis.md~",
     "Vector Space.md",
@@ -233,14 +248,9 @@
     "External/Kasper's Notes/Forstaerkningsteknik/Noter/Common Mode Rejection (CMR).md",
     "External/Kasper's Notes/Forstaerkningsteknik/Noter/Biaskompensator og biasstrÃ¸m.md",
     "External/Kasper's Notes/Forstaerkningsteknik/Noter",
-    "External/Kasper's Notes/Forstaerkningsteknik",
     "External/Kasper's Notes/Calculus/Differensligninger og Dæmpede svingninger.md",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Sorting.md",
     "Hidden Markov Models.md",
-    "Dynamic Inference.md",
-    "Lessons/Semester 5/intelligent-systems/lecture5.pdf",
-    "External/Kasper's Notes/ROS2/Roadmaps.pdf",
-    "External/Kasper's Notes/ROS2/Coverage Planning.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001101235.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001100858.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001100801.png",
