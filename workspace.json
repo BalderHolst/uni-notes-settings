@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4682e735ccb995f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supervised Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Particle Filtering.md",
+                "file": "Supervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Particle Filtering.md"
+                "file": "Supervised Learning.md"
               }
             }
           }
@@ -238,10 +250,12 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "5dd04cd3fc30894d",
+  "active": "4682e735ccb995f9",
   "lastOpenFiles": [
-    "Lessons/Semester 5/intelligent-systems/lecture8a.pdf",
+    "Lessons/Semester 5/intelligent-systems/lecture8b.pdf",
     "Particle Filtering.md",
+    "Supervised Learning.md",
+    "Lessons/Semester 5/intelligent-systems/lecture8a.pdf",
     "Dynamic Bayesian Networks.md",
     "HOME.md",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Portfolio/Portfolio 1.md",
@@ -266,7 +280,6 @@
     "Notes/Rotational Matrices.md",
     "Notes/Inverse Matrix.md",
     "Notes/Orthogonal Matrix.md",
-    "Notes/Matrix Image.md",
     "Lessons/Semester 5/HW1.pdf",
     "Lessons/Semester 5/HW1.xopp",
     "Lessons/Semester 5/math_and_statistics",
