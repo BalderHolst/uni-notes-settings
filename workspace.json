@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Supervised Learning.md",
+                "file": "Notes/Kalman Filter.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Supervised Learning.md",
+                "file": "Notes/Kalman Filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Supervised Learning.md"
+                "file": "Notes/Kalman Filter.md"
               }
             }
           }
@@ -252,9 +252,9 @@
   },
   "active": "4682e735ccb995f9",
   "lastOpenFiles": [
+    "Supervised Learning.md",
     "Lessons/Semester 5/intelligent-systems/lecture8b.pdf",
     "Particle Filtering.md",
-    "Supervised Learning.md",
     "Lessons/Semester 5/intelligent-systems/lecture8a.pdf",
     "Dynamic Bayesian Networks.md",
     "HOME.md",
@@ -287,7 +287,6 @@
     "4913",
     "Orthogonal Matrix.md~",
     "Basis.md~",
-    "Lessons/Semester 5/intelligent-systems/lecture6.pdf",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001101235.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001100858.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001100801.png",
