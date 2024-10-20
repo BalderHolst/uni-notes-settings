@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b47680570fbf304d",
+        "id": "4a83bcc16d585852",
         "type": "tabs",
         "children": [
           {
-            "id": "9b829df7ea138f6b",
+            "id": "6081de86f6240329",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -222,13 +222,15 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "9b829df7ea138f6b",
+  "active": "6081de86f6240329",
   "lastOpenFiles": [
     "Notes/Kalman Filter.md~",
+    "Lessons/Semester 5/intelligent-systems/lecture7b.pdf",
+    "HOME.md",
+    "Notes/Kalman Filter.md",
+    "Lessons/Semester 5/intelligent-systems/lecture7a.pdf",
     "Notes/4913",
     "Notes/Normalfordelingen.md",
-    "Notes/Kalman Filter.md",
-    "HOME.md",
     "Notes/QQ-plot.md",
     "Gaussian Distribution.md",
     "Pasted image 20241020080701.png",
@@ -261,8 +263,6 @@
     "Lessons/Semester 5/HW1.pdf",
     "Lessons/Semester 5/HW1.xopp",
     "Lessons/Semester 5/math_and_statistics",
-    "Singular Value Decomposition.md~",
-    "4913",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001101235.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001100858.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001100801.png",
