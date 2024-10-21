@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Bayesian Networks.md",
+                "file": "Notes/Random Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bayesian Networks"
+              "title": "Random Variables"
             }
           }
         ]
@@ -224,6 +224,7 @@
   },
   "active": "2465d6f083ebd7b7",
   "lastOpenFiles": [
+    "Notes/Bayesian Networks.md",
     "Notes/Dynamic Bayesian Networks.md",
     "Notes/Dynamic Inference.md",
     "HOME.md",
@@ -242,7 +243,6 @@
     "Pasted image 20241019064242.png",
     "Viterbi Algorithm.md",
     "Pasted image 20241019061733.png",
-    "Notes/Bayesian Networks.md",
     "Notes/Random Variables.md",
     "Lessons/Semester 5/intelligent-systems/lecture5b.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture8a.pdf",
