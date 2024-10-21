@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Dynamic Bayesian Networks.md",
+                "file": "Notes/Bayesian Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Bayesian Networks"
+              "title": "Bayesian Networks"
             }
           }
         ]
@@ -224,6 +224,7 @@
   },
   "active": "2465d6f083ebd7b7",
   "lastOpenFiles": [
+    "Notes/Dynamic Bayesian Networks.md",
     "Notes/Dynamic Inference.md",
     "HOME.md",
     "Notes/Particle Filtering.md",
@@ -239,7 +240,6 @@
     "Gaussian Distribution.md",
     "Pasted image 20241020080701.png",
     "Pasted image 20241019064242.png",
-    "Notes/Dynamic Bayesian Networks.md",
     "Viterbi Algorithm.md",
     "Pasted image 20241019061733.png",
     "Notes/Bayesian Networks.md",
