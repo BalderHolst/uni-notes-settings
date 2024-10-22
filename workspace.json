@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Random Variables.md",
+                "file": "Notes/Bayesian Networks.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random Variables"
+              "title": "Bayesian Networks"
             }
           }
         ]
@@ -225,6 +225,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Random Variables.md",
     "External/Kasper's Notes/ROS2/Coverage Planning.md",
     "External/Kasper's Notes/ROS2/Actions.md",
     "External/Kasper's Notes/ROS2/Build and run ROS.md",
@@ -238,7 +239,6 @@
     "External/Kasper's Notes/Misc og Links/Pasted image 20241022095415.png",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Binary Trees Traversal.md",
     "Multivariate Random Variables.md~",
-    "Notes/Random Variables.md",
     "Multivariate Random Variables.md",
     "Notes/Poissin's Equation.md",
     "External/Kasper's Notes/Statistik/Matlab Commands.md",
