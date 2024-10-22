@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/Bayesian Networks.md",
-                "mode": "preview",
-                "source": false
+                "file": "Lessons/Semester 5/intelligent-systems/lecture5b.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Bayesian Networks"
+              "icon": "lucide-file-text",
+              "title": "lecture5b"
             }
           }
         ]
@@ -225,6 +223,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Viterbi Algorithm.md",
+    "Notes/Viterbi Algorithm.md~",
+    "Notes/Dynamic Bayesian Networks.md",
+    "Notes/Bayesian Networks.md",
     "Notes/Random Variables.md",
     "External/Kasper's Notes/ROS2/Coverage Planning.md",
     "External/Kasper's Notes/ROS2/Actions.md",
@@ -242,11 +244,9 @@
     "Multivariate Random Variables.md",
     "Notes/Poissin's Equation.md",
     "External/Kasper's Notes/Statistik/Matlab Commands.md",
-    "Notes/Dynamic Bayesian Networks.md",
     "Notes/Vector Fields.md",
     "Notes/Laplacian Operator.md",
     "Notes/Dynamic Inference.md",
-    "Notes/Bayesian Networks.md",
     "Notes/Particle Filtering.md",
     "Linear Classification.md",
     "Lessons/Semester 5/intelligent-systems/lecture11a.pdf",
@@ -265,11 +265,9 @@
     "Lessons/Semester 5/intelligent-systems/lecture5b.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture8a.pdf",
     "Supervised Learning.md",
-    "Lessons/Semester 5/intelligent-systems/lecture8b.pdf",
     "Particle Filtering.md",
     "Dynamic Bayesian Networks.md",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Portfolio/Portfolio 1.md",
-    "Notes/Taylorpolynomium.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241001101235.png",
     "Untitled.canvas"
   ]
