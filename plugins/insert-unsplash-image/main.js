@@ -22666,12 +22666,14 @@ var PER_PAGE = "30";
 var providerMapping = {
   ["unsplash" /* unsplash */]: "Unsplash",
   ["pixabay" /* pixabay */]: "Pixabay",
-  ["pexels" /* pexels */]: "Pexels"
+  ["pexels" /* pexels */]: "Pexels",
+  ["local" /* local */]: "Local"
 };
 var imageProviders = [
   "unsplash" /* unsplash */,
   "pixabay" /* pixabay */,
-  "pexels" /* pexels */
+  "pexels" /* pexels */,
+  "local" /* local */
 ];
 var imageSizes = [
   "raw" /* raw */,
@@ -22685,6 +22687,16 @@ var imageSizesMapping = {
   ["medium" /* medium */]: "Medium",
   ["small" /* small */]: "Small"
 };
+var IMAGE_EXTS = [
+  "avif",
+  "bmp",
+  "gif",
+  "jpeg",
+  "jpg",
+  "png",
+  "svg",
+  "webp"
+];
 
 // SettingTab.ts
 var DEFAULT_SETTINGS = {
@@ -22711,7 +22723,7 @@ var SettingTab = class extends import_obsidian.PluginSettingTab {
   display() {
     const { containerEl } = this;
     containerEl.empty();
-    new import_obsidian.Setting(containerEl).setName("Insert Mode").setDesc("Should the image be insert remotely(with Unsplash url) or locally(download into attachments folder).").addDropdown((dropdown) => dropdown.addOption("remote" /* remote */, "Remote").addOption("local" /* local */, "Local").setValue(this.plugin.settings.insertMode).onChange(async (value) => {
+    new import_obsidian.Setting(containerEl).setName("Insert Mode").setDesc("Should the image be insert remotely (with Unsplash url) or locally (download into attachments folder).").addDropdown((dropdown) => dropdown.addOption("remote" /* remote */, "Remote").addOption("local" /* local */, "Local").setValue(this.plugin.settings.insertMode).onChange(async (value) => {
       if (value === "remote" /* remote */ || value === "local" /* local */) {
         this.plugin.settings.insertMode = value;
         await this.plugin.saveSettings();
@@ -22723,24 +22735,24 @@ var SettingTab = class extends import_obsidian.PluginSettingTab {
         await this.plugin.saveSettings();
       }
     }));
-    new import_obsidian.Setting(containerEl).setName("Insert Size").setDesc('Set the size of the image when inserting. Format could be only width "200" or width and height "200x100".').addText((text) => {
+    new import_obsidian.Setting(containerEl).setName("Insert Size").setDesc('Set the size of the image when inserting. Format could be only the width "200" or the width and height "200x100".').addText((text) => {
       text.setValue(this.plugin.settings.insertSize).onChange(async (value) => {
         this.plugin.settings.insertSize = value;
         await this.plugin.saveSettings();
       });
     });
-    new import_obsidian.Setting(containerEl).setName("Default Image Size").setDesc("Set the default preferred image size from image providers").addDropdown((dropdown) => {
+    new import_obsidian.Setting(containerEl).setName("Default Image Size").setDesc("Set the default preferred image size from image providers.").addDropdown((dropdown) => {
       dropdown.addOptions({
         ["raw" /* raw */]: imageSizesMapping["raw" /* raw */],
         ["large" /* large */]: imageSizesMapping["large" /* large */],
         ["medium" /* medium */]: imageSizesMapping["medium" /* medium */],
-        ["small" /* small */]: imageSizesMapping["large" /* large */]
+        ["small" /* small */]: imageSizesMapping["small" /* small */]
       }).setValue(this.plugin.settings.imageSize).onChange(async (value) => {
         this.plugin.settings.imageSize = value;
         await this.plugin.saveSettings();
       });
     });
-    new import_obsidian.Setting(containerEl).setName("Insert backlink").setDesc("Insert a backlink(image HTML location on Provider website) in front of the reference text, eg. Backlink | Photo by ...").addToggle((toggle) => {
+    new import_obsidian.Setting(containerEl).setName("Insert backlink").setDesc("Insert a backlink (image HTML location on Provider website) in front of the reference text, eg. Backlink | Photo by ...").addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.insertBackLink).onChange(async (value) => {
         this.plugin.settings.insertBackLink = value;
         await this.plugin.saveSettings();
@@ -22759,7 +22771,7 @@ var SettingTab = class extends import_obsidian.PluginSettingTab {
         await this.plugin.saveSettings();
       });
     });
-    new import_obsidian.Setting(containerEl).setName("Append image referral at end of the file").setDesc("Will append image referral at end of the file if set to true").addToggle((toggle) => {
+    new import_obsidian.Setting(containerEl).setName("Append image referral at end of the file.").setDesc("Will append image referral at end of the file if set to true").addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.frontmatter.appendReferral).onChange(async (value) => {
         this.plugin.settings.frontmatter.appendReferral = value;
         await this.plugin.saveSettings();
@@ -22770,7 +22782,8 @@ var SettingTab = class extends import_obsidian.PluginSettingTab {
       dropdown.addOptions({
         ["unsplash" /* unsplash */]: providerMapping["unsplash" /* unsplash */],
         ["pixabay" /* pixabay */]: providerMapping["pixabay" /* pixabay */],
-        ["pexels" /* pexels */]: providerMapping["pexels" /* pexels */]
+        ["pexels" /* pexels */]: providerMapping["pexels" /* pexels */],
+        ["local" /* local */]: providerMapping["local" /* local */]
       }).setValue(this.plugin.settings.imageProvider).onChange(async (value) => {
         this.plugin.settings.imageProvider = value;
         await this.plugin.saveSettings();
@@ -22870,12 +22883,21 @@ var imageSizeMapping = {
   ["medium" /* medium */]: "medium",
   ["small" /* small */]: "small"
 };
-var pexels = (settings) => {
+var pexels = (settings, vault) => {
   const startPage = 1;
   let curPage = startPage;
   let totalPage = 0;
-  const { orientation, insertMode, insertSize, imageSize, imageProvider, pexelsApiKey, useMarkdownLinks } = settings;
+  const {
+    orientation,
+    insertMode,
+    insertSize,
+    imageSize,
+    imageProvider,
+    pexelsApiKey,
+    useMarkdownLinks
+  } = settings;
   return {
+    vault,
     imageProvider,
     imageSize,
     noResult() {
@@ -22983,12 +23005,21 @@ var getImageUrl = (item, quality) => {
       return item.webformatURL;
   }
 };
-var pixabay = (settings) => {
+var pixabay = (settings, vault) => {
   const startPage = 1;
   let curPage = startPage;
   let totalPage = 0;
-  const { orientation, insertMode, insertSize, imageSize, imageProvider, pixabayApiKey, useMarkdownLinks } = settings;
+  const {
+    orientation,
+    insertMode,
+    insertSize,
+    imageSize,
+    imageProvider,
+    pixabayApiKey,
+    useMarkdownLinks
+  } = settings;
   return {
+    vault,
     imageProvider,
     imageSize,
     noResult() {
@@ -23083,16 +23114,24 @@ var imageSizeMapping2 = {
   ["medium" /* medium */]: "small",
   ["small" /* small */]: "thumb"
 };
-var unsplash = (settings) => {
+var unsplash = (settings, vault) => {
   const startPage = 1;
   let curPage = startPage;
   let totalPage = 0;
-  const { orientation, insertMode, insertSize, imageSize, imageProvider, useMarkdownLinks } = settings;
+  const {
+    orientation,
+    insertMode,
+    insertSize,
+    imageSize,
+    imageProvider,
+    useMarkdownLinks
+  } = settings;
   let proxyServer = DEFAULT_PROXY_SERVER;
   if (validUrl(settings.proxyServer)) {
     proxyServer = settings.proxyServer;
   }
   return {
+    vault,
     imageProvider,
     imageSize,
     noResult() {
@@ -23137,7 +23176,9 @@ var unsplash = (settings) => {
       });
     },
     async touchDownloadLocation(url) {
-      await (0, import_obsidian5.requestUrl)({ url: url.replace("https://api.unsplash.com", proxyServer) });
+      await (0, import_obsidian5.requestUrl)({
+        url: url.replace("https://api.unsplash.com", proxyServer)
+      });
     },
     async downloadImage(url) {
       const res = await (0, import_obsidian5.requestUrl)({ url });
@@ -23182,16 +23223,75 @@ var unsplash = (settings) => {
   };
 };
 
+// fetchers/local.ts
+var local = (settings, vault) => {
+  const startPage = 1;
+  let curPage = startPage;
+  let totalPage = 0;
+  const { insertSize, imageSize, imageProvider } = settings;
+  return {
+    vault,
+    imageProvider,
+    imageSize,
+    noResult() {
+      return totalPage <= 0;
+    },
+    hasPrevPage() {
+      return !this.noResult() && curPage > startPage;
+    },
+    hasNextPage() {
+      return !this.noResult() && curPage < totalPage;
+    },
+    prevPage() {
+      this.hasPrevPage() && (curPage -= 1);
+    },
+    nextPage() {
+      this.hasNextPage() && (curPage += 1);
+    },
+    async searchImages(query) {
+      const images = vault.getFiles().filter((file) => IMAGE_EXTS.includes(file.extension) && file.name.toLowerCase().includes(query.toLowerCase()));
+      const perPage = parseInt(PER_PAGE);
+      totalPage = Math.ceil(images.length / perPage) + 1;
+      return images.slice((curPage - 1) * perPage, curPage * perPage).map(function(item) {
+        return {
+          desc: item.name.replace(new RegExp(/\n/g), " "),
+          thumb: vault.getResourcePath(item),
+          url: vault.getResourcePath(item),
+          pageUrl: "Local",
+          username: "Local",
+          userUrl: "Local"
+        };
+      });
+    },
+    async downloadImage(_) {
+      return new ArrayBuffer(0);
+    },
+    async downloadAndInsertImage(image, _) {
+      const url = image.url;
+      const imageSize2 = insertSize === "" ? "" : `|${insertSize}`;
+      const nameText = `![${image.desc}${imageSize2}]`;
+      const urlText = `(${url})`;
+      return `${nameText}${urlText}`;
+    },
+    async downloadAndGetUri(image, _) {
+      const url = image.url;
+      return { url, referral: "" };
+    }
+  };
+};
+
 // fetchers/index.ts
-var getFetcher = (settings) => {
+var getFetcher = (settings, vault) => {
   const { imageProvider } = settings;
   switch (imageProvider) {
+    case "local" /* local */:
+      return local(settings, vault);
     case "pexels" /* pexels */:
-      return pexels(settings);
+      return pexels(settings, vault);
     case "pixabay" /* pixabay */:
-      return pixabay(settings);
+      return pixabay(settings, vault);
     default:
-      return unsplash(settings);
+      return unsplash(settings, vault);
   }
 };
 
@@ -23219,7 +23319,12 @@ function NoResult() {
 }
 
 // ImagesModal.tsx
-var ImagesModal = ({ fetcher: defaultFetcher, onFetcherChange, settings, onSelect }) => {
+var ImagesModal = ({
+  fetcher: defaultFetcher,
+  onFetcherChange,
+  settings,
+  onSelect
+}) => {
   const [fetcher, setFetcher] = (0, import_react.useState)(defaultFetcher);
   const [query, setQuery] = (0, import_react.useState)("");
   const [images, setImages] = (0, import_react.useState)([]);
@@ -23240,7 +23345,9 @@ var ImagesModal = ({ fetcher: defaultFetcher, onFetcherChange, settings, onSelec
     }
     setLoading(false);
   };
-  const debouncedFetchImages = (0, import_react.useCallback)(debounce(fetchImages, 1e3), [fetcher]);
+  const debouncedFetchImages = (0, import_react.useCallback)(debounce(fetchImages, 1e3), [
+    fetcher
+  ]);
   const onQueryChange = async (query2) => {
     setQuery(query2);
     debouncedFetchImages(query2);
@@ -23253,7 +23360,7 @@ var ImagesModal = ({ fetcher: defaultFetcher, onFetcherChange, settings, onSelec
   const onProviderChange = async (provider) => {
     setLoading(true);
     setError(void 0);
-    const newFetcher = getFetcher({ ...settings, imageProvider: provider, imageSize: fetcher.imageSize });
+    const newFetcher = getFetcher({ ...settings, imageProvider: provider, imageSize: fetcher.imageSize }, fetcher.vault);
     setFetcher(newFetcher);
     onFetcherChange(newFetcher);
   };
@@ -23264,7 +23371,11 @@ var ImagesModal = ({ fetcher: defaultFetcher, onFetcherChange, settings, onSelec
   const onImageSizeChange = async (quality) => {
     setLoading(true);
     setError(void 0);
-    const newFetcher = getFetcher({ ...settings, imageSize: quality, imageProvider: fetcher.imageProvider });
+    const newFetcher = getFetcher({
+      ...settings,
+      imageSize: quality,
+      imageProvider: fetcher.imageProvider
+    }, fetcher.vault);
     setFetcher(newFetcher);
     onFetcherChange(newFetcher);
   };
@@ -23430,8 +23541,11 @@ var ModalWrapper = class extends import_obsidian7.Modal {
   constructor(app, editor, settings, insertPlace = "default" /* default */) {
     super(app);
     this.editor = editor;
-    this.settings = { ...settings, useMarkdownLinks: app.vault.config.useMarkdownLinks };
-    this.fetcher = getFetcher(this.settings);
+    this.settings = {
+      ...settings,
+      useMarkdownLinks: app.vault.config.useMarkdownLinks
+    };
+    this.fetcher = getFetcher(this.settings, app.vault);
     this.insertPlace = insertPlace;
     this.containerEl.addClass("image-inserter-container");
   }
@@ -23552,3 +23666,5 @@ var InsertUnsplashImage = class extends import_obsidian8.Plugin {
  * @internal
  * @license Modernizr 3.0.0pre (Custom Build) | MIT
  */
+
+/* nosourcemap */
