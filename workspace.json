@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lessons/Semester 5/intelligent-systems/lecture5b.pdf"
+                "file": "Unix IO.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "lecture5b"
+              "icon": "lucide-file",
+              "title": "Unix IO"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537
+    "width": 327.5055751800537,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -223,6 +226,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Unix IO.md~",
+    "HOME.md",
+    "Unix IO.md",
+    "4913",
+    "External/Kasper's Notes/Misc og Links/img3.png",
+    "External/Kasper's Notes/Misc og Links/img2.png",
+    "External/Kasper's Notes/Misc og Links/img1.png",
+    "External/Kasper's Notes/Misc og Links/Tree-Traversal-Techniques.webp",
+    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Untitled.md",
+    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Binary Tree.md",
+    "Lessons/Semester 5/intelligent-systems/lecture5b.pdf",
     "Notes/Viterbi Algorithm.md",
     "Notes/Viterbi Algorithm.md~",
     "Notes/Dynamic Bayesian Networks.md",
@@ -232,7 +246,6 @@
     "External/Kasper's Notes/ROS2/Actions.md",
     "External/Kasper's Notes/ROS2/Build and run ROS.md",
     "External/Kasper's Notes/Computer_lib.pdf",
-    "HOME.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241022100955.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241022100657.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241022100224.png",
@@ -254,21 +267,10 @@
     "Notes/Kalman Filter.md~",
     "Lessons/Semester 5/intelligent-systems/lecture7b.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture7a.pdf",
-    "Notes/4913",
     "Notes/Normalfordelingen.md",
     "Notes/QQ-plot.md",
     "Gaussian Distribution.md",
-    "Pasted image 20241020080701.png",
-    "Pasted image 20241019064242.png",
     "Viterbi Algorithm.md",
-    "Pasted image 20241019061733.png",
-    "Lessons/Semester 5/intelligent-systems/lecture5b.pdf",
-    "Lessons/Semester 5/intelligent-systems/lecture8a.pdf",
-    "Supervised Learning.md",
-    "Particle Filtering.md",
-    "Dynamic Bayesian Networks.md",
-    "External/Kasper's Notes/Algoritmer og Datastruktur/Portfolio/Portfolio 1.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241001101235.png",
     "Untitled.canvas"
   ]
 }
