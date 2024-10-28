@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Memory Allocation.md",
+                "file": "Standard IO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Memory Allocation"
+              "title": "Standard IO"
             }
           }
         ],
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scanf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -283,10 +283,10 @@
   },
   "active": "3c61e44889b62d4b",
   "lastOpenFiles": [
+    "Dynamic Memory Allocation.md",
     "Dynamic Memory Allocation.md~",
     "4913",
     "Unix Files.md",
-    "Dynamic Memory Allocation.md",
     "Unix Files.md~",
     "Vnodes and Inodes.md",
     "Lessons/Semester 5/math_and_statistics/HW1.pdf",
@@ -301,7 +301,6 @@
     "Standard IO.md",
     "Standard IO.md~",
     "Unix IO.md",
-    "Unix IO.md~",
     "HOME.md",
     "External/Kasper's Notes/Misc og Links/img3.png",
     "External/Kasper's Notes/Misc og Links/img2.png",
