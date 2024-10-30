@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radix Sort.md",
+                "file": "Karatsuba Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Radix Sort"
+              "title": "Karatsuba Algorithm"
             }
           },
           {
@@ -239,23 +239,23 @@
   },
   "active": "36d418b55eccbf33",
   "lastOpenFiles": [
-    "Breadth-first Search.md",
+    "Kosaraju’s Algorithm.md",
+    "Karatsuba Algorithm.md",
+    "Strongly Connected Components.md",
+    "Stable Sorting.md",
+    "README.md",
     "Radix Sort.md",
+    "Quicksort.md",
+    "Breadth-first Search.md",
     "Depth-first Search.md",
     "Pasted image 20241030090321.png",
     "HOME.md",
-    "README.md",
-    "Stable Sorting.md",
-    "Quicksort.md",
     "Pasted image 20241030083655.png",
-    "Kosaraju’s Algorithm.md",
-    "Karatsuba Algorithm.md",
     "Notes/Sorting Algorithms.md",
     "Lessons/Semester 5/algorithms/lecture10.pdf",
     "Kosaraju’s Algorithm.md~",
     "Tarjan’s Algorithm.md",
     "Tarjan’s Algorithm.md~",
-    "Strongly Connected Components.md",
     "Karatsuba Algorithm.md~",
     "4913",
     "Notes/Mergesort.md",
