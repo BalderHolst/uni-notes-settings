@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "be149147a54b836b",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "fa31bc6d094ac26a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Multivariate Random Variables.md",
+                "file": "Notes/Algorithms and Data Structures.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multivariate Random Variables"
+              "title": "Algorithms and Data Structures"
             }
           }
         ]
@@ -223,10 +223,11 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "fa31bc6d094ac26a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Notes/Random Variables.md",
     "HOME.md",
+    "Notes/Multivariate Random Variables.md",
+    "Notes/Random Variables.md",
     "Kosaraju’s Algorithm.md",
     "Karatsuba Algorithm.md",
     "Strongly Connected Components.md",
@@ -258,7 +259,6 @@
     "External/Kasper's Notes/Misc og Links/Pasted image 20241029101349.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241029101327.png",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Dijkstra Method.md",
-    "Notes/Multivariate Random Variables.md",
     "Bellman-Ford* Algorithm.md",
     "Notes/Unified Process.md",
     "Process.md",
