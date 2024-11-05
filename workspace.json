@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Algorithms and Data Structures.md",
+                "file": "Notes/Bellman-Ford* Algorithm.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algorithms and Data Structures"
+              "title": "Bellman-Ford* Algorithm"
             }
           }
         ]
@@ -225,7 +225,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Dijkstra’s Algorithm.md",
     "HOME.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241031152515.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241031140108.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241031140030.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241031135436.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241031124900.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241031124837.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241031122813.png",
+    "External/Kasper's Notes/Misc og Links/Pasted Image 20241031123047_366.png",
+    "External/Kasper's Notes/Misc og Links/Four Value Functions 2024-10-31 12.30.10.excalidraw.md",
+    "External/Kasper's Notes/Kunstig inteligens/Reinforcement Learning.md",
+    "External/Kasper's Notes/Kunstig inteligens/Four Value Functions.md",
+    "Notes/Algorithms and Data Structures.md",
     "Notes/Multivariate Random Variables.md",
     "Notes/Random Variables.md",
     "Kosaraju’s Algorithm.md",
@@ -250,23 +263,10 @@
     "Notes/Insertion Sort.md",
     "Notes/Master Theorem.md",
     "External/Kasper's Notes/ROS2/Sampling Based Planning.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241029195309.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241029101434.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241029101421.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241029101411.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241029101404.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241029101355.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241029101349.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241029101327.png",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Dijkstra Method.md",
     "Bellman-Ford* Algorithm.md",
     "Notes/Unified Process.md",
-    "Process.md",
-    "C Libraries.md",
-    "Library Interpositioning.md",
     "Library Interpositioning.md~",
-    "Dijkstra’s Algorithm.md",
-    "External/Kasper's Notes/Algoritmer og Datastruktur/Portfolio/Portfolio 1.md",
     "Bellman-Ford* Algorithm.md~",
     "Bellman-Ford Algorithm.md~",
     "Dijkstra’s algorithm.md~",
