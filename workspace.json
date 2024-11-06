@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Bellman-Ford* Algorithm.md",
+                "file": "HOME.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bellman-Ford* Algorithm"
+              "title": "HOME"
+            }
+          },
+          {
+            "id": "9ecb12998fd97251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bayesian Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bayesian Learning"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537
+    "width": 327.5055751800537,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -223,20 +239,26 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9ecb12998fd97251",
   "lastOpenFiles": [
-    "Tarjan's Algorithm.md",
-    "Notes/Bellman-Ford* Algorithm.md",
-    "Notes/Dijkstra’s Algorithm.md",
+    "Lessons/Semester 5/intelligent-systems/lecture13b.pdf",
+    "Lessons/Semester 5/intelligent-systems/lecture13a.pdf",
     "HOME.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241031152515.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241031140108.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241031140030.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241031135436.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241031124900.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241031124837.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241031122813.png",
-    "External/Kasper's Notes/Misc og Links/Pasted Image 20241031123047_366.png",
+    "Bayesian Learning.md",
+    "External/Kasper's Notes/ROS2/Localization.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241105095515.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241105095506.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241105095454.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241105095446.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241105095250.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241105095120.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241105095019.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241105094723.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241105094716.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241105094659.png",
+    "Notes/Bellman-Ford* Algorithm.md",
+    "Tarjan's Algorithm.md",
+    "Notes/Dijkstra’s Algorithm.md",
     "External/Kasper's Notes/Misc og Links/Four Value Functions 2024-10-31 12.30.10.excalidraw.md",
     "External/Kasper's Notes/Kunstig inteligens/Reinforcement Learning.md",
     "External/Kasper's Notes/Kunstig inteligens/Four Value Functions.md",
@@ -252,8 +274,6 @@
     "Quicksort.md",
     "Breadth-first Search.md",
     "Depth-first Search.md",
-    "Pasted image 20241030090321.png",
-    "Pasted image 20241030083655.png",
     "Notes/Sorting Algorithms.md",
     "Lessons/Semester 5/algorithms/lecture10.pdf",
     "Kosaraju’s Algorithm.md~",
@@ -263,14 +283,10 @@
     "4913",
     "Notes/Mergesort.md",
     "Notes/Insertion Sort.md",
-    "Notes/Master Theorem.md",
-    "External/Kasper's Notes/ROS2/Sampling Based Planning.md",
-    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Dijkstra Method.md",
     "Library Interpositioning.md~",
     "Bellman-Ford* Algorithm.md~",
     "Bellman-Ford Algorithm.md~",
     "Dijkstra’s algorithm.md~",
-    "Lessons/Semester 5/algorithms/lecture11.pdf",
     "Untitled.canvas"
   ]
 }
