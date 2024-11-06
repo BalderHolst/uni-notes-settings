@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Dijkstra’s Algorithm.md",
+                "file": "Notes/Bellman-Ford* Algorithm.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dijkstra’s Algorithm"
+              "title": "Bellman-Ford* Algorithm"
             }
           }
         ]
@@ -226,6 +226,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Dijkstra’s Algorithm.md",
     "HOME.md",
     "External/Kasper's Notes/ROS2/Parameters.md",
     "External/Kasper's Notes/ROS2/Odometry.md",
@@ -245,7 +246,6 @@
     "External/Kasper's Notes/Misc og Links/Pasted image 20241105094659.png",
     "Notes/Bellman-Ford* Algorithm.md",
     "Tarjan's Algorithm.md",
-    "Notes/Dijkstra’s Algorithm.md",
     "External/Kasper's Notes/Misc og Links/Four Value Functions 2024-10-31 12.30.10.excalidraw.md",
     "External/Kasper's Notes/Kunstig inteligens/Reinforcement Learning.md",
     "External/Kasper's Notes/Kunstig inteligens/Four Value Functions.md",
