@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Expectation.md",
+                "file": "Notes/Variance.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expectation"
+              "title": "Variance"
             }
           }
         ]
@@ -226,6 +226,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Expectation.md",
     "Notes/IID.md",
     "Notes/Covariance.md",
     "HOME.md",
@@ -270,7 +271,6 @@
     "Notes/Bellman-Ford* Algorithm.md",
     "Notes/Dijkstra’s Algorithm.md",
     "External/Kasper's Notes/ROS2/Parameters.md",
-    "External/Kasper's Notes/ROS2/Odometry.md",
     "Lessons/Semester 5/intelligent-systems/lecture13b.pdf",
     "Untitled.canvas"
   ]
