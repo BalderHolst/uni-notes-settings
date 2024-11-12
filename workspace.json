@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Variance.md",
-                "mode": "preview",
+                "file": "Notes/Propability Space.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variance"
+              "title": "Propability Space"
             }
           }
         ]
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sample",
+                "query": "moment genera",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,6 +226,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Variance.md",
     "External/Kasper's Notes/Statistik/Inference for Simple Linear Regression.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241111145238.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241111145125.png",
@@ -237,7 +238,6 @@
     "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Graphs.md",
     "HOME.md",
     "Notes/Sample Mean and Covariance.md",
-    "Notes/Variance.md",
     "Notes/Statistics.md",
     "Notes/Propability Space.md",
     "Notes/Random Variables.md",
