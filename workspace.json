@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Propability Space.md",
-                "mode": "source",
+                "file": "Notes/IID.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propability Space"
+              "title": "IID"
             }
           }
         ]
@@ -226,27 +226,29 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Identity Matrix.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241114133224.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241114132558.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241114132545.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241114132148.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241114131249.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241114130120.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241114125456.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241114125450.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241114125438.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241114124646.png",
+    "External/Kasper's Notes/Kunstig inteligens/Temporal Difference.md",
+    "HOME.md",
+    "Notes/Propability Space.md",
     "Notes/Variance.md",
     "External/Kasper's Notes/Statistik/Inference for Simple Linear Regression.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241111145238.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241111145125.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241111142416.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241111141953.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241111111530.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241111111519.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241111111508.png",
     "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Graphs.md",
-    "HOME.md",
     "Notes/Sample Mean and Covariance.md",
     "Notes/Statistics.md",
-    "Notes/Propability Space.md",
     "Notes/Random Variables.md",
     "Notes/Expectation.md",
     "Notes/IID.md",
     "Notes/Covariance.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241108132654.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241108125111.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241108115948.png",
     "External/Kasper's Notes/Kunstig inteligens/Reinforcement_Learning.pdf",
     "External/Kasper's Notes/Kunstig inteligens/Monte Carlo Policy.md",
     "Notes/Multivariate Random Variables.md",
@@ -268,9 +270,7 @@
     "X2 Distribution.md",
     "Exponential Distribution.md",
     "Bivariate Distribution.md",
-    "Marginal Distribution.md",
     "Lessons/Semester 5/math_and_statistics/lecture6a.pdf",
-    "Templates/subject.md",
     "Lessons/Semester 5/intelligent-systems/lecture13b.pdf",
     "Untitled.canvas"
   ]
