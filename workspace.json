@@ -11,32 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "HOME.md",
-                "mode": "preview",
-                "source": false
+                "file": "Lessons/Semester 5/intelligent-systems/lecture14.pdf"
               },
-              "icon": "lucide-file",
-              "title": "HOME"
-            }
-          },
-          {
-            "id": "459d6416845a68d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mixture Models.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mixture Models"
+              "icon": "lucide-file-text",
+              "title": "lecture14"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,10 +222,27 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "459d6416845a68d2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Lessons/Semester 5/intelligent-systems/lecture14.pdf",
+    "Notes/Mixture Models.md",
     "HOME.md",
+    "External/Kasper's Notes/Robotics/Untitled.md",
+    "External/Kasper's Notes/Robotics/Topics.md",
+    "External/Kasper's Notes/Robotics/Service.md",
+    "External/Kasper's Notes/Robotics/Sampling Based Planning.md",
+    "External/Kasper's Notes/Robotics/Ros2 basics.md",
+    "External/Kasper's Notes/Robotics/Roadmaps.pdf",
+    "External/Kasper's Notes/Robotics/PotentialFields.pdf",
+    "External/Kasper's Notes/Robotics/Parameters.md",
+    "External/Kasper's Notes/Robotics/Odometry.md",
+    "External/Kasper's Notes/Robotics/Nodes.md",
+    "External/Kasper's Notes/Robotics/Localization.md",
+    "External/Kasper's Notes/Robotics/Coverage Planning.md",
+    "External/Kasper's Notes/Robotics/Build and run ROS.md",
+    "External/Kasper's Notes/Robotics/Actions.md",
+    "External/Kasper's Notes/Robotics",
+    "External/Kasper's Notes/Calender/19-11-2024.md",
+    "Lessons/Semester 5/intelligent-systems/lecture14.pdf",
     "Mixture Models.md",
     "Linux Processes.md",
     "Linux Processes.md~",
@@ -267,26 +267,9 @@
     "External/Kasper's Notes/Kunstig inteligens/Temporal Difference.md",
     "Notes/Propability Space.md",
     "Notes/Variance.md",
-    "External/Kasper's Notes/Statistik/Inference for Simple Linear Regression.md",
-    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Graphs.md",
-    "Notes/Sample Mean and Covariance.md",
-    "Notes/Statistics.md",
-    "Notes/Random Variables.md",
-    "Notes/Expectation.md",
-    "Notes/Covariance.md",
     "External/Kasper's Notes/Kunstig inteligens/Reinforcement_Learning.pdf",
-    "External/Kasper's Notes/Kunstig inteligens/Monte Carlo Policy.md",
-    "Notes/Multivariate Random Variables.md",
     "Notes/Multivariate Random Variables.md~",
-    "Expectation.md",
-    "Variance.md",
-    "Sample Mean and Covariance.md",
-    "Covariance and Correlation.md",
     "Notes/4913",
-    "Covariance and Correlation.md~",
-    "Variance.md~",
-    "Expectation.md~",
-    "Lessons/Semester 5/math_and_statistics/lecture7.pdf",
     "Untitled.canvas"
   ]
 }
