@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IID.md",
+                "file": "HOME.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IID"
+              "title": "HOME"
+            }
+          },
+          {
+            "id": "459d6416845a68d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mixture Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mixture Models"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,8 +239,24 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "459d6416845a68d2",
   "lastOpenFiles": [
+    "Lessons/Semester 5/intelligent-systems/lecture14.pdf",
+    "HOME.md",
+    "Mixture Models.md",
+    "Linux Processes.md",
+    "Linux Processes.md~",
+    "4913",
+    "External/Kasper's Notes/Statistik/ANOVA tables.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241118154300.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241118140131.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241118132608.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241118101213.png",
+    "External/Kasper's Notes/Calender/16-11-2024.md",
+    "External/Kasper's Notes/Calender",
+    "External/Kasper's Notes/Algoritmer og Datastruktur/Portfolio/Portfolio 2.md",
+    "External/Kasper's Notes/Algoritmer og Datastruktur/Notes/Linked Lists.md",
+    "Notes/IID.md",
     "Notes/Identity Matrix.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241114133224.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241114132558.png",
@@ -233,12 +264,7 @@
     "External/Kasper's Notes/Misc og Links/Pasted image 20241114132148.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241114131249.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241114130120.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241114125456.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241114125450.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241114125438.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241114124646.png",
     "External/Kasper's Notes/Kunstig inteligens/Temporal Difference.md",
-    "HOME.md",
     "Notes/Propability Space.md",
     "Notes/Variance.md",
     "External/Kasper's Notes/Statistik/Inference for Simple Linear Regression.md",
@@ -247,7 +273,6 @@
     "Notes/Statistics.md",
     "Notes/Random Variables.md",
     "Notes/Expectation.md",
-    "Notes/IID.md",
     "Notes/Covariance.md",
     "External/Kasper's Notes/Kunstig inteligens/Reinforcement_Learning.pdf",
     "External/Kasper's Notes/Kunstig inteligens/Monte Carlo Policy.md",
@@ -258,20 +283,10 @@
     "Sample Mean and Covariance.md",
     "Covariance and Correlation.md",
     "Notes/4913",
-    "Distributions.md",
-    "Templates/distribution.md",
     "Covariance and Correlation.md~",
-    "4913",
-    "IID.md",
-    "Normal Distribution.md",
     "Variance.md~",
     "Expectation.md~",
     "Lessons/Semester 5/math_and_statistics/lecture7.pdf",
-    "X2 Distribution.md",
-    "Exponential Distribution.md",
-    "Bivariate Distribution.md",
-    "Lessons/Semester 5/math_and_statistics/lecture6a.pdf",
-    "Lessons/Semester 5/intelligent-systems/lecture13b.pdf",
     "Untitled.canvas"
   ]
 }
