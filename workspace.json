@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lessons/Semester 5/intelligent-systems/lecture14.pdf"
+                "file": "Notes/Mixture Models.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "lecture14"
+              "icon": "lucide-file",
+              "title": "Mixture Models"
             }
           }
         ]
@@ -224,8 +226,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Notes/Mixture Models.md",
     "HOME.md",
+    "Lessons/Semester 5/intelligent-systems/lecture14.pdf",
+    "Notes/Mixture Models.md",
     "External/Kasper's Notes/Robotics/Untitled.md",
     "External/Kasper's Notes/Robotics/Topics.md",
     "External/Kasper's Notes/Robotics/Service.md",
@@ -242,7 +245,6 @@
     "External/Kasper's Notes/Robotics/Actions.md",
     "External/Kasper's Notes/Robotics",
     "External/Kasper's Notes/Calender/19-11-2024.md",
-    "Lessons/Semester 5/intelligent-systems/lecture14.pdf",
     "Mixture Models.md",
     "Linux Processes.md",
     "Linux Processes.md~",
@@ -266,7 +268,6 @@
     "External/Kasper's Notes/Misc og Links/Pasted image 20241114130120.png",
     "External/Kasper's Notes/Kunstig inteligens/Temporal Difference.md",
     "Notes/Propability Space.md",
-    "Notes/Variance.md",
     "External/Kasper's Notes/Kunstig inteligens/Reinforcement_Learning.pdf",
     "Notes/Multivariate Random Variables.md~",
     "Notes/4913",
