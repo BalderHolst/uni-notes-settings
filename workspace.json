@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Central Limit Theorem.md",
+                "file": "Convergence of Random Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Central Limit Theorem"
+              "title": "Convergence of Random Variables"
             }
           }
         ],
@@ -241,8 +241,8 @@
   },
   "active": "a4f082976cb0f020",
   "lastOpenFiles": [
-    "Law of Large Number.md",
     "Central Limit Theorem.md",
+    "Law of Large Number.md",
     "Convergence of Random Variables.md",
     "Pasted image 20241126093309.png",
     "Pasted image 20241126093255.png",
