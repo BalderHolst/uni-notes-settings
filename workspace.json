@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "3c2c9dde9b294425",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "fba1c756d698602b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Central Limit Theorem.md",
+                "file": "The Bootstrap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Central Limit Theorem"
-            }
-          },
-          {
-            "id": "49e733570132aa4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Delta Method.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Delta Method"
-            }
-          },
-          {
-            "id": "f4e7fa593c5c1513",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plug-in Estimator.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plug-in Estimator"
+              "title": "The Bootstrap"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,12 +74,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537,
-    "collapsed": true
+    "width": 327.5055751800537
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -253,23 +223,40 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "f4e7fa593c5c1513",
+  "active": "fba1c756d698602b",
   "lastOpenFiles": [
-    "Delta Method.md",
-    "Plug-in Estimator.md",
-    "Notes/Central Limit Theorem.md",
-    "HOME.md",
+    "The Bootstrap.md",
+    "External/Kasper's Notes/Kunstig inteligens/Exercises/Exercise 1 Fuzzy control.md",
+    "External/Kasper's Notes/Kunstig inteligens/Exercises/exercise1.pdf",
+    "External/Kasper's Notes/Kunstig inteligens/Tuning fuzzy controllers.md",
+    "External/Kasper's Notes/Kunstig inteligens/Terminology.md",
+    "External/Kasper's Notes/Kunstig inteligens/Temporal Difference.md",
+    "External/Kasper's Notes/Kunstig inteligens/t-norms and s-norms.md",
+    "External/Kasper's Notes/Kunstig inteligens/Sugeno or Takagi-Sugeno or Functional Fuzzy Systems.md",
+    "External/Kasper's Notes/Kunstig inteligens/Reinforcement Learning.md",
+    "External/Kasper's Notes/Kunstig inteligens/Q-Learning.md",
+    "External/Kasper's Notes/Kunstig inteligens/Monte Carlo Policy.md",
+    "External/Kasper's Notes/Kunstig inteligens/Mamdani or standard fuzzy system.md",
+    "External/Kasper's Notes/Kunstig inteligens/Fuzzy Logic Control.md",
+    "External/Kasper's Notes/Kunstig inteligens/Fuzzy logic.md",
+    "External/Kasper's Notes/Kunstig inteligens/Four Value Functions.md",
+    "External/Kasper's Notes/Kunstig inteligens/Control Surface.md",
+    "External/Kasper's Notes/Kunstig inteligens/Basics.md",
+    "External/Kasper's Notes/Bachelor.md",
+    "External/Kasper's Notes/Airmon wifi bruteforce.md",
+    "External/Kasper's Notes/SVG fra Remarkable/interactions page 3.svg",
+    "External/Kasper's Notes/SVG fra Remarkable/interactions page 5.svg",
+    "External/Kasper's Notes/SVG fra Remarkable/interactions page 4.svg",
+    "External/Kasper's Notes/SVG fra Remarkable/interactions page 2.svg",
+    "External/Kasper's Notes/TODO.md",
+    "External/Kasper's Notes/tikz test.md",
+    "External/Kasper's Notes/Solceller.md",
     "External/Kasper's Notes/README.md",
-    "Notes/Gaussian Distribution.md",
-    "Central Limit Theorem.md",
-    "Notes/Random Variables.md",
-    "Templates/distribution.md",
-    "Notes/Distributions.md",
-    "Notes/X2 Distribution.md",
-    "Notes/Bivariate Distribution.md",
-    "Notes/Normal Distribution.md",
-    "Convergence of Random Variables.md",
-    "Law of Large Number.md",
+    "External/Kasper's Notes/Power Plant.md",
+    "External/Kasper's Notes/Mangler i LAB.md",
+    "External/Kasper's Notes/Eink Calendar.md",
+    "External/Kasper's Notes/Computer_lib.pdf",
+    "HOME.md",
     "Pasted image 20241126093309.png",
     "Pasted image 20241126093255.png",
     "Pasted image 20241126092353.png",
@@ -281,26 +268,9 @@
     "External/Kasper's Notes/handwritten-notes/Obstacle avoidance robot .pdf",
     "External/Kasper's Notes/handwritten-notes/Obstacle avoidance .pdf",
     "External/Kasper's Notes/handwritten-notes/Konfidensinterval.pdf",
-    "External/Kasper's Notes/handwritten-notes/Konfidensinterval CI.pdf",
-    "External/Kasper's Notes/handwritten-notes/Interval opgaver.pdf",
     "External/Kasper's Notes/Misc og Links/mst5.png",
     "External/Kasper's Notes/Misc og Links/avl.png",
     "External/Kasper's Notes/Misc og Links/Untitled-Diagram66-3.jpg",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241125213940.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241125213923.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241125213916.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20241125213813.png",
-    "External/Kasper's Notes/Kunstig inteligens/Q-Learning.md",
-    "External/Kasper's Notes/Excalidraw/Drawing 2024-10-21 08.55.36.excalidraw.md",
-    "External/Kasper's Notes/Excalidraw/Drawing 2024-10-21 08.30.11.excalidraw.md",
-    "External/Kasper's Notes/Excalidraw/Drawing 2024-10-09 11.42.52.excalidraw.md",
-    "External/Kasper's Notes/Elektronik/Emner/Sinusformet signal.md",
-    "External/Kasper's Notes/Elektronik/Emner/RMS Effekt.md",
-    "External/Kasper's Notes/Elektronik/Emner/AC-kredslÃ¸b.md",
-    "External/Kasper's Notes/Calender/24-11-2024.md",
-    "External/Kasper's Notes/Calender/22-11-2024.md",
-    "External/Kasper's Notes/Calender/21-11-2024.md",
-    "External/Kasper's Notes/Bachelor/CBBA consensus-based bundle algorithm.md",
     "Untitled.canvas"
   ]
 }
