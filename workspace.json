@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "3c2c9dde9b294425",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "fba1c756d698602b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Bootstrap.md",
+                "file": "HOME.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOME"
+            }
+          },
+          {
+            "id": "fdf6a0dded68cb38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emperical CDF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Bootstrap"
+              "title": "Emperical CDF"
+            }
+          },
+          {
+            "id": "8ff26e07356f9465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mean Square Error (MSE).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mean Square Error (MSE)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537
+    "width": 327.5055751800537,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -223,8 +253,18 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "fba1c756d698602b",
+  "active": "8ff26e07356f9465",
   "lastOpenFiles": [
+    "Plug-in Estimator.md",
+    "Mean Square Error (MSE).md",
+    "Emperical CDF.md",
+    "Pasted image 20241128093128.png",
+    "Pasted image 20241128093041.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20241127185926.png",
+    "External/Kasper's Notes/Kunstig inteligens/n-Step Bootstrapping.md",
+    "External/Kasper's Notes/Kunstig inteligens/Reinforcement_Learning.pdf",
+    "External/Kasper's Notes/Calender/27-11-2024.md",
+    "HOME.md",
     "The Bootstrap.md",
     "External/Kasper's Notes/Kunstig inteligens/Exercises/Exercise 1 Fuzzy control.md",
     "External/Kasper's Notes/Kunstig inteligens/Exercises/exercise1.pdf",
@@ -250,13 +290,7 @@
     "External/Kasper's Notes/SVG fra Remarkable/interactions page 2.svg",
     "External/Kasper's Notes/TODO.md",
     "External/Kasper's Notes/tikz test.md",
-    "External/Kasper's Notes/Solceller.md",
-    "External/Kasper's Notes/README.md",
-    "External/Kasper's Notes/Power Plant.md",
-    "External/Kasper's Notes/Mangler i LAB.md",
-    "External/Kasper's Notes/Eink Calendar.md",
     "External/Kasper's Notes/Computer_lib.pdf",
-    "HOME.md",
     "Pasted image 20241126093309.png",
     "Pasted image 20241126093255.png",
     "Pasted image 20241126092353.png",
@@ -267,10 +301,6 @@
     "External/Kasper's Notes/handwritten-notes/Spanning tree.pdf",
     "External/Kasper's Notes/handwritten-notes/Obstacle avoidance robot .pdf",
     "External/Kasper's Notes/handwritten-notes/Obstacle avoidance .pdf",
-    "External/Kasper's Notes/handwritten-notes/Konfidensinterval.pdf",
-    "External/Kasper's Notes/Misc og Links/mst5.png",
-    "External/Kasper's Notes/Misc og Links/avl.png",
-    "External/Kasper's Notes/Misc og Links/Untitled-Diagram66-3.jpg",
     "Untitled.canvas"
   ]
 }
