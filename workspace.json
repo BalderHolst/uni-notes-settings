@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maximum Likelihood Estimation (MLE).md",
+                "file": "Binomial Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maximum Likelihood Estimation (MLE)"
+              "title": "Binomial Distribution"
             }
           }
         ],
@@ -241,8 +241,9 @@
   },
   "active": "2cdb9bb76d547989",
   "lastOpenFiles": [
-    "Probability vs Likelihood.md",
     "Maximum Likelihood Estimation (MLE).md",
+    "Binomial Distribution.md",
+    "Probability vs Likelihood.md",
     "HOME.md",
     "Notes/Delta Method.md",
     "Notes/Statistics.md",
@@ -270,7 +271,6 @@
     "Notes/Random Variables.md",
     "Notes/Bayesian Networks.md",
     "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
-    "Notes/The Bootstrap.md",
     "Pasted image 20241128093128.png",
     "Pasted image 20241128093041.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241127185926.png",
