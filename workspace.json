@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Amdahl's Law.md",
-                "mode": "preview",
+                "file": "Notes/Delta Method.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amdahl's Law"
+              "title": "Delta Method"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537
+    "width": 327.5055751800537,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -225,6 +226,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Statistics.md",
+    "HOME.md",
+    "Notes/Identity Matrix.md",
+    "Notes/Eigen values and vectors.md",
+    "External/Kasper's Notes/Calculus/Specielle Matricer.md",
+    "Notes/Jacobian Matrix for Robotics.md",
+    "Notes/Jacobian Matrix.md",
+    "Notes/Variance.md",
+    "Notes/Normal Distribution.md",
+    "Notes/ADC.md",
+    "jasfdl.md",
+    "Notes/Antisymetrisk.md",
+    "Notes/Andenordensdifferentialligninger.md",
+    "Notes/Amdahl's Law.md",
     "Notes/Eksponentielle Funktioner.md",
     "Notes/Dynamic Compensation.md",
     "Lessons/Semester 5/intelligent-systems/lecture7b.pdf",
@@ -233,32 +248,19 @@
     "External/Kasper's Notes/Kunstig inteligens/n-Step Bootstrapping.md",
     "Notes/Dynamic Memory Allocation.md",
     "Notes/Unix IO.md",
-    "HOME.md",
     "README.md",
     "Notes/Random Variables.md",
     "Notes/Bayesian Networks.md",
     "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
-    "Notes/Statistics.md",
     "Notes/The Bootstrap.md",
     "Notes/Delta Method.md",
     "Some new stat note.md",
     "Notes/Mean Square Error (MSE).md",
-    "Notes/Distributions.md",
-    "Notes/X2 Distribution.md",
-    "Plug-in Estimator.md",
-    "Mean Square Error (MSE).md",
-    "Emperical CDF.md",
     "Pasted image 20241128093128.png",
     "Pasted image 20241128093041.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241127185926.png",
     "External/Kasper's Notes/Kunstig inteligens/Reinforcement_Learning.pdf",
-    "External/Kasper's Notes/Calender/27-11-2024.md",
-    "The Bootstrap.md",
-    "External/Kasper's Notes/Kunstig inteligens/Exercises/Exercise 1 Fuzzy control.md",
     "External/Kasper's Notes/Kunstig inteligens/Exercises/exercise1.pdf",
-    "External/Kasper's Notes/Kunstig inteligens/Tuning fuzzy controllers.md",
-    "External/Kasper's Notes/Kunstig inteligens/Terminology.md",
-    "External/Kasper's Notes/Kunstig inteligens/Temporal Difference.md",
     "External/Kasper's Notes/SVG fra Remarkable/interactions page 3.svg",
     "External/Kasper's Notes/SVG fra Remarkable/interactions page 5.svg",
     "External/Kasper's Notes/SVG fra Remarkable/interactions page 4.svg",
