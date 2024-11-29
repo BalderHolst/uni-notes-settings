@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "Notes/Distributions.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME"
+              "title": "Distributions"
             }
           },
           {
@@ -27,8 +27,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Sample Mean and Variance.md",
+                "file": "Binomial Distribution.md",
                 "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binomial Distribution"
+            }
+          },
+          {
+            "id": "76e29eb0009987a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Sample Mean and Variance.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -241,12 +255,14 @@
   },
   "active": "2cdb9bb76d547989",
   "lastOpenFiles": [
+    "Notes/Sample Mean and Variance.md",
     "Binomial Distribution.md",
-    "Notes/Delta Method.md",
     "Notes/Distributions.md",
+    "HOME.md",
+    "Untitled.md",
+    "Notes/Delta Method.md",
     "Maximum Likelihood Estimation (MLE).md",
     "Probability vs Likelihood.md",
-    "HOME.md",
     "Notes/Statistics.md",
     "Notes/Identity Matrix.md",
     "Notes/Eigen values and vectors.md",
@@ -268,8 +284,6 @@
     "External/Kasper's Notes/Kunstig inteligens/n-Step Bootstrapping.md",
     "Notes/Dynamic Memory Allocation.md",
     "Notes/Unix IO.md",
-    "README.md",
-    "Notes/Random Variables.md",
     "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
     "Pasted image 20241128093128.png",
     "Pasted image 20241128093041.png",
