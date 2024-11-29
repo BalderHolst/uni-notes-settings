@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binomial Distribution.md",
+                "file": "Notes/Normalfordelingen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binomial Distribution"
+              "title": "Normalfordelingen"
             }
           },
           {
@@ -255,8 +255,9 @@
   },
   "active": "2cdb9bb76d547989",
   "lastOpenFiles": [
-    "Notes/Sample Mean and Variance.md",
+    "Notes/The Bootstrap.md",
     "Binomial Distribution.md",
+    "Notes/Sample Mean and Variance.md",
     "Notes/Distributions.md",
     "HOME.md",
     "Untitled.md",
@@ -283,7 +284,6 @@
     "Lessons/Semester 5/intelligent-systems/lecture5b.pdf",
     "External/Kasper's Notes/Kunstig inteligens/n-Step Bootstrapping.md",
     "Notes/Dynamic Memory Allocation.md",
-    "Notes/Unix IO.md",
     "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
     "Pasted image 20241128093128.png",
     "Pasted image 20241128093041.png",
