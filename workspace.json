@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Delta Method.md",
+                "file": "Notes/Normal Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Delta Method"
+              "title": "Normal Distribution"
             }
           }
         ]
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -226,8 +226,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Notes/Sample Mean and Variance.md",
+    "Notes/Normalfordelingen.md",
+    "Untitled.md",
+    "Notes/Normalkraft.md",
     "Notes/Delta Method.md",
+    "Notes/Sample Mean and Variance.md",
     "Notes/Variance.md",
     "HOME.md",
     "External/Kasper's Notes/Kunstig inteligens/Q-Learning.md",
@@ -243,11 +246,9 @@
     "Notes/Maximum Likelihood Estimation (MLE).md",
     "Notes/Binomial Distribution.md",
     "Notes/Normal Distribution.md",
-    "Notes/Normalfordelingen.md",
     "Notes/The Bootstrap.md",
     "Binomial Distribution.md",
     "Notes/Distributions.md",
-    "Untitled.md",
     "Maximum Likelihood Estimation (MLE).md",
     "Probability vs Likelihood.md",
     "Notes/Statistics.md",
@@ -258,7 +259,6 @@
     "Notes/Jacobian Matrix.md",
     "Notes/ADC.md",
     "jasfdl.md",
-    "Notes/Antisymetrisk.md",
     "Lessons/Semester 5/intelligent-systems/lecture7b.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture11a.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture5b.pdf",
