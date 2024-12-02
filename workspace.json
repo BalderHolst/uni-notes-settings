@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Normal Distribution"
             }
+          },
+          {
+            "id": "afd5d564228849c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypothesis Testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hypothesis Testing"
+            }
+          },
+          {
+            "id": "711941c84c001c79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wald Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wald Test"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,10 +253,13 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "711941c84c001c79",
   "lastOpenFiles": [
+    "Notes/X2 Distribution.md",
+    "Wald Test.md",
+    "Hypothesis Testing.md",
+    "Notes/Normal Distribution.md",
     "Notes/Normalfordelingen.md",
-    "Untitled.md",
     "Notes/Normalkraft.md",
     "Notes/Delta Method.md",
     "Notes/Sample Mean and Variance.md",
@@ -245,7 +277,6 @@
     "Notes/Probability vs Likelihood.md",
     "Notes/Maximum Likelihood Estimation (MLE).md",
     "Notes/Binomial Distribution.md",
-    "Notes/Normal Distribution.md",
     "Notes/The Bootstrap.md",
     "Binomial Distribution.md",
     "Notes/Distributions.md",
@@ -257,8 +288,6 @@
     "External/Kasper's Notes/Calculus/Specielle Matricer.md",
     "Notes/Jacobian Matrix for Robotics.md",
     "Notes/Jacobian Matrix.md",
-    "Notes/ADC.md",
-    "jasfdl.md",
     "Lessons/Semester 5/intelligent-systems/lecture7b.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture11a.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture5b.pdf",
