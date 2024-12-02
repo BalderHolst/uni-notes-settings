@@ -36,17 +36,59 @@
             }
           },
           {
-            "id": "711941c84c001c79",
+            "id": "67f94cd203c2653f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wald Test.md",
+                "file": "Score Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wald Test"
+              "title": "Score Test"
+            }
+          },
+          {
+            "id": "6e6231ca23980bf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Log-likelihood Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Log-likelihood Test"
+            }
+          },
+          {
+            "id": "93e4f68df0a97acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-distribution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Z-distribution"
+            }
+          },
+          {
+            "id": "7cff62daaf00e1ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Normal Distribution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Normal Distribution"
             }
           }
         ],
@@ -253,12 +295,15 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "711941c84c001c79",
+  "active": "67f94cd203c2653f",
   "lastOpenFiles": [
-    "Notes/X2 Distribution.md",
-    "Wald Test.md",
     "Hypothesis Testing.md",
+    "Score Test.md",
+    "Log-likelihood Test.md",
+    "Wald Test.md",
     "Notes/Normal Distribution.md",
+    "Z-distribution.md",
+    "Notes/X2 Distribution.md",
     "Notes/Normalfordelingen.md",
     "Notes/Normalkraft.md",
     "Notes/Delta Method.md",
@@ -285,9 +330,6 @@
     "Notes/Statistics.md",
     "Notes/Identity Matrix.md",
     "Notes/Eigen values and vectors.md",
-    "External/Kasper's Notes/Calculus/Specielle Matricer.md",
-    "Notes/Jacobian Matrix for Robotics.md",
-    "Notes/Jacobian Matrix.md",
     "Lessons/Semester 5/intelligent-systems/lecture7b.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture11a.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture5b.pdf",
