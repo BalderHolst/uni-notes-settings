@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Ford Fulkerson Algorithm"
             }
+          },
+          {
+            "id": "c0ba250ec144473d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Edmonds Karp Algorithm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Edmonds Karp Algorithm"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,8 +267,9 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "5a0169ccd35ebceb",
+  "active": "e89b8842b12d9f94",
   "lastOpenFiles": [
+    "Edmonds Karp Algorithm.md",
     "Ford Fulkerson Algorithm.md",
     "Max Flow.md",
     "Pasted image 20241202084309.png",
@@ -288,7 +303,6 @@
     "Notes/Distributions.md",
     "Maximum Likelihood Estimation (MLE).md",
     "Probability vs Likelihood.md",
-    "Notes/Statistics.md",
     "Lessons/Semester 5/intelligent-systems/lecture7b.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture11a.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture5b.pdf",
