@@ -13,58 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HOME"
-            }
-          },
-          {
-            "id": "5a0169ccd35ebceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Max Flow.md",
+                "file": "Notes/Delta Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Max Flow"
-            }
-          },
-          {
-            "id": "e89b8842b12d9f94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ford Fulkerson Algorithm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ford Fulkerson Algorithm"
-            }
-          },
-          {
-            "id": "c0ba250ec144473d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Edmonds Karp Algorithm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Edmonds Karp Algorithm"
+              "title": "Delta Method"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,13 +224,16 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "e89b8842b12d9f94",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Sample Mean and Variance.md",
+    "Standard Error.md",
+    "Notes/Variance.md",
+    "HOME.md",
     "Edmonds Karp Algorithm.md",
     "Ford Fulkerson Algorithm.md",
     "Max Flow.md",
     "Pasted image 20241202084309.png",
-    "HOME.md",
     "Notes/Normal Distribution.md",
     "Z-distribution.md",
     "Log-likelihood Test.md",
@@ -284,8 +244,6 @@
     "Notes/Normalfordelingen.md",
     "Notes/Normalkraft.md",
     "Notes/Delta Method.md",
-    "Notes/Sample Mean and Variance.md",
-    "Notes/Variance.md",
     "External/Kasper's Notes/Kunstig inteligens/Q-Learning.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241202011954.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241202010950.png",
@@ -302,7 +260,6 @@
     "Binomial Distribution.md",
     "Notes/Distributions.md",
     "Maximum Likelihood Estimation (MLE).md",
-    "Probability vs Likelihood.md",
     "Lessons/Semester 5/intelligent-systems/lecture7b.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture11a.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture5b.pdf",
