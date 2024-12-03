@@ -35,8 +35,7 @@
               "title": "Sample Mean and Variance"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,10 +238,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "fef3d930d674c8b2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Notes/Wald Test.md",
     "Notes/Sample Mean and Variance.md",
+    "Notes/Wald Test.md",
     "Notes/The Bootstrap.md",
     "Notes/Delta Method.md",
     "Standard Error.md",
