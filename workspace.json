@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Ford Fulkerson Algorithm.md",
+                "file": "Notes/Hypothesis Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ford Fulkerson Algorithm"
+              "title": "Hypothesis Testing"
             }
           }
         ]
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "confiden",
+                "query": "II",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,6 +226,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Ford Fulkerson Algorithm.md",
     "Notes/Edmonds Karp Algorithm.md",
     "HOME.md",
     "Notes/Wald Test.md",
@@ -259,7 +260,6 @@
     "Notes/Probability vs Likelihood.md",
     "Notes/Maximum Likelihood Estimation (MLE).md",
     "Notes/Binomial Distribution.md",
-    "Binomial Distribution.md",
     "Lessons/Semester 5/intelligent-systems/lecture7b.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture11a.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture5b.pdf",
