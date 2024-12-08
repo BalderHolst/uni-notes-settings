@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisher Information.md",
+                "file": "Confidence Interval.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fisher Information"
+              "title": "Confidence Interval"
             }
           }
         ]
@@ -226,14 +226,15 @@
   },
   "active": "7c0d46c620a78586",
   "lastOpenFiles": [
-    "Notes/Jacobian Matrix.md",
+    "Standard Error.md",
+    "Confidence Interval.md",
     "Fisher Information.md",
+    "Notes/Jacobian Matrix.md",
     "Notes/Delta Method.md",
     "Notes/Maximum Likelihood Estimation (MLE).md",
     "Asymptotic Relative Efficiency (ARE).md",
     "HOME.md",
     "Notes/Sample Mean and Variance.md",
-    "Standard Error.md",
     "Notes/Score Test.md",
     "Notes/Log-likelihood Test.md",
     "Notes/Hypothesis Testing.md",
@@ -257,7 +258,6 @@
     "External/Kasper's Notes/Calendar/27-11-2024.md",
     "External/Kasper's Notes/Calendar/24-11-2024.md",
     "External/Kasper's Notes/Calendar/22-11-2024.md",
-    "External/Kasper's Notes/Calendar/21-11-2024.md",
     "External/Kasper's Notes/Calendar",
     "Pasted image 20241202084309.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241202011954.png",
