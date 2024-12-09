@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P-value.md",
+                "file": "Notes/Wald Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P-value"
+              "title": "Wald Test"
             }
           }
         ],
@@ -241,8 +241,10 @@
   },
   "active": "b3edc8694043577a",
   "lastOpenFiles": [
-    "Notes/gravitationskraft.md",
+    "Notes/Z-distribution.md",
+    "Notes/Wald Test.md",
     "P-value.md",
+    "Notes/gravitationskraft.md",
     "Notes/Normalkraft.md",
     "Notes/Kraftmoment.md",
     "Notes/Inertimoment.md",
@@ -265,8 +267,6 @@
     "Notes/Dynamic Inference.md",
     "Notes/Intelligent Systems.md",
     "Notes/Partiel Integration.md",
-    "Notes/Partial Differential Equations.md",
-    "Notes/Distributions.md",
     "External/Kasper's Notes/Todo",
     "External/Kasper's Notes/Templates",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241205154622.png",
