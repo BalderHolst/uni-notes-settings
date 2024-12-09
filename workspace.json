@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "469ec263f77f7395",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "af0c3eb20587f64b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisher Information.md",
-                "mode": "source",
+                "file": "Notes/gravitationskraft.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fisher Information"
+              "title": "gravitationskraft"
             }
           }
         ]
@@ -224,12 +224,16 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "af0c3eb20587f64b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Normalkraft.md",
+    "Notes/Kraftmoment.md",
+    "Notes/Inertimoment.md",
+    "HOME.md",
+    "Krafter.md",
     "Standard Error.md",
     "Asymptotic Relative Efficiency (ARE).md",
     "Fisher Information.md",
-    "HOME.md",
     "Notes/Delta Method.md",
     "Notes/Random Variables.md",
     "External/Kasper's Notes/Kunstig inteligens/Mamdani or standard fuzzy system.md",
@@ -248,10 +252,6 @@
     "Notes/Distributions.md",
     "Notes/Poisson's Equation.md",
     "Score Function.md",
-    "Confidence Interval.md",
-    "Notes/Jacobian Matrix.md",
-    "Notes/Maximum Likelihood Estimation (MLE).md",
-    "Notes/Sample Mean and Variance.md",
     "External/Kasper's Notes/Todo",
     "External/Kasper's Notes/Templates",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241205154622.png",
