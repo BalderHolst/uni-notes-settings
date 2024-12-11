@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Distributions.md",
+                "file": "Notes/Covariance.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distributions"
+              "title": "Covariance"
+            }
+          },
+          {
+            "id": "5e66c9ff3008b3ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poisson Distribution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Poisson Distribution"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,17 +239,21 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5e66c9ff3008b3ee",
   "lastOpenFiles": [
-    "Notes/Sample Mean and Variance.md",
+    "Pasted image 20241211070439.png",
+    "Notes/Covariance.md",
+    "Poisson Distribution.md",
+    "HOME.md",
+    "External/Kasper's Notes/Studie Aktivitet.md",
+    "External/Kasper's Notes/Calender/10-12-2024.md",
     "Notes/Distributions.md",
+    "Notes/Sample Mean and Variance.md",
     "Notes/Fisher Information.md",
     "Notes/Mean Square Error (MSE).md",
     "Notes/Operationsforstærker.md",
     "Bias.md",
     "Templates/distribution.md",
-    "HOME.md",
-    "Notes/Covariance.md",
     "Notes/Log-likelihood Test.md",
     "Notes/Marginal Distribution.md",
     "Notes/Statistics.md",
@@ -249,10 +268,6 @@
     "Notes/Kraftmoment.md",
     "Notes/Inertimoment.md",
     "Krafter.md",
-    "Standard Error.md",
-    "Asymptotic Relative Efficiency (ARE).md",
-    "Fisher Information.md",
-    "Notes/Delta Method.md",
     "External/Kasper's Notes/Todo",
     "External/Kasper's Notes/Templates",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241205154622.png",
