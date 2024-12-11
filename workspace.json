@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Gradient.md",
+                "file": "Notes/Expectation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gradient"
+              "title": "Expectation"
             }
           }
         ],
@@ -241,6 +241,8 @@
   },
   "active": "5e66c9ff3008b3ee",
   "lastOpenFiles": [
+    "Notes/Gradient.md",
+    "Mean.md",
     "Notes/Marginal Distribution.md",
     "Poisson Distribution.md",
     "Pasted image 20241211070439.png",
@@ -267,7 +269,6 @@
     "Notes/Normalkraft.md",
     "Notes/Kraftmoment.md",
     "Notes/Inertimoment.md",
-    "Krafter.md",
     "External/Kasper's Notes/Todo",
     "External/Kasper's Notes/Templates",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241205154622.png",
