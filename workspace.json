@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Sample Mean and Variance.md",
+                "file": "Notes/Wald Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sample Mean and Variance"
+              "title": "Wald Test"
             }
           }
         ],
@@ -241,6 +241,8 @@
   },
   "active": "a70ec1c0d818fde2",
   "lastOpenFiles": [
+    "Notes/Hypothesis Testing.md",
+    "Notes/Sample Mean and Variance.md",
     "Notes/Confidence Interval.md",
     "Critical Value.md",
     "Notes/P-value.md",
@@ -260,7 +262,6 @@
     "External/Kasper's Notes/Studie Aktivitet.md",
     "External/Kasper's Notes/Calender/10-12-2024.md",
     "Notes/Distributions.md",
-    "Notes/Sample Mean and Variance.md",
     "Notes/Fisher Information.md",
     "Notes/Mean Square Error (MSE).md",
     "Notes/Operationsforstærker.md",
@@ -269,7 +270,6 @@
     "Notes/Log-likelihood Test.md",
     "Notes/Statistics.md",
     "External/Kasper's Notes/Statistik/Exam test.md",
-    "External/Kasper's Notes/Calender/09-12-2024.md",
     "External/Kasper's Notes/Calender",
     "External/Kasper's Notes/Todo",
     "External/Kasper's Notes/Templates",
