@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Critical Value.md",
+                "file": "Notes/Confidence Interval.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Critical Value"
+              "title": "Confidence Interval"
             }
           }
         ],
@@ -241,8 +241,8 @@
   },
   "active": "a70ec1c0d818fde2",
   "lastOpenFiles": [
-    "Notes/P-value.md",
     "Critical Value.md",
+    "Notes/P-value.md",
     "HOME.md",
     "External/Kasper's Notes/obsidian.CSS",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241211135650.png",
