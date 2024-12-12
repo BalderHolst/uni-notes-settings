@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Confidence Interval.md",
+                "file": "Notes/Sample Mean and Variance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Confidence Interval"
+              "title": "Sample Mean and Variance"
             }
           }
         ],
@@ -241,6 +241,7 @@
   },
   "active": "a70ec1c0d818fde2",
   "lastOpenFiles": [
+    "Notes/Confidence Interval.md",
     "Critical Value.md",
     "Notes/P-value.md",
     "HOME.md",
@@ -270,7 +271,6 @@
     "External/Kasper's Notes/Statistik/Exam test.md",
     "External/Kasper's Notes/Calender/09-12-2024.md",
     "External/Kasper's Notes/Calender",
-    "Notes/Wald Test.md",
     "External/Kasper's Notes/Todo",
     "External/Kasper's Notes/Templates",
     "External/Kasper's Notes/Misc og Links/Pasted image 20241205154622.png",
