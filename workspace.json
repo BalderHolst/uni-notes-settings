@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Wald Test.md",
+                "file": "Notes/Hypothesis Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wald Test"
+              "title": "Hypothesis Testing"
             }
           }
         ],
@@ -241,6 +241,8 @@
   },
   "active": "a70ec1c0d818fde2",
   "lastOpenFiles": [
+    "External/Kasper's Notes/handwritten-notes/Hypotese (Statistisk inferens).pdf",
+    "Notes/Wald Test.md",
     "Notes/Hypothesis Testing.md",
     "Notes/Sample Mean and Variance.md",
     "Notes/Confidence Interval.md",
@@ -268,8 +270,6 @@
     "Bias.md",
     "Templates/distribution.md",
     "Notes/Log-likelihood Test.md",
-    "Notes/Statistics.md",
-    "External/Kasper's Notes/Statistik/Exam test.md",
     "External/Kasper's Notes/Calender",
     "External/Kasper's Notes/Todo",
     "External/Kasper's Notes/Templates",
