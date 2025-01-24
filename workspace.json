@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "External/Kasper's Notes/Misc/Excalidraw/PartialbrÃ¸ker.md"
+                "file": "Notes/The C++ Preprocessor.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "PartialbrÃ¸ker"
+              "icon": "lucide-file",
+              "title": "The C++ Preprocessor"
             }
           }
         ]
@@ -224,9 +226,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "HOME.md",
+    "External/Kasper's Notes/Misc/Excalidraw/PartialbrÃ¸ker.md",
     "Notes/Partiel Integration.md",
     "External/Kasper's Notes/FreeRTOS/toc.md",
-    "HOME.md",
     "External/Kasper's Notes/handwritten-notes/Hopscotch.pdf",
     "External/Kasper's Notes/Templates/Note Template.md",
     "External/Kasper's Notes/Shared Memory/Good sources.md",
@@ -239,7 +242,6 @@
     "External/Kasper's Notes/Misc/Excalidraw/Rotations matrix om x-akse.excalidraw.md",
     "External/Kasper's Notes/Misc/Excalidraw/Partielle BrÃ¸ker.excalidraw.svg",
     "External/Kasper's Notes/Misc/Excalidraw/Partielle BrÃ¸ker.excalidraw.md",
-    "External/Kasper's Notes/Misc/Excalidraw/PartialbrÃ¸ker.md",
     "External/Kasper's Notes/Misc/Excalidraw/Matematisk pendul.excalidraw.md",
     "External/Kasper's Notes/Misc/Excalidraw/Karnaugh  maps.excalidraw.md",
     "External/Kasper's Notes/Misc/Excalidraw/Inertimoment pÃ¥ pendul.png",
