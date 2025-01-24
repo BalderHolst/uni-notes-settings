@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/The C++ Preprocessor.md",
+                "file": "Notes/Trigonometri.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The C++ Preprocessor"
+              "title": "Trigonometri"
             }
           }
         ]
@@ -226,6 +226,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/The C++ Preprocessor.md",
     "HOME.md",
     "External/Kasper's Notes/Misc/Excalidraw/PartialbrÃ¸ker.md",
     "Notes/Partiel Integration.md",
@@ -264,7 +265,6 @@
     "External/Kasper's Notes/Misc/Excalidraw/Drawing 2023-01-04 11.51.19.excalidraw.png",
     "External/Kasper's Notes/Misc/Excalidraw/Drawing 2023-01-04 11.51.19.excalidraw.md",
     "External/Kasper's Notes/Misc/Excalidraw/Drawing 2022-12-24 16.19.33.excalidraw.md",
-    "External/Kasper's Notes/Misc/Excalidraw/DH.excalidraw.md",
     "External/Kasper's Notes/Misc/utf-8''Sinusformet%20signal.pdf",
     "External/Kasper's Notes/Misc/utf-8''Sinusformet%20signal 1.pdf",
     "External/Kasper's Notes/Misc/utf-8''ELE%20foredragsemner.pdf",
