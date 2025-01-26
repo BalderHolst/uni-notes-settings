@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viterbi Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Viterbi Algorithm"
+              "title": "Backlinks"
             }
           },
           {
@@ -132,16 +131,6 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "3b17a2a4e3705734",
-            "type": "leaf",
-            "state": {
-              "type": "Strange New Worlds",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
             }
           },
           {
@@ -193,15 +182,12 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Viterbi Algorithm.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Viterbi Algorithm"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,8 +209,9 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "21f5d70ac4ad50ad",
   "lastOpenFiles": [
+    "HOME.md",
     "HOME.md~",
     "Templates/distribution.md",
     "Templates/Insert Title.md",
@@ -232,7 +219,6 @@
     "Notes/Matrix.md",
     "Notes/Trigonometri.md",
     "Notes/The C++ Preprocessor.md",
-    "HOME.md",
     "External/Kasper's Notes/Misc/Excalidraw/PartialbrÃ¸ker.md",
     "Notes/Partiel Integration.md",
     "External/Kasper's Notes/FreeRTOS/toc.md",
@@ -270,7 +256,6 @@
     "External/Kasper's Notes/Misc/uart.png",
     "External/Kasper's Notes/Misc/sql-basics-cheat-sheet-a4.pdf",
     "External/Kasper's Notes/Misc/questions-kom-02.pdf",
-    "External/Kasper's Notes/Misc/formulas.pdf",
     "Untitled.canvas"
   ]
 }
