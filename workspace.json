@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "Notes/Spherical Coordinates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME"
+              "title": "Spherical Coordinates"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5055751800537,
-    "collapsed": true
+    "width": 327.5055751800537
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -95,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for HOME"
             }
           },
           {
@@ -182,16 +182,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "HOME.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of HOME"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,44 +212,45 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "21f5d70ac4ad50ad",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "HOME.md",
+    "Notes/Inverse Matrix.md",
+    "Notes/Det Komplekse Plan.md",
+    "Notes/Typer Henfald.md",
+    "Notes/Massen af en elektron.md",
+    "Notes/Planer.md",
+    "Notes/Linjer og Vektorer i 2D.md",
+    "Notes/Gimbal Lock.md",
+    "External/Kasper's Notes/Kinematik/Eksamen/Joints.md",
+    "Notes/QQ-plot.md",
+    "Notes/Plane Kredsløb.md",
+    "Notes/Spoler.md",
+    "Notes/Homogene elektriske felter.md",
+    "Notes/Optimering.md",
+    "Notes/RMS-værdien.md",
+    "Notes/Spændingsdeler.md",
+    "Notes/Mekanisk effekt.md",
+    "Notes/Knudepunktsmetoden.md",
+    "Notes/Maskemetoden.md",
+    "Notes/Koordinatsystem og Flader.md",
+    "DC.md",
+    "Notes/Opdrift.md",
+    "Notes/Memory Management in C++.md",
+    "Notes/Komplekse Tal.md",
+    "Notes/Bevis for Løsningsformlen.md",
+    "Notes/Ellipse.md",
+    "Notes/Coulumbs Lov.md",
     "HOME.md~",
-    "Templates/distribution.md",
-    "Templates/Insert Title.md",
-    "Templates/subject.md",
-    "Notes/Matrix.md",
-    "Notes/Trigonometri.md",
-    "Notes/The C++ Preprocessor.md",
-    "External/Kasper's Notes/Misc/Excalidraw/PartialbrÃ¸ker.md",
-    "Notes/Partiel Integration.md",
-    "External/Kasper's Notes/FreeRTOS/toc.md",
     "External/Kasper's Notes/handwritten-notes/Hopscotch.pdf",
-    "External/Kasper's Notes/Templates/Note Template.md",
-    "External/Kasper's Notes/Shared Memory/Good sources.md",
     "External/Kasper's Notes/Shared Memory",
     "External/Kasper's Notes/Misc/Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
-    "External/Kasper's Notes/Misc/Excalidraw/Scripts/Downloaded/Set Dimensions.md",
     "External/Kasper's Notes/Misc/Excalidraw/Scripts/Downloaded",
     "External/Kasper's Notes/Misc/Excalidraw/Sum af krafter.png",
     "External/Kasper's Notes/Misc/Excalidraw/Scripts",
-    "External/Kasper's Notes/Misc/Excalidraw/Rotations matrix om x-akse.excalidraw.md",
     "External/Kasper's Notes/Misc/Excalidraw/Partielle BrÃ¸ker.excalidraw.svg",
-    "External/Kasper's Notes/Misc/Excalidraw/Partielle BrÃ¸ker.excalidraw.md",
-    "External/Kasper's Notes/Misc/Excalidraw/Matematisk pendul.excalidraw.md",
-    "External/Kasper's Notes/Misc/Excalidraw/Karnaugh  maps.excalidraw.md",
     "External/Kasper's Notes/Misc/Excalidraw/Inertimoment pÃ¥ pendul.png",
-    "External/Kasper's Notes/Misc/Excalidraw/Inertimoment pÃ¥ pendul.md",
     "External/Kasper's Notes/Misc/Excalidraw/Fysisk Pendul.png",
-    "External/Kasper's Notes/Misc/Excalidraw/Fysisk Pendul.md",
-    "External/Kasper's Notes/Misc/Excalidraw/Drawing 2023-04-24 12.37.17.excalidraw.md",
-    "External/Kasper's Notes/Misc/Excalidraw/Drawing 2023-04-24 12.22.17.excalidraw.md",
-    "External/Kasper's Notes/Misc/Excalidraw/Drawing 2023-04-12 16.12.54.excalidraw.md",
     "External/Kasper's Notes/Misc/Excalidraw/Drawing 2023-03-21 11.32.24.excalidraw.png",
-    "External/Kasper's Notes/Misc/Excalidraw/Drawing 2023-03-21 11.32.24.excalidraw.md",
-    "External/Kasper's Notes/Misc/Excalidraw/Drawing 2023-02-08 15.30.46.excalidraw.md",
-    "External/Kasper's Notes/Misc/Excalidraw/Drawing 2023-01-17 16.10.09.excalidraw.md",
     "External/Kasper's Notes/Misc/Excalidraw/Drawing 2023-01-04 13.36.23.excalidraw.png",
     "External/Kasper's Notes/Misc/Excalidraw/Drawing 2023-01-04 12.45.14.excalidraw.png",
     "External/Kasper's Notes/Misc/Excalidraw/Drawing 2023-01-04 11.51.19.excalidraw.png",
