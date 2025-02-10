@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/State Space Models.md",
+                "file": "Notes/Controllability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "State Space Models"
+              "title": "Controllability"
             }
           }
         ]
@@ -216,9 +216,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/State Space Models.md",
     "Notes/Neutral Stability.md",
     "Simulation of Robot Dynamics.md",
-    "Notes/State Space Models.md",
     "Notes/Euler-Lagrange Modelling.md",
     "Notes/Inverse Matrix.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/LU Decompostion.md",
