@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Matrix.md",
-                "mode": "preview",
+                "file": "Simulation of Robot Dynamics.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix"
+              "title": "Simulation of Robot Dynamics"
             }
           }
         ]
@@ -216,10 +216,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "HOME.md",
-    "External/Kasper's Notes/Uni/Slides/Lecture1_Task.pdf",
+    "Notes/State Space Models.md",
+    "Simulation of Robot Dynamics.md",
+    "Notes/Euler-Lagrange Modelling.md",
+    "Notes/Inverse Matrix.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/LU Decompostion.md",
     "External/Kasper's Notes/Uni/Exercises/LU Decomposition og Gaussian.md",
+    "HOME.md",
+    "External/Kasper's Notes/Uni/Slides/Intro til Numeriske Metoder.md",
+    "External/Kasper's Notes/Uni/Notes/NewNotes/Game Plan.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20250205102150.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20250205101037.png",
+    "Notes/Matrix.md",
+    "External/Kasper's Notes/Uni/Slides/Lecture1_Task.pdf",
     "Lessons/Semester 6/week1/week1.pdf",
     "LU Decomposition.md",
     "Lessons/Semester 6/week1",
@@ -231,7 +240,6 @@
     "External/Kasper's Notes/Uni/Slides/uge1pres.pdf",
     "External/Kasper's Notes/Uni/Slides/Videnskabsteori Intro.md",
     "External/Kasper's Notes/Uni/Slides/O. Stæhr-Nielsens keramikrelief Videnskabernes Træ.pdf",
-    "External/Kasper's Notes/Uni/Slides/Intro til Numeriske Metoder.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/Videnskabsteori Overblik.md",
     "External/Kasper's Notes/Uni/Courses/Numeriske Metoder.md",
     "Notes/Eulers Formel.md",
@@ -246,11 +254,6 @@
     "Notes/Statistics.md",
     "Euler-Lagrange Modelling.md",
     "Kinetic Energy.md",
-    "Potential Energy.md",
-    "Notes/Potentiel Energi.md",
-    "conflict-files-obsidian-git.md",
-    "External/Kasper's Notes/Uni/Slides/lecture 12.md",
-    "External/Kasper's Notes/Uni/Slides/lecture 1.md",
     "External/Kasper's Notes/Uni/Notes/Robotters Fysik/Eksamen/Matematisk pendul.png",
     "External/Kasper's Notes/Uni/Notes/Robotters Fysik/Eksamen/Flytningsformel.png",
     "External/Kasper's Notes/Uni/Notes/Multivariable Calculus/Opgaver/Tripple integrals - page 1.svg",
@@ -259,8 +262,6 @@
     "External/Kasper's Notes/Uni/Notes/FreeRTOS/media/image89.png",
     "External/Kasper's Notes/Uni/Notes/FreeRTOS/media/image88.png",
     "External/Kasper's Notes/Uni/Notes/FreeRTOS/media/image87.png",
-    "External/Kasper's Notes/Uni/Notes/FreeRTOS/media/image86.png",
-    "External/Kasper's Notes/Uni/Notes/FreeRTOS/media/image85.png",
     "Untitled.canvas"
   ]
 }
