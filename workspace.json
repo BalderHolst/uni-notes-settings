@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Controllability.md",
+                "file": "Notes/Linarisering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Controllability"
+              "title": "Linarisering"
             }
           }
         ]
@@ -216,6 +216,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Controllability.md",
     "Notes/State Space Models.md",
     "Notes/Neutral Stability.md",
     "Simulation of Robot Dynamics.md",
@@ -253,7 +254,6 @@
     "Notes/Random Variables.md",
     "Notes/Maximum Likelihood Estimation (MLE).md",
     "Notes/Statistics.md",
-    "Euler-Lagrange Modelling.md",
     "External/Kasper's Notes/Uni/Notes/Robotters Fysik/Eksamen/Matematisk pendul.png",
     "External/Kasper's Notes/Uni/Notes/Robotters Fysik/Eksamen/Flytningsformel.png",
     "External/Kasper's Notes/Uni/Notes/Multivariable Calculus/Opgaver/Tripple integrals - page 1.svg",
