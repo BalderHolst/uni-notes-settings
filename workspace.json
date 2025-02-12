@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Least Squared Problem.md",
+                "file": "Cholesky Decomposition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Least Squared Problem"
+              "title": "Cholesky Decomposition"
             }
           },
           {
@@ -245,15 +245,16 @@
   "active": "7e2cbf33b3ae0a63",
   "lastOpenFiles": [
     "Lessons/Semester 6/numerical-methods/week2.pdf",
-    "Lessons/Semester 4/regulation/Lecture 1 - Slides.pdf",
+    "HOME.md",
+    "Cholesky Decomposition.md",
     "Least Squared Problem.md",
+    "Lessons/Semester 4/regulation/Lecture 1 - Slides.pdf",
     "Lessons/Semester 6/numerical-methods/week1.pdf",
     "Notes/Positive definite matrix.md",
     "Lessons/Semester 6/week1/week1.pdf",
     "Lessons/Semester 6/numerical-methods",
     "Lessons/Semester 6/week1/week2.pdf",
     "Notes/X2 Distribution.md",
-    "HOME.md",
     "Notes/Linarisering.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/Game Plan.md",
     "Notes/Controllability.md",
@@ -280,7 +281,6 @@
     "External/Kasper's Notes/Uni/Courses/Numeriske Metoder.md",
     "Notes/Eulers Formel.md",
     "Generalized Coordinates.md",
-    "Notes/Vinkelfrekvens.md",
     "External/Kasper's Notes/Uni/Notes/Robotters Fysik/Eksamen/Matematisk pendul.png",
     "External/Kasper's Notes/Uni/Notes/Robotters Fysik/Eksamen/Flytningsformel.png",
     "External/Kasper's Notes/Uni/Notes/Multivariable Calculus/Opgaver/Tripple integrals - page 1.svg",
