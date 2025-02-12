@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cholesky Decomposition.md",
-                "mode": "source",
+                "file": "Notes/Dijkstra’s Algorithm.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cholesky Decomposition"
+              "title": "Dijkstra’s Algorithm"
             }
           },
           {
@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,11 +242,14 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "7e2cbf33b3ae0a63",
+  "active": "ea3824e90bdc889a",
   "lastOpenFiles": [
+    "Notes/Dijkstra’s Algorithm.md",
+    "Notes/Smart Pointers in C++.md",
+    "Notes/Pointers.md",
+    "Cholesky Decomposition.md",
     "Lessons/Semester 6/numerical-methods/week2.pdf",
     "HOME.md",
-    "Cholesky Decomposition.md",
     "Least Squared Problem.md",
     "Lessons/Semester 4/regulation/Lecture 1 - Slides.pdf",
     "Lessons/Semester 6/numerical-methods/week1.pdf",
@@ -279,8 +282,6 @@
     "External/Kasper's Notes/Uni/Slides/Videnskabsteori Intro.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/Videnskabsteori Overblik.md",
     "External/Kasper's Notes/Uni/Courses/Numeriske Metoder.md",
-    "Notes/Eulers Formel.md",
-    "Generalized Coordinates.md",
     "External/Kasper's Notes/Uni/Notes/Robotters Fysik/Eksamen/Matematisk pendul.png",
     "External/Kasper's Notes/Uni/Notes/Robotters Fysik/Eksamen/Flytningsformel.png",
     "External/Kasper's Notes/Uni/Notes/Multivariable Calculus/Opgaver/Tripple integrals - page 1.svg",
