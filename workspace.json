@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Linarisering.md",
+                "file": "HOME.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOME"
+            }
+          },
+          {
+            "id": "7e2cbf33b3ae0a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Least Squared Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linarisering"
+              "title": "Least Squared Problem"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,8 +229,13 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7e2cbf33b3ae0a63",
   "lastOpenFiles": [
+    "Notes/X2 Distribution.md",
+    "Least Squared Problem.md",
+    "HOME.md",
+    "Notes/Linarisering.md",
+    "External/Kasper's Notes/Uni/Notes/NewNotes/Game Plan.md",
     "Notes/Controllability.md",
     "Notes/State Space Models.md",
     "Notes/Neutral Stability.md",
@@ -224,9 +244,7 @@
     "Notes/Inverse Matrix.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/LU Decompostion.md",
     "External/Kasper's Notes/Uni/Exercises/LU Decomposition og Gaussian.md",
-    "HOME.md",
     "External/Kasper's Notes/Uni/Slides/Intro til Numeriske Metoder.md",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/Game Plan.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20250205102150.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20250205101037.png",
     "Notes/Matrix.md",
@@ -251,9 +269,6 @@
     "Lessons/Semester 6/Lecture 1 - Euler-Lagrange Modelling.pdf",
     "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
     "Notes/Bayesian Networks.md",
-    "Notes/Random Variables.md",
-    "Notes/Maximum Likelihood Estimation (MLE).md",
-    "Notes/Statistics.md",
     "External/Kasper's Notes/Uni/Notes/Robotters Fysik/Eksamen/Matematisk pendul.png",
     "External/Kasper's Notes/Uni/Notes/Robotters Fysik/Eksamen/Flytningsformel.png",
     "External/Kasper's Notes/Uni/Notes/Multivariable Calculus/Opgaver/Tripple integrals - page 1.svg",
