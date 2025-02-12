@@ -34,6 +34,18 @@
               "icon": "lucide-file",
               "title": "Least Squared Problem"
             }
+          },
+          {
+            "id": "ea3824e90bdc889a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 6/numerical-methods/week2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "week2"
+            }
           }
         ],
         "currentTab": 1
@@ -82,14 +94,15 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -231,8 +244,15 @@
   },
   "active": "7e2cbf33b3ae0a63",
   "lastOpenFiles": [
-    "Notes/X2 Distribution.md",
+    "Lessons/Semester 6/numerical-methods/week2.pdf",
+    "Lessons/Semester 4/regulation/Lecture 1 - Slides.pdf",
     "Least Squared Problem.md",
+    "Lessons/Semester 6/numerical-methods/week1.pdf",
+    "Notes/Positive definite matrix.md",
+    "Lessons/Semester 6/week1/week1.pdf",
+    "Lessons/Semester 6/numerical-methods",
+    "Lessons/Semester 6/week1/week2.pdf",
+    "Notes/X2 Distribution.md",
     "HOME.md",
     "Notes/Linarisering.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/Game Plan.md",
@@ -249,26 +269,18 @@
     "External/Kasper's Notes/Misc og Links/Pasted image 20250205101037.png",
     "Notes/Matrix.md",
     "External/Kasper's Notes/Uni/Slides/Lecture1_Task.pdf",
-    "Lessons/Semester 6/week1/week1.pdf",
     "LU Decomposition.md",
     "Lessons/Semester 6/week1",
     "External/Kasper's Notes/Uni/Slides/Numerical Recipes in C++.pdf",
     "External/Kasper's Notes/Uni/Slides/Numerical Book.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/Nummerical Recipes.md",
     "HOME.md~",
-    "filasjdf.txt",
-    "External/Kasper's Notes/Uni/Slides/uge1pres.pdf",
     "External/Kasper's Notes/Uni/Slides/Videnskabsteori Intro.md",
-    "External/Kasper's Notes/Uni/Slides/O. Stæhr-Nielsens keramikrelief Videnskabernes Træ.pdf",
     "External/Kasper's Notes/Uni/Notes/NewNotes/Videnskabsteori Overblik.md",
     "External/Kasper's Notes/Uni/Courses/Numeriske Metoder.md",
     "Notes/Eulers Formel.md",
     "Generalized Coordinates.md",
     "Notes/Vinkelfrekvens.md",
-    "Underactuated Robots.md",
-    "Lessons/Semester 6/Lecture 1 - Euler-Lagrange Modelling.pdf",
-    "Lessons/Semester 5/intelligent-systems/lecture3a.pdf",
-    "Notes/Bayesian Networks.md",
     "External/Kasper's Notes/Uni/Notes/Robotters Fysik/Eksamen/Matematisk pendul.png",
     "External/Kasper's Notes/Uni/Notes/Robotters Fysik/Eksamen/Flytningsformel.png",
     "External/Kasper's Notes/Uni/Notes/Multivariable Calculus/Opgaver/Tripple integrals - page 1.svg",
