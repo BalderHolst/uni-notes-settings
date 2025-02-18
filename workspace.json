@@ -13,42 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "Notes/Eigendecomposition.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME"
-            }
-          },
-          {
-            "id": "7e2cbf33b3ae0a63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Dijkstra’s Algorithm.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dijkstra’s Algorithm"
-            }
-          },
-          {
-            "id": "ea3824e90bdc889a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lessons/Semester 6/numerical-methods/week2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "week2"
+              "title": "Eigendecomposition"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,14 +215,32 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "ea3824e90bdc889a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Singular Value Decomposition.md",
+    "HOME.md",
+    "External/Kasper's Notes/conflict-files-obsidian-git.md",
+    "External/Kasper's Notes/Uni/Slides/uge2pres.pdf",
+    "External/Kasper's Notes/Uni/Slides/Lecture2_Task.pdf",
+    "External/Kasper's Notes/Uni/Slides/Lecture Linear Least Squares problems.md",
+    "External/Kasper's Notes/Uni/Notes/NewNotes/Rapport Kilder.md",
+    "External/Kasper's Notes/Uni/Notes/NewNotes/Least Limear squares problems.md",
+    "External/Kasper's Notes/Uni/Exercises/Cholesky exercise.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20250212095628.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20250212094931.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20250212094836.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20250212094514.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20250212094010.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20250212093941.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20250212092518.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20250212090414.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20250212090026.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20250212085638.png",
+    "Lessons/Semester 6/numerical-methods/week2.pdf",
     "Notes/Dijkstra’s Algorithm.md",
     "Notes/Smart Pointers in C++.md",
     "Notes/Pointers.md",
     "Cholesky Decomposition.md",
-    "Lessons/Semester 6/numerical-methods/week2.pdf",
-    "HOME.md",
     "Least Squared Problem.md",
     "Lessons/Semester 4/regulation/Lecture 1 - Slides.pdf",
     "Lessons/Semester 6/numerical-methods/week1.pdf",
@@ -269,27 +260,9 @@
     "External/Kasper's Notes/Uni/Notes/NewNotes/LU Decompostion.md",
     "External/Kasper's Notes/Uni/Exercises/LU Decomposition og Gaussian.md",
     "External/Kasper's Notes/Uni/Slides/Intro til Numeriske Metoder.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20250205102150.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20250205101037.png",
     "Notes/Matrix.md",
     "External/Kasper's Notes/Uni/Slides/Lecture1_Task.pdf",
-    "LU Decomposition.md",
     "Lessons/Semester 6/week1",
-    "External/Kasper's Notes/Uni/Slides/Numerical Recipes in C++.pdf",
-    "External/Kasper's Notes/Uni/Slides/Numerical Book.md",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/Nummerical Recipes.md",
-    "HOME.md~",
-    "External/Kasper's Notes/Uni/Slides/Videnskabsteori Intro.md",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/Videnskabsteori Overblik.md",
-    "External/Kasper's Notes/Uni/Courses/Numeriske Metoder.md",
-    "External/Kasper's Notes/Uni/Notes/Robotters Fysik/Eksamen/Matematisk pendul.png",
-    "External/Kasper's Notes/Uni/Notes/Robotters Fysik/Eksamen/Flytningsformel.png",
-    "External/Kasper's Notes/Uni/Notes/Multivariable Calculus/Opgaver/Tripple integrals - page 1.svg",
-    "External/Kasper's Notes/Uni/Notes/FreeRTOS/media/image91.png",
-    "External/Kasper's Notes/Uni/Notes/FreeRTOS/media/image90.png",
-    "External/Kasper's Notes/Uni/Notes/FreeRTOS/media/image89.png",
-    "External/Kasper's Notes/Uni/Notes/FreeRTOS/media/image88.png",
-    "External/Kasper's Notes/Uni/Notes/FreeRTOS/media/image87.png",
     "Untitled.canvas"
   ]
 }
