@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Euler-Lagrange Modelling.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,9 +220,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Simulation of Robot Dynamics.md",
+    "Notes/Euler-Lagrange Modelling.md",
     "HOME.md",
     "Notes/Stability.md",
-    "Notes/Euler-Lagrange Modelling.md",
     "Lessons/Semester 6/underactuated-robots/Lecture 4 - Stability Analysis_5.pdf",
     "Stability.md",
     "Notes/Nyquist Stability.md",
@@ -256,7 +257,6 @@
     "External/Kasper's Notes/Uni/Slides/Lecture2_Task.pdf",
     "External/Kasper's Notes/Uni/Slides/Lecture Linear Least Squares problems.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/Rapport Kilder.md",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/Least Limear squares problems.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20250212095628.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20250212094931.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20250212094836.png",
