@@ -48,6 +48,18 @@
               "icon": "lucide-file",
               "title": "Error Analysis"
             }
+          },
+          {
+            "id": "a8f9688076859684",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 6/numerical-methods/week4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "week4"
+            }
           }
         ],
         "currentTab": 2
@@ -249,8 +261,9 @@
   },
   "active": "4ea3577d51560f1f",
   "lastOpenFiles": [
-    "Notes/Singular Value Decomposition.md",
+    "Lessons/Semester 6/numerical-methods/week4.pdf",
     "Error Analysis.md",
+    "Notes/Singular Value Decomposition.md",
     "Numerical Methods.md",
     "HOME.md",
     "Lessons/Semester 6/underactuated-robots/Lecture 1 - Euler-Lagrange Modelling.pdf",
@@ -283,7 +296,6 @@
     "External/Kasper's Notes/Misc og Links/Pasted image 20250220145004.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20250219142945.png",
     "Notes/Eigendecomposition.md",
-    "External/Kasper's Notes/conflict-files-obsidian-git.md",
     "External/Kasper's Notes/Uni/Slides/uge2pres.pdf",
     "External/Kasper's Notes/Uni/Slides/Lecture2_Task.pdf",
     "External/Kasper's Notes/Misc og Links/Pasted image 20250212095628.png",
@@ -294,7 +306,6 @@
     "External/Kasper's Notes/Misc og Links/Pasted image 20250212093941.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20250212092518.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20250212090414.png",
-    "Lessons/Semester 6/numerical-methods/week2.pdf",
     "Untitled.canvas"
   ]
 }
