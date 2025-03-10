@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
-                "mode": "preview",
+                "file": "Notes/Optimal Control.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME"
+              "title": "Optimal Control"
             }
           }
         ]
@@ -220,6 +220,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Lessons/Semester 6/underactuated-robots/Lecture 5 - Optimal Control.pdf",
+    "HOME.md",
+    "External/Kasper's Notes/Uni/Slides/uge5pres.pdf",
+    "External/Kasper's Notes/Uni/Slides/Root Finding Lecture.md",
+    "External/Kasper's Notes/Uni/Slides/Portfolio.md",
+    "External/Kasper's Notes/Uni/Slides/Lecture5_Tasks.pdf",
+    "External/Kasper's Notes/Uni/Notes/NewNotes/Bisection Method.md",
+    "External/Kasper's Notes/Uni/Exercises/Root Finding Exercise.md",
+    "External/Kasper's Notes/Templates/Untitled.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20250305114203.png",
+    "Notes/Euler-Lagrange Modelling.md",
     "External/Kasper's Notes/Uni/Slides/uge4pres.pdf",
     "External/Kasper's Notes/Uni/Slides/panzaboard_2024_10_30.pdf",
     "External/Kasper's Notes/Uni/Slides/Penzaboard.md",
@@ -238,9 +249,7 @@
     "Lessons/Semester 6/numerical-methods/week4.pdf",
     "Notes/Singular Value Decomposition.md",
     "Numerical Methods.md",
-    "HOME.md",
     "Lessons/Semester 6/underactuated-robots/Lecture 1 - Euler-Lagrange Modelling.pdf",
-    "Notes/Euler-Lagrange Modelling.md",
     "Notes/Simulation of Robot Dynamics.md",
     "Notes/Stability.md",
     "Lessons/Semester 6/underactuated-robots/Lecture 4 - Stability Analysis_5.pdf",
@@ -251,21 +260,12 @@
     "Notes/Inertimoment.md",
     "Notes/Arbejde.md",
     "Notes/Flytningsformlen.md",
-    "Notes/Energi.md",
-    "Notes/Kinetisk Energi.md",
-    "Notes/Kraftmoment.md",
-    "Notes/Rotation.md",
-    "Notes/Kinetic Energy.md",
     "External/Kasper's Notes/Uni/Slides/uge3pres.pdf",
-    "External/Kasper's Notes/Uni/Slides/Lecture3_Tasks.pdf",
-    "External/Kasper's Notes/Uni/Slides/Lecture2_Terminal.pdf",
-    "External/Kasper's Notes/Uni/Assignments/eks2023.pdf",
     "External/Kasper's Notes/Misc og Links/Pasted image 20250220145004.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20250219142945.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20250212095628.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20250212094931.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20250212094836.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20250212094514.png",
     "Untitled.canvas"
   ]
 }
