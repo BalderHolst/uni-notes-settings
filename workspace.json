@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/KCL.md",
+                "file": "Notes/Parallelforbindelser.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KCL"
+              "title": "Parallelforbindelser"
             }
           }
         ]
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#elektronik",
+                "query": "tag:#komponent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,8 +220,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Notes/KVL.md",
+    "Notes/Spoler.md",
+    "Notes/Kondensator.md",
     "Notes/Ohm's Lov.md",
+    "Notes/Operationsforstærker.md",
+    "Notes/Thevenin Ækvivalens.md",
+    "Notes/Effekt.md",
+    "Notes/KCL.md",
+    "Notes/KVL.md",
     "Notes/Spænding.md",
     "Notes/Strøm.md",
     "HOME.md",
@@ -237,19 +243,13 @@
     "Notes/Maskemetoden.md",
     "Notes/Transient Respons.md",
     "Notes/Phasor Representation.md",
-    "Notes/Kondensator.md",
     "Notes/Knudepunktsmetoden.md",
-    "Notes/KCL.md",
     "Notes/FAN-OUT.md",
     "Notes/Elektrisk Resonans.md",
     "Notes/Dioder.md",
     "Notes/AC.md",
-    "Notes/Operationsforstærker.md",
     "Notes/Impedans.md",
-    "External/Kasper's Notes/Uni/Slides/Stability.md",
     "External/Kasper's Notes/Uni/Slides/Multi stat4.pdf",
-    "External/Kasper's Notes/Uni/Slides/MVN lecture.md",
-    "External/Kasper's Notes/Uni/Slides/Linux OS Creation over MPSoC.md",
     "External/Kasper's Notes/Uni/Slides/Lecture_4_notes___Linux_OS_creation_over_MPSoC.pdf",
     "External/Kasper's Notes/Uni/Slides/Lecture 4 Linux OS creation over MPSoC-2.pdf",
     "External/Kasper's Notes/Uni/Slides/Lecture 3_Memes and PS-PL Communication.pdf",
