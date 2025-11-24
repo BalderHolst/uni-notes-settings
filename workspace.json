@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "660f5c03b88d3ca4",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "3aeb5449baf9bd3d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lessons/Semester 3/signalbehandling/Slides/lektion 8 - Introduktion til IIR filtre.pdf"
+                "file": "Notes/Bayesian Networks.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "lektion 8 - Introduktion til IIR filtre"
+              "icon": "lucide-file",
+              "title": "Bayesian Networks"
             }
           }
         ]
@@ -48,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#komponent",
+                "query": "tag:#fysik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,10 +218,19 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3aeb5449baf9bd3d",
   "lastOpenFiles": [
-    "Lessons/Semester 3/signalbehandling/Slides/Lektion 6 - Systemanalyse i z-domæne.pdf",
+    "HOME.md",
+    "Notes/Multivariable Math.md",
+    "Notes/Classification of Second order PDEs.md",
+    "Notes/Kinematrics.md",
+    "Notes/Angle-Set Conventions.md",
+    "Notes/Transistorer.md",
+    "Notes/Dioder.md",
+    "Notes/Transistorer.md~",
+    "External/Kasper's Notes/Uni/Notes/NewNotes/Kandidat ideer.md",
     "Lessons/Semester 3/signalbehandling/Slides/lektion 8 - Introduktion til IIR filtre.pdf",
+    "Lessons/Semester 3/signalbehandling/Slides/Lektion 6 - Systemanalyse i z-domæne.pdf",
     "Lessons/Semester 3/signalbehandling/Slides/Lektion 2 - Sampling og Rekonstruktion.pdf",
     "External/Kasper's Notes/Uni/Slides/utf-8''2025-10-29_20Reproducible_20research_2C_20slides.pdf",
     "External/Kasper's Notes/Uni/Slides/fixed_wings_dynamics.pdf",
@@ -227,12 +238,10 @@
     "External/Kasper's Notes/Uni/Slides/_CAS-2025-Lecture7-obs.pdf",
     "External/Kasper's Notes/Uni/Slides/_CAS-2025-Lecture7-LectureNotes.pdf",
     "External/Kasper's Notes/Uni/Slides/_CAS-2025-Lecture6-MPC-fdblin.pdf",
-    "External/Kasper's Notes/Uni/Slides/_CAS-2025-Lecture6-LectureNotes-1.pdf",
     "External/Kasper's Notes/Uni/Slides/State estimation and Observers.md",
     "External/Kasper's Notes/Uni/Slides/Sensorimotor integration.md",
     "External/Kasper's Notes/Uni/Slides/Reproducible research and R guide.md",
     "External/Kasper's Notes/Uni/Slides/Model Predictive Control.md",
-    "External/Kasper's Notes/Uni/Slides/L4_Sensorimotor integration_2024_Students.pdf",
     "External/Kasper's Notes/Uni/Slides/Fixed Wing Dynamics.md",
     "External/Kasper's Notes/Uni/Slides/ADRC.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/linux connect to wifi.md",
@@ -247,11 +256,6 @@
     "External/Kasper's Notes/Uni/Notes/NewNotes/Latex templates.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/Kandidat projekt ide.md",
     "External/Kasper's Notes/Uni/Exercises/states and observation exercise.md",
-    "External/Kasper's Notes/Uni/Exercises/Model-based output-feedback azimuth control exercise.md",
-    "External/Kasper's Notes/Uni/Exercises/Model Based Control ex.md",
-    "External/Kasper's Notes/Uni/Assignments/R stat assign.md",
-    "External/Kasper's Notes/Uni/Assignments/IDT 6.md",
-    "External/Kasper's Notes/Uni/Assignments/CAS assignment 1.md",
     "External/Kasper's Notes/Misc og Links/statefeedback.png",
     "External/Kasper's Notes/Misc og Links/opg4.png",
     "External/Kasper's Notes/Misc og Links/opg3.png",
@@ -260,8 +264,6 @@
     "External/Kasper's Notes/Misc og Links/Pasted image 20251027123250.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20251026170439.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20251026163428.png",
-    "HOME.md",
-    "Notes/Parallelforbindelser.md",
     "External/Kasper's Notes/Misc og Links/d20_flat.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20250923235207.png",
     "Untitled.canvas"
