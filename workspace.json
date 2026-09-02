@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Random Variables.md",
-                "mode": "preview",
+                "file": "Notes/Covariance.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random Variables"
+              "title": "Covariance"
             }
           },
           {
@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Random Variables.md",
+                "file": "Notes/Covariance and Correlation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random Variables"
+              "title": "Covariance and Correlation"
+            }
+          },
+          {
+            "id": "c5630aa8e684880e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multivariate Data Sets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multivariate Data Sets"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,12 +249,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f7da11e0175ba28",
+  "active": "c5630aa8e684880e",
   "lastOpenFiles": [
+    "Notes/Covariance and Correlation.md",
+    "Multivariate Data Sets.md",
+    "Notes/Covariance.md",
+    "Notes/Random Variables.md",
+    "Lessons/Semester 7/statistics/Lektion 1 slides.pdf",
+    "Lessons/Semester 7/statistics",
+    "Lessons/Semester 7",
     "Notes/Random Variables.md~",
     "Notes/4913",
     "Mean & Average.md",
-    "Notes/Random Variables.md",
     "External/Jacob's Notes/Under-actuated Robotics/Modelling.md",
     "External/Jacob's Notes/Under-actuated Robotics",
     "External/Jacob's Notes/Tips and tricks.md",
@@ -265,14 +285,8 @@
     "External/Jacob's Notes/Signalbehandling/Fast Fourier Transform.md",
     "External/Jacob's Notes/Signalbehandling/FIR Filtre",
     "External/Jacob's Notes/Signalbehandling/Elektroniske filtre.md",
-    "External/Jacob's Notes/Signalbehandling/Diskret Fouriertransform.md",
-    "External/Jacob's Notes/Signalbehandling/Digitale realisationsstrukturer (Digitale filtre).md",
     "External/Jacob's Notes/Signalbehandling",
     "External/Jacob's Notes/Scientific Method/Slides/Lecture 02 - Scientific presentation.pdf",
-    "External/Jacob's Notes/Scientific Method/Slides/Lecture 01.pdf",
-    "External/Jacob's Notes/Scientific Method/Slides",
-    "External/Jacob's Notes/Scientific Method",
-    "External/Jacob's Notes/Robot systems Design/Robot Dynamics Cheat Sheet.pdf",
     "External/Jacob's Notes/Billeder/pynqz2.png",
     "External/Jacob's Notes/Billeder/Pasted image 20250917203829.png",
     "External/Jacob's Notes/Billeder/Pasted image 20250912103817.png",
