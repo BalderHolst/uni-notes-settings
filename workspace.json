@@ -65,6 +65,24 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "cb9ef771cbde2e90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2044c4113d1b1b97",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 7/statistics/Lektion 1 slides.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lektion 1 slides"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,13 +283,13 @@
   },
   "active": "9466d672eba195c6",
   "lastOpenFiles": [
-    "Notes/Sample Mean and Variance.md",
+    "Lessons/Semester 7/statistics/Lektion 1 slides.pdf",
+    "Samples Moments.md",
     "Multivariate Data Sets.md",
     "Notes/Covariance and Correlation.md",
-    "Samples Moments.md",
     "Notes/Covariance.md",
+    "Notes/Sample Mean and Variance.md",
     "Notes/Random Variables.md",
-    "Lessons/Semester 7/statistics/Lektion 1 slides.pdf",
     "Lessons/Semester 7/statistics",
     "Lessons/Semester 7",
     "Notes/Random Variables.md~",
@@ -297,7 +315,6 @@
     "External/Jacob's Notes/Signalbehandling/IIR Filtre (Infinite Impulse Response).md",
     "External/Jacob's Notes/Signalbehandling/Filtertransformationer.md",
     "External/Jacob's Notes/Signalbehandling/Filteroverføringsfunktioner.md",
-    "External/Jacob's Notes/Signalbehandling/Fejlmuligheder i FFT.md",
     "External/Jacob's Notes/Signalbehandling/FIR Filtre",
     "External/Jacob's Notes/Signalbehandling",
     "External/Jacob's Notes/Scientific Method/Slides/Lecture 02 - Scientific presentation.pdf",
