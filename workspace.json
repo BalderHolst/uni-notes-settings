@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Bayesian Networks.md",
+                "file": "Notes/Random Variables.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bayesian Networks"
+              "title": "Random Variables"
+            }
+          },
+          {
+            "id": "9f7da11e0175ba28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Random Variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Random Variables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +83,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -141,8 +158,8 @@
             "state": {
               "type": "mathpad-view",
               "state": {},
-              "icon": "sigma",
-              "title": "Mathpad"
+              "icon": "lucide-ghost",
+              "title": "mathpad-view"
             }
           },
           {
@@ -175,8 +192,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -209,63 +226,63 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "mathpad:Open Mathpad": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "obsidian-file-cleaner:Clean files": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3aeb5449baf9bd3d",
+  "active": "9f7da11e0175ba28",
   "lastOpenFiles": [
-    "HOME.md",
-    "Notes/Multivariable Math.md",
-    "Notes/Classification of Second order PDEs.md",
-    "Notes/Kinematrics.md",
-    "Notes/Angle-Set Conventions.md",
-    "Notes/Transistorer.md",
-    "Notes/Dioder.md",
-    "Notes/Transistorer.md~",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/Kandidat ideer.md",
-    "Lessons/Semester 3/signalbehandling/Slides/lektion 8 - Introduktion til IIR filtre.pdf",
-    "Lessons/Semester 3/signalbehandling/Slides/Lektion 6 - Systemanalyse i z-domæne.pdf",
-    "Lessons/Semester 3/signalbehandling/Slides/Lektion 2 - Sampling og Rekonstruktion.pdf",
-    "External/Kasper's Notes/Uni/Slides/utf-8''2025-10-29_20Reproducible_20research_2C_20slides.pdf",
-    "External/Kasper's Notes/Uni/Slides/fixed_wings_dynamics.pdf",
-    "External/Kasper's Notes/Uni/Slides/_idt_module_6-1.pdf",
-    "External/Kasper's Notes/Uni/Slides/_CAS-2025-Lecture7-obs.pdf",
-    "External/Kasper's Notes/Uni/Slides/_CAS-2025-Lecture7-LectureNotes.pdf",
-    "External/Kasper's Notes/Uni/Slides/_CAS-2025-Lecture6-MPC-fdblin.pdf",
-    "External/Kasper's Notes/Uni/Slides/State estimation and Observers.md",
-    "External/Kasper's Notes/Uni/Slides/Sensorimotor integration.md",
-    "External/Kasper's Notes/Uni/Slides/Reproducible research and R guide.md",
-    "External/Kasper's Notes/Uni/Slides/Model Predictive Control.md",
-    "External/Kasper's Notes/Uni/Slides/Fixed Wing Dynamics.md",
-    "External/Kasper's Notes/Uni/Slides/ADRC.md",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/linux connect to wifi.md",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/UART to BRAM FPGA.md",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/State estimation and observers notes.md",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/Quadratic Programming.md",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/Output feedback using observer.md",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/Model-Predictive Control.md",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/Model Predictive Control.md",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/Linux Void Todo.md",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/Lazyvim CMake.md",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/Latex templates.md",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/Kandidat projekt ide.md",
-    "External/Kasper's Notes/Uni/Exercises/states and observation exercise.md",
-    "External/Kasper's Notes/Misc og Links/statefeedback.png",
-    "External/Kasper's Notes/Misc og Links/opg4.png",
-    "External/Kasper's Notes/Misc og Links/opg3.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20251117145537.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20251110143032.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20251027123250.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20251026170439.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20251026163428.png",
-    "External/Kasper's Notes/Misc og Links/d20_flat.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20250923235207.png",
+    "Notes/Random Variables.md~",
+    "Notes/4913",
+    "Mean & Average.md",
+    "Notes/Random Variables.md",
+    "External/Jacob's Notes/Under-actuated Robotics/Modelling.md",
+    "External/Jacob's Notes/Under-actuated Robotics",
+    "External/Jacob's Notes/Tips and tricks.md",
+    "External/Jacob's Notes/Statistics/Formulas.md",
+    "External/Jacob's Notes/Statistics",
+    "External/Jacob's Notes/Signalbehandling/FIR Filtre/Fremstilling af FIR-filter.md",
+    "External/Jacob's Notes/Signalbehandling/FIR Filtre/FIR Frekvensresponsanalyse.md",
+    "External/Jacob's Notes/Signalbehandling/FIR Filtre/FIR Filtre.md",
+    "External/Jacob's Notes/Signalbehandling/FIR Filtre/Design af FIR-filter.md",
+    "External/Jacob's Notes/Signalbehandling/Z-transformation.md",
+    "External/Jacob's Notes/Signalbehandling/Vinduesfunktioner.md",
+    "External/Jacob's Notes/Signalbehandling/Tidsdiskret systemteori.md",
+    "External/Jacob's Notes/Signalbehandling/Sekvenser.md",
+    "External/Jacob's Notes/Signalbehandling/Sampling.md",
+    "External/Jacob's Notes/Signalbehandling/Rekonstruktion.md",
+    "External/Jacob's Notes/Signalbehandling/Konstruktion af filtre.md",
+    "External/Jacob's Notes/Signalbehandling/Impuls invariant z-transformation.md",
+    "External/Jacob's Notes/Signalbehandling/IIR Filtre (Infinite Impulse Response).md",
+    "External/Jacob's Notes/Signalbehandling/Filtertransformationer.md",
+    "External/Jacob's Notes/Signalbehandling/Filteroverføringsfunktioner.md",
+    "External/Jacob's Notes/Signalbehandling/Fejlmuligheder i FFT.md",
+    "External/Jacob's Notes/Signalbehandling/Fast Fourier Transform.md",
+    "External/Jacob's Notes/Signalbehandling/FIR Filtre",
+    "External/Jacob's Notes/Signalbehandling/Elektroniske filtre.md",
+    "External/Jacob's Notes/Signalbehandling/Diskret Fouriertransform.md",
+    "External/Jacob's Notes/Signalbehandling/Digitale realisationsstrukturer (Digitale filtre).md",
+    "External/Jacob's Notes/Signalbehandling",
+    "External/Jacob's Notes/Scientific Method/Slides/Lecture 02 - Scientific presentation.pdf",
+    "External/Jacob's Notes/Scientific Method/Slides/Lecture 01.pdf",
+    "External/Jacob's Notes/Scientific Method/Slides",
+    "External/Jacob's Notes/Scientific Method",
+    "External/Jacob's Notes/Robot systems Design/Robot Dynamics Cheat Sheet.pdf",
+    "External/Jacob's Notes/Billeder/pynqz2.png",
+    "External/Jacob's Notes/Billeder/Pasted image 20250917203829.png",
+    "External/Jacob's Notes/Billeder/Pasted image 20250912103817.png",
+    "External/Jacob's Notes/Billeder/Pasted image 20250911130414.png",
+    "External/Jacob's Notes/Billeder/Pasted image 20250909153806.png",
+    "External/Jacob's Notes/Billeder/Pasted image 20250909153514.png",
+    "External/Jacob's Notes/Billeder/Pasted image 20250909124410.png",
+    "External/Jacob's Notes/Billeder/Pasted image 20250224123634.png",
+    "External/Jacob's Notes/Billeder/Pasted image 20240503132928.png",
+    "External/Jacob's Notes/Billeder/Pasted image 20240503131650.png",
     "Untitled.canvas"
   ]
 }
