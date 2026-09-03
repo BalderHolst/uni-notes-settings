@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROC Curve.md",
+                "file": "Notes/Perceptron.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROC Curve"
+              "title": "Perceptron"
             }
           }
         ],
@@ -237,12 +237,12 @@
   },
   "active": "0851e8ad54e430c5",
   "lastOpenFiles": [
+    "ROC Curve.md",
     "Images/roc-curves.webp",
     "ROC Curve.md~",
     "4913",
     "Images/ROC-Curve-Plot-for-a-No-Skill-Classifier-and-a-Logistic-Regression-Model.webp",
     "Notes/Splitting Datasets for Training.md",
-    "ROC Curve.md",
     "HOME.md",
     "Splitting Datasets for Training.md",
     "Notes/Perceptron.md",
@@ -282,7 +282,6 @@
     "External/Jacob's Notes/Billeder/Pasted image 20250911130414.png",
     "External/Jacob's Notes/Billeder/Pasted image 20250909153806.png",
     "External/Jacob's Notes/Billeder/Pasted image 20250909153514.png",
-    "External/Jacob's Notes/Billeder/Pasted image 20250909124410.png",
     "Untitled.canvas"
   ]
 }
