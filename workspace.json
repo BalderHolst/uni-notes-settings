@@ -4,85 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "660f5c03b88d3ca4",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "3aeb5449baf9bd3d",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Covariance.md",
-                "mode": "source",
+                "file": "HOME.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Covariance"
+              "title": "HOME"
             }
           },
           {
-            "id": "9f7da11e0175ba28",
+            "id": "d9d370f12dff1a7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Covariance and Correlation.md",
+                "file": "Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Covariance and Correlation"
+              "title": "Machine Learning"
             }
           },
           {
-            "id": "c5630aa8e684880e",
+            "id": "2096a79fc0fac81f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multivariate Data Sets.md",
+                "file": "Perceptron.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multivariate Data Sets"
-            }
-          },
-          {
-            "id": "9466d672eba195c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Samples Moments.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Samples Moments"
+              "title": "Perceptron"
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "cb9ef771cbde2e90",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2044c4113d1b1b97",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lessons/Semester 7/statistics/Lektion 1 slides.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lektion 1 slides"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -281,8 +249,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9466d672eba195c6",
+  "active": "2096a79fc0fac81f",
   "lastOpenFiles": [
+    "Perceptron.md~",
+    "Images/perceptron-plot.png",
+    "Machine Learning.md",
+    "Perceptron.md",
+    "HOME.md",
+    "External/Kasper's Notes/Uni/Courses/EIRT.md",
+    "External/Kasper's Notes/Uni/Notes/NewNotes/pico deep sleep.md",
     "Lessons/Semester 7/statistics/Lektion 1 slides.pdf",
     "Samples Moments.md",
     "Multivariate Data Sets.md",
@@ -310,11 +285,6 @@
     "External/Jacob's Notes/Signalbehandling/Sekvenser.md",
     "External/Jacob's Notes/Signalbehandling/Sampling.md",
     "External/Jacob's Notes/Signalbehandling/Rekonstruktion.md",
-    "External/Jacob's Notes/Signalbehandling/Konstruktion af filtre.md",
-    "External/Jacob's Notes/Signalbehandling/Impuls invariant z-transformation.md",
-    "External/Jacob's Notes/Signalbehandling/IIR Filtre (Infinite Impulse Response).md",
-    "External/Jacob's Notes/Signalbehandling/Filtertransformationer.md",
-    "External/Jacob's Notes/Signalbehandling/Filteroverføringsfunktioner.md",
     "External/Jacob's Notes/Signalbehandling/FIR Filtre",
     "External/Jacob's Notes/Signalbehandling",
     "External/Jacob's Notes/Scientific Method/Slides/Lecture 02 - Scientific presentation.pdf",
@@ -327,7 +297,6 @@
     "External/Jacob's Notes/Billeder/Pasted image 20250909124410.png",
     "External/Jacob's Notes/Billeder/Pasted image 20250224123634.png",
     "External/Jacob's Notes/Billeder/Pasted image 20240503132928.png",
-    "External/Jacob's Notes/Billeder/Pasted image 20240503131650.png",
     "Untitled.canvas"
   ]
 }
