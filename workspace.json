@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistical Distance.md",
+                "file": "Notes/Maximum Likelihood Estimation (MLE).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statistical Distance"
+              "title": "Maximum Likelihood Estimation (MLE)"
             }
           }
         ]
@@ -222,6 +222,7 @@
   },
   "active": "0fc8d6a39b80dfce",
   "lastOpenFiles": [
+    "Statistical Distance.md",
     "Notes/Maximum Likelihood Estimation (MLE).md",
     "Pasted image 20260909133819.png",
     "Notes/IID.md",
@@ -230,7 +231,6 @@
     "Multivariate Normal Distribution.md",
     "Constant Density Contours.md",
     "Notes/X2 Distribution.md",
-    "Statistical Distance.md",
     "Lessons/Semester 7/statistics/Bivariat distribution geometry and confidence ellipses - examples.pdf",
     "Constant Density Contours.md~",
     "Pasted image 20260909124217.png",

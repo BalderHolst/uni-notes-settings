@@ -2,7 +2,6 @@
   "accentColor": "",
   "cssTheme": "Spectrum",
   "enabledCssSnippets": [
-    "callout",
     "center",
     "latex",
     "cpp"
