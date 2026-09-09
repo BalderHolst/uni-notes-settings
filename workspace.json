@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Maximum Likelihood Estimation (MLE).md",
+                "file": "Statistical Distance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maximum Likelihood Estimation (MLE)"
+              "title": "Statistical Distance"
             }
           }
         ]
@@ -222,8 +222,9 @@
   },
   "active": "0fc8d6a39b80dfce",
   "lastOpenFiles": [
-    "Notes/IID.md",
     "Notes/Maximum Likelihood Estimation (MLE).md",
+    "Pasted image 20260909133819.png",
+    "Notes/IID.md",
     "HOME.md",
     "Untitled.md",
     "Multivariate Normal Distribution.md",
@@ -257,7 +258,6 @@
     "External/Jacob's Notes/Control of Autonomous Systems/Slides/CAS-2025-Lecture2.pdf",
     "Dynamical Systems.md",
     "Pasted image 20260907123829.png",
-    "External/Jacob's Notes/Control of Autonomous Systems/Dynamical Systems.md",
     "Lessons/Semester 7/cas",
     "External/Kasper's Notes/TaskNotes/Views/tasks-default.base",
     "Images/roc-curves.webp",
@@ -267,7 +267,6 @@
     "External/Jacob's Notes/Billeder/pynqz2.png",
     "External/Jacob's Notes/Billeder/Pasted image 20250917203829.png",
     "External/Jacob's Notes/Billeder/Pasted image 20250912103817.png",
-    "External/Jacob's Notes/Billeder/Pasted image 20250911130414.png",
     "Untitled.canvas"
   ]
 }
