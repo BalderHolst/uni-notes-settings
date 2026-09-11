@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fransuesse Mercator Projection.md",
+                "file": "Transuesse Mercator Projection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fransuesse Mercator Projection"
+              "title": "Transuesse Mercator Projection"
             }
           }
         ],
@@ -266,7 +266,7 @@
   "active": "ec36e969616c6c99",
   "lastOpenFiles": [
     "Latitude and Longitude.md",
-    "Fransuesse Mercator Projection.md",
+    "Transuesse Mercator Projection.md",
     "GNSS.md",
     "Pasted image 20260911102028.png",
     "Pasted image 20260911095035.png",
