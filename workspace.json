@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/Stocastic Properties of Filters.md",
-                "mode": "source",
-                "source": false
+                "file": "Lessons/Semester 7/ssp/Lektion 4 slides.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Stocastic Properties of Filters"
+              "icon": "lucide-file-text",
+              "title": "Lektion 4 slides"
             }
           }
         ]
@@ -222,10 +220,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Stocastic Properties of Filters.md",
     "Notes/Stocastic Properties of Filters.md~",
     "HOME.md",
     "Stocastic Properties of Filters.md",
-    "Notes/Stocastic Properties of Filters.md",
     "Notes/Power Spectral Density.md",
     "Stocastic Properties of Filters.md~",
     "4913",
@@ -240,7 +238,6 @@
     "Lessons/Semester 7/ssp/Lektion 5 slides.pdf",
     "Lessons/Semester 7/ssp/Lektion 4 slides.pdf",
     "Lessons/Semester 7/ssp/Lektion 3 slides.pdf",
-    "Lessons/Semester 7/ssp/Lektion 2 slides.pdf",
     "Notes/Normal Distribution.md",
     "Notes/Gaussian Distribution.md",
     "Notes/test.md",
