@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Fast Fourier transformation (FFT).md",
+                "file": "External/Jacob's Notes/Matematik/PDE - Separation of variables.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fast Fourier transformation (FFT)"
+              "title": "PDE - Separation of variables"
             }
           }
         ]
@@ -222,6 +222,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Fast Fourier transformation (FFT).md",
     "Notes/Hamming Distance.md",
     "Notes/Power Spectral Density.md",
     "Lessons/Semester 7/ssp/Lektion 4 slides.pdf",
@@ -260,7 +261,6 @@
     "Notes/Multivariate Normal Distribution.md",
     "Notes/Untitled.md",
     "Notes/Maximum Likelihood Estimation (MLE).md",
-    "Notes/Eigendecomposition.md",
     "Pasted image 20260909133819.png",
     "Pasted image 20260909124217.png",
     "Pasted image 20260907123829.png",
