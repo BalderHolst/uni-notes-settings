@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/GNSS.md",
+                "file": "HOME.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GNSS"
+              "title": "HOME"
+            }
+          },
+          {
+            "id": "7fe68012b6bd678a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,8 +235,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7fe68012b6bd678a",
   "lastOpenFiles": [
+    "test.md~",
+    "HOME.md",
+    "test.md",
+    "Notes/GNSS.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/yolo for animals.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/Long range drone telemetry.md",
     "External/Kasper's Notes/Uni/Literature/Animal yolo pose estimation.pdf",
@@ -239,7 +258,6 @@
     "Lessons/Semester 7/ssp/Lektion 4 slides.pdf",
     "Notes/Stocastic Properties of Filters.md",
     "Notes/Stocastic Properties of Filters.md~",
-    "HOME.md",
     "Stocastic Properties of Filters.md",
     "Stocastic Properties of Filters.md~",
     "4913",
@@ -256,9 +274,6 @@
     "Notes/test.md",
     "test.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/Opentrack IMU.md",
-    "External/Kasper's Notes/Templates/ProjectTemp.md",
-    "External/Kasper's Notes/Templates/ProjectNoteTemp.md",
-    "External/Kasper's Notes/TaskNotes/Tasks/Tjek lopaka GUI mere ud på git.md",
     "Pasted image 20260911102028.png",
     "Pasted image 20260911095035.png",
     "Pasted image 20260909133819.png",
