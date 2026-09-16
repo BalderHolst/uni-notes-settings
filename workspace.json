@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "2cb3f9c3c654083c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lessons/Semester 7/statistics/Lektion 3 slides.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lektion 3 slides"
-            }
-          },
-          {
             "id": "17040f414b1a5ea3",
             "type": "leaf",
             "state": {
@@ -48,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,12 +237,12 @@
   },
   "active": "17040f414b1a5ea3",
   "lastOpenFiles": [
-    "Likelihood Ratio Test.md",
     "Lessons/Semester 7/statistics/Lektion 3 slides.pdf",
+    "Confidence Region.md",
+    "Likelihood Ratio Test.md",
     "Notes/Log-likelihood Test.md",
     "Notes/Hypothesis Testing.md",
     "Notes/Score Test.md",
-    "Confidence Region.md",
     "Notes/Taylorpolynomium.md",
     "Pasted image 20260916132231.png",
     "Notes/Confidence Interval.md",
