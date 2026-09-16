@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Confidence Interval.md",
+                "file": "Notes/Hypothesis Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Confidence Interval"
+              "title": "Hypothesis Testing"
             }
           },
           {
@@ -33,6 +33,18 @@
               },
               "icon": "lucide-file",
               "title": "Confidence Region"
+            }
+          },
+          {
+            "id": "e7b52d6e69f69680",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 7/statistics/Lektion 3 slides.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lektion 3 slides"
             }
           }
         ],
@@ -96,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 582.5024089813232
+    "width": 582.5024089813232,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -236,18 +249,25 @@
   },
   "active": "17040f414b1a5ea3",
   "lastOpenFiles": [
-    "Notes/Confidence Interval.md",
-    "Confidence Region.md",
+    "Lessons/Semester 7/statistics/Lektion 3 slides.pdf",
     "Notes/Hypothesis Testing.md",
+    "Confidence Region.md",
+    "Notes/Confidence Interval.md",
+    "Lessons/Semester 7/statistics/Lektion 9 slides.pdf",
+    "Lessons/Semester 7/statistics/Lektion 8 slides.pdf",
+    "Lessons/Semester 7/statistics/Lektion 7 slides.pdf",
+    "Lessons/Semester 7/statistics/Lektion 6 slides.pdf",
+    "Lessons/Semester 7/statistics/Lektion 5 slides.pdf",
+    "Lessons/Semester 7/statistics/Lektion 4 slides.pdf",
+    "Lessons/Semester 7/statistics/Lektion 12 slides.pdf",
+    "Lessons/Semester 7/statistics/Lektion 11 slides.pdf",
+    "Lessons/Semester 7/statistics/Lektion 10 slides.pdf",
     "Notes/P-value.md",
     "HOME.md",
     "test.md",
-    "test.md~",
     "Notes/GNSS.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/yolo for animals.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/Long range drone telemetry.md",
-    "External/Kasper's Notes/Uni/Literature/Animal yolo pose estimation.pdf",
-    "External/Kasper's Notes/Uni/Literature",
     "External/Kasper's Notes/TaskNotes/Tasks/tjek lvgl up på github.md",
     "External/Kasper's Notes/TaskNotes/Tasks/Se mosfet video.md",
     "External/Kasper's Notes/TaskNotes/Tasks/Læs Elektronik noter igennem.md",
@@ -258,21 +278,13 @@
     "Notes/Fast Fourier transformation (FFT).md",
     "Notes/Hamming Distance.md",
     "Notes/Power Spectral Density.md",
-    "Lessons/Semester 7/ssp/Lektion 4 slides.pdf",
     "Notes/Stocastic Properties of Filters.md",
-    "Notes/Stocastic Properties of Filters.md~",
     "Stocastic Properties of Filters.md",
-    "Stocastic Properties of Filters.md~",
-    "4913",
     "Power Spectral Density.md",
     "Notes/Bandwidth.md",
     "Notes/Filter Transformations.md",
     "Images/Filter-Transformations-Creating-a-band-pass-filter.png",
-    "Lessons/Semester 7/ssp/Lektion 9 slides.pdf",
-    "Lessons/Semester 7/ssp/Lektion 8 slides.pdf",
-    "Lessons/Semester 7/ssp/Lektion 7 slides.pdf",
     "Notes/Normal Distribution.md",
-    "Notes/Gaussian Distribution.md",
     "Pasted image 20260911102028.png",
     "Pasted image 20260911095035.png",
     "Pasted image 20260909133819.png",
