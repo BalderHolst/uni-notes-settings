@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Confidence Region.md",
+                "file": "Notes/Hypothesis Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Confidence Region"
+              "title": "Hypothesis Testing"
             }
           }
         ],
@@ -237,8 +237,8 @@
   },
   "active": "17040f414b1a5ea3",
   "lastOpenFiles": [
-    "Lessons/Semester 7/statistics/Lektion 3 slides.pdf",
     "Confidence Region.md",
+    "Lessons/Semester 7/statistics/Lektion 3 slides.pdf",
     "Likelihood Ratio Test.md",
     "Notes/Log-likelihood Test.md",
     "Notes/Hypothesis Testing.md",
