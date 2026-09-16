@@ -25,14 +25,12 @@
             "id": "17040f414b1a5ea3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/Hypothesis Testing.md",
-                "mode": "source",
-                "source": false
+                "file": "Lessons/Semester 7/statistics/Lektion 3 slides.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Hypothesis Testing"
+              "icon": "lucide-file-text",
+              "title": "Lektion 3 slides"
             }
           }
         ],
@@ -237,11 +235,11 @@
   },
   "active": "17040f414b1a5ea3",
   "lastOpenFiles": [
+    "Notes/Hypothesis Testing.md",
     "Confidence Region.md",
     "Lessons/Semester 7/statistics/Lektion 3 slides.pdf",
     "Likelihood Ratio Test.md",
     "Notes/Log-likelihood Test.md",
-    "Notes/Hypothesis Testing.md",
     "Notes/Score Test.md",
     "Notes/Taylorpolynomium.md",
     "Pasted image 20260916132231.png",
