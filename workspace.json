@@ -13,40 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Splitting Datasets for Training.md",
-                "mode": "source",
+                "file": "HOME.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Splitting Datasets for Training"
+              "title": "HOME"
             }
           },
           {
-            "id": "1e3eaca7ca495644",
+            "id": "e50c25ab5988f24f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parametric Regression.md",
+                "file": "Optimal Filter and Convolution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parametric Regression"
+              "title": "Optimal Filter and Convolution"
             }
           },
           {
-            "id": "efe18f40a14169b7",
+            "id": "1324b29f8c098888",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Mean Square Error (MSE).md",
-                "mode": "source",
+                "file": "Notes/FIR Filtre.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mean Square Error (MSE)"
+              "title": "FIR Filtre"
             }
           }
         ],
@@ -249,8 +249,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e3eaca7ca495644",
+  "active": "e50c25ab5988f24f",
   "lastOpenFiles": [
+    "Notes/FIR Filtre.md",
+    "Optimal Filter and Convolution.md",
+    "HOME.md",
+    "Notes/Untitled.md",
     "Mean Absolute Error (MAE).md",
     "Notes/Mean Square Error (MSE).md",
     "Pasted image 20260917123108.png",
@@ -261,7 +265,6 @@
     "Notes/Hypothesis Testing.md",
     "Lessons/Semester 7/machine-learning",
     "Notes/Signal element.md",
-    "HOME.md",
     "Notes/Python Web Scraping.md",
     "Lessons/Semester 7/statistics/Lektion 3 slides.pdf",
     "Confidence Region.md",
@@ -287,8 +290,6 @@
     "External/Kasper's Notes/TaskNotes/Tasks/tjek lvgl up på github.md",
     "External/Kasper's Notes/TaskNotes/Tasks/Se mosfet video.md",
     "External/Kasper's Notes/TaskNotes/Tasks/Læs Elektronik noter igennem.md",
-    "External/Kasper's Notes/TaskNotes/Tasks/Lav enkoder.md",
-    "Notes/State Space Models.md",
     "Images/Filter-Transformations-Creating-a-band-pass-filter.png",
     "Pasted image 20260911102028.png",
     "Pasted image 20260911095035.png",
