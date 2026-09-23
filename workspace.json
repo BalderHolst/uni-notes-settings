@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparing Mean Vectors.md",
+                "file": "Notes/Confidence Region.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comparing Mean Vectors"
+              "title": "Confidence Region"
             }
           }
         ]
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comparing Mean Vectors.md",
+                "file": "Notes/Confidence Region.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,10 +222,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Comparing Mean Vectors.md",
+    "Lessons/Semester 7/statistics/Lektion 4 slides.pdf",
     "Notes/Hypothesis Testing.md",
     "Notes/P-value.md",
     "Bartlett Test.md",
-    "Comparing Mean Vectors.md",
     "Notes/Covariance.md",
     "Notes/Covariance and Correlation.md",
     "HOME.md",
@@ -250,7 +251,6 @@
     "Notes/Splitting Datasets for Training.md",
     "Notes/Neutral Stability.md",
     "Lessons/Semester 7/machine-learning",
-    "Notes/Signal element.md",
     "Lessons/Semester 7/statistics/Lektion 3 slides.pdf",
     "Pasted image 20260916132231.png",
     "Lessons/Semester 7/statistics/Lektion 9 slides.pdf",
@@ -258,7 +258,6 @@
     "Lessons/Semester 7/statistics/Lektion 7 slides.pdf",
     "Lessons/Semester 7/statistics/Lektion 6 slides.pdf",
     "Lessons/Semester 7/statistics/Lektion 5 slides.pdf",
-    "Lessons/Semester 7/statistics/Lektion 4 slides.pdf",
     "Lessons/Semester 7/statistics/Lektion 12 slides.pdf",
     "Lessons/Semester 7/statistics/Lektion 11 slides.pdf",
     "Images/Filter-Transformations-Creating-a-band-pass-filter.png",
