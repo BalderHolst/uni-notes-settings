@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
-                "mode": "preview",
+                "file": "Comparing Mean Vectors.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME"
+              "title": "Comparing Mean Vectors"
             }
           }
         ]
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "Comparing Mean Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,14 +222,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "HOME.md",
+    "Bartlett Test.md",
     "Multiple 1D Confidence Intervals.md",
     "External/Jacob's Notes/Multistat/Classification with several populations (AI).md",
-    "Bartlett Test.md",
     "Comparing Mean Vectors.md",
     "Notes/Confidence Interval.md",
     "Notes/Confidence Region.md",
     "Notes/Statistics.md",
-    "HOME.md",
     "Notes/FIR Filtre.md",
     "Notes/Weiner Filter.md",
     "Statistical Signal Processing.md",
