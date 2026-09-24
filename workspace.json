@@ -36,45 +36,45 @@
             }
           },
           {
-            "id": "ad7341218587315b",
+            "id": "c9c85ba23e0ed57a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ridge - L2.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ridge - L2"
-            }
-          },
-          {
-            "id": "aac3a581659923d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sigmoid.md",
+                "file": "Overfitting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sigmoid"
+              "title": "Overfitting"
             }
           },
           {
-            "id": "0041ab5cc5fc76ff",
+            "id": "bba512e69cb3a869",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Cross Entropy.md",
+                "file": "L1 (Lasso Regularization).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Cross Entropy"
+              "title": "L1 (Lasso Regularization)"
+            }
+          },
+          {
+            "id": "ffe5cbfb63294f34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L2 (Ridge).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L2 (Ridge)"
             }
           }
         ],
@@ -279,13 +279,16 @@
   },
   "active": "953bdf6afa43d73d",
   "lastOpenFiles": [
-    "Ridge - L2.md",
+    "Overfitting.md",
     "Logistic Regressions.md",
-    "Pasted image 20260924124855.png",
-    "Sigmoid.md",
-    "Binary Cross Entropy.md",
-    "Pasted image 20260924122217.png",
+    "L1 (Lasso Regularization).md",
+    "L2 (Ridge).md",
+    "Ridge Loss Function.md",
     "Notes/Parametric Regression.md",
+    "Binary Cross Entropy.md",
+    "Sigmoid.md",
+    "Pasted image 20260924124855.png",
+    "Pasted image 20260924122217.png",
     "HOME.md",
     "External/Kasper's Notes/TaskNotes/Tasks/fix lmstudio.md",
     "External/Kasper's Notes/TaskNotes/Tasks/Update hyprland config to lua.md",
@@ -305,9 +308,6 @@
     "Notes/FIR Filtre.md",
     "Notes/Weiner Filter.md",
     "Statistical Signal Processing.md",
-    "Notes/Power Spectral Density.md",
-    "Multivariate Statistical Analysis.md",
-    "Wiener Filter Deconvolution.md",
     "Pasted image 20260917123108.png",
     "Pasted image 20260917122445.png",
     "Lessons/Semester 7/machine-learning",
