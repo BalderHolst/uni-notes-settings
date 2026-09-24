@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 582.5024089813232
+    "width": 582.5024089813232,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -236,6 +237,8 @@
   },
   "active": "953bdf6afa43d73d",
   "lastOpenFiles": [
+    "Binary Cross Entropy.md",
+    "Notes/Splitting Datasets for Training.md",
     "Excalidraw/Drawing 2022-11-17 12.34.37.excalidraw.md",
     "HOME.md",
     "Logistic Regressions.md",
@@ -245,7 +248,6 @@
     "Overfitting.md",
     "Ridge Loss Function.md",
     "Notes/Parametric Regression.md",
-    "Binary Cross Entropy.md",
     "Sigmoid.md",
     "Pasted image 20260924124855.png",
     "Pasted image 20260924122217.png",
@@ -264,7 +266,6 @@
     "External/Jacob's Notes/Multistat/Classification with several populations (AI).md",
     "Notes/Confidence Interval.md",
     "Notes/Statistics.md",
-    "Notes/FIR Filtre.md",
     "Pasted image 20260917123108.png",
     "Pasted image 20260917122445.png",
     "Lessons/Semester 7/machine-learning",
