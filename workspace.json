@@ -36,21 +36,28 @@
             }
           },
           {
-            "id": "c9c85ba23e0ed57a",
+            "id": "89bf19732d1f50fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overfitting.md",
+                "file": "L2 (Ridge Regularization).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overfitting"
+              "title": "L2 (Ridge Regularization)"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "80860903080a675c",
+        "type": "tabs",
+        "children": [
           {
-            "id": "bba512e69cb3a869",
+            "id": "ffe5cbfb63294f34",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,23 +69,8 @@
               "icon": "lucide-file",
               "title": "L1 (Lasso Regularization)"
             }
-          },
-          {
-            "id": "ffe5cbfb63294f34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L2 (Ridge).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "L2 (Ridge)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -277,12 +269,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "953bdf6afa43d73d",
+  "active": "89bf19732d1f50fd",
   "lastOpenFiles": [
-    "Overfitting.md",
-    "Logistic Regressions.md",
     "L1 (Lasso Regularization).md",
-    "L2 (Ridge).md",
+    "Feature Engineering.md",
+    "Logistic Regressions.md",
+    "L2 (Ridge Regularization).md",
+    "Overfitting.md",
     "Ridge Loss Function.md",
     "Notes/Parametric Regression.md",
     "Binary Cross Entropy.md",
@@ -307,7 +300,6 @@
     "Notes/Statistics.md",
     "Notes/FIR Filtre.md",
     "Notes/Weiner Filter.md",
-    "Statistical Signal Processing.md",
     "Pasted image 20260917123108.png",
     "Pasted image 20260917122445.png",
     "Lessons/Semester 7/machine-learning",
