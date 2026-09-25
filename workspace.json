@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Statistics.md",
+                "file": "HOME.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOME"
+            }
+          },
+          {
+            "id": "2ddf0556306e553a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Radio Communication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statistics"
-            }
-          },
-          {
-            "id": "56fe2d21f66280e5",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "statistics-subject.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "statistics-subject"
+              "title": "Radio Communication"
             }
           }
         ],
@@ -91,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Confidence Region.md",
+                "file": "Notes/Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,38 +235,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56fe2d21f66280e5",
+  "active": "2ddf0556306e553a",
   "lastOpenFiles": [
+    "Pasted image 20260925085954.png",
+    "emwave.png",
+    "emwave.gif",
+    "Pasted image 20260925085830.png",
+    "HOME.md",
+    "Radio Communication.md",
+    "Notes/Machine Learning.md",
+    "Notes/Machine Learning.md~",
+    "Notes/Sigmoid.md",
+    "Notes/Overfitting.md",
+    "Notes/Logistic Regressions.md",
+    "Notes/L2 (Ridge Regularization).md",
+    "Notes/L1 (Lasso Regularization).md",
+    "Images/Pasted image 20260924124855.png",
+    "Notes/Feature Engineering.md",
+    "Images/Pasted image 20260924122217.png",
+    "Notes/Binary Cross Entropy.md",
+    "Templates/subject.md",
+    "Machine Learning.md",
     "Notes/Statistics.md",
+    "Notes/Statistics.md~",
     "statistics-subject.base",
+    "statistics-subject.base~",
+    "Notes/IID.md",
+    "Notes/Comparing Mean Vectors.md",
     "Notes/Parametric Regression.md",
     "Notes/Splitting Datasets for Training.md",
     "Binary Cross Entropy.md",
     "Excalidraw/Drawing 2022-11-17 12.34.37.excalidraw.md",
-    "HOME.md",
     "Logistic Regressions.md",
     "L2 (Ridge Regularization).md",
     "L1 (Lasso Regularization).md",
     "Feature Engineering.md",
     "Overfitting.md",
     "Ridge Loss Function.md",
-    "Sigmoid.md",
     "Pasted image 20260924124855.png",
     "Pasted image 20260924122217.png",
-    "External/Kasper's Notes/TaskNotes/Tasks/fix lmstudio.md",
-    "External/Kasper's Notes/TaskNotes/Tasks/Update hyprland config to lua.md",
-    "External/Kasper's Notes/Projects/Project Headers/EInk kanbann display.md",
-    "Notes/Confidence Region.md",
-    "Comparing Mean Vectors.md",
     "Lessons/Semester 7/statistics/Lektion 4 slides.pdf",
-    "Notes/Hypothesis Testing.md",
-    "Notes/P-value.md",
-    "Bartlett Test.md",
-    "Notes/Covariance.md",
-    "Notes/Covariance and Correlation.md",
-    "Multiple 1D Confidence Intervals.md",
-    "External/Jacob's Notes/Multistat/Classification with several populations (AI).md",
-    "Notes/Confidence Interval.md",
     "Pasted image 20260917123108.png",
     "Pasted image 20260917122445.png",
     "Lessons/Semester 7/machine-learning",
@@ -274,14 +283,6 @@
     "Lessons/Semester 7/statistics/Lektion 9 slides.pdf",
     "Lessons/Semester 7/statistics/Lektion 8 slides.pdf",
     "Lessons/Semester 7/statistics/Lektion 7 slides.pdf",
-    "Lessons/Semester 7/statistics/Lektion 6 slides.pdf",
-    "Lessons/Semester 7/statistics/Lektion 5 slides.pdf",
-    "Lessons/Semester 7/statistics/Lektion 12 slides.pdf",
-    "Images/Filter-Transformations-Creating-a-band-pass-filter.png",
-    "Pasted image 20260911102028.png",
-    "Pasted image 20260911095035.png",
-    "Pasted image 20260909133819.png",
-    "Pasted image 20260909124217.png",
     "Untitled.canvas"
   ]
 }
