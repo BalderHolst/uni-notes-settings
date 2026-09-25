@@ -237,13 +237,15 @@
   },
   "active": "2ddf0556306e553a",
   "lastOpenFiles": [
+    "Notes/Statistics.md",
+    "Notes/Comparing Mean Vectors.md",
+    "Radio Communication.md",
     "Radio Communication.md~",
     "Pasted image 20260925085954.png",
     "emwave.png",
     "emwave.gif",
     "Pasted image 20260925085830.png",
     "HOME.md",
-    "Radio Communication.md",
     "Notes/Machine Learning.md",
     "Notes/Machine Learning.md~",
     "Notes/Sigmoid.md",
@@ -257,12 +259,10 @@
     "Notes/Binary Cross Entropy.md",
     "Templates/subject.md",
     "Machine Learning.md",
-    "Notes/Statistics.md",
     "Notes/Statistics.md~",
     "statistics-subject.base",
     "statistics-subject.base~",
     "Notes/IID.md",
-    "Notes/Comparing Mean Vectors.md",
     "Notes/Parametric Regression.md",
     "Notes/Splitting Datasets for Training.md",
     "Binary Cross Entropy.md",
@@ -282,7 +282,6 @@
     "Lessons/Semester 7/statistics/Lektion 3 slides.pdf",
     "Lessons/Semester 7/statistics/Lektion 9 slides.pdf",
     "Lessons/Semester 7/statistics/Lektion 8 slides.pdf",
-    "Lessons/Semester 7/statistics/Lektion 7 slides.pdf",
     "Untitled.canvas"
   ]
 }
