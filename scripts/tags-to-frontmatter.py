@@ -24,6 +24,5 @@ for note in sorted(vault.notes())[:10]:
 
     text = note.read()
 
-    print(text[:new_end])
-    print("------")
+    note.write(text[:new_end])
 
