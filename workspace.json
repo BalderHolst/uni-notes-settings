@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9d0f0ef5404158c0",
+        "id": "7b849fc1b9ff2cb2",
         "type": "tabs",
         "children": [
           {
-            "id": "a9db2cf5ac528bbb",
+            "id": "f50b00c05102ec42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Time Space Models.md",
+                "file": "Notes/Kinematrics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discrete Time Space Models"
+              "title": "Kinematrics"
             }
           }
         ]
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "f1",
+                "query": "tag:#subject",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,12 +77,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 582.5024089813232,
-    "collapsed": true
+    "width": 582.5024089813232
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Machine Learning.md",
+                "file": "Notes/Kinematrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -196,12 +197,12 @@
               "title": "Outline of Pasted image 20240912084607"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,12 +221,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9db2cf5ac528bbb",
+  "active": "f50b00c05102ec42",
   "lastOpenFiles": [
+    "Notes/Intelligent Systems.md",
+    "Notes/Embedded.md",
+    "HOME.md",
+    "Templates/subject.md",
+    "HOME.md~",
+    "Templates/subject.md~",
+    "Notes/Integraler.md",
+    "Notes/Funktioner af flere Variable.md",
+    "Notes/Drones.md",
+    "Notes/Differentialregning.md",
+    "Notes/Differential Equations.md",
+    "Notes/Data Communication.md",
+    "Notes/Algorithms and Data Structures.md",
+    "Notes/Control Systems.md",
+    "Notes/Artificial Intelligence.md",
+    "Notes/Approximation.md",
+    "Notes/Underactuated Robots.md",
+    "Discrete Time Space Models.md",
+    "4913",
     "Notes/State Space Models.md",
     "Linear State Space Models.md",
     "Notes/Difference Equations.md",
-    "Discrete Time Space Models.md",
     "Notes/State Space Models.md~",
     "Notes/Difference Equations.md~",
     "Pasted image 20260928091536.png",
@@ -233,11 +252,6 @@
     "Notes/Weiner Filter.md",
     "Notes/Weiner Filter.md~",
     "Notes/4913",
-    "HOME.md",
-    "Notes/Control Systems.md",
-    "HOME.md~",
-    "Templates/subject.md",
-    "Notes/Drones.md",
     "External/Kasper's Notes/TaskNotes/Tasks/Test water pump and sensor together.md",
     "External/Kasper's Notes/TaskNotes/Tasks/Fix sd kort functionality.md",
     "Notes/Statistics.md",
@@ -250,20 +264,8 @@
     "Pasted image 20260925085830.png",
     "Notes/Machine Learning.md",
     "Notes/Machine Learning.md~",
-    "Notes/Sigmoid.md",
-    "Notes/Overfitting.md",
-    "Notes/Logistic Regressions.md",
-    "Notes/L2 (Ridge Regularization).md",
-    "Notes/L1 (Lasso Regularization).md",
     "Images/Pasted image 20260924124855.png",
-    "Notes/Feature Engineering.md",
     "Images/Pasted image 20260924122217.png",
-    "Notes/Binary Cross Entropy.md",
-    "Machine Learning.md",
-    "Notes/Statistics.md~",
-    "statistics-subject.base",
-    "Notes/IID.md",
-    "Notes/Parametric Regression.md",
     "Pasted image 20260924124855.png",
     "Pasted image 20260924122217.png",
     "Pasted image 20260917123108.png",
