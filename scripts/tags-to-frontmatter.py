@@ -2,7 +2,9 @@ import ovault
 
 vault = ovault.Vault(".")
 
-for note in sorted(vault.notes())[:10]:
+W = 25
+
+for note in sorted(vault.notes()):
     tokens = [t for t in note.tokens() if not t.is_whitespace() ]
 
     tags = []
@@ -22,7 +24,17 @@ for note in sorted(vault.notes())[:10]:
     if new_end == None:
         continue
 
+
+    print(note.name.strip(), " " * (W - len(note.name)), tags)
+
     text = note.read()
 
+
     note.write(text[:new_end])
+
+    f = note.frontmatter()
+    if f == None: f = ovault.Frontmatter()
+    f.set("tags", tags)
+    note.set_frontmatter(f)
+
 
