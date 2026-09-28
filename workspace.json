@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "ca27c3981446e500",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "5fd54506b9872ec5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/State Space Models.md",
-                "mode": "preview",
+                "file": "HOME.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "State Space Models"
+              "title": "HOME"
             }
           }
         ]
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -136,16 +137,6 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "4a0c4e0ffd11cf56",
-            "type": "leaf",
-            "state": {
-              "type": "mathpad-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "mathpad-view"
             }
           },
           {
@@ -222,15 +213,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5fd54506b9872ec5",
   "lastOpenFiles": [
+    "Notes/System of Linear Equations.md",
+    "Notes/Linear Algebra.md",
+    "Notes/Distributions.md",
+    "Notes/Funktioner af flere Variable.md",
+    "Notes/Multivariable Math.md",
+    "Notes/Multivariate Statistics.md",
+    "Notes/Microcontrolers.md",
+    "Multivaiate state.md",
+    "Notes/Matrix.md",
+    "Notes/Integraler.md",
+    "Notes/Integrator.md",
+    "Notes/Sorting Algorithms.md",
+    "HOME.md",
+    "Notes/Anti-Windup.md",
+    "Notes/State Space Models.md",
     "Lessons/Semester 3/signalbehandling/Slides/Lektion 5 - Introduktion til z-transformation.pdf",
     "Lessons/Semester 3/signalbehandling/Slides/Lektion 3 - Introduktion til FFT.pdf",
     "Lessons/Semester 3/signalbehandling/Slides/Lektion 2 - Sampling og Rekonstruktion.pdf",
     "Notes/Signal Processing.md",
     "Notes/Difference Equations.md",
     "Notes/Laplace Transformation.md",
-    "HOME.md",
     "Notes/Weiner Filter.md",
     "Notes/Weiner Filter.md~",
     "Notes/4913",
@@ -242,24 +247,10 @@
     "Templates/note-table.md",
     "Notes/Vector Fields.md",
     "Notes/Underactuated Robots.md",
-    "Notes/Statistical Signal Processing.md",
-    "Notes/Software Development.md",
-    "Notes/Scrum.md",
-    "Notes/Decibel.md",
-    "Notes/Numerical Methods.md",
-    "Notes/Machine Learning.md",
-    "Notes/Kinematics.md",
-    "Notes/Kredsløb.md",
-    "Notes/Intelligent Systems.md",
-    "Notes/Embedded.md",
-    "Templates/subject.md",
     "HOME.md~",
     "Templates/subject.md~",
-    "Notes/Integraler.md",
-    "Notes/Funktioner af flere Variable.md",
     "4913",
     "Notes/State Space Models.md~",
-    "Notes/Difference Equations.md~",
     "Pasted image 20260928091536.png",
     "Pasted image 20260925085954.png",
     "emwave.png",
