@@ -14,8 +14,9 @@ for note in sorted(vault.notes())[:10]:
                 tags.append(token.tag)
             case token.Divider():
                 new_end = token.span.start
-                break
             case other:
+                if new_end != None:
+                    new_end = other.span.end
                 break
 
     if new_end == None:
@@ -23,9 +24,6 @@ for note in sorted(vault.notes())[:10]:
 
     text = note.read()
 
-    print("--------------")
-    print(text)
-    print("--------------")
-    print(text[:new_end-1])
-    print("--------------")
+    print(text[:new_end])
+    print("------")
 
