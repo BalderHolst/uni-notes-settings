@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "HOME.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -215,7 +215,10 @@
   },
   "active": "5fd54506b9872ec5",
   "lastOpenFiles": [
+    "Notes/Supervised Learning.md",
+    "HOME.md",
     "HOME.md~",
+    "Notes/Law of Cosines.md",
     "Notes/System of Linear Equations.md",
     "Notes/Linear Algebra.md",
     "Notes/Distributions.md",
@@ -228,7 +231,6 @@
     "Notes/Integraler.md",
     "Notes/Integrator.md",
     "Notes/Sorting Algorithms.md",
-    "HOME.md",
     "Notes/Anti-Windup.md",
     "Notes/State Space Models.md",
     "Lessons/Semester 3/signalbehandling/Slides/Lektion 5 - Introduktion til z-transformation.pdf",
@@ -246,7 +248,6 @@
     "Notes/Vectors.md",
     "Templates/note-table.md~",
     "Templates/note-table.md",
-    "Notes/Vector Fields.md",
     "Templates/subject.md~",
     "4913",
     "Notes/State Space Models.md~",
