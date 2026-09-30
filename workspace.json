@@ -4,24 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "696ed91975730c50",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "84d8955e618e981f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Algorithms and Data Structures.md",
+                "file": "Templates/new-note.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algorithms and Data Structures"
+              "title": "new-note"
+            }
+          },
+          {
+            "id": "e58f20dcc0f7e4f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/new-note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "new-note"
+            }
+          },
+          {
+            "id": "25fbba2e1a589356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hello.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hello"
+            }
+          },
+          {
+            "id": "03481ece7334db03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "estst.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "estst"
+            }
+          },
+          {
+            "id": "3957fd22ea6a4c11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -208,48 +264,47 @@
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "obsidian-file-cleaner:Clean files": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84d8955e618e981f",
+  "active": "3957fd22ea6a4c11",
   "lastOpenFiles": [
+    "estst.md",
+    "Untitled.md",
+    "Templates/new-note.md~",
+    "hello.md",
+    "Templates/new-note.md",
+    "test.md",
+    "jkhello.md",
+    "newfile.md",
+    "hestjl.md",
+    "sslejt.md",
+    "sdf.md",
+    "set.md",
+    "sdlfj.md",
+    "hest.md",
+    "Testnote.md",
+    "tset.md",
+    "Templates/note-table.md",
+    "Templates/subject.md",
+    "Templates/Insert Title.md",
+    "Notes/MANOVA 2.md",
     "HOME.md",
+    "MANOVA 2.md",
+    "Notes/Multivariate Statistics.md",
+    "Lessons/Semester 7/statistics/Lektion 5 slides.pdf",
+    "Notes/Algorithms and Data Structures.md",
     "Notes/Unit Sample.md",
     "Notes/Vinkelfrekvens.md",
     "Notes/impulstog.md",
-    "Excalidraw/fysik PA.md",
-    "Notes/Algorithms and Data Structures.md",
-    "Notes/Max Flow.md",
-    "Notes/Monotoniforhold.md",
-    "Notes/Supervised Learning.md",
     "HOME.md~",
-    "Notes/Law of Cosines.md",
-    "Notes/System of Linear Equations.md",
-    "Notes/Linear Algebra.md",
-    "Notes/Distributions.md",
-    "Notes/Funktioner af flere Variable.md",
-    "Notes/Multivariable Math.md",
-    "Notes/Multivariate Statistics.md",
-    "Notes/Microcontrolers.md",
-    "Multivaiate state.md",
-    "Notes/Matrix.md",
-    "Notes/Integraler.md",
-    "Notes/Integrator.md",
-    "Notes/Sorting Algorithms.md",
-    "Notes/Anti-Windup.md",
-    "Notes/State Space Models.md",
     "Lessons/Semester 3/signalbehandling/Slides/Lektion 5 - Introduktion til z-transformation.pdf",
     "Lessons/Semester 3/signalbehandling/Slides/Lektion 3 - Introduktion til FFT.pdf",
     "Lessons/Semester 3/signalbehandling/Slides/Lektion 2 - Sampling og Rekonstruktion.pdf",
-    "Notes/Signal Processing.md",
-    "Notes/Difference Equations.md",
     "Notes/Weiner Filter.md~",
     "Notes/4913",
     "Templates/note-table.md~",
     "Templates/subject.md~",
-    "4913",
-    "Notes/State Space Models.md~",
     "Pasted image 20260928091536.png",
     "Pasted image 20260925085954.png",
     "emwave.png",
