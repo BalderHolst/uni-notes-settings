@@ -13,72 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/new-note.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "new-note"
-            }
-          },
-          {
-            "id": "e58f20dcc0f7e4f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/new-note.md",
+                "file": "Notes/Statistical Signal Processing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "new-note"
-            }
-          },
-          {
-            "id": "25fbba2e1a589356",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hello.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hello"
-            }
-          },
-          {
-            "id": "03481ece7334db03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "estst.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "estst"
-            }
-          },
-          {
-            "id": "3957fd22ea6a4c11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Statistical Signal Processing"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#subject",
+                "query": "tag:subject",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,11 +77,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -267,44 +211,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3957fd22ea6a4c11",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "estst.md",
-    "Untitled.md",
-    "Templates/new-note.md~",
+    "Notes/Statistical Signal Processing.md~",
+    "Notes/Differential Equations.md",
+    "Notes/Drones.md",
+    "Notes/Embedded.md",
+    "Notes/Intelligent Systems.md",
+    "Notes/Statistical Signal Processing.md",
+    "Templates/subject.md",
+    "Templates/subject.md~",
+    "HOME.md",
+    "Notes/estst.md",
+    "Notes/hello.md",
+    "Notes/Untitled 1.md",
+    "Notes/hslet.md",
+    "Notes/Untitled.md",
     "hello.md",
-    "Templates/new-note.md",
+    "hslfja.md",
+    "Templates/new-note.md~",
     "test.md",
+    "file2.md",
+    "Templates/4913",
+    "hslet.md",
+    "estst.md",
+    "Templates/new-note.md",
     "jkhello.md",
     "newfile.md",
     "hestjl.md",
     "sslejt.md",
     "sdf.md",
     "set.md",
-    "sdlfj.md",
-    "hest.md",
-    "Testnote.md",
-    "tset.md",
-    "Templates/note-table.md",
-    "Templates/subject.md",
-    "Templates/Insert Title.md",
-    "Notes/MANOVA 2.md",
-    "HOME.md",
-    "MANOVA 2.md",
-    "Notes/Multivariate Statistics.md",
     "Lessons/Semester 7/statistics/Lektion 5 slides.pdf",
-    "Notes/Algorithms and Data Structures.md",
-    "Notes/Unit Sample.md",
-    "Notes/Vinkelfrekvens.md",
-    "Notes/impulstog.md",
     "HOME.md~",
     "Lessons/Semester 3/signalbehandling/Slides/Lektion 5 - Introduktion til z-transformation.pdf",
     "Lessons/Semester 3/signalbehandling/Slides/Lektion 3 - Introduktion til FFT.pdf",
     "Lessons/Semester 3/signalbehandling/Slides/Lektion 2 - Sampling og Rekonstruktion.pdf",
     "Notes/Weiner Filter.md~",
-    "Notes/4913",
-    "Templates/note-table.md~",
-    "Templates/subject.md~",
     "Pasted image 20260928091536.png",
     "Pasted image 20260925085954.png",
     "emwave.png",
