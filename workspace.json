@@ -39,7 +39,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -77,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -213,7 +216,30 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/IIR Filters.md",
+    "Notes/Kalman Filter.md",
+    "Notes/Z-distribution.md",
+    "Notes/Taylorpolynomium.md",
+    "Notes/Schmitt Trigger.md",
+    "Notes/Omdrejningslegne.md",
+    "Notes/Marginal Distribution.md",
+    "Notes/Linært Afhængige Vektorer.md",
+    "Notes/Kredsløb.md",
+    "Notes/Integrator.md",
+    "Notes/Generalized Coordinates.md",
+    "Notes/Filters.md",
+    "Notes/Eigendecomposition.md",
+    "Notes/Cirklens Ligning.md",
+    "Notes/Change of Variables.md",
+    "Notes/Arc Length.md",
+    "Notes/Andenordens inhomogene differentialligninger.md",
+    "media",
+    "Images/Pasted image 20261005094524.png",
+    "Images/Pasted image 20261005094456.png",
+    "Pasted image 20261005094524.png",
+    "Pasted image 20261005094456.png",
     "Notes/Kalman Filter.md~",
+    "Notes/4913",
     "HOME.md",
     "Notes/Statistical Signal Processing.md",
     "Notes/Statistical Signal Processing.md~",
@@ -225,40 +251,17 @@
     "Templates/subject.md~",
     "Notes/estst.md",
     "Notes/hello.md",
-    "Notes/Untitled 1.md",
-    "Notes/hslet.md",
-    "Notes/Untitled.md",
-    "hello.md",
-    "hslfja.md",
     "Templates/new-note.md~",
-    "test.md",
-    "file2.md",
     "Templates/4913",
-    "hslet.md",
-    "estst.md",
-    "Templates/new-note.md",
-    "jkhello.md",
-    "newfile.md",
-    "hestjl.md",
-    "sslejt.md",
-    "sdf.md",
-    "set.md",
     "Lessons/Semester 7/statistics/Lektion 5 slides.pdf",
     "HOME.md~",
     "Lessons/Semester 3/signalbehandling/Slides/Lektion 5 - Introduktion til z-transformation.pdf",
-    "Lessons/Semester 3/signalbehandling/Slides/Lektion 3 - Introduktion til FFT.pdf",
-    "Lessons/Semester 3/signalbehandling/Slides/Lektion 2 - Sampling og Rekonstruktion.pdf",
-    "Notes/Weiner Filter.md~",
     "Pasted image 20260928091536.png",
     "Pasted image 20260925085954.png",
     "emwave.png",
     "emwave.gif",
     "Pasted image 20260925085830.png",
     "Images/Pasted image 20260924124855.png",
-    "Images/Pasted image 20260924122217.png",
-    "Pasted image 20260924124855.png",
-    "Pasted image 20260924122217.png",
-    "Pasted image 20260917123108.png",
     "Untitled.canvas"
   ]
 }

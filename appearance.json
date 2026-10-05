@@ -4,7 +4,9 @@
   "enabledCssSnippets": [
     "center",
     "latex",
-    "cpp"
+    "cpp",
+    "callout",
+    "bg_white"
   ],
   "showViewHeader": true,
   "theme": "obsidian",

@@ -1,0 +1,5 @@
+img[alt*="bg_white"] {
+    background-color: #ffffff !important;
+    padding: 8px; /* Optional: adds buffer around transparent PNGs/SVGs */
+    border-radius: 4px; /* Optional: adds subtle rounded corners */
+}
