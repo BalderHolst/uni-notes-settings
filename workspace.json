@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Statistical Signal Processing.md",
+                "file": "Notes/Kalman Filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statistical Signal Processing"
+              "title": "Kalman Filter"
             }
           }
         ]
@@ -213,15 +213,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Kalman Filter.md~",
+    "HOME.md",
+    "Notes/Statistical Signal Processing.md",
     "Notes/Statistical Signal Processing.md~",
     "Notes/Differential Equations.md",
     "Notes/Drones.md",
     "Notes/Embedded.md",
     "Notes/Intelligent Systems.md",
-    "Notes/Statistical Signal Processing.md",
     "Templates/subject.md",
     "Templates/subject.md~",
-    "HOME.md",
     "Notes/estst.md",
     "Notes/hello.md",
     "Notes/Untitled 1.md",
