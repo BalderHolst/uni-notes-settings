@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Kalman Filter.md",
+                "file": "Notes/Non-parametric Hypothesis Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kalman Filter"
+              "title": "Non-parametric Hypothesis Test"
+            }
+          },
+          {
+            "id": "c30bc741c51c34b6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 7/statistics/Non-parametric hypothesis tests.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Non-parametric hypothesis tests"
             }
           }
         ]
@@ -84,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 343.10484504699707,
     "collapsed": true
   },
   "right": {
@@ -216,9 +228,23 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Notes/Kalman Filter.md~",
-    "Notes/IIR Filters.md",
+    "Lessons/Semester 7/statistics/Non-parametric hypothesis tests.pdf",
+    "Notes/Non-parametric Hypothesis Test.md",
+    "Lessons/Semester 7/statistics/Lektion 9 slides.pdf",
+    "HOME.md",
+    "Lessons/Semester 7/statistics/Lektion 4 slides.pdf",
+    "Lessons/Semester 7/statistics/Lektion 2 slides.pdf",
+    "Lessons/Semester 7/statistics/Sign test - Wikipedia.pdf",
+    "Lessons/Semester 7/statistics/Pearson_s chi-squared test - Wikipedia.pdf",
+    "Lessons/Semester 7/statistics/Goodness of fit - Wikipedia.pdf",
+    "Lessons/Semester 7/statistics/Kolmogorov-Smirnov test - Oxford University.pdf",
+    "Lessons/Semester 7/statistics/Contingency table - Wikipedia.pdf",
+    "Lessons/Semester 7/statistics/Contingency tables and Goodnes of Fit test.pdf",
+    "Notes/Hypothesis Testing.md",
+    "Non-parametric Hypothesis Test.md",
+    "Untitled.md",
     "Notes/Kalman Filter.md",
+    "Notes/IIR Filters.md",
     "Notes/Z-distribution.md",
     "Notes/Taylorpolynomium.md",
     "Notes/Schmitt Trigger.md",
@@ -234,27 +260,13 @@
     "Notes/Change of Variables.md",
     "Notes/Arc Length.md",
     "Notes/Andenordens inhomogene differentialligninger.md",
-    "media",
     "Images/Pasted image 20261005094524.png",
     "Images/Pasted image 20261005094456.png",
     "Pasted image 20261005094524.png",
     "Pasted image 20261005094456.png",
-    "Notes/4913",
-    "HOME.md",
     "Notes/Statistical Signal Processing.md",
-    "Notes/Statistical Signal Processing.md~",
     "Notes/Differential Equations.md",
     "Notes/Drones.md",
-    "Notes/Embedded.md",
-    "Notes/Intelligent Systems.md",
-    "Templates/subject.md",
-    "Templates/subject.md~",
-    "Notes/estst.md",
-    "Templates/new-note.md~",
-    "Templates/4913",
-    "Lessons/Semester 7/statistics/Lektion 5 slides.pdf",
-    "HOME.md~",
-    "Lessons/Semester 3/signalbehandling/Slides/Lektion 5 - Introduktion til z-transformation.pdf",
     "Pasted image 20260928091536.png",
     "Pasted image 20260925085954.png",
     "emwave.png",

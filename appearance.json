@@ -1,12 +1,12 @@
 {
   "accentColor": "",
-  "cssTheme": "Spectrum",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "center",
-    "latex",
     "cpp",
     "callout",
-    "bg_white"
+    "bg_white",
+    "latex"
   ],
   "showViewHeader": true,
   "theme": "obsidian",
