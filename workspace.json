@@ -22,24 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "4ccf4bfebc40ecb5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c30bc741c51c34b6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lessons/Semester 7/statistics/Non-parametric hypothesis tests.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Non-parametric hypothesis tests"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
