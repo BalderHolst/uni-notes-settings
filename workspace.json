@@ -20,7 +20,13 @@
               "icon": "lucide-file",
               "title": "Non-parametric Hypothesis Test"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "4ccf4bfebc40ecb5",
+        "type": "tabs",
+        "children": [
           {
             "id": "c30bc741c51c34b6",
             "type": "leaf",
