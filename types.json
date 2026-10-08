@@ -25,6 +25,7 @@
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox",
     "created": "date",
-    "slides": "multitext"
+    "slides": "multitext",
+    "links": "multitext"
   }
 }
