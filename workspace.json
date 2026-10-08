@@ -4,39 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "74b29b0adbab9d50",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "f0afae1723162800",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-parametric Models.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Non-parametric Models"
-            }
-          },
-          {
-            "id": "335af1de7b539327",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K-nearest Neighbors.md",
+                "file": "Notes/K-nearest Neighbors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "K-nearest Neighbors"
             }
+          },
+          {
+            "id": "c6dbecbb442130ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Statistical Distance (Mahalanobis).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Statistical Distance (Mahalanobis)"
+            }
+          },
+          {
+            "id": "05a34360da7cfd51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Dimensionality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Curse of Dimensionality"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:machine-learning",
+                "query": "mahala",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,11 +109,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 343.10484504699707
+    "width": 343.10484504699707,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -228,19 +243,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "335af1de7b539327",
+  "active": "05a34360da7cfd51",
   "lastOpenFiles": [
+    "Notes/Statistical Distance (Mahalanobis).md",
+    "Curse of Dimensionality.md",
+    "Notes/K-nearest Neighbors.md",
+    "HOME.md",
+    "Notes/Non-parametric Models.md",
+    "Images/Pasted image 20261008123400.png",
+    "Notes/Non-parametric Hypothesis Test.md",
+    "Notes/Logistic Regressions.md",
+    "Non-parametric Models.md",
+    "Mahalanobis Distance.md",
+    "K-nearest Neighbors.md",
     "1nn.png",
     "20nn.png",
-    "K-nearest Neighbors.md",
     "Pasted image 20261008123400.png",
-    "Non-parametric Models.md",
-    "Notes/Logistic Regressions.md",
     "Notes/L1 (Lasso Regularization).md",
     "Notes/Machine Learning.md",
     "Notes/Perceptron.md",
-    "HOME.md",
-    "Notes/Non-parametric Hypothesis Test.md",
     "Lessons/Semester 7/statistics/Non-parametric hypothesis tests.pdf",
     "Lessons/Semester 7/statistics/Lektion 9 slides.pdf",
     "Lessons/Semester 7/statistics/Lektion 4 slides.pdf",
@@ -253,7 +274,6 @@
     "Lessons/Semester 7/statistics/Contingency tables and Goodnes of Fit test.pdf",
     "Notes/Hypothesis Testing.md",
     "Non-parametric Hypothesis Test.md",
-    "Untitled.md",
     "Notes/Kalman Filter.md",
     "Notes/IIR Filters.md",
     "Notes/Z-distribution.md",
@@ -265,16 +285,12 @@
     "Notes/Kredsløb.md",
     "Notes/Integrator.md",
     "Notes/Generalized Coordinates.md",
-    "Notes/Filters.md",
-    "Notes/Eigendecomposition.md",
-    "Notes/Cirklens Ligning.md",
     "Images/Pasted image 20261005094524.png",
     "Images/Pasted image 20261005094456.png",
     "Pasted image 20261005094524.png",
     "Pasted image 20261005094456.png",
     "Pasted image 20260928091536.png",
     "Pasted image 20260925085954.png",
-    "emwave.png",
     "Untitled.canvas"
   ]
 }
