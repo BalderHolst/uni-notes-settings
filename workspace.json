@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "4a6a3a988fdd4dfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classification Trees.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classification Trees"
+            }
+          },
+          {
             "id": "c6dbecbb442130ac",
             "type": "leaf",
             "state": {
@@ -41,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Dimensionality.md",
+                "file": "Notes/Feature Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curse of Dimensionality"
+              "title": "Feature Engineering"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,11 +257,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05a34360da7cfd51",
+  "active": "4a6a3a988fdd4dfd",
   "lastOpenFiles": [
-    "Notes/Statistical Distance (Mahalanobis).md",
-    "Curse of Dimensionality.md",
+    "Pasted image 20261008133303.png",
     "Notes/K-nearest Neighbors.md",
+    "Classification Trees.md",
+    "Notes/Feature Engineering.md",
+    "Curse of Dimensionality.md",
+    "Notes/Statistical Distance (Mahalanobis).md",
     "HOME.md",
     "Notes/Non-parametric Models.md",
     "Images/Pasted image 20261008123400.png",
@@ -282,9 +299,6 @@
     "Notes/Omdrejningslegne.md",
     "Notes/Marginal Distribution.md",
     "Notes/Linært Afhængige Vektorer.md",
-    "Notes/Kredsløb.md",
-    "Notes/Integrator.md",
-    "Notes/Generalized Coordinates.md",
     "Images/Pasted image 20261005094524.png",
     "Images/Pasted image 20261005094456.png",
     "Pasted image 20261005094524.png",
