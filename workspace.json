@@ -55,16 +55,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Linear State Space Models.md",
+                "file": "Notes/Optimal Control (LQR).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear State Space Models"
+              "title": "Optimal Control (LQR)"
+            }
+          },
+          {
+            "id": "c60afd97ceca8cb8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 7/cas/CAS-2026-Lecture4-stability.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CAS-2026-Lecture4-stability"
+            }
+          },
+          {
+            "id": "94e8ef4c5426afd1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "External/Kasper's Notes/Uni/Slides/CAS-2025-Lecture4-stability.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CAS-2025-Lecture4-stability"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,12 +147,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 343.10484504699707,
-    "collapsed": true
+    "width": 343.10484504699707
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -257,13 +280,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ed3118c4da0eb1a",
+  "active": "c60afd97ceca8cb8",
   "lastOpenFiles": [
-    "Notes/State Space Models.md",
     "Notes/State Feedback.md",
-    "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
     "Notes/Optimal Control (LQR).md",
-    "External/Jacob's Notes/Control of Autonomous Systems/Slides/CAS-2025-Lecture4-stability.pdf",
+    "Lessons/Semester 7/cas/CAS-2026-Lecture4-stability.pdf",
+    "Lessons/Semester 7/cas/CAS-2026-Lecture4-LectureNotes.pdf",
+    "Lessons/Semester 7/cas/CAS-2026-Lecture4-exercises.pdf",
+    "Lessons/Semester 7/cas/CAS-2026-Lecture3-PID.pdf",
+    "Lessons/Semester 7/cas/CAS-2026-Lecture3-LectureNotes.pdf",
+    "Lessons/Semester 7/cas/CAS-2026-Lecture3-exercises.pdf",
+    "Lessons/Semester 7/cas/CAS-2026-Lecture2-SSrep.pdf",
+    "Lessons/Semester 7/cas/CAS-2026-Lecture2-LectureNotes.pdf",
+    "Lessons/Semester 7/cas/CAS-2026-Lecture2-exercises.pdf",
+    "Lessons/Semester 7/cas/CAS-2026-Lecture1-LectureNotes.pdf",
+    "Notes/Linear State Space Models.md",
+    "Notes/State Space Models.md",
     "Autocorrelation.md",
     "Templates/new-note.md",
     "HOME.md",
@@ -277,16 +309,8 @@
     "External/Kasper's Notes/Projects/Project Notes/test note2.md",
     "External/Kasper's Notes/Projects/Project Notes/test note1.md",
     "Notes/Extended Kalman Filter.md",
-    "Lessons/Semester 7/ssp/Problems STATSIG lecture 06.pdf",
     "Extended Kalman Filter.md",
-    "Lessons/Semester 7/ssp/Solutions STATSIG lecture 06.pdf",
     "Notes/Kalman Filter.md",
-    "Lessons/Semester 7/ssp/MATLAB documentation - Parametric Methods for PSD estimation.pdf",
-    "Lessons/Semester 7/ssp/Model-based (parametric) spectral estimation.pdf",
-    "Lessons/Semester 7/ssp/Problems STATSIG lecture 09.pdf",
-    "Lessons/Semester 7/ssp/Monson Hayes - Statistical Digital Signal Processing and Modeling, Parametric modeling and estimation  (from textbook).pdf",
-    "Lessons/Semester 7/ssp/Agenda STATSIG lecture 09.pdf",
-    "Lessons/Semester 7/ssp/MATLAB documentation - Non-parametric Methods for PSD estimation.pdf",
     "Notes/Linarisering.md",
     "Notes/Classification Forrest.md",
     "Notes/Curse of Dimensionality.md",
@@ -295,8 +319,6 @@
     "Classification Forrest.md",
     "Classification Trees.md",
     "Pasted image 20261008133303.png",
-    "Notes/K-nearest Neighbors.md",
-    "Notes/Feature Engineering.md",
     "Images/Pasted image 20261008123400.png",
     "1nn.png",
     "20nn.png",
