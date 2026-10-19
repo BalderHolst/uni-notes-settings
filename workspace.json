@@ -41,12 +41,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Optimal Control (LQR).md",
+                "file": "Notes/State Feedback.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Optimal Control (LQR)"
+              "title": "State Feedback"
+            }
+          },
+          {
+            "id": "2ed3118c4da0eb1a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 9 - State Feedback Control"
             }
           }
         ],
@@ -245,8 +257,9 @@
   },
   "active": "32916d0c6ede8d26",
   "lastOpenFiles": [
-    "Notes/State Feedback.md",
     "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
+    "Notes/State Feedback.md",
+    "Notes/Optimal Control (LQR).md",
     "External/Jacob's Notes/Control of Autonomous Systems/Slides/CAS-2025-Lecture4-stability.pdf",
     "Autocorrelation.md",
     "Templates/new-note.md",
@@ -281,7 +294,6 @@
     "Pasted image 20261008133303.png",
     "Notes/K-nearest Neighbors.md",
     "Notes/Feature Engineering.md",
-    "Curse of Dimensionality.md",
     "Images/Pasted image 20261008123400.png",
     "1nn.png",
     "20nn.png",
