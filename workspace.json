@@ -4,81 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "74b29b0adbab9d50",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f0afae1723162800",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/K-nearest Neighbors.md",
+                "file": "Notes/Kalman Filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K-nearest Neighbors"
+              "title": "Kalman Filter"
             }
           },
           {
-            "id": "4a6a3a988fdd4dfd",
+            "id": "b2faeaca1abc02ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classification Trees.md",
+                "file": "Extended Kalman Filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classification Trees"
-            }
-          },
-          {
-            "id": "e4a1a2ac45600026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classification Forrest.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Classification Forrest"
-            }
-          },
-          {
-            "id": "c6dbecbb442130ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Statistical Distance (Mahalanobis).md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Statistical Distance (Mahalanobis)"
-            }
-          },
-          {
-            "id": "05a34360da7cfd51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Feature Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Feature Engineering"
+              "title": "Extended Kalman Filter"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,16 +229,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4a1a2ac45600026",
+  "active": "b2faeaca1abc02ee",
   "lastOpenFiles": [
-    "Classification Trees.md",
+    "Notes/Linarisering.md",
+    "Extended Kalman Filter.md",
+    "Notes/Kalman Filter.md",
+    "Notes/Classification Forrest.md",
+    "HOME.md",
+    "Notes/Curse of Dimensionality.md",
+    "Notes/Classification Trees.md",
+    "Images/Pasted image 20261008133303.png",
     "Classification Forrest.md",
+    "Classification Trees.md",
     "Pasted image 20261008133303.png",
     "Notes/K-nearest Neighbors.md",
     "Notes/Feature Engineering.md",
     "Curse of Dimensionality.md",
     "Notes/Statistical Distance (Mahalanobis).md",
-    "HOME.md",
     "Notes/Non-parametric Models.md",
     "Images/Pasted image 20261008123400.png",
     "Notes/Non-parametric Hypothesis Test.md",
@@ -306,19 +271,12 @@
     "Lessons/Semester 7/statistics/Contingency tables and Goodnes of Fit test.pdf",
     "Notes/Hypothesis Testing.md",
     "Non-parametric Hypothesis Test.md",
-    "Notes/Kalman Filter.md",
     "Notes/IIR Filters.md",
     "Notes/Z-distribution.md",
-    "Notes/Taylorpolynomium.md",
-    "Notes/Schmitt Trigger.md",
-    "Notes/Omdrejningslegne.md",
-    "Notes/Marginal Distribution.md",
-    "Notes/Linært Afhængige Vektorer.md",
     "Images/Pasted image 20261005094524.png",
     "Images/Pasted image 20261005094456.png",
     "Pasted image 20261005094524.png",
     "Pasted image 20261005094456.png",
-    "Pasted image 20260928091536.png",
     "Untitled.canvas"
   ]
 }
