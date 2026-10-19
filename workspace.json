@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Extended Kalman Filter.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -231,6 +231,7 @@
   },
   "active": "b2faeaca1abc02ee",
   "lastOpenFiles": [
+    "Extended Kalman Filter.md~",
     "Notes/Linarisering.md",
     "Extended Kalman Filter.md",
     "Notes/Kalman Filter.md",
@@ -272,7 +273,6 @@
     "Notes/Hypothesis Testing.md",
     "Non-parametric Hypothesis Test.md",
     "Notes/IIR Filters.md",
-    "Notes/Z-distribution.md",
     "Images/Pasted image 20261005094524.png",
     "Images/Pasted image 20261005094456.png",
     "Pasted image 20261005094524.png",
