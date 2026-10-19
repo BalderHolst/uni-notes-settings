@@ -13,54 +13,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Kalman Filter.md",
-                "mode": "source",
+                "file": "HOME.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kalman Filter"
+              "title": "HOME"
             }
           },
           {
-            "id": "b2faeaca1abc02ee",
+            "id": "af3107c81a551bc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extended Kalman Filter.md",
+                "file": "Templates/new-note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extended Kalman Filter"
+              "title": "new-note"
             }
           },
           {
-            "id": "6541659f2405ad6d",
+            "id": "32916d0c6ede8d26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/State Feedback.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "State Feedback"
+            }
+          },
+          {
+            "id": "83aa892f2736dcef",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lessons/Semester 7/ssp/Problems STATSIG lecture 06.pdf"
+                "file": "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Problems STATSIG lecture 06"
-            }
-          },
-          {
-            "id": "db74ac6d1b9fbe40",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lessons/Semester 7/ssp/Solutions STATSIG lecture 06.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Solutions STATSIG lecture 06"
+              "title": "Lecture 9 - State Feedback Control"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -253,8 +255,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2faeaca1abc02ee",
+  "active": "83aa892f2736dcef",
   "lastOpenFiles": [
+    "Notes/State Feedback.md",
+    "Autocorrelation.md",
+    "Templates/new-note.md",
+    "HOME.md",
+    "External/Kasper's Notes/Uni/Notes/NewNotes/Pi Compute Module.md",
+    "External/Kasper's Notes/Uni/Notes/NewNotes/Airmon wifi bruteforce.md",
+    "External/Kasper's Notes/TaskNotes/Tasks/install windows on SSD.md",
+    "External/Kasper's Notes/TaskNotes/Tasks/Tilfoej zoxide til yazi.md",
+    "External/Kasper's Notes/TaskNotes/Tasks/Fix Project folder i Obsidian.md",
+    "External/Kasper's Notes/TaskNotes/Tasks/Finish CAD for plant.md",
+    "External/Kasper's Notes/TaskNotes/Tasks/Bestil PCB gennem Richard.md",
+    "External/Kasper's Notes/Projects/Project Notes/test note2.md",
+    "External/Kasper's Notes/Projects/Project Notes/test note1.md",
+    "Notes/Extended Kalman Filter.md",
     "Lessons/Semester 7/ssp/Problems STATSIG lecture 06.pdf",
     "Extended Kalman Filter.md",
     "Lessons/Semester 7/ssp/Solutions STATSIG lecture 06.pdf",
@@ -269,7 +285,6 @@
     "Lessons/Semester 7/ssp/Overview over methods for Spectral Estimation.pdf",
     "Notes/Linarisering.md",
     "Notes/Classification Forrest.md",
-    "HOME.md",
     "Notes/Curse of Dimensionality.md",
     "Notes/Classification Trees.md",
     "Images/Pasted image 20261008133303.png",
@@ -280,22 +295,10 @@
     "Notes/Feature Engineering.md",
     "Curse of Dimensionality.md",
     "Notes/Statistical Distance (Mahalanobis).md",
-    "Notes/Non-parametric Models.md",
     "Images/Pasted image 20261008123400.png",
-    "Notes/Non-parametric Hypothesis Test.md",
-    "Notes/Logistic Regressions.md",
-    "Non-parametric Models.md",
-    "Mahalanobis Distance.md",
-    "K-nearest Neighbors.md",
     "1nn.png",
     "20nn.png",
     "Pasted image 20261008123400.png",
-    "Notes/L1 (Lasso Regularization).md",
-    "Notes/Machine Learning.md",
-    "Notes/Perceptron.md",
-    "Notes/Hypothesis Testing.md",
-    "Non-parametric Hypothesis Test.md",
-    "Notes/IIR Filters.md",
     "Images/Pasted image 20261005094524.png",
     "Images/Pasted image 20261005094456.png",
     "Pasted image 20261005094524.png",
