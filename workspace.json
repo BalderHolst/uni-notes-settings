@@ -48,21 +48,9 @@
               "icon": "lucide-file",
               "title": "State Feedback"
             }
-          },
-          {
-            "id": "83aa892f2736dcef",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 9 - State Feedback Control"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,8 +243,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83aa892f2736dcef",
+  "active": "32916d0c6ede8d26",
   "lastOpenFiles": [
+    "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
+    "External/Jacob's Notes/Control of Autonomous Systems/Slides/CAS-2025-Lecture4-stability.pdf",
     "Notes/State Feedback.md",
     "Autocorrelation.md",
     "Templates/new-note.md",
@@ -282,7 +272,6 @@
     "Lessons/Semester 7/ssp/Agenda STATSIG lecture 09.pdf",
     "Lessons/Semester 7/ssp/MATLAB documentation - Non-parametric Methods for PSD estimation.pdf",
     "Lessons/Semester 7/ssp/Performance of Non-parametric Spectral Estimation.pdf",
-    "Lessons/Semester 7/ssp/Overview over methods for Spectral Estimation.pdf",
     "Notes/Linarisering.md",
     "Notes/Classification Forrest.md",
     "Notes/Curse of Dimensionality.md",
@@ -294,7 +283,6 @@
     "Notes/K-nearest Neighbors.md",
     "Notes/Feature Engineering.md",
     "Curse of Dimensionality.md",
-    "Notes/Statistical Distance (Mahalanobis).md",
     "Images/Pasted image 20261008123400.png",
     "1nn.png",
     "20nn.png",
