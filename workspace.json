@@ -53,16 +53,18 @@
             "id": "2ed3118c4da0eb1a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf"
+                "file": "Notes/Linear State Space Models.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture 9 - State Feedback Control"
+              "icon": "lucide-file",
+              "title": "Linear State Space Models"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -255,10 +257,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32916d0c6ede8d26",
+  "active": "2ed3118c4da0eb1a",
   "lastOpenFiles": [
-    "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
+    "Notes/State Space Models.md",
     "Notes/State Feedback.md",
+    "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
     "Notes/Optimal Control (LQR).md",
     "External/Jacob's Notes/Control of Autonomous Systems/Slides/CAS-2025-Lecture4-stability.pdf",
     "Autocorrelation.md",
