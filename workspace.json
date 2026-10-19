@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/State Feedback.md",
+                "file": "Notes/Optimal Control (LQR).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "State Feedback"
+              "title": "Optimal Control (LQR)"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mahala",
+                "query": "Bryson",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -245,9 +245,9 @@
   },
   "active": "32916d0c6ede8d26",
   "lastOpenFiles": [
+    "Notes/State Feedback.md",
     "Lessons/Semester 4/regulation/Lecture 9 - State Feedback Control.pdf",
     "External/Jacob's Notes/Control of Autonomous Systems/Slides/CAS-2025-Lecture4-stability.pdf",
-    "Notes/State Feedback.md",
     "Autocorrelation.md",
     "Templates/new-note.md",
     "HOME.md",
@@ -271,7 +271,6 @@
     "Lessons/Semester 7/ssp/Monson Hayes - Statistical Digital Signal Processing and Modeling, Parametric modeling and estimation  (from textbook).pdf",
     "Lessons/Semester 7/ssp/Agenda STATSIG lecture 09.pdf",
     "Lessons/Semester 7/ssp/MATLAB documentation - Non-parametric Methods for PSD estimation.pdf",
-    "Lessons/Semester 7/ssp/Performance of Non-parametric Spectral Estimation.pdf",
     "Notes/Linarisering.md",
     "Notes/Classification Forrest.md",
     "Notes/Curse of Dimensionality.md",
