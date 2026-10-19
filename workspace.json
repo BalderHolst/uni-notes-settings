@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,11 +253,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6541659f2405ad6d",
+  "active": "b2faeaca1abc02ee",
   "lastOpenFiles": [
+    "Lessons/Semester 7/ssp/Problems STATSIG lecture 06.pdf",
     "Extended Kalman Filter.md",
     "Lessons/Semester 7/ssp/Solutions STATSIG lecture 06.pdf",
-    "Lessons/Semester 7/ssp/Problems STATSIG lecture 06.pdf",
     "Notes/Kalman Filter.md",
     "Lessons/Semester 7/ssp/MATLAB documentation - Parametric Methods for PSD estimation.pdf",
     "Lessons/Semester 7/ssp/Model-based (parametric) spectral estimation.pdf",
