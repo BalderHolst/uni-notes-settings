@@ -34,9 +34,33 @@
               "icon": "lucide-file",
               "title": "Extended Kalman Filter"
             }
+          },
+          {
+            "id": "6541659f2405ad6d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 7/ssp/Problems STATSIG lecture 06.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Problems STATSIG lecture 06"
+            }
+          },
+          {
+            "id": "db74ac6d1b9fbe40",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 7/ssp/Solutions STATSIG lecture 06.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Solutions STATSIG lecture 06"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -229,12 +253,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2faeaca1abc02ee",
+  "active": "6541659f2405ad6d",
   "lastOpenFiles": [
-    "Extended Kalman Filter.md~",
-    "Notes/Linarisering.md",
     "Extended Kalman Filter.md",
+    "Lessons/Semester 7/ssp/Solutions STATSIG lecture 06.pdf",
+    "Lessons/Semester 7/ssp/Problems STATSIG lecture 06.pdf",
     "Notes/Kalman Filter.md",
+    "Lessons/Semester 7/ssp/MATLAB documentation - Parametric Methods for PSD estimation.pdf",
+    "Lessons/Semester 7/ssp/Model-based (parametric) spectral estimation.pdf",
+    "Lessons/Semester 7/ssp/Problems STATSIG lecture 09.pdf",
+    "Lessons/Semester 7/ssp/Monson Hayes - Statistical Digital Signal Processing and Modeling, Parametric modeling and estimation  (from textbook).pdf",
+    "Lessons/Semester 7/ssp/Agenda STATSIG lecture 09.pdf",
+    "Lessons/Semester 7/ssp/MATLAB documentation - Non-parametric Methods for PSD estimation.pdf",
+    "Lessons/Semester 7/ssp/Performance of Non-parametric Spectral Estimation.pdf",
+    "Lessons/Semester 7/ssp/Overview over methods for Spectral Estimation.pdf",
+    "Notes/Linarisering.md",
     "Notes/Classification Forrest.md",
     "HOME.md",
     "Notes/Curse of Dimensionality.md",
@@ -260,16 +293,6 @@
     "Notes/L1 (Lasso Regularization).md",
     "Notes/Machine Learning.md",
     "Notes/Perceptron.md",
-    "Lessons/Semester 7/statistics/Non-parametric hypothesis tests.pdf",
-    "Lessons/Semester 7/statistics/Lektion 9 slides.pdf",
-    "Lessons/Semester 7/statistics/Lektion 4 slides.pdf",
-    "Lessons/Semester 7/statistics/Lektion 2 slides.pdf",
-    "Lessons/Semester 7/statistics/Sign test - Wikipedia.pdf",
-    "Lessons/Semester 7/statistics/Pearson_s chi-squared test - Wikipedia.pdf",
-    "Lessons/Semester 7/statistics/Goodness of fit - Wikipedia.pdf",
-    "Lessons/Semester 7/statistics/Kolmogorov-Smirnov test - Oxford University.pdf",
-    "Lessons/Semester 7/statistics/Contingency table - Wikipedia.pdf",
-    "Lessons/Semester 7/statistics/Contingency tables and Goodnes of Fit test.pdf",
     "Notes/Hypothesis Testing.md",
     "Non-parametric Hypothesis Test.md",
     "Notes/IIR Filters.md",
