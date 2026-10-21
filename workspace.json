@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "0dfa535bf49c5a25",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 7/statistics/Lektion 6 slides.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lektion 6 slides"
+            }
+          },
+          {
             "id": "3f31dde45eb25871",
             "type": "leaf",
             "state": {
@@ -243,9 +255,9 @@
   },
   "active": "1bc15968cddcc6d5",
   "lastOpenFiles": [
-    "Lessons/Semester 7/statistics/Linear regression models and terminology.pdf",
     "Lessons/Semester 7/statistics/Lektion 6 slides.pdf",
     "Univariate Multivariate Linear Regression (UMLR).md",
+    "Lessons/Semester 7/statistics/Linear regression models and terminology.pdf",
     "Notes/Parametric Regression.md",
     "HOME.md",
     "Lessons/Semester 7/cas/CAS-2026-Lecture4-stability.pdf",
