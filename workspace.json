@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Univariate Multivariate Linear Regression (UMLR).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,10 +253,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bc15968cddcc6d5",
+  "active": "0dfa535bf49c5a25",
   "lastOpenFiles": [
-    "Lessons/Semester 7/statistics/Lektion 6 slides.pdf",
     "Univariate Multivariate Linear Regression (UMLR).md",
+    "Lessons/Semester 7/statistics/Lektion 6 slides.pdf",
     "Lessons/Semester 7/statistics/Linear regression models and terminology.pdf",
     "Notes/Parametric Regression.md",
     "HOME.md",
