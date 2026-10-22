@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,11 +243,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "210a43f88edaf927",
+  "active": "a39134937461eb5c",
   "lastOpenFiles": [
-    "Notes/Perceptron.md",
-    "Kernel Perceptron.md",
     "Kernel Methods.md",
+    "Kernel Perceptron.md",
+    "Notes/Perceptron.md",
     "Kernel Methods.md~",
     "4913",
     "HOME.md",
