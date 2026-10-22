@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kernel Methods.md",
+                "file": "Notes/Perceptron.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kernel Methods"
+              "title": "Perceptron"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bryson",
+                "query": "dot pro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,10 +231,10 @@
   },
   "active": "210a43f88edaf927",
   "lastOpenFiles": [
+    "Kernel Methods.md",
     "Kernel Methods.md~",
     "4913",
     "HOME.md",
-    "Kernel Methods.md",
     "Notes/Parametric Regression.md",
     "Lessons/Semester 7/statistics/Linear regression models and terminology.pdf",
     "Lessons/Semester 7/statistics/Lektion 6 slides.pdf",
@@ -247,7 +247,6 @@
     "Lessons/Semester 7/cas/CAS-2026-Lecture3-PID.pdf",
     "Lessons/Semester 7/cas/CAS-2026-Lecture3-LectureNotes.pdf",
     "Lessons/Semester 7/cas/CAS-2026-Lecture3-exercises.pdf",
-    "Lessons/Semester 7/cas/CAS-2026-Lecture2-SSrep.pdf",
     "Notes/Linear State Space Models.md",
     "Notes/State Space Models.md",
     "Autocorrelation.md",
