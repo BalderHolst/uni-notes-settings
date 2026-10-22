@@ -1,395 +1,440 @@
-:root {
-    --base03: #002b36;
-    --base02: #073642;
-    --base01: #586e75;
-    --base00: #657b83;
-    --base00-rgb: 101, 123, 131;
-    --base0: #839496;
-    --base1: #93a1a1;
-    --base1-rgb: 147, 161, 161;
-    --base2: #eee8d5;
-    --base3: #fdf6e3;
-    --yellow: #b58900;
-    --orange: #cb4b16;
-    --orange-rgb: 203, 75, 22;
-    --red: #dc322f;
-    --red-rgb: 220, 50, 47;
-    --magenta: #d33682;
-    --violet: #6c71c4;
-    --blue: #268bd2;
-    --cyan: #2aa198;
-    --green: #859900;
+.theme-dark,
+.theme-light {
+  /* Overwrite default theme colors */
+  --base03: rgb(0, 43, 54);
+  --base02: rgb(7, 54, 66);
+  --base01: rgb(88, 110, 117);
+  --base00: rgb(101, 123, 131);
+  --base0: rgb(131, 148, 150);
+  --base1: rgb(147, 161, 161);
+  --base2: rgb(238, 232, 213);
+  --base3: rgb(253, 246, 227);
+  --color-yellow: rgb(181, 137, 0);
+  --color-yellow-rgb: 181, 137, 0;
+  --color-orange: rgb(203, 75, 22);
+  --color-orange-rgb: 203, 75, 22;
+  --color-red: rgb(220, 50, 47);
+  --color-red-rgb: 220, 50, 47;
+  --color-pink: rgb(211, 54, 130);
+  --color-pink-rgb: 211, 54, 130;
+  --color-purple: rgb(108, 113, 196);
+  --color-purple-rgb: 108, 113, 196;
+  --color-blue: rgb(38, 139, 210);
+  --color-blue-rgb: 38, 139, 210;
+  --color-cyan: rgb(42, 161, 152);
+  --color-cyan-rgb: 42, 161, 152;
+  --color-green: rgb(133, 153, 0);
+  --color-green-rgb: 133, 153, 0;
+  --accent-h: 17.5690607735deg;
+  --accent-s: 80.4444444444%;
+  --accent-l: 44.1176470588%;
 }
 
+/* Settings for the Style Settings plugin. Leave in _colors.scss because
+it relies on the $tones and $colors maps. */
+/*! @settings
+name: Solarized Theme Settings
+id: solarized-theme-settings
+settings:
+  - id: disable-active-line-highlight
+    title: Disable active line highlight
+    description: "By default Solarized highlights the active line. This setting lets you disable that behavior."
+    type: class-toggle
+    default: false
+  - id: tones
+    title: Base Tones
+    type: heading
+    level: 2
+    collapsed: true
+  - id: base03
+    title: base03
+    type: variable-color
+    format: rgb
+    default: rgb(0 43 54)
+  - id: base02
+    title: base02
+    type: variable-color
+    format: rgb
+    default: rgb(7 54 66)
+  - id: base01
+    title: base01
+    type: variable-color
+    format: rgb
+    default: rgb(88 110 117)
+  - id: base00
+    title: base00
+    type: variable-color
+    format: rgb
+    default: rgb(101 123 131)
+  - id: base0
+    title: base0
+    type: variable-color
+    format: rgb
+    default: rgb(131 148 150)
+  - id: base1
+    title: base1
+    type: variable-color
+    format: rgb
+    default: rgb(147 161 161)
+  - id: base2
+    title: base2
+    type: variable-color
+    format: rgb
+    default: rgb(238 232 213)
+  - id: base3
+    title: base3
+    type: variable-color
+    format: rgb
+    default: rgb(253 246 227)
+  - id: accents
+    description: "NB This does not override Obsidian's built-in accent color (see Appearance > Accent color)"
+    title: Accent Colors
+    type: heading
+    level: 2
+    collapsed: true
+  - id: color-yellow
+    title: yellow
+    type: variable-color
+    format: rgb
+    default: rgb(181 137 0)
+    alt-format:
+    - id: color-yellow-rgb
+      format: rgb-values
+  - id: color-orange
+    title: orange
+    type: variable-color
+    format: rgb
+    default: rgb(203 75 22)
+    alt-format:
+    - id: color-orange-rgb
+      format: rgb-values
+  - id: color-red
+    title: red
+    type: variable-color
+    format: rgb
+    default: rgb(220 50 47)
+    alt-format:
+    - id: color-red-rgb
+      format: rgb-values
+  - id: color-pink
+    title: pink
+    type: variable-color
+    format: rgb
+    default: rgb(211 54 130)
+    alt-format:
+    - id: color-pink-rgb
+      format: rgb-values
+  - id: color-purple
+    title: purple
+    type: variable-color
+    format: rgb
+    default: rgb(108 113 196)
+    alt-format:
+    - id: color-purple-rgb
+      format: rgb-values
+  - id: color-blue
+    title: blue
+    type: variable-color
+    format: rgb
+    default: rgb(38 139 210)
+    alt-format:
+    - id: color-blue-rgb
+      format: rgb-values
+  - id: color-cyan
+    title: cyan
+    type: variable-color
+    format: rgb
+    default: rgb(42 161 152)
+    alt-format:
+    - id: color-cyan-rgb
+      format: rgb-values
+  - id: color-green
+    title: green
+    type: variable-color
+    format: rgb
+    default: rgb(133 153 0)
+    alt-format:
+    - id: color-green-rgb
+      format: rgb-values
+*/
 .theme-dark {
-    --background-modifier-border: var(--base01);
-    /* --background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
-    --background-modifier-cover: rgba(0, 0, 0, 0.8); */
-    --background-modifier-error-hover: var(--text-error);
-    --background-modifier-error-rgb: var(--red-rgb);
-    --background-modifier-error: var(--text-error);
-    --background-modifier-form-field-highlighted: var(--background-primary);
-    --background-modifier-form-field: var(--background-primary-alt);
-    --background-modifier-success: var(--green);
-    --background-primary-alt: var(--base02);
-    --background-primary: var(--base03);
-    --background-secondary-alt: var(--background-primary-alt);
-    --background-secondary: var(--background-primary);
-    --highlight-mix-blend-mode: lighten;
-    --interactive-accent-hover: var(--cyan);
-    --interactive-accent-rgb: var(--orange-rgb);
-    --interactive-accent: var(--orange);
-    --interactive-hover: var(--interactive-normal);
-    --interactive-normal: var(--base03);
-    --interactive-success: var(--green);
-    /* --scrollbar-active-thumb-bg: rgba(255, 255, 255, 0.2);
-    --scrollbar-bg: rgba(255, 255, 255, 0.05);
-    --scrollbar-thumb-bg: rgba(255, 255, 255, 0.1); */
-    --pre-code: var(--base0);
-    --text-accent-hover: var(--violet);
-    --text-accent: var(--blue);
-    --text-border: var(--yellow);
-    --text-code: var(--magenta);
-    --text-error-hover: var(--text-error);
-    --text-error: var(--red);
-    --text-faint: var(--base01);
-    --text-highlight-bg-active: var(--text-highlight-bg);
-    --text-highlight-bg: var(--base02);
-    --text-highlight-fg: var(--violet);
-    --text-muted-rgb: var(--base00-rgb);
-    --text-muted: var(--base00);
-    --text-normal: var(--base0);
-    --text-on-accent: var(--background-primary);
-    --text-on-selection: var(--base1);
-    --text-selection: var(--background-primary-alt);
-    --text-title: var(--cyan);
-    --vim-cursor: var(--green);
+  /* Overwrite default theme colors */
+  --color-base-00: #1e1e1e;
+  --color-base-10: #242424;
+  --color-base-20: #262626;
+  --color-base-25: var(--base03);
+  --color-base-30: var(--base02);
+  --color-base-35: var(--base02);
+  --color-base-40: var(--base0);
+  --color-base-50: #666;
+  --color-base-60: #999;
+  --color-base-70: #bababa;
+  --color-base-100: #dadada;
+  /* Background */
+  --background-primary: var(--base03);
+  --background-primary-alt: var(--base02);
+  /* Text */
+  --text-normal: var(--base0);
+  --text-muted: var(--base00);
+  --text-faint: var(--base01);
+  /* File explorer */
+  --active-bg: var(--nav-item-background-active);
+  /* Hashtags */
+  --tag-background: hsla(var(--interactive-accent-hsl), 0.2);
 }
 
 .theme-light {
-    --background-modifier-border: var(--base1);
-    /* --background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
-    --background-modifier-cover: rgba(0, 0, 0, 0.8); */
-    --background-modifier-error-hover: var(--text-error);
-    --background-modifier-error-rgb: var(--red-rgb);
-    --background-modifier-error: var(--text-error);
-    --background-modifier-form-field-highlighted: var(--background-primary);
-    --background-modifier-form-field: var(--background-primary-alt);
-    --background-modifier-success: var(--green);
-    --background-primary-alt: var(--base2);
-    --background-primary: var(--base3);
-    --background-secondary-alt: var(--background-primary-alt);
-    --background-secondary: var(--background-primary);
-    --highlight-mix-blend-mode: lighten;
-    --interactive-accent-hover: var(--cyan);
-    --interactive-accent-rgb: var(--orange-rgb);
-    --interactive-accent: var(--orange);
-    --interactive-hover: var(--interactive-normal);
-    --interactive-normal: var(--background-primary);
-    --interactive-success: var(--green);
-    /* --scrollbar-active-thumb-bg: rgba(255, 255, 255, 0.2);
-    --scrollbar-bg: rgba(255, 255, 255, 0.05);
-    --scrollbar-thumb-bg: rgba(255, 255, 255, 0.1); */
-    --pre-code: var(--base1);
-    --text-accent-hover: var(--violet);
-    --text-accent: var(--blue);
-    --text-border: var(--yellow);
-    --text-code: var(--magenta);
-    --text-error-hover: var(--text-error);
-    --text-error: var(--red);
-    --text-faint: var(--base1);
-    --text-highlight-bg-active: var(--text-highlight-bg);
-    --text-highlight-bg: var(--base2);
-    --text-highlight-fg: var(--violet);
-    --text-muted-rgb: var(--base1-rgb);
-    --text-muted: var(--base1);
-    --text-normal: var(--base00);
-    --text-on-accent: var(--background-primary);
-    --text-on-selection: var(--base01);
-    --text-selection: var(--background-primary-alt);
-    --text-title: var(--cyan);
-    --vim-cursor: var(--green);
+  /* Overwrite default theme colors */
+  --color-base-00: var(--base2);
+  --color-base-05: #fcfcfc;
+  --color-base-10: var(--base2);
+  --color-base-20: #f6f6f6;
+  --color-base-25: #e3e3e3;
+  --color-base-30: var(--base2);
+  --color-base-35: var(--base2);
+  --color-base-40: var(--base00);
+  --color-base-50: #ababab;
+  --color-base-60: #707070;
+  --color-base-70: #5a5a5a;
+  --color-base-100: #222222;
+  /* Background */
+  --background-primary: var(--base3);
+  --background-primary-alt: var(--base2);
+  /* Text */
+  --text-normal: var(--base00);
+  --text-muted: var(--base0);
+  --text-faint: var(--base1);
+  /* File explorer */
+  --active-bg: hsla(var(--accent-h), var(--accent-s), var(--accent-l), 0.1);
+  --nav-item-background-active: var(--active-bg);
+  /* Hashtags */
+  --tag-background: hsla(var(--interactive-accent-hsl), 0.1);
 }
 
-.cm-header {
-    color: var(--text-title);
+.theme-dark,
+.theme-light {
+  /* UI elements */
+  --interactive-accent: var(--color-accent);
+  --interactive-normal: var(--background-primary-alt);
+  --interactive-hover: var(--background-primary);
+  /* Background */
+  --background-secondary: var(--background-primary);
+  --background-secondary-alt: var(--background-primary-alt);
+  /* Text */
+  --text-on-accent: var(--background-primary);
+  /* Headings */
+  --text-title: var(--color-cyan);
+  --heading-formatting: var(--text-title);
+  --h1-color: var(--text-title);
+  --h2-color: var(--text-title);
+  --h3-color: var(--text-title);
+  --h4-color: var(--text-title);
+  --h5-color: var(--text-title);
+  --h6-color: var(--text-title);
+  /* Links */
+  --link-color: var(--color-blue);
+  --link-color-hover: var(--link-color);
+  --link-decoration: none;
+  --link-decoration-hover: underline;
+  --link-external-color: var(--color-purple);
+  --link-external-color-hover: var(--link-external-color);
+  --link-external-decoration: none;
+  --link-external-decoration-hover: underline;
+  --link-unresolved-color: var(--color-red);
+  --link-unresolved-color-hover: var(--link-unresolved-color);
+  --link-unresolved-opacity: unset;
+  --link-unresolved-decoration-color: var(--link-unresolved-color);
+  /* Code */
+  --code-normal: var(--text-normal);
+  --code-comment: var(--color-cyan);
+  --code-function: var(--color-blue);
+  --code-important: var(--color-orange);
+  --code-keyword: var(--color-green);
+  --code-operator: var(--code-normal);
+  --code-property: var(--code-normal);
+  --code-punctuation: var(--code-normal);
+  --code-string: var(--color-cyan);
+  --code-tag: var(--color-red);
+  --code-value: var(--color-pink);
+  /* Tables */
+  --table-header-size: inherit;
+  --table-header-weight: var(--font-bold);
+  --table-header-color: inherit;
+  /* Highlights */
+  --text-highlight-bg: var(--color-accent);
+  --text-highlight-bg-active: var(--color-accent);
+  /* Checkboxes in reading view */
+  --checkbox-border-color: var(--interactive-accent);
+  --checkbox-border-color-hover: var(--interactive-accent-hover);
+  /* Hashtags */
+  --tag-padding-x: var(--tag-padding-y);
+  --tag-color: var(--color-accent);
+  /* Focus border */
+  --background-modifier-border-focus: var(--interactive-accent);
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-.markdown-preview-view h6 {
-    color: var(--text-title);
+.cm-s-obsidian {
+  /* Checkboxes */
+  /* Links */
+  /* Tables */
+  /* Search results */
+  /* Code */
+  /* Highlights */
+}
+.cm-s-obsidian span.cm-formatting-task {
+  color: var(--checkbox-color);
+}
+.cm-s-obsidian span.cm-formatting-link {
+  color: var(--link-color);
+}
+.cm-s-obsidian span.cm-formatting-link.cm-strikethrough {
+  text-decoration-line: line-through;
+}
+.cm-s-obsidian span.cm-link {
+  color: var(--link-external-color) !important;
+}
+.cm-s-obsidian span.cm-url.cm-strikethrough {
+  text-decoration-line: line-through;
+}
+.cm-s-obsidian .HyperMD-table-row-0 {
+  font-weight: var(--font-bold);
+}
+.cm-s-obsidian span.obsidian-search-match-highlight {
+  box-shadow: unset;
+  mix-blend-mode: unset;
+  border-radius: unset;
+  background: var(--color-green);
+  color: var(--text-on-accent);
+  padding: 2px 0;
+}
+.cm-s-obsidian span.cm-comment {
+  color: var(--code-comment);
+}
+.cm-s-obsidian span.cm-inline-code {
+  padding: 2px 0;
+}
+.cm-s-obsidian span.cm-formatting-highlight,
+.cm-s-obsidian span.cm-highlight {
+  color: var(--text-on-accent);
+  padding: 2px 0;
 }
 
-.cm-formatting-image.cm-link {
-    color: var(--text-faint) !important;
+/* More code */
+.cm-def {
+  color: var(--code-function);
 }
 
-.CodeMirror span.cm-inline-code,
-.CodeMirror span.cm-math,
-pre>code:not(.prism),
-.markdown-preview-view code {
-    color: var(--text-code);
+.cm-atom {
+  color: var(--code-value);
 }
 
-.CodeMirror span.cm-formatting-math {
-    color: var(--text-highlight-fg);
-}
-
-pre.HyperMD-codeblock {
-    color: var(--text-on-selection) !important;
-}
-
-.cm-highlight,
-.markdown-preview-view mark {
-    background: var(--text-highlight-bg) !important;
-    background-color: var(--text-highlight-bg) !important;
-    color: var(--text-highlight-fg) !important;
-}
-
-blockquote,
-.markdown-embed {
-    border-color: var(--text-border) !important;
-}
-
-.suggestion-item.is-selected {
-    background-color: var(--background-secondary-alt);
-}
-
-/* Notice */
-.notice,
-.theme-dark .notice {
-    background-color: var(--interactive-accent);
-    color: var(--text-on-accent);
-}
-
-/* Tags */
-.cm-s-obsidian span.cm-hashtag-begin,
-.cm-s-obsidian span.cm-hashtag,
-.cm-s-obsidian span.cm-hashtag-end,
-a.tag {
-    background-color: var(--text-normal);
-    color: var(--background-primary) !important;
-    font-family: inherit;
-    padding: 2px 0px;
-    text-decoration: none;
-}
-
-.cm-s-obsidian span.cm-hashtag-begin {
-    border-radius: 1em 0px 0px 1em;
-    padding-left: 5px;
-}
-
-.cm-s-obsidian span.cm-hashtag-end {
-    border-radius: 0px 1em 1em 0px;
-    padding-right: 5px;
-}
-
-a.tag {
-    border-radius: 1em;
-    padding: 2px 5px;
-}
-
-/* Background color of tag when hover */
-a.tag:hover {
-    background-color: var(--text-accent-hover);
-}
-
-/* Frontmatter */
-.cm-s-obsidian span.cm-atom {
-    color: var(--text-accent);
-}
-
-.cm-s-obsidian span.cm-meta,
-.cm-s-obsidian span.cm-def {
-    color: var(--text-code);
-}
-
-/* Frontmatter tag colors, same as tags in main body */
-.frontmatter-container .tag {
-    background-color: var(--text-normal);
-}
-
-.frontmatter-container .tag:hover {
-    background-color: var(--text-accent-hover);
-}
-
-/* Selection - Edit */
-.CodeMirror-selected {
-    background: rgba(0, 0, 0, 0.25) !important;
-    background-color: rgba(0, 0, 0, 0.25) !important;
-}
-
-.theme-dark .CodeMirror-selected {
-    background: rgba(255, 255, 255, 0.25) !important;
-    background-color: rgba(255, 255, 255, 0.25) !important;
-}
-
-div[style="position: relative; z-index: 1;"] {
-    z-index: 99 !important;
-}
-
-/* Selection - Live Editor & Preview */
-.cm-selection,
-::selection,
-.CodeMirror-line::selection,
-.CodeMirror-line>span::selection,
-.CodeMirror-line>span>span::selection,
-.HyperMD-codeblock.CodeMirror-line::selection,
-.HyperMD-codeblock.CodeMirror-line>span::selection,
-.HyperMD-codeblock.CodeMirror-line>span>span::selection {
-    background-color: rgba(0, 0, 0, 0.20) !important;
-}
-
-.theme-dark .cm-selection,
-.theme-dark ::selection,
-.theme-dark .CodeMirror-line::selection,
-.theme-dark .CodeMirror-line>span::selection,
-.theme-dark .CodeMirror-line>span>span::selection,
-.theme-dark .HyperMD-codeblock.CodeMirror-line::selection,
-.theme-dark .HyperMD-codeblock.CodeMirror-line>span::selection,
-.theme-dark .HyperMD-codeblock.CodeMirror-line>span>span::selection {
-    background-color: rgba(255, 255, 255, 0.20) !important;
+.cm-hmd-frontmatter.cm-hmd-frontmatter.cm-atom,
+.cm-hmd-frontmatter.cm-hmd-frontmatter.cm-def {
+  color: var(--interactive-accent);
 }
 
 /* Search results */
-mark,
-.cm-searching,
-.search-result-file-matched-text,
-.cm-s-obsidian span.obsidian-search-match-highlight {
-    color: var(--text-on-accent);
-    background-color: var(--yellow);
+.is-flashing {
+  border-radius: unset;
+  --code-normal: var(--text-highlight-bg);
+  --link-color: var(--text-on-accent);
+  --link-color-hover: var(--background-primary-alt);
+  --link-decoration: underline;
+  --link-decoration-hover: none;
+  --link-external-color: var(--text-on-accent);
+  --link-external-color-hover: var(--background-primary-alt);
+  --link-external-decoration: underline;
+  --link-external-decoration-hover: none;
 }
 
-/* In-page find results - Preview */
-.markdown-preview-view .search-highlight>div {
-    background-color: var(--yellow);
-    mix-blend-mode: color-burn;
+.search-result-file-matched-text {
+  color: var(--text-on-accent);
+  padding: 2px 0;
 }
 
-.markdown-preview-view .search-highlight>div.is-active {
-    background-color: var(--yellow);
+.markdown-rendered {
+  /* Unresolved links in preview mode */
+  /* Highlights in preview mode */
+}
+.markdown-rendered .internal-link.is-unresolved:hover {
+  color: var(--link-unresolved-color-hover);
+  text-decoration-color: var(--link-unresolved-color-hover);
+}
+.markdown-rendered mark {
+  color: var(--text-on-accent);
 }
 
-/* Window title */
-.titlebar,
-.titlebar .titlebar-inner {
-    color: var(--text-on-selection);
-    background-color: var(--background-primary-alt);
+/* Highlight current line */
+body:not(.disable-active-line-highlight) .cm-active {
+  background: var(--active-bg);
+}
+body:not(.disable-active-line-highlight) .cm-active.cm-gutterElement {
+  color: var(--color-accent);
 }
 
-/* Slides */
-.reveal .slides {
-    width: 1920px !important;
-    height: 1080px !important;
-    zoom: 1 !important;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+/* Hashtags */
+.cm-hashtag.cm-hashtag-begin, .cm-hashtag.cm-hashtag-end {
+  border: unset;
+  border-radius: unset;
 }
 
-.reveal section.present {
-    max-width: 1920px;
-    max-height: 1080px;
-    overflow-x: hidden;
-    overflow-y: auto;
-    top: unset !important;
+/* https://github.com/nothingislost/obsidian-dynamic-highlights */
+.cm-current-word,
+.cm-matched-word,
+.cm-current-string,
+.cm-matched-string {
+  background: var(--color-yellow);
+  color: var(--text-on-accent);
+  text-decoration: none;
+  padding: 2px 0;
 }
 
-.reveal {
-    --scrollbar-active-thumb-bg: rgba(255, 255, 255, 0.1);
-    --scrollbar-bg: rgba(255, 255, 255, 0);
-    --scrollbar-thumb-bg: rgba(255, 255, 255, 0.05);
+/* File explorer */
+.is-flashing {
+  color: var(--text-on-accent) !important;
 }
 
-.reveal .slides>section,
-.reveal .slides>section>section {
-    width: 80%;
-    transition: unset;
+.workspace-leaf.mod-active .nav-folder.has-focus > .nav-folder-title,
+.workspace-leaf.mod-active .nav-file.has-focus > .nav-file-title {
+  box-shadow: 0 0 0 2px var(--color-accent);
 }
 
-.reveal-viewport {
-    background: var(--background-primary);
-    background-color: var(--background-primary);
+/* Community theme and plugin browsers */
+.community-item:hover {
+  border-color: var(--color-accent);
+}
+.community-item .suggestion-highlight {
+  color: var(--text-on-accent);
+  font-weight: unset;
 }
 
-.reveal {
-    color: var(--text-title);
-    font-family: inherit;
+/* Vimrc Support Plugin */
+div.status-bar-item.plugin-obsidian-vimrc-support.vimrc-support-vim-mode {
+  color: var(--text-on-accent);
+}
+div.status-bar-item.plugin-obsidian-vimrc-support.vimrc-support-vim-mode[data-vim-mode=normal] {
+  background-color: var(--color-blue);
+}
+div.status-bar-item.plugin-obsidian-vimrc-support.vimrc-support-vim-mode[data-vim-mode=insert] {
+  background-color: var(--color-green);
+}
+div.status-bar-item.plugin-obsidian-vimrc-support.vimrc-support-vim-mode[data-vim-mode=visual] {
+  background-color: var(--color-pink);
+}
+div.status-bar-item.plugin-obsidian-vimrc-support.vimrc-support-vim-mode[data-vim-mode=replace] {
+  background-color: var(--red);
 }
 
-.reveal h1,
-.reveal h2,
-.reveal h3,
-.reveal h4,
-.reveal h5,
-.reveal h6 {
-    color: var(--text-code);
+/* Mermaid */
+.mermaid tspan {
+  fill: var(--text-on-accent);
 }
 
-.reveal input[type='checkbox'] {
-    height: 2em;
-    width: 2em;
-    margin: 0 2em;
-    cursor: pointer;
+/* Buttons */
+@media (hover: hover) {
+  button.mod-cta:hover {
+    color: var(--interactive-accent);
+  }
 }
 
-
-.reveal .task-list-item {
-    margin-left: auto;
-    text-indent: -2em;
-}
-
-.reveal ::selection {
-    color: var(--text-on-selection);
-    background: var(--text-selection);
-}
-
-.reveal ::-moz-selection {
-    color: var(--text-on-selection);
-    background: var(--text-selection);
-}
-
-.reveal pre,
-.reveal code,
-.reveal pre code {
-    color: var(--text-code);
-}
-
-.reveal table {
-    zoom: 0.5;
-}
-
-.reveal img {
-    width: unset;
-    outline: 3px solid var(--text-normal);
-    outline-offset: -3px;
-}
-
-.reveal a {
-    color: var(--text-muted);
-    text-decoration: underline;
-    transition: color .15s ease;
-}
-
-.reveal a:hover {
-    color: var(--text-normal);
-}
-
-.reveal .roll span:after {
-    color: var(--background-primary);
-    background: var(--text-muted);
-}
-
-.reveal .controls {
-    color: var(--text-muted);
-}
-
-.reveal .progress {
-    background: rgba(0, 0, 0, 0.2);
-    color: var(--text-muted);
-}
+/*# sourceMappingURL=theme.css.map */
