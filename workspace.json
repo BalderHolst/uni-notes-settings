@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "5999f2965c9d7ece",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "53610efa759c4791",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Parametric Regression.md",
+                "file": "HOME.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parametric Regression"
+              "title": "HOME"
             }
           },
           {
-            "id": "1bc15968cddcc6d5",
+            "id": "210a43f88edaf927",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univariate Multivariate Linear Regression (UMLR).md",
+                "file": "Kernel Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Univariate Multivariate Linear Regression (UMLR)"
-            }
-          },
-          {
-            "id": "0dfa535bf49c5a25",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lessons/Semester 7/statistics/Lektion 6 slides.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lektion 6 slides"
-            }
-          },
-          {
-            "id": "3f31dde45eb25871",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lessons/Semester 7/statistics/Linear regression models and terminology.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Linear regression models and terminology"
+              "title": "Kernel Methods"
             }
           }
         ],
@@ -253,13 +229,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bc15968cddcc6d5",
+  "active": "210a43f88edaf927",
   "lastOpenFiles": [
+    "Kernel Methods.md~",
+    "HOME.md",
+    "Kernel Methods.md",
+    "Notes/Parametric Regression.md",
+    "Lessons/Semester 7/statistics/Linear regression models and terminology.pdf",
     "Lessons/Semester 7/statistics/Lektion 6 slides.pdf",
     "Univariate Multivariate Linear Regression (UMLR).md",
-    "Lessons/Semester 7/statistics/Linear regression models and terminology.pdf",
-    "Notes/Parametric Regression.md",
-    "HOME.md",
     "Lessons/Semester 7/cas/CAS-2026-Lecture4-stability.pdf",
     "Notes/State Feedback.md",
     "Notes/Optimal Control (LQR).md",
@@ -289,7 +267,6 @@
     "Notes/Linarisering.md",
     "Notes/Classification Forrest.md",
     "Notes/Curse of Dimensionality.md",
-    "Notes/Classification Trees.md",
     "Images/Pasted image 20261008133303.png",
     "Pasted image 20261008133303.png",
     "Images/Pasted image 20261008123400.png",
