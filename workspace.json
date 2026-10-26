@@ -4,107 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "1b58a3eb41b36364",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "ceab56baf766b80a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HOME"
-            }
-          },
-          {
-            "id": "df27caf645995b25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sigma-point Unscented Kalman Filter.md",
+                "file": "State Feedback for Non-linear Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sigma-point Unscented Kalman Filter"
-            }
-          },
-          {
-            "id": "fcfd0dec6e08780f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/State Feedback.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "State Feedback"
-            }
-          },
-          {
-            "id": "8e0d0d8cb1c65f0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Butterworth Filter.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Butterworth Filter"
-            }
-          },
-          {
-            "id": "ea949623fd16a7bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/subject.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "subject"
-            }
-          },
-          {
-            "id": "caed9f260034b11b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lessons/Semester 7/ssp/UT slides.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "UT slides"
-            }
-          },
-          {
-            "id": "bef5d6866e213853",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Extended Kalman Filter.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Extended Kalman Filter"
+              "title": "State Feedback for Non-linear Systems"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,21 +214,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e0d0d8cb1c65f0a",
+  "active": "ceab56baf766b80a",
   "lastOpenFiles": [
-    "Templates/subject.md",
-    "Notes/Underactuated Robots.md",
+    "HOME.md",
+    "State Feedback for Non-linear Systems.md",
+    "Sigma-point Unscented Kalman Filter.md",
+    "Notes/State Feedback.md",
     "Notes/Extended Kalman Filter.md",
     "Lessons/Semester 7/ssp/UT slides.pdf",
+    "Templates/subject.md",
+    "Notes/Butterworth Filter.md",
+    "Notes/Underactuated Robots.md",
     "Templates/new-note.md",
     "Notes/Euler-Lagrange Modelling.md",
     "Lessons/Semester 7/cas/CAS-2026-Lecture4-stability.pdf",
-    "Notes/State Feedback.md",
     "Lessons/Semester 7/ssp/Problems STATSIG lecture 07.pdf",
-    "Sigma-point Unscented Kalman Filter.md",
     "Pasted image 20261026085813.png",
     "Notes/Kalman Filter.md",
-    "HOME.md",
     "Notes/Mean Square Error (MSE).md",
     "Notes/Machine Learning.md",
     "Kernel Perceptron.md",
@@ -334,7 +253,6 @@
     "External/Kasper's Notes/Uni/Notes/NewNotes/Airmon wifi bruteforce.md",
     "External/Kasper's Notes/TaskNotes/Tasks/install windows on SSD.md",
     "External/Kasper's Notes/TaskNotes/Tasks/Tilfoej zoxide til yazi.md",
-    "External/Kasper's Notes/TaskNotes/Tasks/Fix Project folder i Obsidian.md",
     "Images/Pasted image 20261008133303.png",
     "Pasted image 20261008133303.png",
     "Images/Pasted image 20261008123400.png",
