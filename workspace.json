@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "fcfd0dec6e08780f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 7/ssp/Problems STATSIG lecture 07.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Problems STATSIG lecture 07"
+            }
+          },
+          {
             "id": "caed9f260034b11b",
             "type": "leaf",
             "state": {
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,12 +267,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df27caf645995b25",
+  "active": "fcfd0dec6e08780f",
   "lastOpenFiles": [
+    "Sigma-point Unscented Kalman Filter.md",
     "Pasted image 20261026085813.png",
     "Lessons/Semester 7/ssp/UT slides.pdf",
     "Notes/Extended Kalman Filter.md",
-    "Sigma-point Unscented Kalman Filter.md",
     "Notes/Kalman Filter.md",
     "HOME.md",
     "Notes/Mean Square Error (MSE).md",
@@ -302,7 +314,6 @@
     "Images/Pasted image 20261005094524.png",
     "Images/Pasted image 20261005094456.png",
     "Pasted image 20261005094524.png",
-    "Pasted image 20261005094456.png",
     "Untitled.canvas"
   ]
 }
