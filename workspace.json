@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "caed9f260034b11b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 7/ssp/UT slides.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "UT slides"
+            }
+          },
+          {
             "id": "bef5d6866e213853",
             "type": "leaf",
             "state": {
@@ -245,9 +257,11 @@
   },
   "active": "df27caf645995b25",
   "lastOpenFiles": [
+    "Pasted image 20261026085813.png",
+    "Lessons/Semester 7/ssp/UT slides.pdf",
     "Notes/Extended Kalman Filter.md",
-    "Notes/Kalman Filter.md",
     "Sigma-point Unscented Kalman Filter.md",
+    "Notes/Kalman Filter.md",
     "HOME.md",
     "Notes/Mean Square Error (MSE).md",
     "Notes/Machine Learning.md",
@@ -267,7 +281,6 @@
     "Lessons/Semester 7/cas/CAS-2026-Lecture4-exercises.pdf",
     "Lessons/Semester 7/cas/CAS-2026-Lecture3-PID.pdf",
     "Lessons/Semester 7/cas/CAS-2026-Lecture3-LectureNotes.pdf",
-    "Lessons/Semester 7/cas/CAS-2026-Lecture3-exercises.pdf",
     "Notes/Linear State Space Models.md",
     "Notes/State Space Models.md",
     "Autocorrelation.md",
@@ -280,7 +293,6 @@
     "External/Kasper's Notes/TaskNotes/Tasks/Finish CAD for plant.md",
     "External/Kasper's Notes/TaskNotes/Tasks/Bestil PCB gennem Richard.md",
     "External/Kasper's Notes/Projects/Project Notes/test note2.md",
-    "External/Kasper's Notes/Projects/Project Notes/test note1.md",
     "Images/Pasted image 20261008133303.png",
     "Pasted image 20261008133303.png",
     "Images/Pasted image 20261008123400.png",
