@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "1b58a3eb41b36364",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "ceab56baf766b80a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
-                "mode": "preview",
+                "file": "Notes/FIR Filtre.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME"
+              "title": "FIR Filtre"
+            }
+          },
+          {
+            "id": "9e1e82cd6d8d35ba",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 3/signalbehandling/Slides/lektion 10 - Introduktion til FIR filtre.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "lektion 10 - Introduktion til FIR filtre"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +227,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ceab56baf766b80a",
+  "active": "9e1e82cd6d8d35ba",
   "lastOpenFiles": [
-    "State Feedback for Non-linear Systems.md",
+    "Notes/FIR Filtre.md",
+    "Lessons/Semester 3/signalbehandling/Slides/lektion 10 - Introduktion til FIR filtre.pdf",
+    "Notes/Samples Moments.md",
     "HOME.md",
+    "External/Kasper's Notes/Uni/Notes/NewNotes/HQ pi cam stream.md",
+    "External/Kasper's Notes/TaskNotes/Tasks/Solder ISA PCB.md",
+    "External/Kasper's Notes/TaskNotes/Tasks/Fix touchpad sens on laptop hyprland.md",
+    "External/Kasper's Notes/TaskNotes/Tasks/Fix space mouse on laptop.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20261019141852.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20261019141651.png",
+    "State Feedback for Non-linear Systems.md",
     "Sigma-point Unscented Kalman Filter.md",
     "Notes/State Feedback.md",
     "Notes/Extended Kalman Filter.md",
@@ -245,14 +267,6 @@
     "Notes/Optimal Control (LQR).md",
     "Lessons/Semester 7/cas/CAS-2026-Lecture4-LectureNotes.pdf",
     "Lessons/Semester 7/cas/CAS-2026-Lecture4-exercises.pdf",
-    "Lessons/Semester 7/cas/CAS-2026-Lecture3-PID.pdf",
-    "Notes/Linear State Space Models.md",
-    "Notes/State Space Models.md",
-    "Autocorrelation.md",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/Pi Compute Module.md",
-    "External/Kasper's Notes/Uni/Notes/NewNotes/Airmon wifi bruteforce.md",
-    "External/Kasper's Notes/TaskNotes/Tasks/install windows on SSD.md",
-    "External/Kasper's Notes/TaskNotes/Tasks/Tilfoej zoxide til yazi.md",
     "Images/Pasted image 20261008133303.png",
     "Pasted image 20261008133303.png",
     "Images/Pasted image 20261008123400.png",
@@ -260,8 +274,6 @@
     "20nn.png",
     "Pasted image 20261008123400.png",
     "Images/Pasted image 20261005094524.png",
-    "Images/Pasted image 20261005094456.png",
-    "Pasted image 20261005094524.png",
     "Untitled.canvas"
   ]
 }
