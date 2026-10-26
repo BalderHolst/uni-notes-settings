@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "State Feedback for Non-linear Systems.md",
-                "mode": "source",
+                "file": "HOME.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "State Feedback for Non-linear Systems"
+              "title": "HOME"
             }
           }
         ]
@@ -216,8 +216,8 @@
   },
   "active": "ceab56baf766b80a",
   "lastOpenFiles": [
-    "HOME.md",
     "State Feedback for Non-linear Systems.md",
+    "HOME.md",
     "Sigma-point Unscented Kalman Filter.md",
     "Notes/State Feedback.md",
     "Notes/Extended Kalman Filter.md",
