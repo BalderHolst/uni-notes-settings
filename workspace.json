@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/subject.md",
+                "file": "Notes/Butterworth Filter.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "subject"
+              "title": "Butterworth Filter"
             }
           },
           {
@@ -299,10 +299,10 @@
   },
   "active": "8e0d0d8cb1c65f0a",
   "lastOpenFiles": [
+    "Templates/subject.md",
     "Notes/Underactuated Robots.md",
     "Notes/Extended Kalman Filter.md",
     "Lessons/Semester 7/ssp/UT slides.pdf",
-    "Templates/subject.md",
     "Templates/new-note.md",
     "Notes/Euler-Lagrange Modelling.md",
     "Lessons/Semester 7/cas/CAS-2026-Lecture4-stability.pdf",
