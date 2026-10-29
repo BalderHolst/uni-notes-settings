@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Best Seperation (SVM).md",
+                "file": "Notes/Kernel Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Best Seperation (SVM)"
+              "title": "Kernel Methods"
             }
           }
         ],
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.10484504699707
+    "width": 343.10484504699707,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -228,8 +229,8 @@
   },
   "active": "42c4552e767ed16c",
   "lastOpenFiles": [
-    "Lessons/Semester 7/machine-learning/images/svm_degree_snapshot.png",
     "Best Seperation (SVM).md",
+    "Lessons/Semester 7/machine-learning/images/svm_degree_snapshot.png",
     "Notes/Classification Trees.md",
     "Lessons/Semester 7/machine-learning/images/Session 5 boundaries_2560_four_models.png",
     "Notes/Kernel Methods.md",
