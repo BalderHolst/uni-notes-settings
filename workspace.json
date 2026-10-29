@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HOME"
-            }
-          },
-          {
-            "id": "7f47878d598a97f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multivariate Multiple Linear Regression (MMLR).md",
+                "file": "Notes/Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multivariate Multiple Linear Regression (MMLR)"
+              "title": "Machine Learning"
+            }
+          },
+          {
+            "id": "5d551a97d324e852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Best Seperation (SVN).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Best Seperation (SVN)"
             }
           }
         ],
@@ -229,13 +229,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f47878d598a97f5",
+  "active": "5d551a97d324e852",
   "lastOpenFiles": [
+    "Notes/Machine Learning.md",
+    "Best Seperation (SVN).md",
+    "Notes/Kernel Methods.md",
+    "Notes/Kernel Methods.md~",
+    "HOME.md",
     "Lessons/Semester 7/statistics/Lektion 7 slides.pdf",
     "Multivariate Multiple Linear Regression (MMLR).md",
     "Notes/Univariate Multivariate Linear Regression (UMLR).md",
     "Multivariate Multiple Linear Regression (MMLR).md~",
-    "HOME.md",
     "Lessons/Semester 3/signalbehandling/Slides/lektion 10 - Introduktion til FIR filtre.pdf",
     "Notes/FIR Filtre.md",
     "Notes/Samples Moments.md",
@@ -260,15 +264,12 @@
     "Pasted image 20261026085813.png",
     "Notes/Kalman Filter.md",
     "Notes/Mean Square Error (MSE).md",
-    "Notes/Machine Learning.md",
     "Kernel Perceptron.md",
     "Kernel Methods.md",
     "Notes/Perceptron.md",
     "Kernel Methods.md~",
     "4913",
-    "Notes/Parametric Regression.md",
     "Lessons/Semester 7/statistics/Linear regression models and terminology.pdf",
-    "Lessons/Semester 7/statistics/Lektion 6 slides.pdf",
     "Images/Pasted image 20261008133303.png",
     "Pasted image 20261008133303.png",
     "Images/Pasted image 20261008123400.png",
