@@ -11,42 +11,26 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notes/Machine Learning.md",
-                "mode": "source",
-                "source": false
+                "file": "Lessons/Semester 7/machine-learning/images/svm_degree_snapshot.png"
               },
-              "icon": "lucide-file",
-              "title": "Machine Learning"
+              "icon": "lucide-image",
+              "title": "svm_degree_snapshot"
             }
           },
           {
-            "id": "5d551a97d324e852",
+            "id": "42c4552e767ed16c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Best Seperation (SVN).md",
+                "file": "Best Seperation (SVM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Best Seperation (SVN)"
-            }
-          },
-          {
-            "id": "49897e78a5d20c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Linear Classification.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linear Classification"
+              "title": "Best Seperation (SVM)"
             }
           }
         ],
@@ -113,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.10484504699707,
-    "collapsed": true
+    "width": 343.10484504699707
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -243,54 +226,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d551a97d324e852",
+  "active": "42c4552e767ed16c",
   "lastOpenFiles": [
+    "Lessons/Semester 7/machine-learning/images/svm_degree_snapshot.png",
+    "Best Seperation (SVM).md",
+    "Notes/Classification Trees.md",
+    "Lessons/Semester 7/machine-learning/images/Session 5 boundaries_2560_four_models.png",
+    "Notes/Kernel Methods.md",
+    "Notes/Machine Learning.md",
+    "Lessons/Semester 7/machine-learning/images/rbf_gamma_effect.png",
+    "Lessons/Semester 7/machine-learning/images/poly_perceptron_validation.png",
+    "Lessons/Semester 7/machine-learning/images/poly_kernel_comparison.png",
     "Notes/Linear Classification.md",
+    "Lessons/Semester 7/machine-learning/images/poly_degree_effect.png",
+    "Lessons/Semester 7/machine-learning/images/kernel_perceptron_snapshots.png",
+    "Lessons/Semester 7/machine-learning/images/kernel_perceptron_gamma_selection.png",
+    "Lessons/Semester 7/machine-learning/images/boundaries_2560_four_models_validated.png",
+    "Lessons/Semester 7/machine-learning/images/Blackboard_1.png",
+    "Lessons/Semester 7/machine-learning/Session 7Lecture Notes.pdf",
+    "Lessons/Semester 7/machine-learning/images",
+    "Lessons/Semester 7/machine-learning/Session 6Lecture Notes.pdf",
+    "Lessons/Semester 7/machine-learning/Session 5Lecture Notes.pdf",
+    "Lessons/Semester 7/machine-learning/Session 4Lecture Notes.pdf",
+    "Lessons/Semester 7/machine-learning/Session 3Lecture Notes.pdf",
+    "Lessons/Semester 7/machine-learning/Session 2 Lecture Notes.pdf",
+    "Lessons/Semester 7/machine-learning/Session 1 perceptron vector notation.pdf",
+    "Lessons/Semester 7/machine-learning/Session 1 Lecture Notes.pdf",
+    "Lessons/Semester 7/machine-learning/Literature and additional materials.pdf",
     "Notes/Logistic Regressions.md",
     "Notes/Perceptron.md",
-    "Best Seperation (SVN).md",
-    "Lessons/Semester 6/underactuated-robots/Lecture 1 - Euler-Lagrange Modelling.pdf",
     "Notes/Euler-Lagrange Modelling.md",
-    "Notes/Machine Learning.md",
-    "Notes/Kernel Methods.md",
-    "Notes/Kernel Methods.md~",
     "HOME.md",
-    "Lessons/Semester 7/statistics/Lektion 7 slides.pdf",
     "Multivariate Multiple Linear Regression (MMLR).md",
     "Notes/Univariate Multivariate Linear Regression (UMLR).md",
-    "Multivariate Multiple Linear Regression (MMLR).md~",
-    "Lessons/Semester 3/signalbehandling/Slides/lektion 10 - Introduktion til FIR filtre.pdf",
     "Notes/FIR Filtre.md",
     "Notes/Samples Moments.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/HQ pi cam stream.md",
     "External/Kasper's Notes/TaskNotes/Tasks/Solder ISA PCB.md",
     "External/Kasper's Notes/TaskNotes/Tasks/Fix touchpad sens on laptop hyprland.md",
     "External/Kasper's Notes/TaskNotes/Tasks/Fix space mouse on laptop.md",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20261019141852.png",
-    "External/Kasper's Notes/Misc og Links/Pasted image 20261019141651.png",
     "State Feedback for Non-linear Systems.md",
     "Sigma-point Unscented Kalman Filter.md",
     "Notes/State Feedback.md",
     "Notes/Extended Kalman Filter.md",
-    "Lessons/Semester 7/ssp/UT slides.pdf",
     "Templates/subject.md",
     "Notes/Butterworth Filter.md",
     "Notes/Underactuated Robots.md",
     "Templates/new-note.md",
-    "Lessons/Semester 7/cas/CAS-2026-Lecture4-stability.pdf",
-    "Lessons/Semester 7/ssp/Problems STATSIG lecture 07.pdf",
-    "Pasted image 20261026085813.png",
-    "Notes/Kalman Filter.md",
-    "Notes/Mean Square Error (MSE).md",
-    "Kernel Methods.md~",
-    "4913",
-    "Images/Pasted image 20261008133303.png",
-    "Pasted image 20261008133303.png",
-    "Images/Pasted image 20261008123400.png",
-    "1nn.png",
-    "20nn.png",
-    "Pasted image 20261008123400.png",
-    "Images/Pasted image 20261005094524.png",
     "Untitled.canvas"
   ]
 }
