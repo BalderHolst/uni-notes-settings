@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.10484504699707,
+    "width": 739.0191650390625,
     "collapsed": true
   },
   "right": {
@@ -216,8 +216,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Notes/Autocorrelation.md",
+    "Lessons/Semester 7/ssp/Wiki - LMS adaptive filter.pdf",
     "Notes/LMS Adaptive Filters.md",
+    "Notes/Autocorrelation.md",
     "HOME.md",
     "Images/Pasted image 20261102082631.png",
     "Notes/WSS.md",
@@ -261,7 +262,6 @@
     "State Feedback for Non-linear Systems.md",
     "Sigma-point Unscented Kalman Filter.md",
     "Notes/State Feedback.md",
-    "Notes/Extended Kalman Filter.md",
     "Untitled.canvas"
   ]
 }
