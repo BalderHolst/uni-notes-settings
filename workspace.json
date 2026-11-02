@@ -43,7 +43,8 @@
               "title": "CAS-2026-Lecture6-LectureNotes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,7 +237,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d802569c36b755eb",
   "lastOpenFiles": [
     "Model Predictive Control (MPC).md",
     "Lessons/Semester 7/cas/CAS-2026-Lecture6-MPC-fdblin.pdf",
