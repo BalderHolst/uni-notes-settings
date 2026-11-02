@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/LMS Adaptive Filters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LMS Adaptive Filters"
-            }
-          },
-          {
-            "id": "a9bbdf34e45562f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Model Predictive Control (MPC).md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "Model Predictive Control (MPC)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 739.0191650390625
+    "width": 464.03106689453125,
+    "collapsed": true
   },
   "right": {
     "id": "5c628f1454f33c40",
@@ -228,10 +214,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9bbdf34e45562f3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Lessons/Semester 7/cas/CAS-2026-Lecture6-MPC-fdblin.pdf",
     "Notes/LMS Adaptive Filters.md",
     "Model Predictive Control (MPC).md",
+    "Lessons/Semester 7/cas/CAS-2026-Lecture6-LectureNotes.pdf",
+    "Lessons/Semester 7/cas/CAS-2026-Lecture6-exercises.pdf",
     "Lessons/Semester 7/ssp/MATLAB documentation LMS.pdf",
     "Lessons/Semester 7/ssp/Fleury - Response of LTI systems to Random Inputs  (tutorial).pdf",
     "Lessons/Semester 7/ssp/LMS algorithm and performance.pdf",
@@ -259,9 +248,6 @@
     "Lessons/Semester 7/machine-learning/images/poly_degree_effect.png",
     "Lessons/Semester 7/machine-learning/Session 7Lecture Notes.pdf",
     "Lessons/Semester 7/machine-learning/images",
-    "Lessons/Semester 7/machine-learning/Session 6Lecture Notes.pdf",
-    "Lessons/Semester 7/machine-learning/Session 5Lecture Notes.pdf",
-    "Lessons/Semester 7/machine-learning/Session 4Lecture Notes.pdf",
     "Notes/Logistic Regressions.md",
     "Notes/Perceptron.md",
     "Notes/Euler-Lagrange Modelling.md",
@@ -275,7 +261,6 @@
     "External/Kasper's Notes/TaskNotes/Tasks/Fix space mouse on laptop.md",
     "State Feedback for Non-linear Systems.md",
     "Sigma-point Unscented Kalman Filter.md",
-    "Notes/State Feedback.md",
     "Untitled.canvas"
   ]
 }
