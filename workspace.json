@@ -35,8 +35,7 @@
               "title": "Dimension Reduction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,10 +228,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2de04900be08998b",
+  "active": "98ede930a49f7b4b",
   "lastOpenFiles": [
-    "Principal Component Analysis.md",
     "Dimension Reduction.md",
+    "Pasted image 20261104133329.png",
+    "Principal Component Analysis.md",
     "Notes/Statistics.md",
     "Pasted image 20261104125827.png",
     "Notes/Eigendecomposition.md",
@@ -268,7 +268,6 @@
     "Notes/Classification Trees.md",
     "Lessons/Semester 7/machine-learning/images/Session 5 boundaries_2560_four_models.png",
     "Notes/Machine Learning.md",
-    "Lessons/Semester 7/machine-learning/images/rbf_gamma_effect.png",
     "Notes/Linear Classification.md",
     "Lessons/Semester 7/machine-learning/Session 7Lecture Notes.pdf",
     "Lessons/Semester 7/machine-learning/images",
@@ -276,7 +275,6 @@
     "Notes/Perceptron.md",
     "Notes/Euler-Lagrange Modelling.md",
     "Multivariate Multiple Linear Regression (MMLR).md",
-    "Notes/Univariate Multivariate Linear Regression (UMLR).md",
     "Untitled.canvas"
   ]
 }
