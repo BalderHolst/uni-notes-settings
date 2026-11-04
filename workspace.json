@@ -11,36 +11,28 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lessons/Semester 7/cas/CAS-2026-Lecture6-MPC-fdblin.pdf"
+                "file": "Notes/LMS Adaptive Filters.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CAS-2026-Lecture6-MPC-fdblin"
+              "icon": "lucide-file",
+              "title": "LMS Adaptive Filters"
             }
           },
           {
-            "id": "d802569c36b755eb",
+            "id": "98ede930a49f7b4b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lessons/Semester 7/cas/CAS-2026-Lecture6-MPC-fdblin.pdf"
+                "file": "Dimension Reduction (PCA).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CAS-2026-Lecture6-MPC-fdblin"
-            }
-          },
-          {
-            "id": "d602adcaf202221e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lessons/Semester 7/cas/CAS-2026-Lecture6-LectureNotes.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CAS-2026-Lecture6-LectureNotes"
+              "icon": "lucide-file",
+              "title": "Dimension Reduction (PCA)"
             }
           }
         ],
@@ -237,20 +229,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d802569c36b755eb",
+  "active": "98ede930a49f7b4b",
   "lastOpenFiles": [
-    "Model Predictive Control (MPC).md",
+    "Notes/LMS Adaptive Filters.md",
+    "Dimension Reduction (PCA).md",
+    "Notes/Statistical Signal Processing.md",
+    "HOME.md",
+    "Notes/Feedback Linarization.md",
+    "External/Kasper's Notes/Uni/Notes/NewNotes/ESP8266 setup.md",
+    "External/Kasper's Notes/Uni/Notes/NewNotes/ESP-Wroom-32 OLED.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20261101131045.png",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20261101130918.png",
     "Lessons/Semester 7/cas/CAS-2026-Lecture6-MPC-fdblin.pdf",
+    "Model Predictive Control (MPC).md",
     "Lessons/Semester 7/cas/CAS-2026-Lecture6-LectureNotes.pdf",
     "Feedback Linarization.md",
-    "Notes/LMS Adaptive Filters.md",
     "Lessons/Semester 7/cas/CAS-2026-Lecture6-exercises.pdf",
     "Lessons/Semester 7/ssp/MATLAB documentation LMS.pdf",
     "Lessons/Semester 7/ssp/Fleury - Response of LTI systems to Random Inputs  (tutorial).pdf",
     "Lessons/Semester 7/ssp/LMS algorithm and performance.pdf",
     "Lessons/Semester 7/ssp/Wiki - LMS adaptive filter.pdf",
     "Notes/Autocorrelation.md",
-    "HOME.md",
     "Images/Pasted image 20261102082631.png",
     "Notes/WSS.md",
     "Images/Pasted image 20261102082234.png",
@@ -267,9 +266,7 @@
     "Notes/Machine Learning.md",
     "Lessons/Semester 7/machine-learning/images/rbf_gamma_effect.png",
     "Lessons/Semester 7/machine-learning/images/poly_perceptron_validation.png",
-    "Lessons/Semester 7/machine-learning/images/poly_kernel_comparison.png",
     "Notes/Linear Classification.md",
-    "Lessons/Semester 7/machine-learning/images/poly_degree_effect.png",
     "Lessons/Semester 7/machine-learning/Session 7Lecture Notes.pdf",
     "Lessons/Semester 7/machine-learning/images",
     "Notes/Logistic Regressions.md",
@@ -280,10 +277,6 @@
     "Notes/FIR Filtre.md",
     "Notes/Samples Moments.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/HQ pi cam stream.md",
-    "External/Kasper's Notes/TaskNotes/Tasks/Solder ISA PCB.md",
-    "External/Kasper's Notes/TaskNotes/Tasks/Fix touchpad sens on laptop hyprland.md",
-    "External/Kasper's Notes/TaskNotes/Tasks/Fix space mouse on laptop.md",
-    "State Feedback for Non-linear Systems.md",
     "Untitled.canvas"
   ]
 }
