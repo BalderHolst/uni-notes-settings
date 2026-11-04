@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dimension Reduction (PCA).md",
+                "file": "Principal Component Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dimension Reduction (PCA)"
+              "title": "Principal Component Analysis"
             }
           }
         ]
@@ -216,9 +216,10 @@
   },
   "active": "98ede930a49f7b4b",
   "lastOpenFiles": [
+    "Pasted image 20261104125827.png",
     "Notes/Eigendecomposition.md",
     "Notes/LMS Adaptive Filters.md",
-    "Dimension Reduction (PCA).md",
+    "Principal Component Analysis.md",
     "Notes/Statistical Signal Processing.md",
     "HOME.md",
     "Notes/Feedback Linarization.md",
@@ -261,7 +262,6 @@
     "Multivariate Multiple Linear Regression (MMLR).md",
     "Notes/Univariate Multivariate Linear Regression (UMLR).md",
     "Notes/FIR Filtre.md",
-    "Notes/Samples Moments.md",
     "Untitled.canvas"
   ]
 }
