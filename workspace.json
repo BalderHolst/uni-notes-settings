@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lessons/Semester 7/cas/CAS-2026-Lecture2-SSrep.pdf"
+                "file": "Notes/Operationsforstærker.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CAS-2026-Lecture2-SSrep"
+              "icon": "lucide-file",
+              "title": "Operationsforstærker"
             }
           }
         ]
@@ -214,8 +216,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Lessons/Semester 7/cas/CAS-2026-Lecture2-LectureNotes.pdf",
     "HOME.md",
+    "Lessons/Semester 7/cas/CAS-2026-Lecture2-SSrep.pdf",
+    "Lessons/Semester 7/cas/CAS-2026-Lecture2-LectureNotes.pdf",
     "External/Kasper's Notes/TaskNotes/Tasks/Setup nixos Ros2.md",
     "Notes/Gausian Process.md",
     "Gausian Process.md",
@@ -258,8 +261,6 @@
     "Notes/Kernel Methods.md",
     "Lessons/Semester 7/machine-learning/images/svm_degree_snapshot.png",
     "Lessons/Semester 7/machine-learning/images/Session 5 boundaries_2560_four_models.png",
-    "Lessons/Semester 7/machine-learning/Session 7Lecture Notes.pdf",
-    "Lessons/Semester 7/machine-learning/images",
     "Untitled.canvas"
   ]
 }
