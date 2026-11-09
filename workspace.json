@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "22ce455a90bf09be",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 7/ssp/Lektion 12 slides.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lektion 12 slides"
+            }
+          },
+          {
             "id": "85f3304d2ab43062",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,8 +255,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85f3304d2ab43062",
+  "active": "c5efd44e6284ce8f",
   "lastOpenFiles": [
+    "Pasted image 20261109093216.png",
+    "Notes/LMS Adaptive Filters.md",
+    "Lessons/Semester 7/ssp/Lektion 12 slides.pdf",
     "RLS Adaptive Filters.md",
     "Notes/Operationsforstærker.md",
     "HOME.md",
@@ -264,7 +279,6 @@
     "Notes/Statistics.md",
     "Pasted image 20261104125827.png",
     "Notes/Eigendecomposition.md",
-    "Notes/LMS Adaptive Filters.md",
     "Notes/Statistical Signal Processing.md",
     "Notes/Feedback Linarization.md",
     "External/Kasper's Notes/Uni/Notes/NewNotes/ESP8266 setup.md",
@@ -284,9 +298,7 @@
     "Images/Pasted image 20261102082631.png",
     "Notes/WSS.md",
     "Images/Pasted image 20261102082234.png",
-    "Lessons/Semester 7/ssp/Lektion 11 slides.pdf",
     "WSS.md",
-    "LMS Adaptive Filters.md",
     "Pasted image 20261102082631.png",
     "Pasted image 20261102082234.png",
     "Lessons/Semester 7/machine-learning/images/svm_degree_snapshot.png",
