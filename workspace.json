@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/State Feedback.md",
+                "file": "Notes/Feed Forward.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "State Feedback"
+              "title": "Feed Forward"
+            }
+          },
+          {
+            "id": "7256f6ff286528fe",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lessons/Semester 7/cas/CAS-2026-Lecture4-stability.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CAS-2026-Lecture4-stability"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,8 +227,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7256f6ff286528fe",
   "lastOpenFiles": [
+    "Lessons/Semester 6/underactuated-robots/Lecture 4 - Stability Analysis_5.pdf",
+    "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf",
+    "Notes/Feed Forward.md",
+    "Notes/State Feedback.md",
     "HOME.md",
     "Pasted image 20261109093216.png",
     "Notes/LMS Adaptive Filters.md",
@@ -252,12 +269,9 @@
     "Lessons/Semester 7/ssp/MATLAB documentation LMS.pdf",
     "Lessons/Semester 7/ssp/Fleury - Response of LTI systems to Random Inputs  (tutorial).pdf",
     "Lessons/Semester 7/ssp/LMS algorithm and performance.pdf",
-    "Lessons/Semester 7/ssp/Wiki - LMS adaptive filter.pdf",
     "Notes/Autocorrelation.md",
     "Images/Pasted image 20261102082631.png",
-    "Notes/WSS.md",
     "Images/Pasted image 20261102082234.png",
-    "WSS.md",
     "Pasted image 20261102082631.png",
     "Pasted image 20261102082234.png",
     "Lessons/Semester 7/machine-learning/images/svm_degree_snapshot.png",
