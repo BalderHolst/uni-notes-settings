@@ -10,5 +10,6 @@
   ],
   "showViewHeader": true,
   "theme": "obsidian",
-  "baseFontSize": 19
+  "baseFontSize": 19,
+  "showRibbon": true
 }
