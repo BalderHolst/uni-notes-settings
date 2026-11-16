@@ -34,6 +34,20 @@
               "icon": "lucide-file",
               "title": "PSD Estimation"
             }
+          },
+          {
+            "id": "45bf35f554eaaf08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Fast Fourier transformation (FFT).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fast Fourier transformation (FFT)"
+            }
           }
         ],
         "currentTab": 1
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "outlier",
+                "query": "hamming win",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,9 +245,10 @@
   },
   "active": "f4f48cd3747395cb",
   "lastOpenFiles": [
+    "Notes/Fast Fourier transformation (FFT).md",
+    "PSD Estimation.md",
     "Notes/Power Spectral Density (PSD).md",
     "HOME.md",
-    "PSD Estimation.md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20261113132337.png",
     "Notes/Statistical Distance (Mahalanobis).md",
     "Notes/Operationsforstærker.md",
@@ -267,7 +282,6 @@
     "Notes/Machine Learning.md",
     "Notes/Linear Regression.md",
     "Notes/Classification Trees.md",
-    "Notes/Best Seperation (SVM).md",
     "Pasted image 20261104133329.png",
     "Pasted image 20261104125827.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20261101131045.png",
