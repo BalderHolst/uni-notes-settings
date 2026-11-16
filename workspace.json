@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5a0dff61697f26a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Observers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Observers"
-            }
-          },
-          {
             "id": "99b58c2c63b3920b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Observability.md",
+                "file": "Notes/Kalman Filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Observability"
+              "title": "Kalman Filter"
             }
           }
         ]
@@ -94,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -228,12 +214,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5a0dff61697f26a",
+  "active": "99b58c2c63b3920b",
   "lastOpenFiles": [
-    "Observability.md",
     "Notes/Observers.md",
-    "HOME.md",
     "Notes/Observers.md~",
+    "Notes/4913",
+    "Observability.md",
+    "Lessons/Semester 7/cas/CAS-2026-Lecture7-obs.pdf",
+    "Lessons/Semester 7/cas/CAS-2026-Lecture7-LectureNotes.pdf",
+    "Lessons/Semester 7/cas/CAS-2026-Lecture7-exercises.pdf",
+    "HOME.md",
     "Notes/Fast Fourier transformation (FFT).md",
     "PSD Estimation.md",
     "Notes/Power Spectral Density (PSD).md",
@@ -259,20 +249,15 @@
     "Notes/State Feedback.md",
     "Pasted image 20261109093216.png",
     "Notes/LMS Adaptive Filters.md",
-    "Lessons/Semester 7/ssp/Lektion 12 slides.pdf",
     "RLS Adaptive Filters.md",
-    "Lessons/Semester 7/cas/CAS-2026-Lecture2-SSrep.pdf",
-    "Lessons/Semester 7/cas/CAS-2026-Lecture2-LectureNotes.pdf",
     "External/Kasper's Notes/TaskNotes/Tasks/Setup nixos Ros2.md",
     "Notes/Gausian Process.md",
     "Gausian Process.md",
     "Notes/Logistic Regression.md",
-    "Notes/Machine Learning.md",
     "Pasted image 20261104133329.png",
     "Pasted image 20261104125827.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20261101131045.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20261101130918.png",
-    "Lessons/Semester 7/cas/CAS-2026-Lecture6-MPC-fdblin.pdf",
     "Images/Pasted image 20261102082631.png",
     "Images/Pasted image 20261102082234.png",
     "Pasted image 20261102082631.png",
