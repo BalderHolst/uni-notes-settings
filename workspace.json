@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "6900d8909162070c",
+            "id": "f4f48cd3747395cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Statistical Distance (Mahalanobis).md",
-                "mode": "preview",
+                "file": "PSD Estimation.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statistical Distance (Mahalanobis)"
+              "title": "PSD Estimation"
             }
           }
         ],
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -229,9 +229,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6900d8909162070c",
+  "active": "f4f48cd3747395cb",
   "lastOpenFiles": [
+    "Notes/Power Spectral Density (PSD).md",
     "HOME.md",
+    "PSD Estimation.md",
+    "External/Kasper's Notes/Misc og Links/Pasted image 20261113132337.png",
+    "Notes/Statistical Distance (Mahalanobis).md",
     "Notes/Operationsforstærker.md",
     "K-means++ Algorithm.md",
     "K-means Algorithm.md",
@@ -264,10 +268,7 @@
     "Notes/Linear Regression.md",
     "Notes/Classification Trees.md",
     "Notes/Best Seperation (SVM).md",
-    "Dimension Reduction.md",
     "Pasted image 20261104133329.png",
-    "Principal Component Analysis.md",
-    "Notes/Statistics.md",
     "Pasted image 20261104125827.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20261101131045.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20261101130918.png",
@@ -276,7 +277,6 @@
     "Images/Pasted image 20261102082631.png",
     "Images/Pasted image 20261102082234.png",
     "Pasted image 20261102082631.png",
-    "Pasted image 20261102082234.png",
     "Untitled.canvas"
   ]
 }
