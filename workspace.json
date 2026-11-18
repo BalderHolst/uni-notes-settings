@@ -39,16 +39,32 @@
             "id": "a5e297c27dd994d3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lecture Material/Semester 7/statistics/Lektion 11 slides.pdf"
+                "file": "Several Population Classification.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lektion 11 slides"
+              "icon": "lucide-file",
+              "title": "Several Population Classification"
+            }
+          },
+          {
+            "id": "948416d075d215be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Multivariate Normal Distribution (MVN).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multivariate Normal Distribution (MVN)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,11 +257,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4528bbae00941e9e",
+  "active": "a5e297c27dd994d3",
   "lastOpenFiles": [
+    "Notes/Multivariate Normal Distribution (MVN).md",
+    "Several Population Classification.md",
     "Lecture Material/Semester 7/statistics/Lektion 11 slides.pdf",
     "Lecture Material/Semester 7/statistics/Drawing 2026-11-18 12.26.17.excalidraw.md",
-    "Several Population Classification.md",
     "Lektion 11 slides.md",
     "Lecture Material/Semester 7/statistics/Two-population classification Training data, New data, Procedures.pdf",
     "Notes/Two Popolation Classification.md",
@@ -277,7 +294,6 @@
     "Lecture Material/Semester 7/statistics/Lektion 10 slides.pdf",
     "Classification.md",
     "Notes/Linear Classification.md",
-    "Bayes Theorem.md",
     "Classification.md~",
     "Lecture Material/Semester 7/cas/CAS-2026-Lecture4-stability.pdf",
     "Pasted image 20261109093216.png",
