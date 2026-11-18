@@ -13,40 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Observers.md",
+                "file": "HOME.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOME"
+            }
+          },
+          {
+            "id": "4528bbae00941e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Several Population Classification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Observers"
+              "title": "Several Population Classification"
             }
           },
           {
-            "id": "831e1c089bf495bf",
+            "id": "a5e297c27dd994d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/Observers.md",
-                "mode": "preview",
-                "source": false
+                "file": "Lecture Material/Semester 7/statistics/Lektion 11 slides.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Observers"
-            }
-          },
-          {
-            "id": "fa26d675b1f7e611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Feedback Control.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Feedback Control"
+              "icon": "lucide-file-text",
+              "title": "Lektion 11 slides"
             }
           }
         ],
@@ -243,21 +241,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "831e1c089bf495bf",
+  "active": "4528bbae00941e9e",
   "lastOpenFiles": [
+    "Lecture Material/Semester 7/statistics/Lektion 11 slides.pdf",
+    "Lecture Material/Semester 7/statistics/Drawing 2026-11-18 12.26.17.excalidraw.md",
+    "Several Population Classification.md",
+    "Lektion 11 slides.md",
+    "Lecture Material/Semester 7/statistics/Two-population classification Training data, New data, Procedures.pdf",
+    "Notes/Two Popolation Classification.md",
+    "HOME.md",
+    "Notes/Observers.md",
     "Notes/Feed Forward.md",
     "Notes/Stability.md",
     "Notes/Nyquist Stability.md",
-    "Notes/Observers.md",
     "Notes/Feedback Control.md",
-    "HOME.md",
     "Notes/Kalman Filter.md",
     "Notes/Observers.md~",
     "Notes/4913",
     "Observability.md",
-    "Lessons/Semester 7/cas/CAS-2026-Lecture7-obs.pdf",
-    "Lessons/Semester 7/cas/CAS-2026-Lecture7-LectureNotes.pdf",
-    "Lessons/Semester 7/cas/CAS-2026-Lecture7-exercises.pdf",
+    "Lecture Material/Semester 7/cas/CAS-2026-Lecture7-obs.pdf",
+    "Lecture Material/Semester 7/cas/CAS-2026-Lecture7-LectureNotes.pdf",
+    "Lecture Material/Semester 7/cas/CAS-2026-Lecture7-exercises.pdf",
     "Notes/Fast Fourier transformation (FFT).md",
     "PSD Estimation.md",
     "Notes/Power Spectral Density (PSD).md",
@@ -269,21 +273,14 @@
     "Pasted image 20261112130538.png",
     "Unsupervised Learning.md",
     "External/Kasper's Notes/TaskNotes/Tasks/Tjek Sonarr eller seerr ud på github.md",
-    "Notes/Classification.md",
     "Notes/Bayes Theorem.md",
-    "Lessons/Semester 7/statistics/Lektion 10 slides.pdf",
+    "Lecture Material/Semester 7/statistics/Lektion 10 slides.pdf",
     "Classification.md",
     "Notes/Linear Classification.md",
     "Bayes Theorem.md",
     "Classification.md~",
-    "Lessons/Semester 7/cas/CAS-2026-Lecture4-stability.pdf",
-    "Lessons/Semester 6/underactuated-robots/Lecture 4 - Stability Analysis_5.pdf",
-    "Lessons/Semester 4/regulation/Lecture 11 - Integral Control.pdf",
-    "Notes/State Feedback.md",
+    "Lecture Material/Semester 7/cas/CAS-2026-Lecture4-stability.pdf",
     "Pasted image 20261109093216.png",
-    "Notes/LMS Adaptive Filters.md",
-    "RLS Adaptive Filters.md",
-    "External/Kasper's Notes/TaskNotes/Tasks/Setup nixos Ros2.md",
     "Pasted image 20261104133329.png",
     "Pasted image 20261104125827.png",
     "External/Kasper's Notes/Misc og Links/Pasted image 20261101131045.png",
