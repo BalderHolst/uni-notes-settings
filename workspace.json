@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Non-paramtric PSD Estimation.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -33,6 +33,18 @@
               },
               "icon": "lucide-file",
               "title": "Parametric PSD Estimation"
+            }
+          },
+          {
+            "id": "63a7314c356e22b0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Material/Semester 7/ssp/Lektion 9 slides.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lektion 9 slides"
             }
           }
         ],
@@ -95,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,8 +243,10 @@
   },
   "active": "5b3e06cbf02a683c",
   "lastOpenFiles": [
+    "Lecture Material/Semester 7/ssp/Model-based (parametric) spectral estimation.pdf",
     "Notes/Non-paramtric PSD Estimation.md",
     "Parametric PSD Estimation.md",
+    "Lecture Material/Semester 7/ssp/Lektion 9 slides.pdf",
     "HOME.md",
     "Several Population Classification.md",
     "DBSCAN.md",
@@ -264,11 +278,8 @@
     "Notes/Power Spectral Density (PSD).md",
     "External/Kasper's Notes/Misc og Links/Pasted image 20261113132337.png",
     "Notes/Statistical Distance (Mahalanobis).md",
-    "Notes/Operationsforstærker.md",
     "Pasted image 20261112130538.png",
     "Lecture Material/Semester 7/statistics/Lektion 10 slides.pdf",
-    "Classification.md~",
-    "Lecture Material/Semester 7/cas/CAS-2026-Lecture4-stability.pdf",
     "Pasted image 20261109093216.png",
     "Pasted image 20261104133329.png",
     "Pasted image 20261104125827.png",
