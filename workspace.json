@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Filters.md",
+                "file": "Notes/IIR Filters.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Filters"
+              "title": "IIR Filters"
             }
           }
         ],
@@ -229,6 +229,7 @@
   },
   "active": "c4500c3f0ec2d7fc",
   "lastOpenFiles": [
+    "Notes/Filters.md",
     "Lecture Material/Semester 3/signalbehandling/Slides/lektion 8 - Introduktion til IIR filtre.pdf",
     "Notes/IIR Filters.md",
     "Notes/Matched z-transformation.md",
@@ -266,7 +267,6 @@
     "Lecture Material/Semester 7/cas/CAS-2026-Lecture7-exercises.pdf",
     "External/Kasper's Notes/Misc og Links/Pasted image 20261113132337.png",
     "Pasted image 20261112130538.png",
-    "Lecture Material/Semester 7/statistics/Lektion 10 slides.pdf",
     "Pasted image 20261109093216.png",
     "Pasted image 20261104133329.png",
     "Pasted image 20261104125827.png",
